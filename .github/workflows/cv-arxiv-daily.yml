@@ -1,4 +1,5 @@
-# name of workflow
+# This is a basic workflow to help you get started with Actions
+
 name: Run Arxiv Papers Daily
 
 # Controls when the workflow will run
@@ -6,11 +7,16 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron:  "* 12 * * *"  # Runs every minute of 12th hour
+    - cron:  "* 0/8 * * *"  #'*/60 * * * *'
+  # Triggers the workflow on push or pull request events but only for the main branch
+#   push:
+#     branches:
+#     - main
+
 env:
 
-  GITHUB_USER_NAME: Ryanxu0428 # your github id
-  GITHUB_USER_EMAIL: ryanxu520@gmail.com # your email address
+  GITHUB_USER_NAME: Ryanxu0428
+  GITHUB_USER_EMAIL: ryanxu520@gmail.com
   
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -39,14 +45,14 @@ jobs:
           
       - name: Run daily arxiv 
         run: |
-          python spyder.py
+          python daily_arxiv.py
           
       - name: Push new cv-arxiv-daily.md
         uses: github-actions-x/commit@v2.8
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Github Action Automatic Update CV Arxiv Papers"
-          files: README.md cv-arxiv-daily.json
+          files: README.md cv-arxiv-daily.json docs/cv-arxiv-daily-web.json docs/index.md
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
