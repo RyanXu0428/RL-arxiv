@@ -89,3 +89,33 @@ layout: default
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
+## MARL
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2021-10-26**|**Average-Reward Learning and Planning with Options**|Yi Wan et.al.|[2110.13855v1](http://arxiv.org/abs/2110.13855v1)|null|
+|**2021-10-26**|**Learning to Simulate Self-Driven Particles System with Coordinated Policy Optimization**|Zhenghao Peng et.al.|[2110.13827v1](http://arxiv.org/abs/2110.13827v1)|null|
+|**2021-10-26**|**Hinge Policy Optimization: Rethinking Policy Improvement and Reinterpreting PPO**|Hsuan-Yu Yao et.al.|[2110.13799v1](http://arxiv.org/abs/2110.13799v1)|null|
+|**2021-10-26**|**Landmark-Guided Subgoal Generation in Hierarchical Reinforcement Learning**|Junsu Kim et.al.|[2110.13625v1](http://arxiv.org/abs/2110.13625v1)|**[link](https://github.com/junsu-kim97/higl)**|
+|**2021-10-26**|**Distributional Reinforcement Learning for Multi-Dimensional Reward Functions**|Pushi Zhang et.al.|[2110.13578v1](http://arxiv.org/abs/2110.13578v1)|null|
+|**2021-10-26**|**Learning Robust Controllers Via Probabilistic Model-Based Policy Search**|Valentin Charvet et.al.|[2110.13576v1](http://arxiv.org/abs/2110.13576v1)|null|
+|**2021-10-26**|**A Reinforcement Learning Approach for Re-allocating Drone Swarm Services**|Balsam Alkouz et.al.|[2110.13525v1](http://arxiv.org/abs/2110.13525v1)|null|
+|**2021-10-26**|**Automating Control of Overestimation Bias for Continuous Reinforcement Learning**|Arsenii Kuznetsov et.al.|[2110.13523v1](http://arxiv.org/abs/2110.13523v1)|null|
+|**2021-10-26**|**A DPDK-Based Acceleration Method for Experience Sampling of Distributed Reinforcement Learning**|Masaki Furukawa et.al.|[2110.13506v1](http://arxiv.org/abs/2110.13506v1)|null|
+|**2021-10-26**|**Applications of Multi-Agent Reinforcement Learning in Future Internet: A Comprehensive Survey**|Tianxu Li et.al.|[2110.13484v1](http://arxiv.org/abs/2110.13484v1)|null|
+
+## Graph Neural Network
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2021-10-26**|**HR-RCNN: Hierarchical Relational Reasoning for Object Detection**|Hao Chen et.al.|[2110.13892v1](http://arxiv.org/abs/2110.13892v1)|null|
+|**2021-10-26**|**Heterogeneous Temporal Graph Neural Network**|Yujie Fan et.al.|[2110.13889v1](http://arxiv.org/abs/2110.13889v1)|**[link](https://github.com/yeslab-code/htgnn)**|
+|**2021-10-26**|**Tackling Oversmoothing of GNNs with Contrastive Learning**|Lecheng Zheng et.al.|[2110.13798v1](http://arxiv.org/abs/2110.13798v1)|null|
+|**2021-10-26**|**BioIE: Biomedical Information Extraction with Multi-head Attention Enhanced Graph Convolutional Network**|Jialun Wu et.al.|[2110.13683v1](http://arxiv.org/abs/2110.13683v1)|null|
+|**2021-10-26**|**TME-BNA: Temporal Motif-Preserving Network Embedding with Bicomponent Neighbor Aggregation**|Ling Chen et.al.|[2110.13596v1](http://arxiv.org/abs/2110.13596v1)|**[link](https://github.com/pige99/TME)**|
+|**2021-10-25**|**Nested Graph Neural Networks**|Muhan Zhang et.al.|[2110.13197v1](http://arxiv.org/abs/2110.13197v1)|**[link](https://github.com/muhanzhang/nestedgnn)**|
+|**2021-10-25**|**Gophormer: Ego-Graph Transformer for Node Classification**|Jianan Zhao et.al.|[2110.13094v1](http://arxiv.org/abs/2110.13094v1)|null|
+|**2021-10-25**|**Content Filtering Enriched GNN Framework for News Recommendation**|Yong Gao et.al.|[2110.12681v1](http://arxiv.org/abs/2110.12681v1)|null|
+|**2021-10-25**|**Alignment Attention by Matching Key and Query Distributions**|Shujian Zhang et.al.|[2110.12567v1](http://arxiv.org/abs/2110.12567v1)|**[link](https://github.com/huggingface/transformers)**|
+|**2021-10-24**|**Neural Embeddings of Urban Big Data Reveal Emergent Structures in Cities**|Chao Fan et.al.|[2110.12371v1](http://arxiv.org/abs/2110.12371v1)|null|
+
