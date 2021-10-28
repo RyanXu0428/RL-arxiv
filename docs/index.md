@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2021.10.27
+## Updated on 2021.10.28
 
 ## SLAM
 
@@ -96,7 +96,7 @@ layout: default
 |**2021-10-26**|**Average-Reward Learning and Planning with Options**|Yi Wan et.al.|[2110.13855v1](http://arxiv.org/abs/2110.13855v1)|null|
 |**2021-10-26**|**Learning to Simulate Self-Driven Particles System with Coordinated Policy Optimization**|Zhenghao Peng et.al.|[2110.13827v1](http://arxiv.org/abs/2110.13827v1)|null|
 |**2021-10-26**|**Hinge Policy Optimization: Rethinking Policy Improvement and Reinterpreting PPO**|Hsuan-Yu Yao et.al.|[2110.13799v1](http://arxiv.org/abs/2110.13799v1)|null|
-|**2021-10-26**|**Landmark-Guided Subgoal Generation in Hierarchical Reinforcement Learning**|Junsu Kim et.al.|[2110.13625v1](http://arxiv.org/abs/2110.13625v1)|**[link](https://github.com/junsu-kim97/higl)**|
+|**2021-10-26**|**Landmark-Guided Subgoal Generation in Hierarchical Reinforcement Learning**|Junsu Kim et.al.|[2110.13625v2](http://arxiv.org/abs/2110.13625v2)|**[link](https://github.com/junsu-kim97/higl)**|
 |**2021-10-26**|**Distributional Reinforcement Learning for Multi-Dimensional Reward Functions**|Pushi Zhang et.al.|[2110.13578v1](http://arxiv.org/abs/2110.13578v1)|null|
 |**2021-10-26**|**Learning Robust Controllers Via Probabilistic Model-Based Policy Search**|Valentin Charvet et.al.|[2110.13576v1](http://arxiv.org/abs/2110.13576v1)|null|
 |**2021-10-26**|**A Reinforcement Learning Approach for Re-allocating Drone Swarm Services**|Balsam Alkouz et.al.|[2110.13525v1](http://arxiv.org/abs/2110.13525v1)|null|
