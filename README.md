@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-27**|**DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations**|Fei Deng et.al.|[2110.14565v1](http://arxiv.org/abs/2110.14565v1)|null|
+|**2021-10-27**|**V-Learning -- A Simple, Efficient, Decentralized Algorithm for Multiagent RL**|Chi Jin et.al.|[2110.14555v1](http://arxiv.org/abs/2110.14555v1)|null|
+|**2021-10-27**|**Reinforcement Learning in Factored Action Spaces using Tensor Decompositions**|Anuj Mahajan et.al.|[2110.14538v1](http://arxiv.org/abs/2110.14538v1)|null|
+|**2021-10-27**|**Comparing Heuristics, Constraint Optimization, and Reinforcement Learning for an Industrial 2D Packing Problem**|Stefan Böhm et.al.|[2110.14535v1](http://arxiv.org/abs/2110.14535v1)|null|
+|**2021-10-27**|**Model based Multi-agent Reinforcement Learning with Tensor Decompositions**|Pascal Van Der Vaart et.al.|[2110.14524v1](http://arxiv.org/abs/2110.14524v1)|null|
+|**2021-10-27**|**DESTA: A Framework for Safe Reinforcement Learning with Markov Games of Intervention**|David Mguni et.al.|[2110.14468v1](http://arxiv.org/abs/2110.14468v1)|null|
+|**2021-10-27**|**Learning from demonstrations with SACR2: Soft Actor-Critic with Reward Relabeling**|Jesus Bujalance Martin et.al.|[2110.14464v1](http://arxiv.org/abs/2110.14464v1)|null|
+|**2021-10-27**|**Direct then Diffuse: Incremental Unsupervised Skill Discovery for State Covering and Goal Reaching**|Pierre-Alexandre Kamienny et.al.|[2110.14457v1](http://arxiv.org/abs/2110.14457v1)|null|
+|**2021-10-27**|**The ODE Method for Asymptotic Statistics in Stochastic Approximation and Reinforcement Learning**|Vivek Borkar et.al.|[2110.14427v1](http://arxiv.org/abs/2110.14427v1)|null|
+|**2021-10-27**|**Transfer learning with causal counterfactual reasoning in Decision Transformers**|Ayman Boustati et.al.|[2110.14355v1](http://arxiv.org/abs/2110.14355v1)|null|
 |**2021-10-26**|**Average-Reward Learning and Planning with Options**|Yi Wan et.al.|[2110.13855v1](http://arxiv.org/abs/2110.13855v1)|null|
 |**2021-10-26**|**Learning to Simulate Self-Driven Particles System with Coordinated Policy Optimization**|Zhenghao Peng et.al.|[2110.13827v1](http://arxiv.org/abs/2110.13827v1)|null|
 |**2021-10-26**|**Hinge Policy Optimization: Rethinking Policy Improvement and Reinterpreting PPO**|Hsuan-Yu Yao et.al.|[2110.13799v1](http://arxiv.org/abs/2110.13799v1)|null|
@@ -104,6 +114,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-27**|**Large Scale Learning on Non-Homophilous Graphs: New Benchmarks and Strong Simple Methods**|Derek Lim et.al.|[2110.14446v1](http://arxiv.org/abs/2110.14446v1)|null|
+|**2021-10-27**|**Node Dependent Local Smoothing for Scalable Graph Learning**|Wentao Zhang et.al.|[2110.14377v1](http://arxiv.org/abs/2110.14377v1)|null|
+|**2021-10-27**|**VQ-GNN: A Universal Framework to Scale up Graph Neural Networks using Vector Quantization**|Mucong Ding et.al.|[2110.14363v1](http://arxiv.org/abs/2110.14363v1)|null|
+|**2021-10-27**|**GACAN: Graph Attention-Convolution-Attention Networks for Traffic Forecasting Based on Multi-granularity Time Series**|Sikai Zhang et.al.|[2110.14331v1](http://arxiv.org/abs/2110.14331v1)|null|
+|**2021-10-27**|**Node-wise Localization of Graph Neural Networks**|Zemin Liu et.al.|[2110.14322v1](http://arxiv.org/abs/2110.14322v1)|null|
+|**2021-10-27**|**Standing on the Shoulders of Predecessors: Meta-Knowledge Transfer for Knowledge Graphs**|Mingyang Chen et.al.|[2110.14170v1](http://arxiv.org/abs/2110.14170v1)|null|
+|**2021-10-26**|**Improving SAT Solving with Graph Neural Networks**|Wenxi Wang et.al.|[2110.14053v1](http://arxiv.org/abs/2110.14053v1)|null|
+|**2021-10-26**|**Robustness of Graph Neural Networks at Scale**|Simon Geisler et.al.|[2110.14038v1](http://arxiv.org/abs/2110.14038v1)|null|
+|**2021-10-26**|**Graph Posterior Network: Bayesian Predictive Uncertainty for Node Classification**|Maximilian Stadler et.al.|[2110.14012v1](http://arxiv.org/abs/2110.14012v1)|null|
 |**2021-10-26**|**HR-RCNN: Hierarchical Relational Reasoning for Object Detection**|Hao Chen et.al.|[2110.13892v1](http://arxiv.org/abs/2110.13892v1)|null|
 |**2021-10-26**|**Heterogeneous Temporal Graph Neural Network**|Yujie Fan et.al.|[2110.13889v1](http://arxiv.org/abs/2110.13889v1)|**[link](https://github.com/yeslab-code/htgnn)**|
 |**2021-10-26**|**Tackling Oversmoothing of GNNs with Contrastive Learning**|Lecheng Zheng et.al.|[2110.13798v1](http://arxiv.org/abs/2110.13798v1)|null|
