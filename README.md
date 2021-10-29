@@ -89,7 +89,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2021-10-27**|**DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations**|Fei Deng et.al.|[2110.14565v1](http://arxiv.org/abs/2110.14565v1)|null|
+|**2021-10-27**|**DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations**|Fei Deng et.al.|[2110.14565v1](http://arxiv.org/abs/2110.14565v1)|**[link](https://github.com/fdeng18/dreamer-pro)**|
 |**2021-10-27**|**V-Learning -- A Simple, Efficient, Decentralized Algorithm for Multiagent RL**|Chi Jin et.al.|[2110.14555v1](http://arxiv.org/abs/2110.14555v1)|null|
 |**2021-10-27**|**Reinforcement Learning in Factored Action Spaces using Tensor Decompositions**|Anuj Mahajan et.al.|[2110.14538v1](http://arxiv.org/abs/2110.14538v1)|null|
 |**2021-10-27**|**Comparing Heuristics, Constraint Optimization, and Reinforcement Learning for an Industrial 2D Packing Problem**|Stefan Böhm et.al.|[2110.14535v1](http://arxiv.org/abs/2110.14535v1)|null|
@@ -114,8 +114,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2021-10-27**|**Large Scale Learning on Non-Homophilous Graphs: New Benchmarks and Strong Simple Methods**|Derek Lim et.al.|[2110.14446v1](http://arxiv.org/abs/2110.14446v1)|null|
-|**2021-10-27**|**Node Dependent Local Smoothing for Scalable Graph Learning**|Wentao Zhang et.al.|[2110.14377v1](http://arxiv.org/abs/2110.14377v1)|null|
+|**2021-10-27**|**Large Scale Learning on Non-Homophilous Graphs: New Benchmarks and Strong Simple Methods**|Derek Lim et.al.|[2110.14446v1](http://arxiv.org/abs/2110.14446v1)|**[link](https://github.com/cuai/non-homophily-large-scale)**|
+|**2021-10-27**|**Node Dependent Local Smoothing for Scalable Graph Learning**|Wentao Zhang et.al.|[2110.14377v1](http://arxiv.org/abs/2110.14377v1)|**[link](https://github.com/zwt233/ndls)**|
 |**2021-10-27**|**VQ-GNN: A Universal Framework to Scale up Graph Neural Networks using Vector Quantization**|Mucong Ding et.al.|[2110.14363v1](http://arxiv.org/abs/2110.14363v1)|null|
 |**2021-10-27**|**GACAN: Graph Attention-Convolution-Attention Networks for Traffic Forecasting Based on Multi-granularity Time Series**|Sikai Zhang et.al.|[2110.14331v1](http://arxiv.org/abs/2110.14331v1)|null|
 |**2021-10-27**|**Node-wise Localization of Graph Neural Networks**|Zemin Liu et.al.|[2110.14322v1](http://arxiv.org/abs/2110.14322v1)|null|
