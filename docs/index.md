@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2021.10.28
+## Updated on 2021.10.29
 
 ## SLAM
 
@@ -124,7 +124,7 @@ layout: default
 |**2021-10-27**|**GACAN: Graph Attention-Convolution-Attention Networks for Traffic Forecasting Based on Multi-granularity Time Series**|Sikai Zhang et.al.|[2110.14331v1](http://arxiv.org/abs/2110.14331v1)|null|
 |**2021-10-27**|**Node-wise Localization of Graph Neural Networks**|Zemin Liu et.al.|[2110.14322v1](http://arxiv.org/abs/2110.14322v1)|null|
 |**2021-10-27**|**Standing on the Shoulders of Predecessors: Meta-Knowledge Transfer for Knowledge Graphs**|Mingyang Chen et.al.|[2110.14170v1](http://arxiv.org/abs/2110.14170v1)|null|
-|**2021-10-26**|**Improving SAT Solving with Graph Neural Networks**|Wenxi Wang et.al.|[2110.14053v1](http://arxiv.org/abs/2110.14053v1)|null|
+|**2021-10-26**|**NeuroComb: Improving SAT Solving with Graph Neural Networks**|Wenxi Wang et.al.|[2110.14053v2](http://arxiv.org/abs/2110.14053v2)|null|
 |**2021-10-26**|**Robustness of Graph Neural Networks at Scale**|Simon Geisler et.al.|[2110.14038v1](http://arxiv.org/abs/2110.14038v1)|null|
 |**2021-10-26**|**Graph Posterior Network: Bayesian Predictive Uncertainty for Node Classification**|Maximilian Stadler et.al.|[2110.14012v1](http://arxiv.org/abs/2110.14012v1)|null|
 |**2021-10-26**|**HR-RCNN: Hierarchical Relational Reasoning for Object Detection**|Hao Chen et.al.|[2110.13892v1](http://arxiv.org/abs/2110.13892v1)|null|
