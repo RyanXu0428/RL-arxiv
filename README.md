@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-28**|**Accelerating Robotic Reinforcement Learning via Parameterized Action Primitives**|Murtaza Dalal et.al.|[2110.15360v1](http://arxiv.org/abs/2110.15360v1)|null|
+|**2021-10-28**|**Learning to Ground Multi-Agent Communication with Autoencoders**|Toru Lin et.al.|[2110.15349v1](http://arxiv.org/abs/2110.15349v1)|null|
+|**2021-10-28**|**Bayesian Sequential Optimal Experimental Design for Nonlinear Models Using Policy Gradient Reinforcement Learning**|Wanggang Shen et.al.|[2110.15335v1](http://arxiv.org/abs/2110.15335v1)|null|
+|**2021-10-28**|**Proximal Reinforcement Learning: Efficient Off-Policy Evaluation in Partially Observed Markov Decision Processes**|Andrew Bennett et.al.|[2110.15332v1](http://arxiv.org/abs/2110.15332v1)|null|
+|**2021-10-28**|**Cooperative Deep $Q$-learning Framework for Environments Providing Image Feedback**|Krishnan Raghavan et.al.|[2110.15305v1](http://arxiv.org/abs/2110.15305v1)|null|
+|**2021-10-28**|**Incremental Adaptive Dynamic Programming for Approximate Optimal Tracking Control: a Decoupled and Model-Free Approach**|Cong Li et.al.|[2110.15237v1](http://arxiv.org/abs/2110.15237v1)|null|
+|**2021-10-28**|**URLB: Unsupervised Reinforcement Learning Benchmark**|Michael Laskin et.al.|[2110.15191v1](http://arxiv.org/abs/2110.15191v1)|**[link](https://github.com/rll-research/url_benchmark)**|
+|**2021-10-28**|**Conditioning Sparse Variational Gaussian Processes for Online Decision-making**|Wesley J. Maddox et.al.|[2110.15172v1](http://arxiv.org/abs/2110.15172v1)|**[link](https://github.com/wjmaddox/online_vargp)**|
+|**2021-10-28**|**Extracting Clinician's Goals by What-if Interpretable Modeling**|Chun-Hao Chang et.al.|[2110.15165v1](http://arxiv.org/abs/2110.15165v1)|null|
+|**2021-10-28**|**Deep Reinforcement Learning Aided Packet-Routing For Aeronautical Ad-Hoc Networks Formed by Passenger Planes**|Dong Liu et.al.|[2110.15146v1](http://arxiv.org/abs/2110.15146v1)|null|
 |**2021-10-27**|**DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations**|Fei Deng et.al.|[2110.14565v1](http://arxiv.org/abs/2110.14565v1)|**[link](https://github.com/fdeng18/dreamer-pro)**|
 |**2021-10-27**|**V-Learning -- A Simple, Efficient, Decentralized Algorithm for Multiagent RL**|Chi Jin et.al.|[2110.14555v1](http://arxiv.org/abs/2110.14555v1)|null|
 |**2021-10-27**|**Reinforcement Learning in Factored Action Spaces using Tensor Decompositions**|Anuj Mahajan et.al.|[2110.14538v1](http://arxiv.org/abs/2110.14538v1)|null|
@@ -114,6 +124,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-28**|**MEGAN: Memory Enhanced Graph Attention Network for Space-Time Video Super-Resolution**|Chenyu You et.al.|[2110.15327v1](http://arxiv.org/abs/2110.15327v1)|null|
+|**2021-10-28**|**Dist2Cycle: A Simplicial Neural Network for Homology Localization**|Alexandros Dimitrios Keros et.al.|[2110.15182v1](http://arxiv.org/abs/2110.15182v1)|null|
+|**2021-10-28**|**On Provable Benefits of Depth in Training Graph Convolutional Networks**|Weilin Cong et.al.|[2110.15174v1](http://arxiv.org/abs/2110.15174v1)|**[link](https://github.com/CongWeilin/DGCN)**|
+|**2021-10-28**|**UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation**|Kelong Mao et.al.|[2110.15114v1](http://arxiv.org/abs/2110.15114v1)|null|
+|**2021-10-28**|**CAP: Co-Adversarial Perturbation on Weights and Features for Improving Generalization of Graph Neural Networks**|Haotian Xue et.al.|[2110.14855v1](http://arxiv.org/abs/2110.14855v1)|null|
+|**2021-10-28**|**RIM: Reliable Influence-based Active Learning on Graphs**|Wentao Zhang et.al.|[2110.14854v1](http://arxiv.org/abs/2110.14854v1)|**[link](https://github.com/zwt233/rim)**|
+|**2021-10-28**|**A GNN Based Approach to LTL Model Checking**|Prasita Mukherjee et.al.|[2110.14824v1](http://arxiv.org/abs/2110.14824v1)|null|
+|**2021-10-27**|**Towards a Taxonomy of Graph Learning Datasets**|Renming Liu et.al.|[2110.14809v1](http://arxiv.org/abs/2110.14809v1)|null|
+|**2021-10-27**|**BI-GCN: Boundary-Aware Input-Dependent Graph Convolution Network for Biomedical Image Segmentation**|Yanda Meng et.al.|[2110.14775v1](http://arxiv.org/abs/2110.14775v1)|**[link](https://github.com/smallmax00/bi-gconv)**|
 |**2021-10-27**|**Large Scale Learning on Non-Homophilous Graphs: New Benchmarks and Strong Simple Methods**|Derek Lim et.al.|[2110.14446v1](http://arxiv.org/abs/2110.14446v1)|**[link](https://github.com/cuai/non-homophily-large-scale)**|
 |**2021-10-27**|**Node Dependent Local Smoothing for Scalable Graph Learning**|Wentao Zhang et.al.|[2110.14377v1](http://arxiv.org/abs/2110.14377v1)|**[link](https://github.com/zwt233/ndls)**|
 |**2021-10-27**|**VQ-GNN: A Universal Framework to Scale up Graph Neural Networks using Vector Quantization**|Mucong Ding et.al.|[2110.14363v1](http://arxiv.org/abs/2110.14363v1)|null|
