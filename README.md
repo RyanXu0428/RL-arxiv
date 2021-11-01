@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-29**|**Sparsely Changing Latent States for Prediction and Planning in Partially Observable Domains**|Christian Gumbsch et.al.|[2110.15949v1](http://arxiv.org/abs/2110.15949v1)|null|
+|**2021-10-29**|**Learning to Be Cautious**|Montaser Mohammedalamen et.al.|[2110.15907v1](http://arxiv.org/abs/2110.15907v1)|null|
+|**2021-10-29**|**Adaptive Discretization in Online Reinforcement Learning**|Sean R. Sinclair et.al.|[2110.15843v1](http://arxiv.org/abs/2110.15843v1)|**[link](https://github.com/seanrsinclair/orsuite)**|
+|**2021-10-29**|**Learning to Communicate with Reinforcement Learning for an Adaptive Traffic Control System**|Simon Vanneste et.al.|[2110.15779v1](http://arxiv.org/abs/2110.15779v1)|null|
+|**2021-10-29**|**Mixed Cooperative-Competitive Communication Using Multi-Agent Reinforcement Learning**|Astrid Vanneste et.al.|[2110.15762v1](http://arxiv.org/abs/2110.15762v1)|null|
+|**2021-10-29**|**DeF-DReL: Systematic Deployment of Serverless Functions in Fog and Cloud environments using Deep Reinforcement Learning**|Chinmaya Kumar Dehurya et.al.|[2110.15702v1](http://arxiv.org/abs/2110.15702v1)|null|
+|**2021-10-29**|**Xi-Learning: Successor Feature Transfer Learning for General Reward Functions**|Chris Reinke et.al.|[2110.15701v1](http://arxiv.org/abs/2110.15701v1)|null|
+|**2021-10-29**|**Attacking Video Recognition Models with Bullet-Screen Comments**|Kai Chen et.al.|[2110.15629v1](http://arxiv.org/abs/2110.15629v1)|null|
+|**2021-10-29**|**Crowd-sensing Enhanced Parking Patrol using Sharing Bikes' Trajectories**|Tianfu He et.al.|[2110.15557v1](http://arxiv.org/abs/2110.15557v1)|null|
+|**2021-10-29**|**GalilAI: Out-of-Task Distribution Detection using Causal Active Experimentation for Safe Transfer RL**|Sumedh A Sontakke et.al.|[2110.15489v1](http://arxiv.org/abs/2110.15489v1)|null|
 |**2021-10-28**|**Accelerating Robotic Reinforcement Learning via Parameterized Action Primitives**|Murtaza Dalal et.al.|[2110.15360v1](http://arxiv.org/abs/2110.15360v1)|null|
 |**2021-10-28**|**Learning to Ground Multi-Agent Communication with Autoencoders**|Toru Lin et.al.|[2110.15349v1](http://arxiv.org/abs/2110.15349v1)|null|
 |**2021-10-28**|**Bayesian Sequential Optimal Experimental Design for Nonlinear Models Using Policy Gradient Reinforcement Learning**|Wanggang Shen et.al.|[2110.15335v1](http://arxiv.org/abs/2110.15335v1)|null|
@@ -124,6 +134,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-29**|**GBK-GNN: Gated Bi-Kernel Graph Neural Networks for Modeling Both Homophily and Heterophily**|Lun Du et.al.|[2110.15777v1](http://arxiv.org/abs/2110.15777v1)|**[link](https://github.com/xzh0u/gbk-gnn)**|
+|**2021-10-29**|**Visual Spatio-temporal Relation-enhanced Network for Cross-modal Text-Video Retrieval**|Ning Han et.al.|[2110.15609v1](http://arxiv.org/abs/2110.15609v1)|**[link](https://github.com/lionel-hing/vsr-net)**|
+|**2021-10-29**|**Topological Relational Learning on Graphs**|Yuzhou Chen et.al.|[2110.15529v1](http://arxiv.org/abs/2110.15529v1)|**[link](https://github.com/tri-gnn/tri-gnn)**|
+|**2021-10-29**|**Deconvolutional Networks on Graph Data**|Jia Li et.al.|[2110.15528v1](http://arxiv.org/abs/2110.15528v1)|null|
 |**2021-10-28**|**MEGAN: Memory Enhanced Graph Attention Network for Space-Time Video Super-Resolution**|Chenyu You et.al.|[2110.15327v1](http://arxiv.org/abs/2110.15327v1)|null|
 |**2021-10-28**|**Dist2Cycle: A Simplicial Neural Network for Homology Localization**|Alexandros Dimitrios Keros et.al.|[2110.15182v1](http://arxiv.org/abs/2110.15182v1)|**[link](https://github.com/alexdkeros/Dist2Cycle)**|
 |**2021-10-28**|**On Provable Benefits of Depth in Training Graph Convolutional Networks**|Weilin Cong et.al.|[2110.15174v1](http://arxiv.org/abs/2110.15174v1)|**[link](https://github.com/CongWeilin/DGCN)**|
