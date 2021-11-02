@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-11-01**|**Investigation of Independent Reinforcement Learning Algorithms in Multi-Agent Environments**|Ken Ming Lee et.al.|[2111.01100v1](http://arxiv.org/abs/2111.01100v1)|null|
+|**2021-11-01**|**Machine Learning aided Crop Yield Optimization**|Chace Ashcraft et.al.|[2111.00963v1](http://arxiv.org/abs/2111.00963v1)|null|
+|**2021-11-01**|**On the Expressivity of Markov Reward**|David Abel et.al.|[2111.00876v1](http://arxiv.org/abs/2111.00876v1)|null|
+|**2021-11-01**|**Decentralized Cooperative Reinforcement Learning with Hierarchical Information Structure**|Hsu Kao et.al.|[2111.00781v1](http://arxiv.org/abs/2111.00781v1)|null|
+|**2021-11-01**|**Decoding of Polar Codes Based on Q-Learning-Driven Belief Propagation**|L. M. Oliveira et.al.|[2111.00673v1](http://arxiv.org/abs/2111.00673v1)|null|
+|**2021-11-01**|**End-to-End Learning of Deep Kernel Acquisition Functions for Bayesian Optimization**|Tomoharu Iwata et.al.|[2111.00639v1](http://arxiv.org/abs/2111.00639v1)|null|
+|**2021-11-01**|**Settling the Horizon-Dependence of Sample Complexity in Reinforcement Learning**|Yuanzhi Li et.al.|[2111.00633v1](http://arxiv.org/abs/2111.00633v1)|null|
+|**2021-10-31**|**Fast Global Convergence of Policy Optimization for Constrained MDPs**|Tao Liu et.al.|[2111.00552v1](http://arxiv.org/abs/2111.00552v1)|null|
+|**2021-10-31**|**Decentralized Multi-Agent Reinforcement Learning: An Off-Policy Method**|Kuo Li et.al.|[2111.00438v1](http://arxiv.org/abs/2111.00438v1)|null|
+|**2021-10-31**|**An Actor-Critic Method for Simulation-Based Optimization**|Kuo Li et.al.|[2111.00435v1](http://arxiv.org/abs/2111.00435v1)|null|
 |**2021-10-29**|**Sparsely Changing Latent States for Prediction and Planning in Partially Observable Domains**|Christian Gumbsch et.al.|[2110.15949v1](http://arxiv.org/abs/2110.15949v1)|null|
 |**2021-10-29**|**Learning to Be Cautious**|Montaser Mohammedalamen et.al.|[2110.15907v1](http://arxiv.org/abs/2110.15907v1)|null|
 |**2021-10-29**|**Adaptive Discretization in Online Reinforcement Learning**|Sean R. Sinclair et.al.|[2110.15843v1](http://arxiv.org/abs/2110.15843v1)|**[link](https://github.com/seanrsinclair/orsuite)**|
@@ -138,6 +148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-11-01**|**Predicting properties of hard-coating alloys using ab-initio and machine learning methods**|H. Levämäki et.al.|[2111.01111v1](http://arxiv.org/abs/2111.01111v1)|null|
+|**2021-11-01**|**Higher-Order Implicit Fairing Networks for 3D Human Pose Estimation**|Jianning Quan et.al.|[2111.00950v1](http://arxiv.org/abs/2111.00950v1)|null|
+|**2021-11-01**|**Learning Iterative Robust Transformation Synchronization**|Zi Jian Yew et.al.|[2111.00728v1](http://arxiv.org/abs/2111.00728v1)|null|
+|**2021-11-01**|**Adaptive Multi-receptive Field Spatial-Temporal Graph Convolutional Network for Traffic Forecasting**|Xing Wang et.al.|[2111.00724v1](http://arxiv.org/abs/2111.00724v1)|null|
+|**2021-11-01**|**Edge-Level Explanations for Graph Neural Networks by Extending Explainability Methods for Convolutional Neural Networks**|Tetsu Kasanishi et.al.|[2111.00722v1](http://arxiv.org/abs/2111.00722v1)|null|
+|**2021-11-01**|**Graph Structural Attack by Spectral Distanc**|Lu Lin et.al.|[2111.00684v1](http://arxiv.org/abs/2111.00684v1)|null|
+|**2021-11-01**|**GCNear: A Hybrid Architecture for Efficient GCN Training with Near-Memory Processing**|Zhe Zhou et.al.|[2111.00680v1](http://arxiv.org/abs/2111.00680v1)|null|
+|**2021-11-01**|**Latent Structures Mining with Contrastive Modality Fusion for Multimedia Recommendation**|Jinghao Zhang et.al.|[2111.00678v1](http://arxiv.org/abs/2111.00678v1)|null|
+|**2021-10-31**|**IGCN: Image-to-graph Convolutional Network for 2D/3D Deformable Registration**|Megumi Nakao et.al.|[2111.00484v1](http://arxiv.org/abs/2111.00484v1)|null|
+|**2021-10-31**|**FastCover: An Unsupervised Learning Framework for Multi-Hop Influence Maximization in Social Networks**|Runbo Ni et.al.|[2111.00463v1](http://arxiv.org/abs/2111.00463v1)|null|
 |**2021-10-29**|**GBK-GNN: Gated Bi-Kernel Graph Neural Networks for Modeling Both Homophily and Heterophily**|Lun Du et.al.|[2110.15777v1](http://arxiv.org/abs/2110.15777v1)|**[link](https://github.com/xzh0u/gbk-gnn)**|
 |**2021-10-29**|**Visual Spatio-temporal Relation-enhanced Network for Cross-modal Text-Video Retrieval**|Ning Han et.al.|[2110.15609v1](http://arxiv.org/abs/2110.15609v1)|**[link](https://github.com/lionel-hing/vsr-net)**|
 |**2021-10-29**|**Topological Relational Learning on Graphs**|Yuzhou Chen et.al.|[2110.15529v1](http://arxiv.org/abs/2110.15529v1)|**[link](https://github.com/tri-gnn/tri-gnn)**|
