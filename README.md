@@ -152,8 +152,8 @@
 |**2021-11-01**|**Graph Structural Attack by Spectral Distanc**|Lu Lin et.al.|[2111.00684v1](http://arxiv.org/abs/2111.00684v1)|null|
 |**2021-11-01**|**GCNear: A Hybrid Architecture for Efficient GCN Training with Near-Memory Processing**|Zhe Zhou et.al.|[2111.00680v1](http://arxiv.org/abs/2111.00680v1)|null|
 |**2021-11-01**|**Latent Structures Mining with Contrastive Modality Fusion for Multimedia Recommendation**|Jinghao Zhang et.al.|[2111.00678v1](http://arxiv.org/abs/2111.00678v1)|null|
-|**2021-10-31**|**IGCN: Image-to-graph Convolutional Network for 2D/3D Deformable Registration**|Megumi Nakao et.al.|[2111.00484v1](http://arxiv.org/abs/2111.00484v1)|null|
-|**2021-10-31**|**FastCover: An Unsupervised Learning Framework for Multi-Hop Influence Maximization in Social Networks**|Runbo Ni et.al.|[2111.00463v1](http://arxiv.org/abs/2111.00463v1)|null|
+|**2021-10-31**|**IGCN: Image-to-graph Convolutional Network for 2D/3D Deformable Registration**|Megumi Nakao et.al.|[2111.00484v1](http://arxiv.org/abs/2111.00484v1)|**[link](https://github.com/meguminakao/IGCN)**|
+|**2021-10-31**|**FastCover: An Unsupervised Learning Framework for Multi-Hop Influence Maximization in Social Networks**|Runbo Ni et.al.|[2111.00463v1](http://arxiv.org/abs/2111.00463v1)|**[link](https://github.com/pqros/fastcover)**|
 |**2021-10-29**|**GBK-GNN: Gated Bi-Kernel Graph Neural Networks for Modeling Both Homophily and Heterophily**|Lun Du et.al.|[2110.15777v1](http://arxiv.org/abs/2110.15777v1)|**[link](https://github.com/xzh0u/gbk-gnn)**|
 |**2021-10-29**|**Visual Spatio-temporal Relation-enhanced Network for Cross-modal Text-Video Retrieval**|Ning Han et.al.|[2110.15609v1](http://arxiv.org/abs/2110.15609v1)|**[link](https://github.com/lionel-hing/vsr-net)**|
 |**2021-10-29**|**Topological Relational Learning on Graphs**|Yuzhou Chen et.al.|[2110.15529v1](http://arxiv.org/abs/2110.15529v1)|**[link](https://github.com/tri-gnn/tri-gnn)**|
