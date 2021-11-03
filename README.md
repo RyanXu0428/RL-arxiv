@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-02**|**OnSlicing: Online End-to-End Network Slicing with Reinforcement Learning**|Qiang Liu et.al.|[2111.01616v1](http://arxiv.org/abs/2111.01616v1)|null|
+|**2021-11-02**|**Procedural Generalization by Planning with Self-Supervised World Models**|Ankesh Anand et.al.|[2111.01587v1](http://arxiv.org/abs/2111.01587v1)|null|
+|**2021-11-02**|**A Hybrid Approach for Learning to Shift and Grasp with Elaborate Motion Primitives**|Zohar Feldman et.al.|[2111.01510v1](http://arxiv.org/abs/2111.01510v1)|null|
+|**2021-11-02**|**A Review of Dialogue Systems: From Trained Monkeys to Stochastic Parrots**|Atharv Singh Patlan et.al.|[2111.01414v1](http://arxiv.org/abs/2111.01414v1)|null|
+|**2021-11-02**|**Integrating Pretrained Language Model for Dialogue Policy Learning**|Hongru Wang et.al.|[2111.01398v1](http://arxiv.org/abs/2111.01398v1)|null|
+|**2021-11-02**|**FedGraph: Federated Graph Learning with Intelligent Sampling**|Fahao Chen et.al.|[2111.01370v1](http://arxiv.org/abs/2111.01370v1)|null|
+|**2021-11-02**|**Koopman Q-learning: Offline Reinforcement Learning via Symmetries of Dynamics**|Matthias Weissenbacher et.al.|[2111.01365v1](http://arxiv.org/abs/2111.01365v1)|null|
+|**2021-11-02**|**Learning to Explore by Reinforcement over High-Level Options**|Liu Juncheng et.al.|[2111.01364v1](http://arxiv.org/abs/2111.01364v1)|null|
+|**2021-11-01**|**Learning to Operate an Electric Vehicle Charging Station Considering Vehicle-grid Integration**|Zuzhao Ye et.al.|[2111.01294v1](http://arxiv.org/abs/2111.01294v1)|null|
+|**2021-11-01**|**Human-Level Control without Server-Grade Hardware**|Brett Daley et.al.|[2111.01264v1](http://arxiv.org/abs/2111.01264v1)|null|
 |**2021-11-01**|**Investigation of Independent Reinforcement Learning Algorithms in Multi-Agent Environments**|Ken Ming Lee et.al.|[2111.01100v1](http://arxiv.org/abs/2111.01100v1)|null|
 |**2021-11-01**|**Machine Learning aided Crop Yield Optimization**|Chace Ashcraft et.al.|[2111.00963v1](http://arxiv.org/abs/2111.00963v1)|null|
 |**2021-11-01**|**On the Expressivity of Markov Reward**|David Abel et.al.|[2111.00876v1](http://arxiv.org/abs/2111.00876v1)|null|
@@ -144,6 +154,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-02**|**A Framework for Real-World Multi-Robot Systems Running Decentralized GNN-Based Policies**|Jan Blumenkamp et.al.|[2111.01777v1](http://arxiv.org/abs/2111.01777v1)|null|
+|**2021-11-02**|**Trajectory Prediction with Graph-based Dual-scale Context Fusion**|Lu Zhang et.al.|[2111.01592v1](http://arxiv.org/abs/2111.01592v1)|**[link](https://github.com/hkust-aerial-robotics/dsp)**|
+|**2021-11-02**|**FedGraph: Federated Graph Learning with Intelligent Sampling**|Fahao Chen et.al.|[2111.01370v1](http://arxiv.org/abs/2111.01370v1)|null|
+|**2021-11-02**|**Real-time Forecasting of Dockless Scooter-Sharing Demand: A Context-Aware Spatio-Temporal Multi-Graph Convolutional Network Approach**|Yiming Xu et.al.|[2111.01355v1](http://arxiv.org/abs/2111.01355v1)|null|
+|**2021-11-01**|**Multi network InfoMax: A pre-training method involving graph convolutional networks**|Usman Mahmood et.al.|[2111.01276v1](http://arxiv.org/abs/2111.01276v1)|null|
+|**2021-11-01**|**Brain dynamics via Cumulative Auto-Regressive Self-Attention**|Usman Mahmood et.al.|[2111.01271v1](http://arxiv.org/abs/2111.01271v1)|null|
 |**2021-11-01**|**Predicting properties of hard-coating alloys using ab-initio and machine learning methods**|H. Levämäki et.al.|[2111.01111v1](http://arxiv.org/abs/2111.01111v1)|null|
 |**2021-11-01**|**Higher-Order Implicit Fairing Networks for 3D Human Pose Estimation**|Jianning Quan et.al.|[2111.00950v1](http://arxiv.org/abs/2111.00950v1)|null|
 |**2021-11-01**|**Learning Iterative Robust Transformation Synchronization**|Zi Jian Yew et.al.|[2111.00728v1](http://arxiv.org/abs/2111.00728v1)|null|
