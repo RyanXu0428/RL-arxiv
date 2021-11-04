@@ -102,7 +102,7 @@ layout: default
 |**2021-11-03**|**Image-Guided Navigation of a Robotic Ultrasound Probe for Autonomous Spinal Sonography Using a Shadow-aware Dual-Agent Framework**|Keyu Li et.al.|[2111.02167v1](http://arxiv.org/abs/2111.02167v1)|null|
 |**2021-11-03**|**Deployment Optimization for Shared e-Mobility Systems with Multi-agent Deep Neural Search**|Man Luo et.al.|[2111.02149v1](http://arxiv.org/abs/2111.02149v1)|null|
 |**2021-11-03**|**Model-Based Episodic Memory Induces Dynamic Hybrid Controls**|Hung Le et.al.|[2111.02104v1](http://arxiv.org/abs/2111.02104v1)|null|
-|**2021-11-03**|**The Impact of Batch Learning in Stochastic Bandits**|Danil Provodin et.al.|[2111.02071v1](http://arxiv.org/abs/2111.02071v1)|null|
+|**2021-11-03**|**The Impact of Batch Learning in Stochastic Bandits**|Danil Provodin et.al.|[2111.02071v1](http://arxiv.org/abs/2111.02071v1)|**[link](https://github.com/danilprov/batch-bandits)**|
 |**2021-11-02**|**OnSlicing: Online End-to-End Network Slicing with Reinforcement Learning**|Qiang Liu et.al.|[2111.01616v1](http://arxiv.org/abs/2111.01616v1)|null|
 |**2021-11-02**|**Procedural Generalization by Planning with Self-Supervised World Models**|Ankesh Anand et.al.|[2111.01587v1](http://arxiv.org/abs/2111.01587v1)|null|
 |**2021-11-02**|**A Hybrid Approach for Learning to Shift and Grasp with Elaborate Motion Primitives**|Zohar Feldman et.al.|[2111.01510v1](http://arxiv.org/abs/2111.01510v1)|null|
