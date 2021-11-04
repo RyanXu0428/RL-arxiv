@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-03**|**What Robot do I Need? Fast Co-Adaptation of Morphology and Control using Graph Neural Networks**|Kevin Sebastian Luck et.al.|[2111.02371v1](http://arxiv.org/abs/2111.02371v1)|null|
+|**2021-11-03**|**Smooth Imitation Learning via Smooth Costs and Smooth Policies**|Sapana Chaudhary et.al.|[2111.02354v1](http://arxiv.org/abs/2111.02354v1)|null|
+|**2021-11-03**|**A Self-adaptive LSAC-PID Approach based on Lyapunov Reward Shaping for Mobile Robots**|Xinyi Yu et.al.|[2111.02283v1](http://arxiv.org/abs/2111.02283v1)|null|
+|**2021-11-03**|**Multi-Agent Deep Reinforcement Learning For Optimising Energy Efficiency of Fixed-Wing UAV Cellular Access Points**|Boris Galkin et.al.|[2111.02258v1](http://arxiv.org/abs/2111.02258v1)|null|
+|**2021-11-03**|**Online Service Provisioning in NFV-enabled Networks Using Deep Reinforcement Learning**|Ali Nouruzi et.al.|[2111.02209v1](http://arxiv.org/abs/2111.02209v1)|null|
+|**2021-11-03**|**Proximal Policy Optimization with Continuous Bounded Action Space via the Beta Distribution**|Irving G. B. Petrazzini et.al.|[2111.02202v1](http://arxiv.org/abs/2111.02202v1)|null|
+|**2021-11-03**|**Image-Guided Navigation of a Robotic Ultrasound Probe for Autonomous Spinal Sonography Using a Shadow-aware Dual-Agent Framework**|Keyu Li et.al.|[2111.02167v1](http://arxiv.org/abs/2111.02167v1)|null|
+|**2021-11-03**|**Deployment Optimization for Shared e-Mobility Systems with Multi-agent Deep Neural Search**|Man Luo et.al.|[2111.02149v1](http://arxiv.org/abs/2111.02149v1)|null|
+|**2021-11-03**|**Model-Based Episodic Memory Induces Dynamic Hybrid Controls**|Hung Le et.al.|[2111.02104v1](http://arxiv.org/abs/2111.02104v1)|null|
+|**2021-11-03**|**The Impact of Batch Learning in Stochastic Bandits**|Danil Provodin et.al.|[2111.02071v1](http://arxiv.org/abs/2111.02071v1)|null|
 |**2021-11-02**|**OnSlicing: Online End-to-End Network Slicing with Reinforcement Learning**|Qiang Liu et.al.|[2111.01616v1](http://arxiv.org/abs/2111.01616v1)|null|
 |**2021-11-02**|**Procedural Generalization by Planning with Self-Supervised World Models**|Ankesh Anand et.al.|[2111.01587v1](http://arxiv.org/abs/2111.01587v1)|null|
 |**2021-11-02**|**A Hybrid Approach for Learning to Shift and Grasp with Elaborate Motion Primitives**|Zohar Feldman et.al.|[2111.01510v1](http://arxiv.org/abs/2111.01510v1)|null|
@@ -154,6 +164,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-03**|**Manipulation of granular materials by learning particle interactions**|Neea Tuomainen et.al.|[2111.02274v1](http://arxiv.org/abs/2111.02274v1)|null|
+|**2021-11-03**|**How Neural Architectures Affect Deep Learning for Communication Networks?**|Yifei Shen et.al.|[2111.02215v1](http://arxiv.org/abs/2111.02215v1)|null|
+|**2021-11-03**|**Power Flow Balancing with Decentralized Graph Neural Networks**|Jonas Berg Hansen et.al.|[2111.02169v1](http://arxiv.org/abs/2111.02169v1)|null|
+|**2021-11-03**|**The Klarna Product Page Dataset: A RealisticBenchmark for Web Representation Learning**|Alexandra Hotti et.al.|[2111.02168v1](http://arxiv.org/abs/2111.02168v1)|null|
+|**2021-11-03**|**GRCN: Graph-Refined Convolutional Network for Multimedia Recommendation with Implicit Feedback**|Wei Yinwei et.al.|[2111.02036v1](http://arxiv.org/abs/2111.02036v1)|**[link](https://github.com/weiyinwei/grcn)**|
+|**2021-11-02**|**Discovering Supply Chain Links with Augmented Intelligence**|Achintya Gopal et.al.|[2111.01878v1](http://arxiv.org/abs/2111.01878v1)|null|
+|**2021-11-02**|**Improved Constraints on Effective Top Quark Interactions using Edge Convolution Networks**|Oliver Atkinson et.al.|[2111.01838v1](http://arxiv.org/abs/2111.01838v1)|null|
 |**2021-11-02**|**A Framework for Real-World Multi-Robot Systems Running Decentralized GNN-Based Policies**|Jan Blumenkamp et.al.|[2111.01777v1](http://arxiv.org/abs/2111.01777v1)|null|
 |**2021-11-02**|**Trajectory Prediction with Graph-based Dual-scale Context Fusion**|Lu Zhang et.al.|[2111.01592v1](http://arxiv.org/abs/2111.01592v1)|**[link](https://github.com/hkust-aerial-robotics/dsp)**|
 |**2021-11-02**|**FedGraph: Federated Graph Learning with Intelligent Sampling**|Fahao Chen et.al.|[2111.01370v1](http://arxiv.org/abs/2111.01370v1)|null|
