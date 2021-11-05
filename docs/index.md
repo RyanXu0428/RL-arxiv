@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-11-04**|**Generalization in Dexterous Manipulation via Geometry-Aware Multi-Task Learning**|Wenlong Huang et.al.|[2111.03062v1](http://arxiv.org/abs/2111.03062v1)|null|
+|**2021-11-04**|**Imagine Networks**|Seokjun Kim et.al.|[2111.03048v1](http://arxiv.org/abs/2111.03048v1)|null|
+|**2021-11-04**|**B-Pref: Benchmarking Preference-Based Reinforcement Learning**|Kimin Lee et.al.|[2111.03026v1](http://arxiv.org/abs/2111.03026v1)|**[link](https://github.com/rll-research/b-pref)**|
+|**2021-11-04**|**Towards an Understanding of Default Policies in Multitask Policy Optimization**|Ted Moskovitz et.al.|[2111.02994v1](http://arxiv.org/abs/2111.02994v1)|null|
+|**2021-11-04**|**Causal versus Marginal Shapley Values for Robotic Lever Manipulation Controlled using Deep Reinforcement Learning**|Sindre Benjamin Remman et.al.|[2111.02936v1](http://arxiv.org/abs/2111.02936v1)|null|
+|**2021-11-04**|**Model-Free Risk-Sensitive Reinforcement Learning**|Grégoire Delétang et.al.|[2111.02907v1](http://arxiv.org/abs/2111.02907v1)|null|
+|**2021-11-04**|**Pulse shape discrimination for GRIT: beam test of a new integrated charge and current preamplifier coupled with high granularity Silicon detectors**|J. -J. Dormard et.al.|[2111.02898v1](http://arxiv.org/abs/2111.02898v1)|null|
+|**2021-11-04**|**Attacking Deep Reinforcement Learning-Based Traffic Signal Control Systems with Colluding Vehicles**|Ao Qu et.al.|[2111.02845v1](http://arxiv.org/abs/2111.02845v1)|null|
+|**2021-11-04**|**Towards Learning to Speak and Hear Through Multi-Agent Communication over a Continuous Acoustic Channel**|Kevin Eloff et.al.|[2111.02827v1](http://arxiv.org/abs/2111.02827v1)|null|
+|**2021-11-04**|**RLDS: an Ecosystem to Generate, Share and Use Datasets in Reinforcement Learning**|Sabela Ramos et.al.|[2111.02767v1](http://arxiv.org/abs/2111.02767v1)|**[link](https://github.com/google-research/rlds)**|
 |**2021-11-03**|**What Robot do I Need? Fast Co-Adaptation of Morphology and Control using Graph Neural Networks**|Kevin Sebastian Luck et.al.|[2111.02371v1](http://arxiv.org/abs/2111.02371v1)|null|
 |**2021-11-03**|**Smooth Imitation Learning via Smooth Costs and Smooth Policies**|Sapana Chaudhary et.al.|[2111.02354v1](http://arxiv.org/abs/2111.02354v1)|null|
 |**2021-11-03**|**A Self-adaptive LSAC-PID Approach based on Lyapunov Reward Shaping for Mobile Robots**|Xinyi Yu et.al.|[2111.02283v1](http://arxiv.org/abs/2111.02283v1)|null|
@@ -168,6 +178,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-11-04**|**Graph neural network initialisation of quantum approximate optimisation**|Nishant Jain et.al.|[2111.03016v1](http://arxiv.org/abs/2111.03016v1)|null|
+|**2021-11-04**|**GraphSearchNet: Enhancing GNNs via Capturing Global Dependency for Semantic Code Search**|Shangqing Liu et.al.|[2111.02671v1](http://arxiv.org/abs/2111.02671v1)|null|
 |**2021-11-03**|**Manipulation of granular materials by learning particle interactions**|Neea Tuomainen et.al.|[2111.02274v1](http://arxiv.org/abs/2111.02274v1)|null|
 |**2021-11-03**|**How Neural Architectures Affect Deep Learning for Communication Networks?**|Yifei Shen et.al.|[2111.02215v1](http://arxiv.org/abs/2111.02215v1)|null|
 |**2021-11-03**|**Power Flow Balancing with Decentralized Graph Neural Networks**|Jonas Berg Hansen et.al.|[2111.02169v1](http://arxiv.org/abs/2111.02169v1)|null|
