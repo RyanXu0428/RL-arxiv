@@ -94,7 +94,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2021-11-04**|**Generalization in Dexterous Manipulation via Geometry-Aware Multi-Task Learning**|Wenlong Huang et.al.|[2111.03062v1](http://arxiv.org/abs/2111.03062v1)|null|
-|**2021-11-04**|**Imagine Networks**|Seokjun Kim et.al.|[2111.03048v1](http://arxiv.org/abs/2111.03048v1)|null|
+|**2021-11-04**|**Imagine Networks**|Seokjun Kim et.al.|[2111.03048v2](http://arxiv.org/abs/2111.03048v2)|null|
 |**2021-11-04**|**B-Pref: Benchmarking Preference-Based Reinforcement Learning**|Kimin Lee et.al.|[2111.03026v1](http://arxiv.org/abs/2111.03026v1)|**[link](https://github.com/rll-research/b-pref)**|
 |**2021-11-04**|**Towards an Understanding of Default Policies in Multitask Policy Optimization**|Ted Moskovitz et.al.|[2111.02994v1](http://arxiv.org/abs/2111.02994v1)|null|
 |**2021-11-04**|**Causal versus Marginal Shapley Values for Robotic Lever Manipulation Controlled using Deep Reinforcement Learning**|Sindre Benjamin Remman et.al.|[2111.02936v1](http://arxiv.org/abs/2111.02936v1)|null|
