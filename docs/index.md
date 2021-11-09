@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2021.11.08
+## Updated on 2021.11.09
 
 ## SLAM
 
@@ -95,14 +95,14 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2021-11-05**|**Regular Decision Processes for Grid Worlds**|Nicky Lenaers et.al.|[2111.03647v1](http://arxiv.org/abs/2111.03647v1)|null|
 |**2021-11-05**|**Adaptive Low-Pass Filtering using Sliding Window Gaussian Processes**|Alejandro J. Ordóñez-Conejo et.al.|[2111.03617v1](http://arxiv.org/abs/2111.03617v1)|null|
-|**2021-11-05**|**Cross Modality 3D Navigation Using Reinforcement Learning and Neural Style Transfer**|Cesare Magnetti et.al.|[2111.03485v1](http://arxiv.org/abs/2111.03485v1)|null|
+|**2021-11-05**|**Cross Modality 3D Navigation Using Reinforcement Learning and Neural Style Transfer**|Cesare Magnetti et.al.|[2111.03485v1](http://arxiv.org/abs/2111.03485v1)|**[link](https://github.com/cesaremagnetti/automaticusnavigation)**|
 |**2021-11-05**|**Supervised Advantage Actor-Critic for Recommender Systems**|Xin Xin et.al.|[2111.03474v1](http://arxiv.org/abs/2111.03474v1)|null|
 |**2021-11-05**|**Perturbational Complexity by Distribution Mismatch: A Systematic Analysis of Reinforcement Learning in Reproducing Kernel Hilbert Space**|Jihao Long et.al.|[2111.03469v1](http://arxiv.org/abs/2111.03469v1)|null|
 |**2021-11-05**|**Reinforcement Learning Approach to Shortcuts between Thermodynamic States with Extra Constraints**|Rongxing Xu et.al.|[2111.03432v1](http://arxiv.org/abs/2111.03432v1)|null|
 |**2021-11-05**|**Learning to Cooperate with Unseen Agent via Meta-Reinforcement Learning**|Rujikorn Charakorn et.al.|[2111.03431v1](http://arxiv.org/abs/2111.03431v1)|null|
-|**2021-11-05**|**FINN.no Slates Dataset: A new Sequential Dataset Logging Interactions, allViewed Items and Click Responses/No-Click for Recommender Systems Research**|Simen Eide et.al.|[2111.03340v1](http://arxiv.org/abs/2111.03340v1)|null|
+|**2021-11-05**|**FINN.no Slates Dataset: A new Sequential Dataset Logging Interactions, allViewed Items and Click Responses/No-Click for Recommender Systems Research**|Simen Eide et.al.|[2111.03340v1](http://arxiv.org/abs/2111.03340v1)|**[link](https://github.com/finn-no/recsys-slates-dataset)**|
 |**2021-11-04**|**Value Function Spaces: Skill-Centric State Abstractions for Long-Horizon Reasoning**|Dhruv Shah et.al.|[2111.03189v1](http://arxiv.org/abs/2111.03189v1)|null|
-|**2021-11-04**|**Infinite Time Horizon Safety of Bayesian Neural Networks**|Mathias Lechner et.al.|[2111.03165v1](http://arxiv.org/abs/2111.03165v1)|null|
+|**2021-11-04**|**Infinite Time Horizon Safety of Bayesian Neural Networks**|Mathias Lechner et.al.|[2111.03165v1](http://arxiv.org/abs/2111.03165v1)|**[link](https://github.com/mlech26l/bayesian_nn_safety)**|
 |**2021-11-04**|**Generalization in Dexterous Manipulation via Geometry-Aware Multi-Task Learning**|Wenlong Huang et.al.|[2111.03062v1](http://arxiv.org/abs/2111.03062v1)|null|
 |**2021-11-04**|**Imagine Networks**|Seokjun Kim et.al.|[2111.03048v2](http://arxiv.org/abs/2111.03048v2)|null|
 |**2021-11-04**|**B-Pref: Benchmarking Preference-Based Reinforcement Learning**|Kimin Lee et.al.|[2111.03026v1](http://arxiv.org/abs/2111.03026v1)|**[link](https://github.com/rll-research/b-pref)**|
@@ -189,7 +189,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2021-11-05**|**A Syntax-Guided Grammatical Error Correction Model with Dependency Tree Correction**|Zhaohong Wan et.al.|[2111.03294v1](http://arxiv.org/abs/2111.03294v1)|null|
-|**2021-11-05**|**Graph Denoising with Framelet Regularizer**|Bingxin Zhou et.al.|[2111.03264v1](http://arxiv.org/abs/2111.03264v1)|null|
+|**2021-11-05**|**Graph Denoising with Framelet Regularizer**|Bingxin Zhou et.al.|[2111.03264v1](http://arxiv.org/abs/2111.03264v1)|**[link](https://github.com/bzho3923/gnn_dot)**|
 |**2021-11-04**|**LW-GCN: A Lightweight FPGA-based Graph Convolutional Network Accelerator**|Zhuofu Tao et.al.|[2111.03184v1](http://arxiv.org/abs/2111.03184v1)|null|
 |**2021-11-04**|**Skeleton-Split Framework using Spatial Temporal Graph Convolutional Networks for Action Recogntion**|Motasem Alsawadi et.al.|[2111.03106v1](http://arxiv.org/abs/2111.03106v1)|null|
 |**2021-11-04**|**Graph neural network initialisation of quantum approximate optimisation**|Nishant Jain et.al.|[2111.03016v1](http://arxiv.org/abs/2111.03016v1)|null|
