@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-11-08**|**Understanding the Effects of Dataset Characteristics on Offline Reinforcement Learning**|Kajetan Schweighofer et.al.|[2111.04714v1](http://arxiv.org/abs/2111.04714v1)|**[link](https://github.com/ml-jku/OfflineRL)**|
+|**2021-11-08**|**Interactive Inverse Reinforcement Learning for Cooperative Games**|Thomas Kleine Buening et.al.|[2111.04698v1](http://arxiv.org/abs/2111.04698v1)|null|
+|**2021-11-08**|**A Comparison of Model-Free and Model Predictive Control for Price Responsive Water Heaters**|David J. Biagioni et.al.|[2111.04689v1](http://arxiv.org/abs/2111.04689v1)|null|
+|**2021-11-08**|**Reinforcement Learning for Mixed Autonomy Intersections**|Zhongxia Yan et.al.|[2111.04686v1](http://arxiv.org/abs/2111.04686v1)|**[link](https://github.com/zhongxiayan/mixed_autonomy_intersections)**|
+|**2021-11-08**|**Variational Automatic Curriculum Learning for Sparse-Reward Cooperative Multi-Agent Problems**|Jiayu Chen et.al.|[2111.04613v1](http://arxiv.org/abs/2111.04613v1)|null|
+|**2021-11-08**|**When Cyber-Physical Systems Meet AI: A Benchmark, an Evaluation, and a Way Forward**|Jiayang Song et.al.|[2111.04324v1](http://arxiv.org/abs/2111.04324v1)|null|
+|**2021-11-08**|**Best-Response Dynamics and Fictitious Play in Identical Interest Stochastic Games**|Lucas Baudin et.al.|[2111.04317v1](http://arxiv.org/abs/2111.04317v1)|null|
+|**2021-11-08**|**Learning Context-Aware Representations of Subtrees**|Cedric Cook et.al.|[2111.04308v1](http://arxiv.org/abs/2111.04308v1)|null|
+|**2021-11-08**|**Batch Reinforcement Learning from Crowds**|Guoxi Zhang et.al.|[2111.04279v1](http://arxiv.org/abs/2111.04279v1)|null|
+|**2021-11-08**|**Trust-aware Control for Intelligent Transportation Systems**|Mingxi Cheng et.al.|[2111.04248v1](http://arxiv.org/abs/2111.04248v1)|null|
 |**2021-11-05**|**Regular Decision Processes for Grid Worlds**|Nicky Lenaers et.al.|[2111.03647v1](http://arxiv.org/abs/2111.03647v1)|null|
 |**2021-11-05**|**Adaptive Low-Pass Filtering using Sliding Window Gaussian Processes**|Alejandro J. Ordóñez-Conejo et.al.|[2111.03617v1](http://arxiv.org/abs/2111.03617v1)|null|
 |**2021-11-05**|**Cross Modality 3D Navigation Using Reinforcement Learning and Neural Style Transfer**|Cesare Magnetti et.al.|[2111.03485v1](http://arxiv.org/abs/2111.03485v1)|**[link](https://github.com/cesaremagnetti/automaticusnavigation)**|
@@ -188,6 +198,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-11-08**|**Directional Message Passing on Molecular Graphs via Synthetic Coordinates**|Johannes Klicpera et.al.|[2111.04718v1](http://arxiv.org/abs/2111.04718v1)|null|
+|**2021-11-04**|**Improving Peer Assessment with Graph Convolutional Networks**|Alireza A. Namanloo et.al.|[2111.04466v1](http://arxiv.org/abs/2111.04466v1)|null|
+|**2021-11-08**|**GROWL: Group Detection With Link Prediction**|Viktor Schmuck et.al.|[2111.04397v1](http://arxiv.org/abs/2111.04397v1)|null|
+|**2021-11-06**|**Will You Ever Become Popular? Learning to Predict Virality of Dance Clips**|Jiahao Wang et.al.|[2111.03819v1](http://arxiv.org/abs/2111.03819v1)|null|
 |**2021-11-05**|**A Syntax-Guided Grammatical Error Correction Model with Dependency Tree Correction**|Zhaohong Wan et.al.|[2111.03294v1](http://arxiv.org/abs/2111.03294v1)|null|
 |**2021-11-05**|**Graph Denoising with Framelet Regularizer**|Bingxin Zhou et.al.|[2111.03264v1](http://arxiv.org/abs/2111.03264v1)|**[link](https://github.com/bzho3923/gnn_dot)**|
 |**2021-11-04**|**LW-GCN: A Lightweight FPGA-based Graph Convolutional Network Accelerator**|Zhuofu Tao et.al.|[2111.03184v1](http://arxiv.org/abs/2111.03184v1)|null|
