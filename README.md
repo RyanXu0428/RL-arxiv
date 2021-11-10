@@ -89,6 +89,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-09**|**Reinforcement Learning for Security-Aware Computation Offloading in Satellite Networks**|Saurav Sthapit et.al.|[2111.05259v1](http://arxiv.org/abs/2111.05259v1)|null|
+|**2021-11-09**|**A research framework for writing differentiable PDE discretizations in JAX**|Antonio Stanziola et.al.|[2111.05218v1](http://arxiv.org/abs/2111.05218v1)|**[link](https://github.com/ucl-bug/jaxdf)**|
+|**2021-11-09**|**Risk Sensitive Model-Based Reinforcement Learning using Uncertainty Guided Planning**|Stefan Radic Webster et.al.|[2111.04972v1](http://arxiv.org/abs/2111.04972v1)|null|
+|**2021-11-09**|**Safe Policy Optimization with Local Generalized Linear Function Approximations**|Akifumi Wachi et.al.|[2111.04894v1](http://arxiv.org/abs/2111.04894v1)|**[link](https://github.com/akifumi-wachi-4/spolf)**|
+|**2021-11-08**|**On Assessing The Safety of Reinforcement Learning algorithms Using Formal Methods**|Paulina Stevia et.al.|[2111.04865v1](http://arxiv.org/abs/2111.04865v1)|null|
+|**2021-11-08**|**Dueling RL: Reinforcement Learning with Trajectory Preferences**|Aldo Pacchiano et.al.|[2111.04850v1](http://arxiv.org/abs/2111.04850v1)|null|
 |**2021-11-08**|**Understanding the Effects of Dataset Characteristics on Offline Reinforcement Learning**|Kajetan Schweighofer et.al.|[2111.04714v1](http://arxiv.org/abs/2111.04714v1)|**[link](https://github.com/ml-jku/OfflineRL)**|
 |**2021-11-08**|**Interactive Inverse Reinforcement Learning for Cooperative Games**|Thomas Kleine Buening et.al.|[2111.04698v1](http://arxiv.org/abs/2111.04698v1)|null|
 |**2021-11-08**|**A Comparison of Model-Free and Model Predictive Control for Price Responsive Water Heaters**|David J. Biagioni et.al.|[2111.04689v1](http://arxiv.org/abs/2111.04689v1)|null|
@@ -194,6 +200,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-09**|**Monocular Human Shape and Pose with Dense Mesh-borne Local Image Features**|Shubhendu Jena et.al.|[2111.05319v1](http://arxiv.org/abs/2111.05319v1)|null|
+|**2021-11-09**|**On Representation Knowledge Distillation for Graph Neural Networks**|Chaitanya K. Joshi et.al.|[2111.04964v1](http://arxiv.org/abs/2111.04964v1)|null|
+|**2021-11-08**|**Cold Brew: Distilling Graph Node Representations with Incomplete or Missing Neighborhoods**|Wenqing Zheng et.al.|[2111.04840v1](http://arxiv.org/abs/2111.04840v1)|**[link](https://github.com/amazon-research/gnn-tail-generalization)**|
 |**2021-11-08**|**Directional Message Passing on Molecular Graphs via Synthetic Coordinates**|Johannes Klicpera et.al.|[2111.04718v1](http://arxiv.org/abs/2111.04718v1)|null|
 |**2021-11-04**|**Improving Peer Assessment with Graph Convolutional Networks**|Alireza A. Namanloo et.al.|[2111.04466v1](http://arxiv.org/abs/2111.04466v1)|null|
 |**2021-11-08**|**GROWL: Group Detection With Link Prediction**|Viktor Schmuck et.al.|[2111.04397v1](http://arxiv.org/abs/2111.04397v1)|null|
