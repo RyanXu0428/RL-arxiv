@@ -93,6 +93,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-11-10**|**Look Before You Leap: Safe Model-Based Reinforcement Learning with Human Intervention**|Yunkun Xu et.al.|[2111.05819v1](http://arxiv.org/abs/2111.05819v1)|null|
+|**2021-11-10**|**Effects of Design and Hydrodynamic Parameters on Optimized Swimming for Simulated, Fish-inspired Robots**|Donghao Li et.al.|[2111.05682v1](http://arxiv.org/abs/2111.05682v1)|null|
+|**2021-11-10**|**DeCOM: Decomposed Policy for Constrained Cooperative Multi-Agent Reinforcement Learning**|Zhaoxing Yang et.al.|[2111.05670v1](http://arxiv.org/abs/2111.05670v1)|null|
+|**2021-11-10**|**VeSoNet: Traffic-Aware Content Caching for Vehicular Social Networks based on Path Planning and Deep Reinforcement Learning**|Nyothiri Aung et.al.|[2111.05567v1](http://arxiv.org/abs/2111.05567v1)|null|
+|**2021-11-10**|**Spatially and Seamlessly Hierarchical Reinforcement Learning for State Space and Policy space in Autonomous Driving**|Jaehyun Kim et.al.|[2111.05479v1](http://arxiv.org/abs/2111.05479v1)|null|
+|**2021-11-09**|**Towards Active Vision for Action Localization with Reactive Control and Predictive Learning**|Shubham Trehan et.al.|[2111.05448v1](http://arxiv.org/abs/2111.05448v1)|null|
+|**2021-11-09**|**Dealing with the Unknown: Pessimistic Offline Reinforcement Learning**|Jinning Li et.al.|[2111.05440v1](http://arxiv.org/abs/2111.05440v1)|null|
+|**2021-11-09**|**AW-Opt: Learning Robotic Skills with Imitation andReinforcement at Scale**|Yao Lu et.al.|[2111.05424v1](http://arxiv.org/abs/2111.05424v1)|null|
 |**2021-11-09**|**Reinforcement Learning for Security-Aware Computation Offloading in Satellite Networks**|Saurav Sthapit et.al.|[2111.05259v1](http://arxiv.org/abs/2111.05259v1)|null|
 |**2021-11-09**|**A research framework for writing differentiable PDE discretizations in JAX**|Antonio Stanziola et.al.|[2111.05218v1](http://arxiv.org/abs/2111.05218v1)|**[link](https://github.com/ucl-bug/jaxdf)**|
 |**2021-11-09**|**Risk Sensitive Model-Based Reinforcement Learning using Uncertainty Guided Planning**|Stefan Radic Webster et.al.|[2111.04972v1](http://arxiv.org/abs/2111.04972v1)|null|
@@ -204,6 +212,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-11-10**|**LSP : Acceleration and Regularization of Graph Neural Networks via Locality Sensitive Pruning of Graphs**|Eitan Kosman et.al.|[2111.05694v1](http://arxiv.org/abs/2111.05694v1)|null|
+|**2021-11-10**|**Graph Transplant: Node Saliency-Guided Graph Mixup with Local Structure Preservation**|Joonhyung Park et.al.|[2111.05639v1](http://arxiv.org/abs/2111.05639v1)|null|
+|**2021-11-10**|**Deep Attention-guided Graph Clustering with Dual Self-supervision**|Zhihao Peng et.al.|[2111.05548v1](http://arxiv.org/abs/2111.05548v1)|null|
 |**2021-11-09**|**Monocular Human Shape and Pose with Dense Mesh-borne Local Image Features**|Shubhendu Jena et.al.|[2111.05319v2](http://arxiv.org/abs/2111.05319v2)|null|
 |**2021-11-09**|**On Representation Knowledge Distillation for Graph Neural Networks**|Chaitanya K. Joshi et.al.|[2111.04964v1](http://arxiv.org/abs/2111.04964v1)|null|
 |**2021-11-08**|**Cold Brew: Distilling Graph Node Representations with Incomplete or Missing Neighborhoods**|Wenqing Zheng et.al.|[2111.04840v2](http://arxiv.org/abs/2111.04840v2)|**[link](https://github.com/amazon-research/gnn-tail-generalization)**|
