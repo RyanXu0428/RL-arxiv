@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-11**|**Distilling Motion Planner Augmented Policies into Visual Control Policies for Robot Manipulation**|I-Chun Arthur Liu et.al.|[2111.06383v1](http://arxiv.org/abs/2111.06383v1)|null|
+|**2021-11-11**|**Multi-agent Reinforcement Learning for Cooperative Lane Changing of Connected and Autonomous Vehicles in Mixed Traffic**|Wei Zhou et.al.|[2111.06318v1](http://arxiv.org/abs/2111.06318v1)|null|
+|**2021-11-11**|**Model-Based Reinforcement Learning for Stochastic Hybrid Systems**|Hany Abdulsamad et.al.|[2111.06211v1](http://arxiv.org/abs/2111.06211v1)|null|
+|**2021-11-11**|**BOiLS: Bayesian Optimisation for Logic Synthesis**|Antoine Grosnit et.al.|[2111.06178v1](http://arxiv.org/abs/2111.06178v1)|null|
+|**2021-11-11**|**Towards Robust Knowledge Graph Embedding via Multi-task Reinforcement Learning**|Zhao Zhang et.al.|[2111.06103v1](http://arxiv.org/abs/2111.06103v1)|null|
+|**2021-11-11**|**Edge-Cloud Polarization and Collaboration: A Comprehensive Survey**|Jiangchao Yao et.al.|[2111.06061v1](http://arxiv.org/abs/2111.06061v1)|null|
+|**2021-11-11**|**Learning by Cheating : An End-to-End Zero Shot Framework for Autonomous Drone Navigation**|Praveen Venkatesh et.al.|[2111.06056v1](http://arxiv.org/abs/2111.06056v1)|null|
+|**2021-11-11**|**CubeTR: Learning to Solve The Rubiks Cube Using Transformers**|Mustafa Ebrahim Chasmai et.al.|[2111.06036v1](http://arxiv.org/abs/2111.06036v1)|null|
+|**2021-11-11**|**Adapting Surprise Minimizing Reinforcement Learning Techniques for Transactive Control**|William Arnold et.al.|[2111.06025v1](http://arxiv.org/abs/2111.06025v1)|null|
+|**2021-11-11**|**Agent Spaces**|John C. Raisbeck et.al.|[2111.06005v1](http://arxiv.org/abs/2111.06005v1)|null|
 |**2021-11-10**|**Look Before You Leap: Safe Model-Based Reinforcement Learning with Human Intervention**|Yunkun Xu et.al.|[2111.05819v1](http://arxiv.org/abs/2111.05819v1)|null|
 |**2021-11-10**|**Effects of Design and Hydrodynamic Parameters on Optimized Swimming for Simulated, Fish-inspired Robots**|Donghao Li et.al.|[2111.05682v1](http://arxiv.org/abs/2111.05682v1)|null|
 |**2021-11-10**|**DeCOM: Decomposed Policy for Constrained Cooperative Multi-Agent Reinforcement Learning**|Zhaoxing Yang et.al.|[2111.05670v1](http://arxiv.org/abs/2111.05670v1)|null|
@@ -208,6 +218,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-11**|**DropGNN: Random Dropouts Increase the Expressiveness of Graph Neural Networks**|Pál András Papp et.al.|[2111.06283v1](http://arxiv.org/abs/2111.06283v1)|**[link](https://github.com/karolismart/dropgnn)**|
+|**2021-11-11**|**Spatio-Temporal Scene-Graph Embedding for Autonomous Vehicle Collision Prediction**|Arnav V. Malawade et.al.|[2111.06123v1](http://arxiv.org/abs/2111.06123v1)|**[link](https://github.com/aicps/sg-collision-prediction)**|
+|**2021-11-11**|**Graph Relation Transformer: Incorporating pairwise object features into the Transformer architecture**|Michael Yang et.al.|[2111.06075v1](http://arxiv.org/abs/2111.06075v1)|null|
+|**2021-11-10**|**Generalizable Cross-Graph Embedding for GNN-based Congestion Prediction**|Amur Ghose et.al.|[2111.05941v1](http://arxiv.org/abs/2111.05941v1)|null|
+|**2021-11-10**|**SPA-GCN: Efficient and Flexible GCN Accelerator with an Application for Graph Similarity Computation**|Atefeh Sohrabizadeh et.al.|[2111.05936v1](http://arxiv.org/abs/2111.05936v1)|null|
+|**2021-11-10**|**Graph Neural Network Training with Data Tiering**|Seung Won Min et.al.|[2111.05894v1](http://arxiv.org/abs/2111.05894v1)|null|
 |**2021-11-10**|**LSP : Acceleration and Regularization of Graph Neural Networks via Locality Sensitive Pruning of Graphs**|Eitan Kosman et.al.|[2111.05694v1](http://arxiv.org/abs/2111.05694v1)|null|
 |**2021-11-10**|**Graph Transplant: Node Saliency-Guided Graph Mixup with Local Structure Preservation**|Joonhyung Park et.al.|[2111.05639v1](http://arxiv.org/abs/2111.05639v1)|null|
 |**2021-11-10**|**Deep Attention-guided Graph Clustering with Dual Self-supervision**|Zhihao Peng et.al.|[2111.05548v1](http://arxiv.org/abs/2111.05548v1)|null|
