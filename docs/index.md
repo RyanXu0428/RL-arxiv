@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-11-12**|**Cooperative multi-agent reinforcement learning for high-dimensional nonequilibrium control**|Shriram Chennakesavalu et.al.|[2111.06875v1](http://arxiv.org/abs/2111.06875v1)|null|
+|**2021-11-12**|**Learning Pure Nash Equilibrium in Smart Charging Games**|Benoît Sohet et.al.|[2111.06817v1](http://arxiv.org/abs/2111.06817v1)|null|
+|**2021-11-12**|**Two steps to risk sensitivity**|Chris Gagne et.al.|[2111.06803v1](http://arxiv.org/abs/2111.06803v1)|**[link](https://github.com/crgagne/twosteps_neurips2021)**|
+|**2021-11-12**|**Q-Learning for MDPs with General Spaces: Convergence and Near Optimality via Quantization under Weak Continuity**|Ali Devran Kara et.al.|[2111.06781v1](http://arxiv.org/abs/2111.06781v1)|null|
+|**2021-11-12**|**AWD3: Dynamic Reduction of the Estimation Bias**|Dogan C. Cicek et.al.|[2111.06780v1](http://arxiv.org/abs/2111.06780v1)|null|
+|**2021-11-12**|**Resilient Consensus-based Multi-agent Reinforcement Learning**|Martin Figura et.al.|[2111.06776v1](http://arxiv.org/abs/2111.06776v1)|null|
+|**2021-11-12**|**A Spiking Neuron Synaptic Plasticity Model Optimized for Unsupervised Learning**|Mikhail Kiselev et.al.|[2111.06768v1](http://arxiv.org/abs/2111.06768v1)|null|
+|**2021-11-12**|**Causal Multi-Agent Reinforcement Learning: Review and Open Problems**|St John Grimbly et.al.|[2111.06721v1](http://arxiv.org/abs/2111.06721v1)|null|
+|**2021-11-12**|**Promoting Resilience in Multi-Agent Reinforcement Learning via Confusion-Based Communication**|Ofir Abu et.al.|[2111.06614v1](http://arxiv.org/abs/2111.06614v1)|null|
+|**2021-11-11**|**AnswerSumm: A Manually-Curated Dataset and Pipeline for Answer Summarization**|Alexander R. Fabbri et.al.|[2111.06474v1](http://arxiv.org/abs/2111.06474v1)|**[link](https://github.com/alex-fabbri/answersumm)**|
 |**2021-11-11**|**Distilling Motion Planner Augmented Policies into Visual Control Policies for Robot Manipulation**|I-Chun Arthur Liu et.al.|[2111.06383v1](http://arxiv.org/abs/2111.06383v1)|null|
 |**2021-11-11**|**Multi-agent Reinforcement Learning for Cooperative Lane Changing of Connected and Autonomous Vehicles in Mixed Traffic**|Wei Zhou et.al.|[2111.06318v1](http://arxiv.org/abs/2111.06318v1)|null|
 |**2021-11-11**|**Model-Based Reinforcement Learning for Stochastic Hybrid Systems**|Hany Abdulsamad et.al.|[2111.06211v1](http://arxiv.org/abs/2111.06211v1)|null|
@@ -222,6 +232,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-11-12**|**Simplifying approach to Node Classification in Graph Neural Networks**|Sunil Kumar Maurya et.al.|[2111.06748v1](http://arxiv.org/abs/2111.06748v1)|null|
+|**2021-11-12**|**Implicit vs Unfolded Graph Neural Networks**|Yongyi Yang et.al.|[2111.06592v1](http://arxiv.org/abs/2111.06592v1)|null|
+|**2021-11-12**|**AnchorGAE: General Data Clustering via $O(n)$ Bipartite Graph Convolution**|Hongyuan Zhang et.al.|[2111.06586v1](http://arxiv.org/abs/2111.06586v1)|null|
+|**2021-11-11**|**Sequential Aggregation and Rematerialization: Distributed Full-batch Training of Graph Neural Networks on Large Graphs**|Hesham Mostafa et.al.|[2111.06483v1](http://arxiv.org/abs/2111.06483v1)|null|
 |**2021-11-11**|**DropGNN: Random Dropouts Increase the Expressiveness of Graph Neural Networks**|Pál András Papp et.al.|[2111.06283v1](http://arxiv.org/abs/2111.06283v1)|**[link](https://github.com/karolismart/dropgnn)**|
 |**2021-11-11**|**Spatio-Temporal Scene-Graph Embedding for Autonomous Vehicle Collision Prediction**|Arnav V. Malawade et.al.|[2111.06123v1](http://arxiv.org/abs/2111.06123v1)|**[link](https://github.com/aicps/sg-collision-prediction)**|
 |**2021-11-11**|**Graph Relation Transformer: Incorporating pairwise object features into the Transformer architecture**|Michael Yang et.al.|[2111.06075v1](http://arxiv.org/abs/2111.06075v1)|null|
