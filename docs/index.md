@@ -98,7 +98,7 @@ layout: default
 |**2021-11-11**|**Model-Based Reinforcement Learning for Stochastic Hybrid Systems**|Hany Abdulsamad et.al.|[2111.06211v1](http://arxiv.org/abs/2111.06211v1)|null|
 |**2021-11-11**|**BOiLS: Bayesian Optimisation for Logic Synthesis**|Antoine Grosnit et.al.|[2111.06178v1](http://arxiv.org/abs/2111.06178v1)|null|
 |**2021-11-11**|**Towards Robust Knowledge Graph Embedding via Multi-task Reinforcement Learning**|Zhao Zhang et.al.|[2111.06103v1](http://arxiv.org/abs/2111.06103v1)|null|
-|**2021-11-11**|**Edge-Cloud Polarization and Collaboration: A Comprehensive Survey**|Jiangchao Yao et.al.|[2111.06061v1](http://arxiv.org/abs/2111.06061v1)|null|
+|**2021-11-11**|**Edge-Cloud Polarization and Collaboration: A Comprehensive Survey**|Jiangchao Yao et.al.|[2111.06061v2](http://arxiv.org/abs/2111.06061v2)|null|
 |**2021-11-11**|**Learning by Cheating : An End-to-End Zero Shot Framework for Autonomous Drone Navigation**|Praveen Venkatesh et.al.|[2111.06056v1](http://arxiv.org/abs/2111.06056v1)|null|
 |**2021-11-11**|**CubeTR: Learning to Solve The Rubiks Cube Using Transformers**|Mustafa Ebrahim Chasmai et.al.|[2111.06036v1](http://arxiv.org/abs/2111.06036v1)|null|
 |**2021-11-11**|**Adapting Surprise Minimizing Reinforcement Learning Techniques for Transactive Control**|William Arnold et.al.|[2111.06025v1](http://arxiv.org/abs/2111.06025v1)|null|
