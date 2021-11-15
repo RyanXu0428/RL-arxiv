@@ -93,7 +93,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2021-11-12**|**Cooperative multi-agent reinforcement learning for high-dimensional nonequilibrium control**|Shriram Chennakesavalu et.al.|[2111.06875v1](http://arxiv.org/abs/2111.06875v1)|null|
+|**2021-11-12**|**Cooperative multi-agent reinforcement learning for high-dimensional nonequilibrium control**|Shriram Chennakesavalu et.al.|[2111.06875v1](http://arxiv.org/abs/2111.06875v1)|**[link](https://github.com/rotskoff-group/marl-design)**|
 |**2021-11-12**|**Learning Pure Nash Equilibrium in Smart Charging Games**|Benoît Sohet et.al.|[2111.06817v1](http://arxiv.org/abs/2111.06817v1)|null|
 |**2021-11-12**|**Two steps to risk sensitivity**|Chris Gagne et.al.|[2111.06803v1](http://arxiv.org/abs/2111.06803v1)|**[link](https://github.com/crgagne/twosteps_neurips2021)**|
 |**2021-11-12**|**Q-Learning for MDPs with General Spaces: Convergence and Near Optimality via Quantization under Weak Continuity**|Ali Devran Kara et.al.|[2111.06781v1](http://arxiv.org/abs/2111.06781v1)|null|
@@ -232,7 +232,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2021-11-12**|**Simplifying approach to Node Classification in Graph Neural Networks**|Sunil Kumar Maurya et.al.|[2111.06748v1](http://arxiv.org/abs/2111.06748v1)|null|
+|**2021-11-12**|**Simplifying approach to Node Classification in Graph Neural Networks**|Sunil Kumar Maurya et.al.|[2111.06748v1](http://arxiv.org/abs/2111.06748v1)|**[link](https://github.com/sunilkmaurya/FSGNN)**|
 |**2021-11-12**|**Implicit vs Unfolded Graph Neural Networks**|Yongyi Yang et.al.|[2111.06592v1](http://arxiv.org/abs/2111.06592v1)|null|
 |**2021-11-12**|**AnchorGAE: General Data Clustering via $O(n)$ Bipartite Graph Convolution**|Hongyuan Zhang et.al.|[2111.06586v1](http://arxiv.org/abs/2111.06586v1)|null|
 |**2021-11-11**|**Sequential Aggregation and Rematerialization: Distributed Full-batch Training of Graph Neural Networks on Large Graphs**|Hesham Mostafa et.al.|[2111.06483v1](http://arxiv.org/abs/2111.06483v1)|null|
