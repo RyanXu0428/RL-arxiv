@@ -243,7 +243,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2021-11-15**|**Short-Term Power Prediction for Renewable Energy Using Hybrid Graph Convolutional Network and Long Short-Term Memory Approach**|Wenlong Liao et.al.|[2111.07958v1](http://arxiv.org/abs/2111.07958v1)|null|
-|**2021-11-15**|**Fully Linear Graph Convolutional Networks for Semi-Supervised Learning and Clustering**|Yaoming Cai et.al.|[2111.07942v1](http://arxiv.org/abs/2111.07942v1)|null|
+|**2021-11-15**|**Fully Linear Graph Convolutional Networks for Semi-Supervised Learning and Clustering**|Yaoming Cai et.al.|[2111.07942v1](http://arxiv.org/abs/2111.07942v1)|**[link](https://github.com/angrycai/flgc)**|
 |**2021-11-15**|**Multi-Task Classification of Sewer Pipe Defects and Properties using a Cross-Task Graph Neural Network Decoder**|Joakim Bruslund Haurum et.al.|[2111.07846v1](http://arxiv.org/abs/2111.07846v1)|null|
 |**2021-11-15**|**Can Graph Neural Networks Learn to Solve MaxSAT Problem?**|Minghao Liu et.al.|[2111.07568v1](http://arxiv.org/abs/2111.07568v1)|null|
 |**2021-11-15**|**A Comparative Study on Basic Elements of Deep Learning Models for Spatial-Temporal Traffic Forecasting**|Yuyol Shin et.al.|[2111.07513v1](http://arxiv.org/abs/2111.07513v1)|null|
