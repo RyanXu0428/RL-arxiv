@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-11-15**|**Adversarial Skill Chaining for Long-Horizon Robot Manipulation via Terminal State Regularization**|Youngwoon Lee et.al.|[2111.07999v1](http://arxiv.org/abs/2111.07999v1)|null|
+|**2021-11-15**|**Learning to Execute: Efficient Learning of Universal Plan-Conditioned Policies in Robotics**|Ingmar Schubert et.al.|[2111.07908v1](http://arxiv.org/abs/2111.07908v1)|**[link](https://github.com/ischubert/l2e)**|
+|**2021-11-15**|**Near Optimal VNF Placement in Edge-Enabled 6G Networks**|Carlos Ruiz De Mendoza et.al.|[2111.07849v1](http://arxiv.org/abs/2111.07849v1)|null|
+|**2021-11-15**|**Learning Representations for Pixel-based Control: What Matters and Why?**|Manan Tomar et.al.|[2111.07775v1](http://arxiv.org/abs/2111.07775v1)|null|
+|**2021-11-15**|**Interactive Medical Image Segmentation with Self-Adaptive Confidence Calibration**|Wenhao Li et.al.|[2111.07716v1](http://arxiv.org/abs/2111.07716v1)|null|
+|**2021-11-15**|**Joint Synthesis of Safety Certificate and Safe Control Policy using Constrained Reinforcement Learning**|Haitong Ma et.al.|[2111.07695v1](http://arxiv.org/abs/2111.07695v1)|null|
+|**2021-11-15**|**AutoGMap: Learning to Map Large-scale Sparse Graphs on Memristive Crossbars**|Bo Lyu et.al.|[2111.07684v1](http://arxiv.org/abs/2111.07684v1)|null|
+|**2021-11-15**|**Versatile Inverse Reinforcement Learning via Cumulative Rewards**|Niklas Freymuth et.al.|[2111.07667v1](http://arxiv.org/abs/2111.07667v1)|null|
+|**2021-11-15**|**Delayed Feedback in Episodic Reinforcement Learning**|Benjamin Howson et.al.|[2111.07615v1](http://arxiv.org/abs/2111.07615v1)|null|
+|**2021-11-15**|**Generate plane quad mesh with neural networks and tree search**|Hua Tong et.al.|[2111.07613v1](http://arxiv.org/abs/2111.07613v1)|**[link](https://github.com/gt2001/generate-2D-quadrilateral-mesh-with-neural-networks-and-tree-search)**|
 |**2021-11-12**|**Cooperative multi-agent reinforcement learning for high-dimensional nonequilibrium control**|Shriram Chennakesavalu et.al.|[2111.06875v1](http://arxiv.org/abs/2111.06875v1)|**[link](https://github.com/rotskoff-group/marl-design)**|
 |**2021-11-12**|**Learning Pure Nash Equilibrium in Smart Charging Games**|Benoît Sohet et.al.|[2111.06817v1](http://arxiv.org/abs/2111.06817v1)|null|
 |**2021-11-12**|**Two steps to risk sensitivity**|Chris Gagne et.al.|[2111.06803v1](http://arxiv.org/abs/2111.06803v1)|**[link](https://github.com/crgagne/twosteps_neurips2021)**|
@@ -232,6 +242,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-11-15**|**Short-Term Power Prediction for Renewable Energy Using Hybrid Graph Convolutional Network and Long Short-Term Memory Approach**|Wenlong Liao et.al.|[2111.07958v1](http://arxiv.org/abs/2111.07958v1)|null|
+|**2021-11-15**|**Fully Linear Graph Convolutional Networks for Semi-Supervised Learning and Clustering**|Yaoming Cai et.al.|[2111.07942v1](http://arxiv.org/abs/2111.07942v1)|null|
+|**2021-11-15**|**Multi-Task Classification of Sewer Pipe Defects and Properties using a Cross-Task Graph Neural Network Decoder**|Joakim Bruslund Haurum et.al.|[2111.07846v1](http://arxiv.org/abs/2111.07846v1)|null|
+|**2021-11-15**|**Can Graph Neural Networks Learn to Solve MaxSAT Problem?**|Minghao Liu et.al.|[2111.07568v1](http://arxiv.org/abs/2111.07568v1)|null|
+|**2021-11-15**|**A Comparative Study on Basic Elements of Deep Learning Models for Spatial-Temporal Traffic Forecasting**|Yuyol Shin et.al.|[2111.07513v1](http://arxiv.org/abs/2111.07513v1)|null|
+|**2021-11-15**|**Power Allocation for Wireless Federated Learning using Graph Neural Networks**|Boning Li et.al.|[2111.07480v1](http://arxiv.org/abs/2111.07480v1)|**[link](https://github.com/bl166/wirelessfl-pdgnet)**|
+|**2021-11-14**|**Improving Compound Activity Classification via Deep Transfer and Representation Learning**|Vishal Dey et.al.|[2111.07439v1](http://arxiv.org/abs/2111.07439v1)|null|
+|**2021-11-14**|**$p$-Laplacian Based Graph Neural Networks**|Guoji Fu et.al.|[2111.07337v1](http://arxiv.org/abs/2111.07337v1)|null|
+|**2021-11-14**|**Sign Language Translation with Hierarchical Spatio-TemporalGraph Neural Network**|Jichao Kan et.al.|[2111.07258v1](http://arxiv.org/abs/2111.07258v1)|null|
+|**2021-11-13**|**Learning to Evolve on Dynamic Graphs**|Xintao Xiang et.al.|[2111.07032v1](http://arxiv.org/abs/2111.07032v1)|null|
 |**2021-11-12**|**Simplifying approach to Node Classification in Graph Neural Networks**|Sunil Kumar Maurya et.al.|[2111.06748v1](http://arxiv.org/abs/2111.06748v1)|**[link](https://github.com/sunilkmaurya/FSGNN)**|
 |**2021-11-12**|**Implicit vs Unfolded Graph Neural Networks**|Yongyi Yang et.al.|[2111.06592v1](http://arxiv.org/abs/2111.06592v1)|null|
 |**2021-11-12**|**AnchorGAE: General Data Clustering via $O(n)$ Bipartite Graph Convolution**|Hongyuan Zhang et.al.|[2111.06586v1](http://arxiv.org/abs/2111.06586v1)|null|
