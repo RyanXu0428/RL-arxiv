@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-11-16**|**Reinforcement Learning with Feedback from Multiple Humans with Diverse Skills**|Taku Yamagata et.al.|[2111.08596v1](http://arxiv.org/abs/2111.08596v1)|null|
+|**2021-11-16**|**GRI: General Reinforced Imitation and its Application to Vision-Based Autonomous Driving**|Raphael Chekroun et.al.|[2111.08575v1](http://arxiv.org/abs/2111.08575v1)|null|
+|**2021-11-16**|**Polymatrix Competitive Gradient Descent**|Jeffrey Ma et.al.|[2111.08565v1](http://arxiv.org/abs/2111.08565v1)|null|
+|**2021-11-16**|**On Effective Scheduling of Model-based Reinforcement Learning**|Hang Lai et.al.|[2111.08550v1](http://arxiv.org/abs/2111.08550v1)|**[link](https://github.com/hanglai/autombpo)**|
+|**2021-11-16**|**Causal policy ranking**|Daniel McNamee et.al.|[2111.08415v1](http://arxiv.org/abs/2111.08415v1)|null|
+|**2021-11-16**|**CLARA: A Constrained Reinforcement Learning Based Resource Allocation Framework for Network Slicing**|Yongshuai Liu et.al.|[2111.08397v1](http://arxiv.org/abs/2111.08397v1)|null|
+|**2021-11-16**|**Analysis of Model-Free Reinforcement Learning Control Schemes on self-balancing Wheeled Extendible System**|Kanishk . et.al.|[2111.08389v1](http://arxiv.org/abs/2111.08389v1)|null|
+|**2021-11-16**|**A Performance Bound for Model Based Online Reinforcement Learning**|Lukas Beckenbach et.al.|[2111.08319v1](http://arxiv.org/abs/2111.08319v1)|null|
+|**2021-11-16**|**Improving Learning from Demonstrations by Learning from Experience**|Haofeng Liu et.al.|[2111.08156v1](http://arxiv.org/abs/2111.08156v1)|null|
+|**2021-11-15**|**The Partially Observable History Process**|Dustin Morrill et.al.|[2111.08102v1](http://arxiv.org/abs/2111.08102v1)|null|
 |**2021-11-15**|**Adversarial Skill Chaining for Long-Horizon Robot Manipulation via Terminal State Regularization**|Youngwoon Lee et.al.|[2111.07999v1](http://arxiv.org/abs/2111.07999v1)|null|
 |**2021-11-15**|**Learning to Execute: Efficient Learning of Universal Plan-Conditioned Policies in Robotics**|Ingmar Schubert et.al.|[2111.07908v1](http://arxiv.org/abs/2111.07908v1)|**[link](https://github.com/ischubert/l2e)**|
 |**2021-11-15**|**Near Optimal VNF Placement in Edge-Enabled 6G Networks**|Carlos Ruiz De Mendoza et.al.|[2111.07849v1](http://arxiv.org/abs/2111.07849v1)|null|
@@ -242,6 +252,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-11-16**|**Inferring halo masses with Graph Neural Networks**|Pablo Villanueva-Domingo et.al.|[2111.08683v1](http://arxiv.org/abs/2111.08683v1)|**[link](https://github.com/PabloVD/HaloGraphNet)**|
+|**2021-11-16**|**Keypoint Message Passing for Video-based Person Re-Identification**|Di Chen et.al.|[2111.08279v1](http://arxiv.org/abs/2111.08279v1)|null|
+|**2021-11-16**|**SStaGCN: Simplified stacking based graph convolutional networks**|Jia Cai et.al.|[2111.08228v1](http://arxiv.org/abs/2111.08228v1)|null|
+|**2021-11-16**|**Learn Locally, Correct Globally: A Distributed Algorithm for Training Graph Neural Networks**|Morteza Ramezani et.al.|[2111.08202v1](http://arxiv.org/abs/2111.08202v1)|null|
+|**2021-11-16**|**Graph neural network-based fault diagnosis: a review**|Zhiwen Chen et.al.|[2111.08185v1](http://arxiv.org/abs/2111.08185v1)|null|
+|**2021-11-16**|**Coarse-to-fine Animal Pose and Shape Estimation**|Chen Li et.al.|[2111.08176v1](http://arxiv.org/abs/2111.08176v1)|null|
 |**2021-11-15**|**Short-Term Power Prediction for Renewable Energy Using Hybrid Graph Convolutional Network and Long Short-Term Memory Approach**|Wenlong Liao et.al.|[2111.07958v1](http://arxiv.org/abs/2111.07958v1)|null|
 |**2021-11-15**|**Fully Linear Graph Convolutional Networks for Semi-Supervised Learning and Clustering**|Yaoming Cai et.al.|[2111.07942v1](http://arxiv.org/abs/2111.07942v1)|**[link](https://github.com/angrycai/flgc)**|
 |**2021-11-15**|**Multi-Task Classification of Sewer Pipe Defects and Properties using a Cross-Task Graph Neural Network Decoder**|Joakim Bruslund Haurum et.al.|[2111.07846v1](http://arxiv.org/abs/2111.07846v1)|null|
