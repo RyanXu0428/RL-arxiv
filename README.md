@@ -1,4 +1,4 @@
-## Updated on 2021.11.16
+## Updated on 2021.11.17
 
 ## SLAM
 
@@ -95,7 +95,7 @@
 |**2021-11-15**|**Learning Representations for Pixel-based Control: What Matters and Why?**|Manan Tomar et.al.|[2111.07775v1](http://arxiv.org/abs/2111.07775v1)|null|
 |**2021-11-15**|**Interactive Medical Image Segmentation with Self-Adaptive Confidence Calibration**|Wenhao Li et.al.|[2111.07716v1](http://arxiv.org/abs/2111.07716v1)|null|
 |**2021-11-15**|**Joint Synthesis of Safety Certificate and Safe Control Policy using Constrained Reinforcement Learning**|Haitong Ma et.al.|[2111.07695v1](http://arxiv.org/abs/2111.07695v1)|null|
-|**2021-11-15**|**AutoGMap: Learning to Map Large-scale Sparse Graphs on Memristive Crossbars**|Bo Lyu et.al.|[2111.07684v1](http://arxiv.org/abs/2111.07684v1)|null|
+|**2021-11-15**|**AutoGMap: Learning to Map Large-scale Sparse Graphs on Memristive Crossbars**|Bo Lyu et.al.|[2111.07684v1](http://arxiv.org/abs/2111.07684v1)|**[link](https://github.com/blyucs/autogmap)**|
 |**2021-11-15**|**Versatile Inverse Reinforcement Learning via Cumulative Rewards**|Niklas Freymuth et.al.|[2111.07667v1](http://arxiv.org/abs/2111.07667v1)|null|
 |**2021-11-15**|**Delayed Feedback in Episodic Reinforcement Learning**|Benjamin Howson et.al.|[2111.07615v1](http://arxiv.org/abs/2111.07615v1)|null|
 |**2021-11-15**|**Generate plane quad mesh with neural networks and tree search**|Hua Tong et.al.|[2111.07613v1](http://arxiv.org/abs/2111.07613v1)|**[link](https://github.com/gt2001/generate-2D-quadrilateral-mesh-with-neural-networks-and-tree-search)**|
@@ -244,7 +244,7 @@
 |**2021-11-15**|**Can Graph Neural Networks Learn to Solve MaxSAT Problem?**|Minghao Liu et.al.|[2111.07568v1](http://arxiv.org/abs/2111.07568v1)|null|
 |**2021-11-15**|**A Comparative Study on Basic Elements of Deep Learning Models for Spatial-Temporal Traffic Forecasting**|Yuyol Shin et.al.|[2111.07513v1](http://arxiv.org/abs/2111.07513v1)|null|
 |**2021-11-15**|**Power Allocation for Wireless Federated Learning using Graph Neural Networks**|Boning Li et.al.|[2111.07480v1](http://arxiv.org/abs/2111.07480v1)|**[link](https://github.com/bl166/wirelessfl-pdgnet)**|
-|**2021-11-14**|**Improving Compound Activity Classification via Deep Transfer and Representation Learning**|Vishal Dey et.al.|[2111.07439v1](http://arxiv.org/abs/2111.07439v1)|null|
+|**2021-11-14**|**Improving Compound Activity Classification via Deep Transfer and Representation Learning**|Vishal Dey et.al.|[2111.07439v1](http://arxiv.org/abs/2111.07439v1)|**[link](https://github.com/ninglab/TransferAct)**|
 |**2021-11-14**|**$p$-Laplacian Based Graph Neural Networks**|Guoji Fu et.al.|[2111.07337v1](http://arxiv.org/abs/2111.07337v1)|null|
 |**2021-11-14**|**Sign Language Translation with Hierarchical Spatio-TemporalGraph Neural Network**|Jichao Kan et.al.|[2111.07258v1](http://arxiv.org/abs/2111.07258v1)|null|
 |**2021-11-13**|**Learning to Evolve on Dynamic Graphs**|Xintao Xiang et.al.|[2111.07032v1](http://arxiv.org/abs/2111.07032v1)|null|
