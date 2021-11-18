@@ -95,7 +95,7 @@
 |**2021-11-16**|**On Effective Scheduling of Model-based Reinforcement Learning**|Hang Lai et.al.|[2111.08550v1](http://arxiv.org/abs/2111.08550v1)|**[link](https://github.com/hanglai/autombpo)**|
 |**2021-11-16**|**Causal policy ranking**|Daniel McNamee et.al.|[2111.08415v1](http://arxiv.org/abs/2111.08415v1)|null|
 |**2021-11-16**|**CLARA: A Constrained Reinforcement Learning Based Resource Allocation Framework for Network Slicing**|Yongshuai Liu et.al.|[2111.08397v1](http://arxiv.org/abs/2111.08397v1)|null|
-|**2021-11-16**|**Analysis of Model-Free Reinforcement Learning Control Schemes on self-balancing Wheeled Extendible System**|Kanishk . et.al.|[2111.08389v1](http://arxiv.org/abs/2111.08389v1)|null|
+|**2021-11-16**|**Analysis of Model-Free Reinforcement Learning Control Schemes on self-balancing Wheeled Extendible System**|Kanishk . et.al.|[2111.08389v2](http://arxiv.org/abs/2111.08389v2)|null|
 |**2021-11-16**|**A Performance Bound for Model Based Online Reinforcement Learning**|Lukas Beckenbach et.al.|[2111.08319v1](http://arxiv.org/abs/2111.08319v1)|null|
 |**2021-11-16**|**Improving Learning from Demonstrations by Learning from Experience**|Haofeng Liu et.al.|[2111.08156v1](http://arxiv.org/abs/2111.08156v1)|null|
 |**2021-11-15**|**The Partially Observable History Process**|Dustin Morrill et.al.|[2111.08102v1](http://arxiv.org/abs/2111.08102v1)|null|
@@ -251,7 +251,7 @@
 |**2021-11-16**|**Inferring halo masses with Graph Neural Networks**|Pablo Villanueva-Domingo et.al.|[2111.08683v1](http://arxiv.org/abs/2111.08683v1)|**[link](https://github.com/PabloVD/HaloGraphNet)**|
 |**2021-11-16**|**Keypoint Message Passing for Video-based Person Re-Identification**|Di Chen et.al.|[2111.08279v1](http://arxiv.org/abs/2111.08279v1)|null|
 |**2021-11-16**|**SStaGCN: Simplified stacking based graph convolutional networks**|Jia Cai et.al.|[2111.08228v1](http://arxiv.org/abs/2111.08228v1)|null|
-|**2021-11-16**|**Learn Locally, Correct Globally: A Distributed Algorithm for Training Graph Neural Networks**|Morteza Ramezani et.al.|[2111.08202v1](http://arxiv.org/abs/2111.08202v1)|null|
+|**2021-11-16**|**Learn Locally, Correct Globally: A Distributed Algorithm for Training Graph Neural Networks**|Morteza Ramezani et.al.|[2111.08202v2](http://arxiv.org/abs/2111.08202v2)|null|
 |**2021-11-16**|**Graph neural network-based fault diagnosis: a review**|Zhiwen Chen et.al.|[2111.08185v1](http://arxiv.org/abs/2111.08185v1)|null|
 |**2021-11-16**|**Coarse-to-fine Animal Pose and Shape Estimation**|Chen Li et.al.|[2111.08176v1](http://arxiv.org/abs/2111.08176v1)|null|
 |**2021-11-15**|**Short-Term Power Prediction for Renewable Energy Using Hybrid Graph Convolutional Network and Long Short-Term Memory Approach**|Wenlong Liao et.al.|[2111.07958v1](http://arxiv.org/abs/2111.07958v1)|null|
