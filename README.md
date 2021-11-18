@@ -89,6 +89,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-17**|**Self-Learning Tuning for Post-Silicon Validation**|Peter Domanski et.al.|[2111.08995v1](http://arxiv.org/abs/2111.08995v1)|null|
+|**2021-11-17**|**Adversarial Tradeoffs in Linear Inverse Problems and Robust StateEstimation**|Bruce D. Lee et.al.|[2111.08864v1](http://arxiv.org/abs/2111.08864v1)|null|
+|**2021-11-17**|**SEIHAI: A Sample-efficient Hierarchical AI for the MineRL Competition**|Hangyu Mao et.al.|[2111.08857v1](http://arxiv.org/abs/2111.08857v1)|null|
+|**2021-11-17**|**NNSynth: Neural Network Guided Abstraction-Based Controller Synthesis for Stochastic Systems**|Xiaowu Sun et.al.|[2111.08853v1](http://arxiv.org/abs/2111.08853v1)|null|
+|**2021-11-16**|**The Case for Learned In-Memory Joins**|Ibrahim Sabek et.al.|[2111.08824v1](http://arxiv.org/abs/2111.08824v1)|null|
+|**2021-11-16**|**CleanRL: High-quality Single-file Implementations of Deep Reinforcement Learning Algorithms**|Shengyi Huang et.al.|[2111.08819v1](http://arxiv.org/abs/2111.08819v1)|**[link](https://github.com/vwxyzjn/cleanrl)**|
+|**2021-11-16**|**Compressive Features in Offline Reinforcement Learning for Recommender Systems**|Hung Nguyen et.al.|[2111.08817v1](http://arxiv.org/abs/2111.08817v1)|null|
 |**2021-11-16**|**Reinforcement Learning with Feedback from Multiple Humans with Diverse Skills**|Taku Yamagata et.al.|[2111.08596v1](http://arxiv.org/abs/2111.08596v1)|null|
 |**2021-11-16**|**GRI: General Reinforced Imitation and its Application to Vision-Based Autonomous Driving**|Raphael Chekroun et.al.|[2111.08575v1](http://arxiv.org/abs/2111.08575v1)|null|
 |**2021-11-16**|**Polymatrix Competitive Gradient Descent**|Jeffrey Ma et.al.|[2111.08565v1](http://arxiv.org/abs/2111.08565v1)|null|
@@ -248,6 +255,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-17**|**IV-GNN : Interval Valued Data Handling Using Graph Neural Network**|Sucheta Dawn et.al.|[2111.09194v1](http://arxiv.org/abs/2111.09194v1)|null|
+|**2021-11-17**|**Generating Unrestricted 3D Adversarial Point Clouds**|Xuelong Dai et.al.|[2111.08973v1](http://arxiv.org/abs/2111.08973v1)|null|
+|**2021-11-17**|**A GNN-RNN Approach for Harnessing Geospatial and Temporal Information: Application to Crop Yield Prediction**|Joshua Fan et.al.|[2111.08900v1](http://arxiv.org/abs/2111.08900v1)|null|
+|**2021-11-17**|**GNN-DSE: Automated Accelerator Optimization Aided by Graph Neural Networks**|Atefeh Sohrabizadeh et.al.|[2111.08848v1](http://arxiv.org/abs/2111.08848v1)|null|
 |**2021-11-16**|**Inferring halo masses with Graph Neural Networks**|Pablo Villanueva-Domingo et.al.|[2111.08683v1](http://arxiv.org/abs/2111.08683v1)|**[link](https://github.com/PabloVD/HaloGraphNet)**|
 |**2021-11-16**|**Keypoint Message Passing for Video-based Person Re-Identification**|Di Chen et.al.|[2111.08279v1](http://arxiv.org/abs/2111.08279v1)|null|
 |**2021-11-16**|**SStaGCN: Simplified stacking based graph convolutional networks**|Jia Cai et.al.|[2111.08228v1](http://arxiv.org/abs/2111.08228v1)|null|
