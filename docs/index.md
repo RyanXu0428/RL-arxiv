@@ -93,6 +93,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-11-18**|**Successor Feature Landmarks for Long-Horizon Goal-Conditioned Reinforcement Learning**|Christopher Hoang et.al.|[2111.09858v1](http://arxiv.org/abs/2111.09858v1)|null|
+|**2021-11-18**|**Reinforcement Learning on Human Decision Models for Uniquely Collaborative AI Teammates**|Nicholas Kantack et.al.|[2111.09800v1](http://arxiv.org/abs/2111.09800v1)|null|
+|**2021-11-18**|**A Survey of Generalisation in Deep Reinforcement Learning**|Robert Kirk et.al.|[2111.09794v1](http://arxiv.org/abs/2111.09794v1)|null|
+|**2021-11-18**|**Enhancing the Insertion of NOP Instructions to Obfuscate Malware via Deep Reinforcement Learning**|Daniel Gibert et.al.|[2111.09626v1](http://arxiv.org/abs/2111.09626v1)|null|
+|**2021-11-18**|**Lifelong Reinforcement Learning with Temporal Logic Formulas and Reward Machines**|Xuejing Zheng et.al.|[2111.09475v1](http://arxiv.org/abs/2111.09475v1)|null|
 |**2021-11-17**|**Self-Learning Tuning for Post-Silicon Validation**|Peter Domanski et.al.|[2111.08995v2](http://arxiv.org/abs/2111.08995v2)|null|
 |**2021-11-17**|**Adversarial Tradeoffs in Linear Inverse Problems and Robust StateEstimation**|Bruce D. Lee et.al.|[2111.08864v1](http://arxiv.org/abs/2111.08864v1)|null|
 |**2021-11-17**|**SEIHAI: A Sample-efficient Hierarchical AI for the MineRL Competition**|Hangyu Mao et.al.|[2111.08857v1](http://arxiv.org/abs/2111.08857v1)|null|
@@ -259,6 +264,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-11-18**|**QGTC: Accelerating Quantized GNN via GPU Tensor Core**|Yuke Wang et.al.|[2111.09547v1](http://arxiv.org/abs/2111.09547v1)|null|
 |**2021-11-17**|**IV-GNN : Interval Valued Data Handling Using Graph Neural Network**|Sucheta Dawn et.al.|[2111.09194v1](http://arxiv.org/abs/2111.09194v1)|null|
 |**2021-11-17**|**Generating Unrestricted 3D Adversarial Point Clouds**|Xuelong Dai et.al.|[2111.08973v1](http://arxiv.org/abs/2111.08973v1)|null|
 |**2021-11-17**|**A GNN-RNN Approach for Harnessing Geospatial and Temporal Information: Application to Crop Yield Prediction**|Joshua Fan et.al.|[2111.08900v1](http://arxiv.org/abs/2111.08900v1)|null|
