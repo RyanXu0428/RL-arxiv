@@ -264,9 +264,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2021-11-18**|**QGTC: Accelerating Quantized GNN via GPU Tensor Core**|Yuke Wang et.al.|[2111.09547v1](http://arxiv.org/abs/2111.09547v1)|null|
+|**2021-11-18**|**QGTC: Accelerating Quantized GNN via GPU Tensor Core**|Yuke Wang et.al.|[2111.09547v2](http://arxiv.org/abs/2111.09547v2)|null|
 |**2021-11-17**|**IV-GNN : Interval Valued Data Handling Using Graph Neural Network**|Sucheta Dawn et.al.|[2111.09194v1](http://arxiv.org/abs/2111.09194v1)|null|
-|**2021-11-17**|**Generating Unrestricted 3D Adversarial Point Clouds**|Xuelong Dai et.al.|[2111.08973v1](http://arxiv.org/abs/2111.08973v1)|null|
+|**2021-11-17**|**Generating Unrestricted 3D Adversarial Point Clouds**|Xuelong Dai et.al.|[2111.08973v2](http://arxiv.org/abs/2111.08973v2)|null|
 |**2021-11-17**|**A GNN-RNN Approach for Harnessing Geospatial and Temporal Information: Application to Crop Yield Prediction**|Joshua Fan et.al.|[2111.08900v1](http://arxiv.org/abs/2111.08900v1)|null|
 |**2021-11-17**|**GNN-DSE: Automated Accelerator Optimization Aided by Graph Neural Networks**|Atefeh Sohrabizadeh et.al.|[2111.08848v1](http://arxiv.org/abs/2111.08848v1)|null|
 |**2021-11-16**|**Inferring halo masses with Graph Neural Networks**|Pablo Villanueva-Domingo et.al.|[2111.08683v1](http://arxiv.org/abs/2111.08683v1)|**[link](https://github.com/PabloVD/HaloGraphNet)**|
