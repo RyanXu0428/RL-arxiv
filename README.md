@@ -89,6 +89,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-19**|**Generalized Decision Transformer for Offline Hindsight Information Matching**|Hiroki Furuta et.al.|[2111.10364v1](http://arxiv.org/abs/2111.10364v1)|null|
+|**2021-11-19**|**Fast and Data-Efficient Training of Rainbow: an Experimental Study on Atari**|Dominik Schmidt et.al.|[2111.10247v1](http://arxiv.org/abs/2111.10247v1)|**[link](https://github.com/schmidtdominik/rainbow)**|
+|**2021-11-19**|**Policy Gradient Approach to Compilation of Variational Quantum Circuits**|David A. Herrera-Martí et.al.|[2111.10227v1](http://arxiv.org/abs/2111.10227v1)|null|
+|**2021-11-19**|**Uncertainty-aware Low-Rank Q-Matrix Estimation for Deep Reinforcement Learning**|Tong Sang et.al.|[2111.10103v1](http://arxiv.org/abs/2111.10103v1)|null|
+|**2021-11-19**|**Reinforcement Learning with Adaptive Curriculum Dynamics Randomization for Fault-Tolerant Robot Control**|Wataru Okamoto et.al.|[2111.10005v1](http://arxiv.org/abs/2111.10005v1)|null|
+|**2021-11-18**|**Learning To Estimate Regions Of Attraction Of Autonomous Dynamical Systems Using Physics-Informed Neural Networks**|Cody Scharzenberger et.al.|[2111.09930v1](http://arxiv.org/abs/2111.09930v1)|null|
 |**2021-11-18**|**Successor Feature Landmarks for Long-Horizon Goal-Conditioned Reinforcement Learning**|Christopher Hoang et.al.|[2111.09858v1](http://arxiv.org/abs/2111.09858v1)|null|
 |**2021-11-18**|**Reinforcement Learning on Human Decision Models for Uniquely Collaborative AI Teammates**|Nicholas Kantack et.al.|[2111.09800v1](http://arxiv.org/abs/2111.09800v1)|null|
 |**2021-11-18**|**A Survey of Generalisation in Deep Reinforcement Learning**|Robert Kirk et.al.|[2111.09794v1](http://arxiv.org/abs/2111.09794v1)|null|
@@ -260,9 +266,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2021-11-18**|**QGTC: Accelerating Quantized GNN via GPU Tensor Core**|Yuke Wang et.al.|[2111.09547v2](http://arxiv.org/abs/2111.09547v2)|null|
+|**2021-11-19**|**GRecX: An Efficient and Unified Benchmark for GNN-based Recommendation**|Desheng Cai et.al.|[2111.10342v1](http://arxiv.org/abs/2111.10342v1)|**[link](https://github.com/maenzhier/grecx)**|
+|**2021-11-19**|**Positional Encoder Graph Neural Networks for Geographic Data**|Konstantin Klemmer et.al.|[2111.10144v1](http://arxiv.org/abs/2111.10144v1)|null|
+|**2021-11-19**|**Graph Neural Networks with Feature and Structure Aware Random Walk**|Wei Zhuo et.al.|[2111.10102v1](http://arxiv.org/abs/2111.10102v1)|null|
+|**2021-11-19**|**Explaining GNN over Evolving Graphs using Information Flow**|Yazheng Liu et.al.|[2111.10037v1](http://arxiv.org/abs/2111.10037v1)|null|
+|**2021-11-18**|**QGTC: Accelerating Quantized GNN via GPU Tensor Core**|Yuke Wang et.al.|[2111.09547v2](http://arxiv.org/abs/2111.09547v2)|**[link](https://github.com/YukeWang96/PPoPP22_QGTC)**|
 |**2021-11-17**|**IV-GNN : Interval Valued Data Handling Using Graph Neural Network**|Sucheta Dawn et.al.|[2111.09194v1](http://arxiv.org/abs/2111.09194v1)|null|
-|**2021-11-17**|**Generating Unrestricted 3D Adversarial Point Clouds**|Xuelong Dai et.al.|[2111.08973v2](http://arxiv.org/abs/2111.08973v2)|null|
+|**2021-11-17**|**Generating Unrestricted 3D Adversarial Point Clouds**|Xuelong Dai et.al.|[2111.08973v2](http://arxiv.org/abs/2111.08973v2)|**[link](https://github.com/EricDai0/AdvGCGAN)**|
 |**2021-11-17**|**A GNN-RNN Approach for Harnessing Geospatial and Temporal Information: Application to Crop Yield Prediction**|Joshua Fan et.al.|[2111.08900v1](http://arxiv.org/abs/2111.08900v1)|null|
 |**2021-11-17**|**GNN-DSE: Automated Accelerator Optimization Aided by Graph Neural Networks**|Atefeh Sohrabizadeh et.al.|[2111.08848v1](http://arxiv.org/abs/2111.08848v1)|null|
 |**2021-11-16**|**Inferring halo masses with Graph Neural Networks**|Pablo Villanueva-Domingo et.al.|[2111.08683v1](http://arxiv.org/abs/2111.08683v1)|**[link](https://github.com/PabloVD/HaloGraphNet)**|
