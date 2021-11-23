@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-11-22**|**An application of reinforcement learning to residential energy storage under real-time pricing**|Eli Brock et.al.|[2111.11367v1](http://arxiv.org/abs/2111.11367v1)|null|
+|**2021-11-22**|**Policy Gradient and Actor-Critic Learning in Continuous Time and Space: Theory and Algorithms**|Yanwei Jia et.al.|[2111.11232v1](http://arxiv.org/abs/2111.11232v1)|null|
+|**2021-11-22**|**Off-Policy Correction For Multi-Agent Reinforcement Learning**|Michał Zawalski et.al.|[2111.11229v1](http://arxiv.org/abs/2111.11229v1)|**[link](https://github.com/awarelab/seed_rl)**|
+|**2021-11-22**|**Plan Better Amid Conservatism: Offline Multi-Agent Reinforcement Learning with Actor Rectification**|Ling Pan et.al.|[2111.11188v1](http://arxiv.org/abs/2111.11188v1)|null|
+|**2021-11-22**|**Bridging the gap between learning and heuristic based pushing policies**|Marios Kiatos et.al.|[2111.11156v1](http://arxiv.org/abs/2111.11156v1)|null|
+|**2021-11-22**|**Multi-lingual agents through multi-headed neural networks**|J. D. Thomas et.al.|[2111.11129v1](http://arxiv.org/abs/2111.11129v1)|null|
+|**2021-11-22**|**UMBRELLA: Uncertainty-Aware Model-Based Offline Reinforcement Learning Leveraging Planning**|Christopher Diehl et.al.|[2111.11097v1](http://arxiv.org/abs/2111.11097v1)|null|
+|**2021-11-22**|**Episodic Multi-agent Reinforcement Learning with Curiosity-Driven Exploration**|Lulu Zheng et.al.|[2111.11032v1](http://arxiv.org/abs/2111.11032v1)|null|
+|**2021-11-22**|**Reinforcement Learning for Few-Shot Text Generation Adaptation**|Cheng Pengsen et.al.|[2111.11030v1](http://arxiv.org/abs/2111.11030v1)|null|
+|**2021-11-22**|**Gradient Temporal Difference with Momentum: Stability and Convergence**|Rohan Deb et.al.|[2111.11004v1](http://arxiv.org/abs/2111.11004v1)|null|
 |**2021-11-19**|**Generalized Decision Transformer for Offline Hindsight Information Matching**|Hiroki Furuta et.al.|[2111.10364v1](http://arxiv.org/abs/2111.10364v1)|null|
 |**2021-11-19**|**Fast and Data-Efficient Training of Rainbow: an Experimental Study on Atari**|Dominik Schmidt et.al.|[2111.10247v1](http://arxiv.org/abs/2111.10247v1)|**[link](https://github.com/schmidtdominik/rainbow)**|
 |**2021-11-19**|**Policy Gradient Approach to Compilation of Variational Quantum Circuits**|David A. Herrera-Martí et.al.|[2111.10227v1](http://arxiv.org/abs/2111.10227v1)|null|
@@ -270,6 +280,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-11-22**|**Anomaly-resistant Graph Neural Networks via Neural Architecture Search**|Minjae Park et.al.|[2111.11406v1](http://arxiv.org/abs/2111.11406v1)|null|
+|**2021-11-22**|**Network-wide Multi-step Traffic Volume Prediction using Graph Convolutional Gated Recurrent Neural Network**|Lei Lin et.al.|[2111.11337v1](http://arxiv.org/abs/2111.11337v1)|**[link](https://github.com/leilin-research/gcgrnn)**|
+|**2021-11-22**|**Face Presentation Attack Detection using Taskonomy Feature**|Wentian Zhang et.al.|[2111.11046v1](http://arxiv.org/abs/2111.11046v1)|null|
+|**2021-11-21**|**Federated Social Recommendation with Graph Neural Network**|Zhiwei Liu et.al.|[2111.10778v1](http://arxiv.org/abs/2111.10778v1)|null|
+|**2021-11-20**|**Towards Graph Self-Supervised Learning with Contrastive Adjusted Zooming**|Yizhen Zheng et.al.|[2111.10698v1](http://arxiv.org/abs/2111.10698v1)|null|
+|**2021-11-20**|**Image-Like Graph Representations for Improved Molecular Property Prediction**|Toni Sagayaraj et.al.|[2111.10695v1](http://arxiv.org/abs/2111.10695v1)|null|
+|**2021-11-20**|**Generalizing Graph Neural Networks on Out-Of-Distribution Graphs**|Shaohua Fan et.al.|[2111.10657v1](http://arxiv.org/abs/2111.10657v1)|null|
+|**2021-11-20**|**Edge-Enhanced Global Disentangled Graph Neural Network for Sequential Recommendation**|Yunyi Li et.al.|[2111.10539v1](http://arxiv.org/abs/2111.10539v1)|null|
+|**2021-11-20**|**Quaternion-Based Graph Convolution Network for Recommendation**|Yaxing Fang et.al.|[2111.10536v1](http://arxiv.org/abs/2111.10536v1)|null|
 |**2021-11-19**|**GRecX: An Efficient and Unified Benchmark for GNN-based Recommendation**|Desheng Cai et.al.|[2111.10342v1](http://arxiv.org/abs/2111.10342v1)|**[link](https://github.com/maenzhier/grecx)**|
 |**2021-11-19**|**Positional Encoder Graph Neural Networks for Geographic Data**|Konstantin Klemmer et.al.|[2111.10144v1](http://arxiv.org/abs/2111.10144v1)|null|
 |**2021-11-19**|**Graph Neural Networks with Feature and Structure Aware Random Walk**|Wei Zhuo et.al.|[2111.10102v1](http://arxiv.org/abs/2111.10102v1)|null|
