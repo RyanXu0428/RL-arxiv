@@ -278,7 +278,7 @@ layout: default
 |**2021-11-17**|**IV-GNN : Interval Valued Data Handling Using Graph Neural Network**|Sucheta Dawn et.al.|[2111.09194v1](http://arxiv.org/abs/2111.09194v1)|null|
 |**2021-11-17**|**Generating Unrestricted 3D Adversarial Point Clouds**|Xuelong Dai et.al.|[2111.08973v2](http://arxiv.org/abs/2111.08973v2)|**[link](https://github.com/EricDai0/AdvGCGAN)**|
 |**2021-11-17**|**A GNN-RNN Approach for Harnessing Geospatial and Temporal Information: Application to Crop Yield Prediction**|Joshua Fan et.al.|[2111.08900v1](http://arxiv.org/abs/2111.08900v1)|null|
-|**2021-11-17**|**GNN-DSE: Automated Accelerator Optimization Aided by Graph Neural Networks**|Atefeh Sohrabizadeh et.al.|[2111.08848v1](http://arxiv.org/abs/2111.08848v1)|null|
+|**2021-11-17**|**Enabling Automated FPGA Accelerator Optimization Using Graph Neural Networks**|Atefeh Sohrabizadeh et.al.|[2111.08848v2](http://arxiv.org/abs/2111.08848v2)|null|
 |**2021-11-16**|**Inferring halo masses with Graph Neural Networks**|Pablo Villanueva-Domingo et.al.|[2111.08683v1](http://arxiv.org/abs/2111.08683v1)|**[link](https://github.com/PabloVD/HaloGraphNet)**|
 |**2021-11-16**|**Keypoint Message Passing for Video-based Person Re-Identification**|Di Chen et.al.|[2111.08279v1](http://arxiv.org/abs/2111.08279v1)|null|
 |**2021-11-16**|**SStaGCN: Simplified stacking based graph convolutional networks**|Jia Cai et.al.|[2111.08228v1](http://arxiv.org/abs/2111.08228v1)|null|
