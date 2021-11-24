@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-11-23**|**Semantic-Aware Collaborative Deep Reinforcement Learning Over Wireless Cellular Networks**|Fatemeh Lotfi et.al.|[2111.12064v1](http://arxiv.org/abs/2111.12064v1)|null|
+|**2021-11-23**|**A bifurcation threshold for contact-induced language change**|Henri Kauhanen et.al.|[2111.12061v1](http://arxiv.org/abs/2111.12061v1)|null|
+|**2021-11-23**|**Generating GPU Compiler Heuristics using Reinforcement Learning**|Ian Colbert et.al.|[2111.12055v1](http://arxiv.org/abs/2111.12055v1)|null|
+|**2021-11-23**|**Adaptive Multi-Goal Exploration**|Jean Tarbouriech et.al.|[2111.12045v1](http://arxiv.org/abs/2111.12045v1)|null|
+|**2021-11-23**|**Reinforcement Learning for Volt-Var Control: A Novel Two-stage Progressive Training Strategy**|Si Zhang et.al.|[2111.11987v1](http://arxiv.org/abs/2111.11987v1)|null|
+|**2021-11-23**|**Symbol-Based Over-the-Air Digital Predistortion Using Reinforcement Learning**|Yibo Wu et.al.|[2111.11923v1](http://arxiv.org/abs/2111.11923v1)|null|
+|**2021-11-23**|**Schedule Based Temporal Difference Algorithms**|Rohan Deb et.al.|[2111.11768v1](http://arxiv.org/abs/2111.11768v1)|null|
+|**2021-11-23**|**Independent Learning in Stochastic Games**|Asuman Ozdaglar et.al.|[2111.11743v1](http://arxiv.org/abs/2111.11743v1)|null|
+|**2021-11-23**|**Sample Efficient Imitation Learning via Reward Function Trained in Advance**|Lihua Zhang et.al.|[2111.11711v1](http://arxiv.org/abs/2111.11711v1)|null|
+|**2021-11-23**|**Status-quo policy gradient in Multi-Agent Reinforcement Learning**|Pinkesh Badjatiya et.al.|[2111.11692v1](http://arxiv.org/abs/2111.11692v1)|null|
 |**2021-11-22**|**An application of reinforcement learning to residential energy storage under real-time pricing**|Eli Brock et.al.|[2111.11367v1](http://arxiv.org/abs/2111.11367v1)|null|
 |**2021-11-22**|**Policy Gradient and Actor-Critic Learning in Continuous Time and Space: Theory and Algorithms**|Yanwei Jia et.al.|[2111.11232v1](http://arxiv.org/abs/2111.11232v1)|null|
 |**2021-11-22**|**Off-Policy Correction For Multi-Agent Reinforcement Learning**|Michał Zawalski et.al.|[2111.11229v1](http://arxiv.org/abs/2111.11229v1)|**[link](https://github.com/awarelab/seed_rl)**|
@@ -280,6 +290,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-11-23**|**Hierarchical Graph Networks for 3D Human Pose Estimation**|Han Li et.al.|[2111.11927v1](http://arxiv.org/abs/2111.11927v1)|null|
+|**2021-11-23**|**Learning Dynamic Preference Structure Embedding From Temporal Networks**|Tongya Zheng et.al.|[2111.11886v1](http://arxiv.org/abs/2111.11886v1)|null|
+|**2021-11-23**|**Gait Identification under Surveillance Environment based on Human Skeleton**|Xingkai Zheng et.al.|[2111.11720v1](http://arxiv.org/abs/2111.11720v1)|null|
+|**2021-11-23**|**Network In Graph Neural Network**|Xiang Song et.al.|[2111.11638v1](http://arxiv.org/abs/2111.11638v1)|null|
+|**2021-11-22**|**Learnable Structural Semantic Readout for Graph Classification**|Dongha Lee et.al.|[2111.11523v1](http://arxiv.org/abs/2111.11523v1)|null|
+|**2021-11-22**|**Graph Neural Networks with Parallel Neighborhood Aggregations for Graph Classification**|Siddhant Doshi et.al.|[2111.11482v1](http://arxiv.org/abs/2111.11482v1)|null|
 |**2021-11-22**|**Anomaly-resistant Graph Neural Networks via Neural Architecture Search**|M. Park et.al.|[2111.11406v2](http://arxiv.org/abs/2111.11406v2)|null|
 |**2021-11-22**|**Network-wide Multi-step Traffic Volume Prediction using Graph Convolutional Gated Recurrent Neural Network**|Lei Lin et.al.|[2111.11337v1](http://arxiv.org/abs/2111.11337v1)|**[link](https://github.com/leilin-research/gcgrnn)**|
 |**2021-11-22**|**Face Presentation Attack Detection using Taskonomy Feature**|Wentian Zhang et.al.|[2111.11046v1](http://arxiv.org/abs/2111.11046v1)|null|
