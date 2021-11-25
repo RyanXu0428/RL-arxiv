@@ -288,7 +288,7 @@
 |---|---|---|---|---|
 |**2021-11-23**|**Hierarchical Graph Networks for 3D Human Pose Estimation**|Han Li et.al.|[2111.11927v1](http://arxiv.org/abs/2111.11927v1)|null|
 |**2021-11-23**|**Learning Dynamic Preference Structure Embedding From Temporal Networks**|Tongya Zheng et.al.|[2111.11886v1](http://arxiv.org/abs/2111.11886v1)|null|
-|**2021-11-23**|**Gait Identification under Surveillance Environment based on Human Skeleton**|Xingkai Zheng et.al.|[2111.11720v1](http://arxiv.org/abs/2111.11720v1)|null|
+|**2021-11-23**|**Gait Identification under Surveillance Environment based on Human Skeleton**|Xingkai Zheng et.al.|[2111.11720v2](http://arxiv.org/abs/2111.11720v2)|null|
 |**2021-11-23**|**Network In Graph Neural Network**|Xiang Song et.al.|[2111.11638v1](http://arxiv.org/abs/2111.11638v1)|null|
 |**2021-11-22**|**Learnable Structural Semantic Readout for Graph Classification**|Dongha Lee et.al.|[2111.11523v1](http://arxiv.org/abs/2111.11523v1)|null|
 |**2021-11-22**|**Graph Neural Networks with Parallel Neighborhood Aggregations for Graph Classification**|Siddhant Doshi et.al.|[2111.11482v1](http://arxiv.org/abs/2111.11482v1)|**[link](https://github.com/siddhant-doshi/spin)**|
