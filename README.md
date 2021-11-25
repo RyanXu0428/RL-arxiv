@@ -1,4 +1,4 @@
-## Updated on 2021.11.24
+## Updated on 2021.11.25
 
 ## SLAM
 
@@ -291,7 +291,7 @@
 |**2021-11-23**|**Gait Identification under Surveillance Environment based on Human Skeleton**|Xingkai Zheng et.al.|[2111.11720v1](http://arxiv.org/abs/2111.11720v1)|null|
 |**2021-11-23**|**Network In Graph Neural Network**|Xiang Song et.al.|[2111.11638v1](http://arxiv.org/abs/2111.11638v1)|null|
 |**2021-11-22**|**Learnable Structural Semantic Readout for Graph Classification**|Dongha Lee et.al.|[2111.11523v1](http://arxiv.org/abs/2111.11523v1)|null|
-|**2021-11-22**|**Graph Neural Networks with Parallel Neighborhood Aggregations for Graph Classification**|Siddhant Doshi et.al.|[2111.11482v1](http://arxiv.org/abs/2111.11482v1)|null|
+|**2021-11-22**|**Graph Neural Networks with Parallel Neighborhood Aggregations for Graph Classification**|Siddhant Doshi et.al.|[2111.11482v1](http://arxiv.org/abs/2111.11482v1)|**[link](https://github.com/siddhant-doshi/spin)**|
 |**2021-11-22**|**Anomaly-resistant Graph Neural Networks via Neural Architecture Search**|M. Park et.al.|[2111.11406v2](http://arxiv.org/abs/2111.11406v2)|null|
 |**2021-11-22**|**Network-wide Multi-step Traffic Volume Prediction using Graph Convolutional Gated Recurrent Neural Network**|Lei Lin et.al.|[2111.11337v1](http://arxiv.org/abs/2111.11337v1)|**[link](https://github.com/leilin-research/gcgrnn)**|
 |**2021-11-22**|**Face Presentation Attack Detection using Taskonomy Feature**|Wentian Zhang et.al.|[2111.11046v1](http://arxiv.org/abs/2111.11046v1)|null|
