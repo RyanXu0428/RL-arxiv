@@ -89,6 +89,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-24**|**Reinforcement Learning for General LTL Objectives Is Intractable**|Cambridge Yang et.al.|[2111.12679v1](http://arxiv.org/abs/2111.12679v1)|null|
+|**2021-11-24**|**Adaptively Calibrated Critic Estimates for Deep Reinforcement Learning**|Nicolai Dorka et.al.|[2111.12673v1](http://arxiv.org/abs/2111.12673v1)|null|
+|**2021-11-24**|**Accelerating Deep Learning with Dynamic Data Pruning**|Ravi S Raju et.al.|[2111.12621v1](http://arxiv.org/abs/2111.12621v1)|null|
+|**2021-11-24**|**Learning State Representations via Retracing in Reinforcement Learning**|Changmin Yu et.al.|[2111.12600v1](http://arxiv.org/abs/2111.12600v1)|null|
+|**2021-11-24**|**How does AI play football? An analysis of RL and real-world football strategies**|Atom Scott et.al.|[2111.12340v1](http://arxiv.org/abs/2111.12340v1)|null|
+|**2021-11-24**|**A comment on stabilizing reinforcement learning**|Pavel Osinenko et.al.|[2111.12316v1](http://arxiv.org/abs/2111.12316v1)|null|
+|**2021-11-24**|**Reinforcement Learning based Path Exploration for Sequential Explainable Recommendation**|Yicong Li et.al.|[2111.12262v1](http://arxiv.org/abs/2111.12262v1)|null|
+|**2021-11-24**|**Long-Term CSI-based Design for RIS-Aided Multiuser MISO Systems Exploiting Deep Reinforcement Learning**|Hong Ren et.al.|[2111.12212v1](http://arxiv.org/abs/2111.12212v1)|null|
+|**2021-11-23**|**Fixed Points in Cyber Space: Rethinking Optimal Evasion Attacks in the Age of AI-NIDS**|Christian Schroeder de Witt et.al.|[2111.12197v1](http://arxiv.org/abs/2111.12197v1)|null|
 |**2021-11-23**|**Semantic-Aware Collaborative Deep Reinforcement Learning Over Wireless Cellular Networks**|Fatemeh Lotfi et.al.|[2111.12064v1](http://arxiv.org/abs/2111.12064v1)|null|
 |**2021-11-23**|**A bifurcation threshold for contact-induced language change**|Henri Kauhanen et.al.|[2111.12061v1](http://arxiv.org/abs/2111.12061v1)|null|
 |**2021-11-23**|**Generating GPU Compiler Heuristics using Reinforcement Learning**|Ian Colbert et.al.|[2111.12055v1](http://arxiv.org/abs/2111.12055v1)|null|
@@ -286,6 +295,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-24**|**Hierarchical Graph-Convolutional Variational AutoEncoding for Generative Modelling of Human Motion**|Anthony Bourached et.al.|[2111.12602v1](http://arxiv.org/abs/2111.12602v1)|null|
+|**2021-11-23**|**ChebLieNet: Invariant Spectral Graph NNs Turned Equivariant by Riemannian Geometry on Lie Groups**|Hugo Aguettaz et.al.|[2111.12139v1](http://arxiv.org/abs/2111.12139v1)|**[link](https://github.com/haguettaz/cheblienet)**|
+|**2021-11-23**|**On the Unreasonable Effectiveness of Feature propagation in Learning on Graphs with Missing Node Features**|Emanuele Rossi et.al.|[2111.12128v1](http://arxiv.org/abs/2111.12128v1)|null|
 |**2021-11-23**|**Hierarchical Graph Networks for 3D Human Pose Estimation**|Han Li et.al.|[2111.11927v1](http://arxiv.org/abs/2111.11927v1)|null|
 |**2021-11-23**|**Learning Dynamic Preference Structure Embedding From Temporal Networks**|Tongya Zheng et.al.|[2111.11886v1](http://arxiv.org/abs/2111.11886v1)|null|
 |**2021-11-23**|**Gait Identification under Surveillance Environment based on Human Skeleton**|Xingkai Zheng et.al.|[2111.11720v2](http://arxiv.org/abs/2111.11720v2)|null|
