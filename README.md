@@ -306,7 +306,7 @@
 |---|---|---|---|---|
 |**2021-11-26**|**Graph-based Solutions with Residuals for Intrusion Detection: the Modified E-GraphSAGE and E-ResGAT Algorithms**|Liyan Chang et.al.|[2111.13597v1](http://arxiv.org/abs/2111.13597v1)|null|
 |**2021-11-25**|**Demystifying Graph Neural Network Explanations**|Anna Himmelhuber et.al.|[2111.12984v1](http://arxiv.org/abs/2111.12984v1)|null|
-|**2021-11-25**|**AutoHEnsGNN: Winning Solution to AutoGraph Challenge for KDD Cup 2020**|Jin Xu et.al.|[2111.12952v1](http://arxiv.org/abs/2111.12952v1)|null|
+|**2021-11-25**|**AutoHEnsGNN: Winning Solution to AutoGraph Challenge for KDD Cup 2020**|Jin Xu et.al.|[2111.12952v1](http://arxiv.org/abs/2111.12952v1)|**[link](https://github.com/aister2020/KDDCUP_2020_AutoGraph_1st_Place)**|
 |**2021-11-25**|**Reliable Graph Neural Networks for Drug Discovery Under Distributional Shift**|Kehang Han et.al.|[2111.12951v1](http://arxiv.org/abs/2111.12951v1)|null|
 |**2021-11-25**|**Multi-fidelity Stability for Graph Representation Learning**|Yihan He et.al.|[2111.12865v1](http://arxiv.org/abs/2111.12865v1)|null|
 |**2021-11-24**|**Explaining machine-learned particle-flow reconstruction**|Farouk Mokhtar et.al.|[2111.12840v1](http://arxiv.org/abs/2111.12840v1)|null|
