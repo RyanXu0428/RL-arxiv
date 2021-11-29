@@ -89,6 +89,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-26**|**A Reinforcement Learning Approach for the Continuous Electricity Market of Germany: Trading from the Perspective of a Wind Park Operator**|Malte Lehna et.al.|[2111.13609v1](http://arxiv.org/abs/2111.13609v1)|null|
+|**2021-11-26**|**Learning Long-Term Reward Redistribution via Randomized Return Decomposition**|Zhizhou Ren et.al.|[2111.13485v1](http://arxiv.org/abs/2111.13485v1)|null|
+|**2021-11-26**|**Measuring Data Quality for Dataset Selection in Offline Reinforcement Learning**|Phillip Swazinna et.al.|[2111.13461v1](http://arxiv.org/abs/2111.13461v1)|null|
+|**2021-11-26**|**Reinforcement Explanation Learning**|Siddhant Agarwal et.al.|[2111.13406v1](http://arxiv.org/abs/2111.13406v1)|null|
+|**2021-11-25**|**A Comparative Analysis of Machine Learning Techniques for IoT Intrusion Detection**|João Vitorino et.al.|[2111.13149v1](http://arxiv.org/abs/2111.13149v1)|null|
+|**2021-11-25**|**Robot Skill Adaptation via Soft Actor-Critic Gaussian Mixture Models**|Iman Nematollahi et.al.|[2111.13129v1](http://arxiv.org/abs/2111.13129v1)|null|
+|**2021-11-25**|**DeepWiVe: Deep-Learning-Aided Wireless Video Transmission**|Tze-Yang Tung et.al.|[2111.13034v1](http://arxiv.org/abs/2111.13034v1)|null|
+|**2021-11-25**|**Distributed Policy Gradient with Variance Reduction in Multi-Agent Reinforcement Learning**|Xiaoxiao Zhao et.al.|[2111.12961v1](http://arxiv.org/abs/2111.12961v1)|null|
+|**2021-11-25**|**Learn Zero-Constraint-Violation Policy in Model-Free Constrained Reinforcement Learning**|Haitong Ma et.al.|[2111.12953v1](http://arxiv.org/abs/2111.12953v1)|null|
 |**2021-11-24**|**Reinforcement Learning for General LTL Objectives Is Intractable**|Cambridge Yang et.al.|[2111.12679v1](http://arxiv.org/abs/2111.12679v1)|null|
 |**2021-11-24**|**Adaptively Calibrated Critic Estimates for Deep Reinforcement Learning**|Nicolai Dorka et.al.|[2111.12673v1](http://arxiv.org/abs/2111.12673v1)|**[link](https://github.com/nicolinho/acc)**|
 |**2021-11-24**|**Accelerating Deep Learning with Dynamic Data Pruning**|Ravi S Raju et.al.|[2111.12621v1](http://arxiv.org/abs/2111.12621v1)|null|
@@ -295,6 +304,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-26**|**Graph-based Solutions with Residuals for Intrusion Detection: the Modified E-GraphSAGE and E-ResGAT Algorithms**|Liyan Chang et.al.|[2111.13597v1](http://arxiv.org/abs/2111.13597v1)|null|
+|**2021-11-25**|**Demystifying Graph Neural Network Explanations**|Anna Himmelhuber et.al.|[2111.12984v1](http://arxiv.org/abs/2111.12984v1)|null|
+|**2021-11-25**|**AutoHEnsGNN: Winning Solution to AutoGraph Challenge for KDD Cup 2020**|Jin Xu et.al.|[2111.12952v1](http://arxiv.org/abs/2111.12952v1)|null|
+|**2021-11-25**|**Reliable Graph Neural Networks for Drug Discovery Under Distributional Shift**|Kehang Han et.al.|[2111.12951v1](http://arxiv.org/abs/2111.12951v1)|null|
+|**2021-11-25**|**Multi-fidelity Stability for Graph Representation Learning**|Yihan He et.al.|[2111.12865v1](http://arxiv.org/abs/2111.12865v1)|null|
+|**2021-11-24**|**Explaining machine-learned particle-flow reconstruction**|Farouk Mokhtar et.al.|[2111.12840v1](http://arxiv.org/abs/2111.12840v1)|null|
 |**2021-11-24**|**Hierarchical Graph-Convolutional Variational AutoEncoding for Generative Modelling of Human Motion**|Anthony Bourached et.al.|[2111.12602v1](http://arxiv.org/abs/2111.12602v1)|null|
 |**2021-11-23**|**ChebLieNet: Invariant Spectral Graph NNs Turned Equivariant by Riemannian Geometry on Lie Groups**|Hugo Aguettaz et.al.|[2111.12139v1](http://arxiv.org/abs/2111.12139v1)|**[link](https://github.com/haguettaz/cheblienet)**|
 |**2021-11-23**|**On the Unreasonable Effectiveness of Feature propagation in Learning on Graphs with Missing Node Features**|Emanuele Rossi et.al.|[2111.12128v1](http://arxiv.org/abs/2111.12128v1)|null|
