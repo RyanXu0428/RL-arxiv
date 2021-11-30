@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-29**|**Dynamic Inference**|Aolin Xu et.al.|[2111.14746v1](http://arxiv.org/abs/2111.14746v1)|null|
+|**2021-11-29**|**Improving Zero-shot Generalization in Offline Reinforcement Learning using Generalized Similarity Functions**|Bogdan Mazoure et.al.|[2111.14629v1](http://arxiv.org/abs/2111.14629v1)|null|
+|**2021-11-29**|**Multi-UAV Conflict Resolution with Graph Convolutional Reinforcement Learning**|Ralvi Isufaj et.al.|[2111.14598v1](http://arxiv.org/abs/2111.14598v1)|null|
+|**2021-11-29**|**Robust On-Policy Data Collection for Data-Efficient Policy Evaluation**|Rujie Zhong et.al.|[2111.14552v1](http://arxiv.org/abs/2111.14552v1)|null|
+|**2021-11-29**|**Model-Based End-to-End Learning for WDM Systems With Transceiver Hardware Impairments**|Jinxiang Song et.al.|[2111.14515v1](http://arxiv.org/abs/2111.14515v1)|null|
+|**2021-11-29**|**Online Fair Revenue Maximizing Cake Division with Non-Contiguous Pieces in Adversarial Bandits**|Mohammad Ghodsi et.al.|[2111.14387v1](http://arxiv.org/abs/2111.14387v1)|null|
+|**2021-11-29**|**Collective Intelligence for Deep Learning: A Survey of Recent Developments**|David Ha et.al.|[2111.14377v1](http://arxiv.org/abs/2111.14377v1)|null|
+|**2021-11-29**|**Final Adaptation Reinforcement Learning for N-Player Games**|Wolfgang Konen et.al.|[2111.14375v1](http://arxiv.org/abs/2111.14375v1)|null|
+|**2021-11-29**|**Physics-informed Evolutionary Strategy based Control for Mitigating Delayed Voltage Recovery**|Yan Du et.al.|[2111.14352v1](http://arxiv.org/abs/2111.14352v1)|null|
+|**2021-11-29**|**Pessimistic Model Selection for Offline Deep Reinforcement Learning**|Chao-Han Huck Yang et.al.|[2111.14346v1](http://arxiv.org/abs/2111.14346v1)|null|
 |**2021-11-26**|**A Reinforcement Learning Approach for the Continuous Electricity Market of Germany: Trading from the Perspective of a Wind Park Operator**|Malte Lehna et.al.|[2111.13609v1](http://arxiv.org/abs/2111.13609v1)|null|
 |**2021-11-26**|**Learning Long-Term Reward Redistribution via Randomized Return Decomposition**|Zhizhou Ren et.al.|[2111.13485v1](http://arxiv.org/abs/2111.13485v1)|null|
 |**2021-11-26**|**Measuring Data Quality for Dataset Selection in Offline Reinforcement Learning**|Phillip Swazinna et.al.|[2111.13461v1](http://arxiv.org/abs/2111.13461v1)|null|
@@ -304,6 +314,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-29**|**Crime Prediction with Graph Neural Networks and Multivariate Normal Distributions**|Selim Furkan Tekin et.al.|[2111.14733v1](http://arxiv.org/abs/2111.14733v1)|**[link](https://github.com/sftekin/high-res-crime-forecasting)**|
+|**2021-11-29**|**Prediction of Large Magnetic Moment Materials With Graph Neural Networks and Random Forests**|Sékou-Oumar Kaba et.al.|[2111.14712v1](http://arxiv.org/abs/2111.14712v1)|null|
+|**2021-11-29**|**diffConv: Analyzing Irregular Point Clouds with an Irregular View**|Manxi Lin et.al.|[2111.14658v1](http://arxiv.org/abs/2111.14658v1)|null|
+|**2021-11-29**|**Multi-objective Explanations of GNN Predictions**|Yifei Liu et.al.|[2111.14651v1](http://arxiv.org/abs/2111.14651v1)|null|
+|**2021-11-29**|**Multi-UAV Conflict Resolution with Graph Convolutional Reinforcement Learning**|Ralvi Isufaj et.al.|[2111.14598v1](http://arxiv.org/abs/2111.14598v1)|null|
+|**2021-11-29**|**Understanding over-squashing and bottlenecks on graphs via curvature**|Jake Topping et.al.|[2111.14522v1](http://arxiv.org/abs/2111.14522v1)|null|
+|**2021-11-29**|**PGGANet: Pose Guided Graph Attention Network for Person Re-identification**|Zhijun He et.al.|[2111.14411v1](http://arxiv.org/abs/2111.14411v1)|null|
+|**2021-11-28**|**PAPooling: Graph-based Position Adaptive Aggregation of Local Geometry in Point Clouds**|Jie Wang et.al.|[2111.14067v1](http://arxiv.org/abs/2111.14067v1)|null|
+|**2021-11-28**|**Pre-training Recommender Systems via Reinforced Attentive Multi-relational Graph Neural Network**|Xiaohan Li et.al.|[2111.14036v1](http://arxiv.org/abs/2111.14036v1)|null|
+|**2021-11-27**|**Benchmarking Accuracy and Generalizability of Four Graph Neural Networks Using Large In Vitro ADME Datasets from Different Chemical Spaces**|Fabio Broccatelli et.al.|[2111.13964v1](http://arxiv.org/abs/2111.13964v1)|null|
 |**2021-11-26**|**Graph-based Solutions with Residuals for Intrusion Detection: the Modified E-GraphSAGE and E-ResGAT Algorithms**|Liyan Chang et.al.|[2111.13597v1](http://arxiv.org/abs/2111.13597v1)|null|
 |**2021-11-25**|**Demystifying Graph Neural Network Explanations**|Anna Himmelhuber et.al.|[2111.12984v1](http://arxiv.org/abs/2111.12984v1)|null|
 |**2021-11-25**|**AutoHEnsGNN: Winning Solution to AutoGraph Challenge for KDD Cup 2020**|Jin Xu et.al.|[2111.12952v1](http://arxiv.org/abs/2111.12952v1)|**[link](https://github.com/aister2020/KDDCUP_2020_AutoGraph_1st_Place)**|
