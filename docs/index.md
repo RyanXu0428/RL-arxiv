@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2021.11.30
+## Updated on 2021.12.01
 
 ## SLAM
 
@@ -327,7 +327,7 @@ layout: default
 |**2021-11-29**|**PGGANet: Pose Guided Graph Attention Network for Person Re-identification**|Zhijun He et.al.|[2111.14411v1](http://arxiv.org/abs/2111.14411v1)|null|
 |**2021-11-28**|**PAPooling: Graph-based Position Adaptive Aggregation of Local Geometry in Point Clouds**|Jie Wang et.al.|[2111.14067v1](http://arxiv.org/abs/2111.14067v1)|null|
 |**2021-11-28**|**Pre-training Recommender Systems via Reinforced Attentive Multi-relational Graph Neural Network**|Xiaohan Li et.al.|[2111.14036v1](http://arxiv.org/abs/2111.14036v1)|null|
-|**2021-11-27**|**Benchmarking Accuracy and Generalizability of Four Graph Neural Networks Using Large In Vitro ADME Datasets from Different Chemical Spaces**|Fabio Broccatelli et.al.|[2111.13964v1](http://arxiv.org/abs/2111.13964v1)|null|
+|**2021-11-27**|**Benchmarking Accuracy and Generalizability of Four Graph Neural Networks Using Large In Vitro ADME Datasets from Different Chemical Spaces**|Fabio Broccatelli et.al.|[2111.13964v1](http://arxiv.org/abs/2111.13964v1)|**[link](https://github.com/awslabs/dgl-lifesci)**|
 |**2021-11-26**|**Graph-based Solutions with Residuals for Intrusion Detection: the Modified E-GraphSAGE and E-ResGAT Algorithms**|Liyan Chang et.al.|[2111.13597v1](http://arxiv.org/abs/2111.13597v1)|null|
 |**2021-11-25**|**Demystifying Graph Neural Network Explanations**|Anna Himmelhuber et.al.|[2111.12984v1](http://arxiv.org/abs/2111.12984v1)|null|
 |**2021-11-25**|**AutoHEnsGNN: Winning Solution to AutoGraph Challenge for KDD Cup 2020**|Jin Xu et.al.|[2111.12952v1](http://arxiv.org/abs/2111.12952v1)|**[link](https://github.com/aister2020/KDDCUP_2020_AutoGraph_1st_Place)**|
