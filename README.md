@@ -89,7 +89,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2021-11-29**|**Dynamic Inference**|Aolin Xu et.al.|[2111.14746v1](http://arxiv.org/abs/2111.14746v1)|null|
+|**2021-11-29**|**Dynamic Inference**|Aolin Xu et.al.|[2111.14746v2](http://arxiv.org/abs/2111.14746v2)|null|
 |**2021-11-29**|**Improving Zero-shot Generalization in Offline Reinforcement Learning using Generalized Similarity Functions**|Bogdan Mazoure et.al.|[2111.14629v1](http://arxiv.org/abs/2111.14629v1)|null|
 |**2021-11-29**|**Multi-UAV Conflict Resolution with Graph Convolutional Reinforcement Learning**|Ralvi Isufaj et.al.|[2111.14598v1](http://arxiv.org/abs/2111.14598v1)|null|
 |**2021-11-29**|**Robust On-Policy Data Collection for Data-Efficient Policy Evaluation**|Rujie Zhong et.al.|[2111.14552v1](http://arxiv.org/abs/2111.14552v1)|**[link](https://github.com/uoe-agents/robust_onpolicy_data_collection)**|
