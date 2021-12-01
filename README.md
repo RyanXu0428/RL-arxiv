@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-30**|**The Power of Communication in a Distributed Multi-Agent System**|Philipp Dominic Siedler et.al.|[2111.15611v1](http://arxiv.org/abs/2111.15611v1)|null|
+|**2021-11-30**|**Model-Free $μ$ Synthesis via Adversarial Reinforcement Learning**|Darioush Keivan et.al.|[2111.15537v1](http://arxiv.org/abs/2111.15537v1)|null|
+|**2021-11-30**|**Energy-Efficient Design for a NOMA assisted STAR-RIS Network with Deep Reinforcement Learning**|Yi Guo et.al.|[2111.15464v1](http://arxiv.org/abs/2111.15464v1)|null|
+|**2021-11-30**|**Continuous Control With Ensemble Deep Deterministic Policy Gradients**|Piotr Januszewski et.al.|[2111.15382v1](http://arxiv.org/abs/2111.15382v1)|null|
+|**2021-11-30**|**Global Convergence Using Policy Gradient Methods for Model-free Markovian Jump Linear Quadratic Control**|Santanu Rathod et.al.|[2111.15228v1](http://arxiv.org/abs/2111.15228v1)|null|
+|**2021-11-30**|**SAVER: Safe Learning-Based Controller for Real-Time Voltage Regulation**|Yize Chen et.al.|[2111.15152v1](http://arxiv.org/abs/2111.15152v1)|null|
+|**2021-11-30**|**Molecular Attributes Transfer from Non-Parallel Data**|Shuangjia Zheng et.al.|[2111.15146v1](http://arxiv.org/abs/2111.15146v1)|null|
+|**2021-11-30**|**MAMRL: Exploiting Multi-agent Meta Reinforcement Learning in WAN Traffic Engineering**|Shan Sun et.al.|[2111.15087v1](http://arxiv.org/abs/2111.15087v1)|null|
+|**2021-11-29**|**Reinforcement Learning Algorithm for Traffic Steering in Heterogeneous Network**|Cezary Adamczyk et.al.|[2111.15029v1](http://arxiv.org/abs/2111.15029v1)|null|
+|**2021-11-29**|**DeepCQ+: Robust and Scalable Routing with Multi-Agent Deep Reinforcement Learning for Highly Dynamic Networks**|Saeed Kaviani et.al.|[2111.15013v1](http://arxiv.org/abs/2111.15013v1)|null|
 |**2021-11-29**|**Dynamic Inference**|Aolin Xu et.al.|[2111.14746v2](http://arxiv.org/abs/2111.14746v2)|null|
 |**2021-11-29**|**Improving Zero-shot Generalization in Offline Reinforcement Learning using Generalized Similarity Functions**|Bogdan Mazoure et.al.|[2111.14629v1](http://arxiv.org/abs/2111.14629v1)|null|
 |**2021-11-29**|**Multi-UAV Conflict Resolution with Graph Convolutional Reinforcement Learning**|Ralvi Isufaj et.al.|[2111.14598v1](http://arxiv.org/abs/2111.14598v1)|null|
@@ -314,6 +324,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-11-30**|**The Power of Communication in a Distributed Multi-Agent System**|Philipp Dominic Siedler et.al.|[2111.15611v1](http://arxiv.org/abs/2111.15611v1)|null|
+|**2021-11-30**|**Text classification problems via BERT embedding method and graph convolutional neural network**|Loc Hoang Tran et.al.|[2111.15379v1](http://arxiv.org/abs/2111.15379v1)|null|
+|**2021-11-30**|**Learning Large-Time-Step Molecular Dynamics with Graph Neural Networks**|Tianze Zheng et.al.|[2111.15176v1](http://arxiv.org/abs/2111.15176v1)|null|
+|**2021-11-30**|**AirObject: A Temporally Evolving Graph Embedding for Object Identification**|Nikhil Varma Keetha et.al.|[2111.15150v1](http://arxiv.org/abs/2111.15150v1)|null|
+|**2021-11-30**|**Decoding the Protein-ligand Interactions Using Parallel Graph Neural Networks**|Carter Knutson et.al.|[2111.15144v1](http://arxiv.org/abs/2111.15144v1)|null|
+|**2021-11-30**|**AugLiChem: Data Augmentation Library ofChemical Structures for Machine Learning**|Rishikesh Magar et.al.|[2111.15112v1](http://arxiv.org/abs/2111.15112v1)|null|
 |**2021-11-29**|**Crime Prediction with Graph Neural Networks and Multivariate Normal Distributions**|Selim Furkan Tekin et.al.|[2111.14733v1](http://arxiv.org/abs/2111.14733v1)|**[link](https://github.com/sftekin/high-res-crime-forecasting)**|
 |**2021-11-29**|**Prediction of Large Magnetic Moment Materials With Graph Neural Networks and Random Forests**|Sékou-Oumar Kaba et.al.|[2111.14712v1](http://arxiv.org/abs/2111.14712v1)|null|
 |**2021-11-29**|**diffConv: Analyzing Irregular Point Clouds with an Irregular View**|Manxi Lin et.al.|[2111.14658v1](http://arxiv.org/abs/2111.14658v1)|null|
