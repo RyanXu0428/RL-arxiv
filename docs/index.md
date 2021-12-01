@@ -96,7 +96,7 @@ layout: default
 |**2021-11-30**|**The Power of Communication in a Distributed Multi-Agent System**|Philipp Dominic Siedler et.al.|[2111.15611v1](http://arxiv.org/abs/2111.15611v1)|null|
 |**2021-11-30**|**Model-Free $μ$ Synthesis via Adversarial Reinforcement Learning**|Darioush Keivan et.al.|[2111.15537v1](http://arxiv.org/abs/2111.15537v1)|null|
 |**2021-11-30**|**Energy-Efficient Design for a NOMA assisted STAR-RIS Network with Deep Reinforcement Learning**|Yi Guo et.al.|[2111.15464v1](http://arxiv.org/abs/2111.15464v1)|null|
-|**2021-11-30**|**Continuous Control With Ensemble Deep Deterministic Policy Gradients**|Piotr Januszewski et.al.|[2111.15382v1](http://arxiv.org/abs/2111.15382v1)|null|
+|**2021-11-30**|**Continuous Control With Ensemble Deep Deterministic Policy Gradients**|Piotr Januszewski et.al.|[2111.15382v1](http://arxiv.org/abs/2111.15382v1)|**[link](https://github.com/ed2-paper/ed2)**|
 |**2021-11-30**|**Global Convergence Using Policy Gradient Methods for Model-free Markovian Jump Linear Quadratic Control**|Santanu Rathod et.al.|[2111.15228v1](http://arxiv.org/abs/2111.15228v1)|null|
 |**2021-11-30**|**SAVER: Safe Learning-Based Controller for Real-Time Voltage Regulation**|Yize Chen et.al.|[2111.15152v1](http://arxiv.org/abs/2111.15152v1)|null|
 |**2021-11-30**|**Molecular Attributes Transfer from Non-Parallel Data**|Shuangjia Zheng et.al.|[2111.15146v1](http://arxiv.org/abs/2111.15146v1)|null|
