@@ -1,4 +1,4 @@
-## Updated on 2021.12.01
+## Updated on 2021.12.02
 
 ## SLAM
 
@@ -328,8 +328,8 @@
 |**2021-11-30**|**Text classification problems via BERT embedding method and graph convolutional neural network**|Loc Hoang Tran et.al.|[2111.15379v1](http://arxiv.org/abs/2111.15379v1)|null|
 |**2021-11-30**|**Learning Large-Time-Step Molecular Dynamics with Graph Neural Networks**|Tianze Zheng et.al.|[2111.15176v1](http://arxiv.org/abs/2111.15176v1)|null|
 |**2021-11-30**|**AirObject: A Temporally Evolving Graph Embedding for Object Identification**|Nikhil Varma Keetha et.al.|[2111.15150v1](http://arxiv.org/abs/2111.15150v1)|null|
-|**2021-11-30**|**Decoding the Protein-ligand Interactions Using Parallel Graph Neural Networks**|Carter Knutson et.al.|[2111.15144v1](http://arxiv.org/abs/2111.15144v1)|null|
-|**2021-11-30**|**AugLiChem: Data Augmentation Library ofChemical Structures for Machine Learning**|Rishikesh Magar et.al.|[2111.15112v1](http://arxiv.org/abs/2111.15112v1)|null|
+|**2021-11-30**|**Decoding the Protein-ligand Interactions Using Parallel Graph Neural Networks**|Carter Knutson et.al.|[2111.15144v1](http://arxiv.org/abs/2111.15144v1)|**[link](https://github.com/nkkchem/pf-gnn_pli)**|
+|**2021-11-30**|**AugLiChem: Data Augmentation Library ofChemical Structures for Machine Learning**|Rishikesh Magar et.al.|[2111.15112v1](http://arxiv.org/abs/2111.15112v1)|**[link](https://github.com/BaratiLab/AugLiChem)**|
 |**2021-11-29**|**Crime Prediction with Graph Neural Networks and Multivariate Normal Distributions**|Selim Furkan Tekin et.al.|[2111.14733v1](http://arxiv.org/abs/2111.14733v1)|**[link](https://github.com/sftekin/high-res-crime-forecasting)**|
 |**2021-11-29**|**Prediction of Large Magnetic Moment Materials With Graph Neural Networks and Random Forests**|Sékou-Oumar Kaba et.al.|[2111.14712v1](http://arxiv.org/abs/2111.14712v1)|null|
 |**2021-11-29**|**diffConv: Analyzing Irregular Point Clouds with an Irregular View**|Manxi Lin et.al.|[2111.14658v1](http://arxiv.org/abs/2111.14658v1)|null|
