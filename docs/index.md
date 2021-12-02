@@ -93,6 +93,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-01**|**Wish you were here: Hindsight Goal Selection for long-horizon dexterous manipulation**|Todor Davchev et.al.|[2112.00597v1](http://arxiv.org/abs/2112.00597v1)|null|
+|**2021-12-01**|**Meta Arcade: A Configurable Environment Suite for Meta-Learning**|Edward W. Staley et.al.|[2112.00583v1](http://arxiv.org/abs/2112.00583v1)|null|
+|**2021-12-01**|**Improving gearshift controllers for electric vehicles with reinforcement learning**|Marc-Antoine Beaudoin et.al.|[2112.00529v1](http://arxiv.org/abs/2112.00529v1)|null|
+|**2021-12-01**|**On the Practical Consistency of Meta-Reinforcement Learning Algorithms**|Zheng Xiong et.al.|[2112.00478v1](http://arxiv.org/abs/2112.00478v1)|null|
+|**2021-12-01**|**Multi-Agent Transfer Learning in Reinforcement Learning-Based Ride-Sharing Systems**|Alberto Castagna et.al.|[2112.00424v1](http://arxiv.org/abs/2112.00424v1)|null|
+|**2021-12-01**|**Joint Cluster Head Selection and Trajectory Planning in UAV-Aided IoT Networks by Reinforcement Learning with Sequential Model**|Botao Zhu et.al.|[2112.00333v1](http://arxiv.org/abs/2112.00333v1)|null|
+|**2021-11-30**|**Risk-based implementation of COLREGs for autonomous surface vehicles using deep reinforcement learning**|Thomas Nakken Larsen et.al.|[2112.00115v1](http://arxiv.org/abs/2112.00115v1)|null|
 |**2021-11-30**|**The Power of Communication in a Distributed Multi-Agent System**|Philipp Dominic Siedler et.al.|[2111.15611v2](http://arxiv.org/abs/2111.15611v2)|null|
 |**2021-11-30**|**Model-Free $μ$ Synthesis via Adversarial Reinforcement Learning**|Darioush Keivan et.al.|[2111.15537v1](http://arxiv.org/abs/2111.15537v1)|null|
 |**2021-11-30**|**Energy-Efficient Design for a NOMA assisted STAR-RIS Network with Deep Reinforcement Learning**|Yi Guo et.al.|[2111.15464v1](http://arxiv.org/abs/2111.15464v1)|null|
@@ -328,6 +335,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-01**|**Attribute Artifacts Removal for Geometry-based Point Cloud Compression**|Xihua Sheng et.al.|[2112.00560v1](http://arxiv.org/abs/2112.00560v1)|null|
+|**2021-12-01**|**Graph Convolutional Module for Temporal Action Localization in Videos**|Runhao Zeng et.al.|[2112.00302v1](http://arxiv.org/abs/2112.00302v1)|null|
+|**2021-12-01**|**Exploring Social Posterior Collapse in Variational Autoencoder for Interaction Modeling**|Chen Tang et.al.|[2112.00298v1](http://arxiv.org/abs/2112.00298v1)|null|
+|**2021-12-01**|**Imbalanced Graph Classification via Graph-of-Graph Neural Networks**|Yu Wang et.al.|[2112.00238v1](http://arxiv.org/abs/2112.00238v1)|**[link](https://github.com/yuwvandy/g2gnn)**|
 |**2021-11-30**|**The Power of Communication in a Distributed Multi-Agent System**|Philipp Dominic Siedler et.al.|[2111.15611v2](http://arxiv.org/abs/2111.15611v2)|null|
 |**2021-11-30**|**Text classification problems via BERT embedding method and graph convolutional neural network**|Loc Hoang Tran et.al.|[2111.15379v1](http://arxiv.org/abs/2111.15379v1)|null|
 |**2021-11-30**|**Learning Large-Time-Step Molecular Dynamics with Graph Neural Networks**|Tianze Zheng et.al.|[2111.15176v1](http://arxiv.org/abs/2111.15176v1)|null|
