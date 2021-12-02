@@ -93,7 +93,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2021-11-30**|**The Power of Communication in a Distributed Multi-Agent System**|Philipp Dominic Siedler et.al.|[2111.15611v1](http://arxiv.org/abs/2111.15611v1)|null|
+|**2021-11-30**|**The Power of Communication in a Distributed Multi-Agent System**|Philipp Dominic Siedler et.al.|[2111.15611v2](http://arxiv.org/abs/2111.15611v2)|null|
 |**2021-11-30**|**Model-Free $μ$ Synthesis via Adversarial Reinforcement Learning**|Darioush Keivan et.al.|[2111.15537v1](http://arxiv.org/abs/2111.15537v1)|null|
 |**2021-11-30**|**Energy-Efficient Design for a NOMA assisted STAR-RIS Network with Deep Reinforcement Learning**|Yi Guo et.al.|[2111.15464v1](http://arxiv.org/abs/2111.15464v1)|null|
 |**2021-11-30**|**Continuous Control With Ensemble Deep Deterministic Policy Gradients**|Piotr Januszewski et.al.|[2111.15382v1](http://arxiv.org/abs/2111.15382v1)|**[link](https://github.com/ed2-paper/ed2)**|
@@ -328,7 +328,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2021-11-30**|**The Power of Communication in a Distributed Multi-Agent System**|Philipp Dominic Siedler et.al.|[2111.15611v1](http://arxiv.org/abs/2111.15611v1)|null|
+|**2021-11-30**|**The Power of Communication in a Distributed Multi-Agent System**|Philipp Dominic Siedler et.al.|[2111.15611v2](http://arxiv.org/abs/2111.15611v2)|null|
 |**2021-11-30**|**Text classification problems via BERT embedding method and graph convolutional neural network**|Loc Hoang Tran et.al.|[2111.15379v1](http://arxiv.org/abs/2111.15379v1)|null|
 |**2021-11-30**|**Learning Large-Time-Step Molecular Dynamics with Graph Neural Networks**|Tianze Zheng et.al.|[2111.15176v1](http://arxiv.org/abs/2111.15176v1)|null|
 |**2021-11-30**|**AirObject: A Temporally Evolving Graph Embedding for Object Identification**|Nikhil Varma Keetha et.al.|[2111.15150v1](http://arxiv.org/abs/2111.15150v1)|null|
