@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-02**|**Sample Complexity of Robust Reinforcement Learning with a Generative Model**|Kishan Panaganti et.al.|[2112.01506v1](http://arxiv.org/abs/2112.01506v1)|**[link](https://github.com/kishanpb/RobustRL)**|
+|**2021-12-02**|**Safe Reinforcement Learning for Grid Voltage Control**|Thanh Long Vu et.al.|[2112.01484v1](http://arxiv.org/abs/2112.01484v1)|null|
+|**2021-12-02**|**Architecting and Visualizing Deep Reinforcement Learning Models**|Alexander Neuwirth et.al.|[2112.01451v1](http://arxiv.org/abs/2112.01451v1)|null|
+|**2021-12-02**|**Residual Pathway Priors for Soft Equivariance Constraints**|Marc Finzi et.al.|[2112.01388v1](http://arxiv.org/abs/2112.01388v1)|**[link](https://github.com/mfinzi/residual-pathway-priors)**|
+|**2021-12-02**|**Phasic Policy Gradient Based Resource Allocation for Industrial Internet of Things**|Lokesh Bommisetty et.al.|[2112.01361v1](http://arxiv.org/abs/2112.01361v1)|null|
+|**2021-12-02**|**Maximum Entropy Model-based Reinforcement Learning**|Oleg Svidchenko et.al.|[2112.01195v1](http://arxiv.org/abs/2112.01195v1)|null|
+|**2021-12-02**|**Robust Robotic Control from Pixels using Contrastive Recurrent State-Space Models**|Nitish Srivastava et.al.|[2112.01163v1](http://arxiv.org/abs/2112.01163v1)|**[link](https://github.com/apple/ml-core)**|
+|**2021-12-02**|**Multi-Agent Intention Sharing via Leader-Follower Forest**|Zeyang Liu et.al.|[2112.01078v1](http://arxiv.org/abs/2112.01078v1)|null|
+|**2021-12-02**|**Adversarial Robustness of Deep Reinforcement Learning based Dynamic Recommender Systems**|Siyu Wang et.al.|[2112.00973v1](http://arxiv.org/abs/2112.00973v1)|null|
+|**2021-12-02**|**Personal Comfort Estimation in Partial Observable Environment using Reinforcement Learning**|Shashi Suman et.al.|[2112.00971v1](http://arxiv.org/abs/2112.00971v1)|null|
 |**2021-12-01**|**Wish you were here: Hindsight Goal Selection for long-horizon dexterous manipulation**|Todor Davchev et.al.|[2112.00597v2](http://arxiv.org/abs/2112.00597v2)|null|
 |**2021-12-01**|**Meta Arcade: A Configurable Environment Suite for Meta-Learning**|Edward W. Staley et.al.|[2112.00583v1](http://arxiv.org/abs/2112.00583v1)|null|
 |**2021-12-01**|**Improving gearshift controllers for electric vehicles with reinforcement learning**|Marc-Antoine Beaudoin et.al.|[2112.00529v1](http://arxiv.org/abs/2112.00529v1)|null|
@@ -331,6 +341,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-01**|**Monolith to Microservices: Representing Application Software through Heterogeneous GNN**|Alex Mathai et.al.|[2112.01317v1](http://arxiv.org/abs/2112.01317v1)|null|
+|**2021-12-02**|**Multi-task Self-distillation for Graph-based Semi-Supervised Learning**|Yating Ren et.al.|[2112.01174v1](http://arxiv.org/abs/2112.01174v1)|null|
+|**2021-12-02**|**Contrastive Adaptive Propagation Graph Neural Networks for Efficient Graph Learning**|Jun Hu et.al.|[2112.01110v1](http://arxiv.org/abs/2112.01110v1)|**[link](https://github.com/hujunxianligong/capgnn)**|
+|**2021-12-02**|**AutoGEL: An Automated Graph Neural Network with Explicit Link Information**|Zhili Wang et.al.|[2112.01064v1](http://arxiv.org/abs/2112.01064v1)|**[link](https://github.com/zwangeo/autogel)**|
+|**2021-12-02**|**Graph4Rec: A Universal Toolkit with Graph Neural Networks for Recommender Systems**|Weibin Li et.al.|[2112.01035v1](http://arxiv.org/abs/2112.01035v1)|**[link](https://github.com/PaddlePaddle/PGL)**|
+|**2021-12-02**|**Source Free Unsupervised Graph Domain Adaptation**|Haitao Mao et.al.|[2112.00955v1](http://arxiv.org/abs/2112.00955v1)|null|
+|**2021-12-02**|**ProtGNN: Towards Self-Explaining Graph Neural Networks**|Zaixi Zhang et.al.|[2112.00911v1](http://arxiv.org/abs/2112.00911v1)|null|
+|**2021-12-01**|**ReIGNN: State Register Identification Using Graph Neural Networks for Circuit Reverse Engineering**|Subhajit Dutta Chowdhury et.al.|[2112.00806v1](http://arxiv.org/abs/2112.00806v1)|null|
+|**2021-12-01**|**Aiding Medical Diagnosis Through the Application of Graph Neural Networks to Functional MRI Scans**|Katharina Zühlsdorff et.al.|[2112.00738v1](http://arxiv.org/abs/2112.00738v1)|null|
 |**2021-12-01**|**Attribute Artifacts Removal for Geometry-based Point Cloud Compression**|Xihua Sheng et.al.|[2112.00560v1](http://arxiv.org/abs/2112.00560v1)|null|
 |**2021-12-01**|**Graph Convolutional Module for Temporal Action Localization in Videos**|Runhao Zeng et.al.|[2112.00302v1](http://arxiv.org/abs/2112.00302v1)|null|
 |**2021-12-01**|**Exploring Social Posterior Collapse in Variational Autoencoder for Interaction Modeling**|Chen Tang et.al.|[2112.00298v1](http://arxiv.org/abs/2112.00298v1)|null|
