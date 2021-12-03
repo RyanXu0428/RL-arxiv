@@ -93,7 +93,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2021-12-01**|**Wish you were here: Hindsight Goal Selection for long-horizon dexterous manipulation**|Todor Davchev et.al.|[2112.00597v1](http://arxiv.org/abs/2112.00597v1)|null|
+|**2021-12-01**|**Wish you were here: Hindsight Goal Selection for long-horizon dexterous manipulation**|Todor Davchev et.al.|[2112.00597v2](http://arxiv.org/abs/2112.00597v2)|null|
 |**2021-12-01**|**Meta Arcade: A Configurable Environment Suite for Meta-Learning**|Edward W. Staley et.al.|[2112.00583v1](http://arxiv.org/abs/2112.00583v1)|null|
 |**2021-12-01**|**Improving gearshift controllers for electric vehicles with reinforcement learning**|Marc-Antoine Beaudoin et.al.|[2112.00529v1](http://arxiv.org/abs/2112.00529v1)|null|
 |**2021-12-01**|**On the Practical Consistency of Meta-Reinforcement Learning Algorithms**|Zheng Xiong et.al.|[2112.00478v1](http://arxiv.org/abs/2112.00478v1)|null|
@@ -344,7 +344,7 @@ layout: default
 |**2021-11-30**|**Learning Large-Time-Step Molecular Dynamics with Graph Neural Networks**|Tianze Zheng et.al.|[2111.15176v1](http://arxiv.org/abs/2111.15176v1)|null|
 |**2021-11-30**|**AirObject: A Temporally Evolving Graph Embedding for Object Identification**|Nikhil Varma Keetha et.al.|[2111.15150v1](http://arxiv.org/abs/2111.15150v1)|null|
 |**2021-11-30**|**Decoding the Protein-ligand Interactions Using Parallel Graph Neural Networks**|Carter Knutson et.al.|[2111.15144v1](http://arxiv.org/abs/2111.15144v1)|**[link](https://github.com/nkkchem/pf-gnn_pli)**|
-|**2021-11-30**|**AugLiChem: Data Augmentation Library ofChemical Structures for Machine Learning**|Rishikesh Magar et.al.|[2111.15112v1](http://arxiv.org/abs/2111.15112v1)|**[link](https://github.com/BaratiLab/AugLiChem)**|
+|**2021-11-30**|**AugLiChem: Data Augmentation Library of Chemical Structures for Machine Learning**|Rishikesh Magar et.al.|[2111.15112v2](http://arxiv.org/abs/2111.15112v2)|**[link](https://github.com/BaratiLab/AugLiChem)**|
 |**2021-11-29**|**Crime Prediction with Graph Neural Networks and Multivariate Normal Distributions**|Selim Furkan Tekin et.al.|[2111.14733v1](http://arxiv.org/abs/2111.14733v1)|**[link](https://github.com/sftekin/high-res-crime-forecasting)**|
 |**2021-11-29**|**Prediction of Large Magnetic Moment Materials With Graph Neural Networks and Random Forests**|Sékou-Oumar Kaba et.al.|[2111.14712v1](http://arxiv.org/abs/2111.14712v1)|null|
 |**2021-11-29**|**diffConv: Analyzing Irregular Point Clouds with an Irregular View**|Manxi Lin et.al.|[2111.14658v1](http://arxiv.org/abs/2111.14658v1)|null|
