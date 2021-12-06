@@ -89,6 +89,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-03**|**Divergent representations of ethological visual inputs emerge from supervised, unsupervised, and reinforcement learning**|Grace W. Lindsay et.al.|[2112.02027v1](http://arxiv.org/abs/2112.02027v1)|null|
+|**2021-12-03**|**Improving the Robustness of Reinforcement Learning Policies with $\mathcal{L}_{1}$ Adaptive Control**|Y. Cheng et.al.|[2112.01953v1](http://arxiv.org/abs/2112.01953v1)|null|
+|**2021-12-03**|**Reinforcement Learning-Based Automatic Berthing System**|Daesoo Lee et.al.|[2112.01879v1](http://arxiv.org/abs/2112.01879v1)|null|
+|**2021-12-03**|**Episodic Policy Gradient Training**|Hung Le et.al.|[2112.01853v1](http://arxiv.org/abs/2112.01853v1)|null|
+|**2021-12-03**|**Reinforcement learning for options on target volatility funds**|Roberto Daluiso et.al.|[2112.01841v1](http://arxiv.org/abs/2112.01841v1)|null|
+|**2021-12-03**|**Learning Emergent Random Access Protocol for LEO Satellite Networks**|Ju-Hyung Lee et.al.|[2112.01765v1](http://arxiv.org/abs/2112.01765v1)|null|
+|**2021-12-02**|**Differentially Private Exploration in Reinforcement Learning with Linear Representation**|Paul Luyo et.al.|[2112.01585v1](http://arxiv.org/abs/2112.01585v1)|null|
+|**2021-12-02**|**Towards Intrinsic Interactive Reinforcement Learning: A Survey**|Benjamin Poole et.al.|[2112.01575v1](http://arxiv.org/abs/2112.01575v1)|null|
+|**2021-12-02**|**SparRL: Graph Sparsification via Deep Reinforcement Learning**|Ryan Wickman et.al.|[2112.01565v1](http://arxiv.org/abs/2112.01565v1)|null|
 |**2021-12-02**|**Sample Complexity of Robust Reinforcement Learning with a Generative Model**|Kishan Panaganti et.al.|[2112.01506v2](http://arxiv.org/abs/2112.01506v2)|**[link](https://github.com/kishanpb/RobustRL)**|
 |**2021-12-02**|**Safe Reinforcement Learning for Grid Voltage Control**|Thanh Long Vu et.al.|[2112.01484v1](http://arxiv.org/abs/2112.01484v1)|null|
 |**2021-12-02**|**Architecting and Visualizing Deep Reinforcement Learning Models**|Alexander Neuwirth et.al.|[2112.01451v1](http://arxiv.org/abs/2112.01451v1)|null|
@@ -341,6 +350,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-03**|**TC-GNN: Accelerating Sparse Graph Neural Network Computation Via Dense Tensor Core on GPUs**|Yuke Wang et.al.|[2112.02052v1](http://arxiv.org/abs/2112.02052v1)|**[link](https://github.com/YukeWang96/TCGNN-Pytorch)**|
+|**2021-12-03**|**Graph Neural Networks for Charged Particle Tracking on FPGAs**|Abdelrahman Elabd et.al.|[2112.02048v1](http://arxiv.org/abs/2112.02048v1)|null|
+|**2021-12-03**|**Towards Low-loss 1-bit Quantization of User-item Representations for Top-K Recommendation**|Yankai Chen et.al.|[2112.01944v1](http://arxiv.org/abs/2112.01944v1)|null|
+|**2021-12-03**|**Combining Sub-Symbolic and Symbolic Methods for Explainability**|Anna Himmelhuber et.al.|[2112.01844v1](http://arxiv.org/abs/2112.01844v1)|null|
+|**2021-12-03**|**Structure-Aware Multi-Hop Graph Convolution for Graph Neural Networks**|Yang Li et.al.|[2112.01714v1](http://arxiv.org/abs/2112.01714v1)|null|
+|**2021-12-02**|**Graph Self-Supervised Learning for Optoelectronic Properties of Organic Semiconductors**|Zaixi Zhang et.al.|[2112.01633v1](http://arxiv.org/abs/2112.01633v1)|null|
 |**2021-12-01**|**Monolith to Microservices: Representing Application Software through Heterogeneous GNN**|Alex Mathai et.al.|[2112.01317v1](http://arxiv.org/abs/2112.01317v1)|null|
 |**2021-12-02**|**Multi-task Self-distillation for Graph-based Semi-Supervised Learning**|Yating Ren et.al.|[2112.01174v1](http://arxiv.org/abs/2112.01174v1)|null|
 |**2021-12-02**|**Contrastive Adaptive Propagation Graph Neural Networks for Efficient Graph Learning**|Jun Hu et.al.|[2112.01110v1](http://arxiv.org/abs/2112.01110v1)|**[link](https://github.com/hujunxianligong/capgnn)**|
