@@ -96,7 +96,7 @@ layout: default
 |**2021-12-06**|**Functional Regularization for Reinforcement Learning via Learned Fourier Features**|Alexander C. Li et.al.|[2112.03257v1](http://arxiv.org/abs/2112.03257v1)|**[link](https://github.com/alexlioralexli/learned-fourier-features)**|
 |**2021-12-06**|**Distilled Domain Randomization**|Julien Brosseit et.al.|[2112.03149v1](http://arxiv.org/abs/2112.03149v1)|null|
 |**2021-12-06**|**Hierarchical Reinforcement Learning with Timed Subgoals**|Nico Gürtler et.al.|[2112.03100v1](http://arxiv.org/abs/2112.03100v1)|**[link](https://github.com/martius-lab/hits)**|
-|**2021-12-06**|**Flexible Option Learning**|Martin Klissarov et.al.|[2112.03097v1](http://arxiv.org/abs/2112.03097v1)|null|
+|**2021-12-06**|**Flexible Option Learning**|Martin Klissarov et.al.|[2112.03097v1](http://arxiv.org/abs/2112.03097v1)|**[link](https://github.com/mklissa/moc)**|
 |**2021-12-06**|**Temporal-Spatial Causal Interpretations for Vision-Based Reinforcement Learning**|Wenjie Shi et.al.|[2112.03020v1](http://arxiv.org/abs/2112.03020v1)|null|
 |**2021-12-06**|**Lecture Notes on Partially Known MDPs**|Guillermo A. Perez et.al.|[2112.02976v1](http://arxiv.org/abs/2112.02976v1)|null|
 |**2021-12-06**|**Reinforcement Learning for Navigation of Mobile Robot with LiDAR**|Inhwan Kim et.al.|[2112.02954v1](http://arxiv.org/abs/2112.02954v1)|null|
