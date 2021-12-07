@@ -94,7 +94,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2021-12-03**|**Divergent representations of ethological visual inputs emerge from supervised, unsupervised, and reinforcement learning**|Grace W. Lindsay et.al.|[2112.02027v1](http://arxiv.org/abs/2112.02027v1)|null|
-|**2021-12-03**|**Improving the Robustness of Reinforcement Learning Policies with $\mathcal{L}_{1}$ Adaptive Control**|Y. Cheng et.al.|[2112.01953v1](http://arxiv.org/abs/2112.01953v1)|null|
+|**2021-12-03**|**Improving the Robustness of Reinforcement Learning Policies with $\mathcal{L}_{1}$ Adaptive Control**|Y. Cheng et.al.|[2112.01953v2](http://arxiv.org/abs/2112.01953v2)|null|
 |**2021-12-03**|**Reinforcement Learning-Based Automatic Berthing System**|Daesoo Lee et.al.|[2112.01879v1](http://arxiv.org/abs/2112.01879v1)|**[link](https://github.com/danelee2601/rl-based-automatic-berthing)**|
 |**2021-12-03**|**Episodic Policy Gradient Training**|Hung Le et.al.|[2112.01853v1](http://arxiv.org/abs/2112.01853v1)|null|
 |**2021-12-03**|**Reinforcement learning for options on target volatility funds**|Roberto Daluiso et.al.|[2112.01841v1](http://arxiv.org/abs/2112.01841v1)|null|
