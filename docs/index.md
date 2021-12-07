@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-06**|**Functional Regularization for Reinforcement Learning via Learned Fourier Features**|Alexander C. Li et.al.|[2112.03257v1](http://arxiv.org/abs/2112.03257v1)|**[link](https://github.com/alexlioralexli/learned-fourier-features)**|
+|**2021-12-06**|**Distilled Domain Randomization**|Julien Brosseit et.al.|[2112.03149v1](http://arxiv.org/abs/2112.03149v1)|null|
+|**2021-12-06**|**Hierarchical Reinforcement Learning with Timed Subgoals**|Nico Gürtler et.al.|[2112.03100v1](http://arxiv.org/abs/2112.03100v1)|**[link](https://github.com/martius-lab/hits)**|
+|**2021-12-06**|**Flexible Option Learning**|Martin Klissarov et.al.|[2112.03097v1](http://arxiv.org/abs/2112.03097v1)|null|
+|**2021-12-06**|**Temporal-Spatial Causal Interpretations for Vision-Based Reinforcement Learning**|Wenjie Shi et.al.|[2112.03020v1](http://arxiv.org/abs/2112.03020v1)|null|
+|**2021-12-06**|**Lecture Notes on Partially Known MDPs**|Guillermo A. Perez et.al.|[2112.02976v1](http://arxiv.org/abs/2112.02976v1)|null|
+|**2021-12-06**|**Reinforcement Learning for Navigation of Mobile Robot with LiDAR**|Inhwan Kim et.al.|[2112.02954v1](http://arxiv.org/abs/2112.02954v1)|null|
+|**2021-12-06**|**Deep differentiable reinforcement learning and optimal trading**|Thibault Jaisson et.al.|[2112.02944v1](http://arxiv.org/abs/2112.02944v1)|null|
+|**2021-12-06**|**SelectAugment: Hierarchical Deterministic Sample Selection for Data Augmentation**|Shiqi Lin et.al.|[2112.02862v1](http://arxiv.org/abs/2112.02862v1)|null|
+|**2021-12-06**|**Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Conquers All StarCraftII Tasks**|Linghui Meng et.al.|[2112.02845v1](http://arxiv.org/abs/2112.02845v1)|null|
 |**2021-12-03**|**Divergent representations of ethological visual inputs emerge from supervised, unsupervised, and reinforcement learning**|Grace W. Lindsay et.al.|[2112.02027v1](http://arxiv.org/abs/2112.02027v1)|null|
 |**2021-12-03**|**Improving the Robustness of Reinforcement Learning Policies with $\mathcal{L}_{1}$ Adaptive Control**|Y. Cheng et.al.|[2112.01953v2](http://arxiv.org/abs/2112.01953v2)|null|
 |**2021-12-03**|**Reinforcement Learning-Based Automatic Berthing System**|Daesoo Lee et.al.|[2112.01879v1](http://arxiv.org/abs/2112.01879v1)|**[link](https://github.com/danelee2601/rl-based-automatic-berthing)**|
@@ -354,6 +364,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-06**|**Distance and Hop-wise Structures Encoding Enhanced Graph Attention Networks**|Zhiguo Huang et.al.|[2112.02868v1](http://arxiv.org/abs/2112.02868v1)|**[link](https://github.com/hzg0601/dhsegats)**|
+|**2021-12-06**|**An Effective GCN-based Hierarchical Multi-label classification for Protein Function Prediction**|Kyudam Choi et.al.|[2112.02810v1](http://arxiv.org/abs/2112.02810v1)|null|
+|**2021-12-06**|**STformer: A Noise-Aware Efficient Spatio-Temporal Transformer Architecture for Traffic Forecasting**|Yanjun Qin et.al.|[2112.02740v1](http://arxiv.org/abs/2112.02740v1)|null|
+|**2021-12-06**|**JointLK: Joint Reasoning with Language Models and Knowledge Graphs for Commonsense Question Answering**|Yueqing Sun et.al.|[2112.02732v1](http://arxiv.org/abs/2112.02732v1)|null|
+|**2021-12-05**|**SSAGCN: Social Soft Attention Graph Convolution Network for Pedestrian Trajectory Prediction**|Pei Lv et.al.|[2112.02459v1](http://arxiv.org/abs/2112.02459v1)|null|
+|**2021-12-04**|**Fast Graph Neural Tangent Kernel via Kronecker Sketching**|Shunhua Jiang et.al.|[2112.02446v1](http://arxiv.org/abs/2112.02446v1)|null|
+|**2021-12-04**|**A Multi-Strategy based Pre-Training Method for Cold-Start Recommendation**|Bowen Hao et.al.|[2112.02275v1](http://arxiv.org/abs/2112.02275v1)|null|
+|**2021-12-04**|**Self-supervised Graph Learning for Occasional Group Recommendation**|Bowen Hao et.al.|[2112.02274v1](http://arxiv.org/abs/2112.02274v1)|null|
+|**2021-12-04**|**DMGCRN: Dynamic Multi-Graph Convolution Recurrent Network for Traffic Forecasting**|Yanjun Qin et.al.|[2112.02264v1](http://arxiv.org/abs/2112.02264v1)|null|
+|**2021-12-04**|**STJLA: A Multi-Context Aware Spatio-Temporal Joint Linear Attention Network for Traffic Forecasting**|Yuchen Fang et.al.|[2112.02262v1](http://arxiv.org/abs/2112.02262v1)|null|
 |**2021-12-03**|**TC-GNN: Accelerating Sparse Graph Neural Network Computation Via Dense Tensor Core on GPUs**|Yuke Wang et.al.|[2112.02052v1](http://arxiv.org/abs/2112.02052v1)|**[link](https://github.com/YukeWang96/TCGNN-Pytorch)**|
 |**2021-12-03**|**Graph Neural Networks for Charged Particle Tracking on FPGAs**|Abdelrahman Elabd et.al.|[2112.02048v1](http://arxiv.org/abs/2112.02048v1)|null|
 |**2021-12-03**|**Towards Low-loss 1-bit Quantization of User-item Representations for Top-K Recommendation**|Yankai Chen et.al.|[2112.01944v1](http://arxiv.org/abs/2112.01944v1)|null|
