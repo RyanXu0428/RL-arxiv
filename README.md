@@ -95,7 +95,7 @@
 |**2021-12-06**|**Flexible Option Learning**|Martin Klissarov et.al.|[2112.03097v1](http://arxiv.org/abs/2112.03097v1)|**[link](https://github.com/mklissa/moc)**|
 |**2021-12-06**|**Temporal-Spatial Causal Interpretations for Vision-Based Reinforcement Learning**|Wenjie Shi et.al.|[2112.03020v1](http://arxiv.org/abs/2112.03020v1)|null|
 |**2021-12-06**|**Lecture Notes on Partially Known MDPs**|Guillermo A. Perez et.al.|[2112.02976v1](http://arxiv.org/abs/2112.02976v1)|null|
-|**2021-12-06**|**Reinforcement Learning for Navigation of Mobile Robot with LiDAR**|Inhwan Kim et.al.|[2112.02954v1](http://arxiv.org/abs/2112.02954v1)|null|
+|**2021-12-06**|**Reinforcement Learning for Navigation of Mobile Robot with LiDAR**|Inhwan Kim et.al.|[2112.02954v2](http://arxiv.org/abs/2112.02954v2)|null|
 |**2021-12-06**|**Deep differentiable reinforcement learning and optimal trading**|Thibault Jaisson et.al.|[2112.02944v1](http://arxiv.org/abs/2112.02944v1)|null|
 |**2021-12-06**|**SelectAugment: Hierarchical Deterministic Sample Selection for Data Augmentation**|Shiqi Lin et.al.|[2112.02862v1](http://arxiv.org/abs/2112.02862v1)|null|
 |**2021-12-06**|**Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Conquers All StarCraftII Tasks**|Linghui Meng et.al.|[2112.02845v1](http://arxiv.org/abs/2112.02845v1)|null|
