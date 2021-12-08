@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-07**|**Information is Power: Intrinsic Control via Information Capture**|Nicholas Rhinehart et.al.|[2112.03899v1](http://arxiv.org/abs/2112.03899v1)|null|
+|**2021-12-07**|**Attention-Based Model and Deep Reinforcement Learning for Distribution of Event Processing Tasks**|A. Mazayev et.al.|[2112.03835v1](http://arxiv.org/abs/2112.03835v1)|null|
+|**2021-12-07**|**The Partially Observable Asynchronous Multi-Agent Cooperation Challenge**|Meng Yao et.al.|[2112.03809v1](http://arxiv.org/abs/2112.03809v1)|null|
+|**2021-12-07**|**PTR-PPO: Proximal Policy Optimization with Prioritized Trajectory Replay**|Xingxing Liang et.al.|[2112.03798v1](http://arxiv.org/abs/2112.03798v1)|null|
+|**2021-12-07**|**Tell me why! -- Explanations support learning of relational and causal structure**|Andrew K. Lampinen et.al.|[2112.03753v1](http://arxiv.org/abs/2112.03753v1)|null|
+|**2021-12-07**|**Adaptive Mimic: Deep Reinforcement Learning of Parameterized Bipedal Walking from Infeasible References**|Chong Zhang et.al.|[2112.03735v1](http://arxiv.org/abs/2112.03735v1)|null|
+|**2021-12-07**|**QKSA: Quantum Knowledge Seeking Agent -- resource-optimized reinforcement learning using quantum process tomography**|Aritra Sarkar et.al.|[2112.03643v1](http://arxiv.org/abs/2112.03643v1)|null|
+|**2021-12-07**|**Godot Reinforcement Learning Agents**|Edward Beeching et.al.|[2112.03636v1](http://arxiv.org/abs/2112.03636v1)|**[link](https://github.com/edbeeching/godot_rl_agents)**|
+|**2021-12-07**|**Pragmatic Implementation of Reinforcement Algorithms For Path Finding On Raspberry Pi**|Serena Raju et.al.|[2112.03577v1](http://arxiv.org/abs/2112.03577v1)|null|
+|**2021-12-07**|**MESA: Offline Meta-RL for Safe Adaptation and Fault Tolerance**|Michael Luo et.al.|[2112.03575v1](http://arxiv.org/abs/2112.03575v1)|null|
 |**2021-12-06**|**Functional Regularization for Reinforcement Learning via Learned Fourier Features**|Alexander C. Li et.al.|[2112.03257v1](http://arxiv.org/abs/2112.03257v1)|**[link](https://github.com/alexlioralexli/learned-fourier-features)**|
 |**2021-12-06**|**Distilled Domain Randomization**|Julien Brosseit et.al.|[2112.03149v1](http://arxiv.org/abs/2112.03149v1)|null|
 |**2021-12-06**|**Hierarchical Reinforcement Learning with Timed Subgoals**|Nico Gürtler et.al.|[2112.03100v1](http://arxiv.org/abs/2112.03100v1)|**[link](https://github.com/martius-lab/hits)**|
@@ -364,6 +374,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-07**|**OOD-GNN: Out-of-Distribution Generalized Graph Neural Network**|Haoyang Li et.al.|[2112.03806v1](http://arxiv.org/abs/2112.03806v1)|null|
+|**2021-12-07**|**GKS: Graph-based Knowledge Selector for Task-oriented Dialog System**|Jen-Chieh Yang et.al.|[2112.03719v1](http://arxiv.org/abs/2112.03719v1)|null|
+|**2021-12-07**|**Graph Neural Controlled Differential Equations for Traffic Forecasting**|Jeongwhan Choi et.al.|[2112.03558v1](http://arxiv.org/abs/2112.03558v1)|**[link](https://github.com/jeongwhanchoi/STG-NCDE)**|
+|**2021-12-07**|**A Piece-wise Polynomial Filtering Approach for Graph Neural Networks**|Vijay Lingam et.al.|[2112.03499v1](http://arxiv.org/abs/2112.03499v1)|null|
+|**2021-12-07**|**GraphPAS: Parallel Architecture Search for Graph Neural Networks**|Jiamin Chen et.al.|[2112.03461v1](http://arxiv.org/abs/2112.03461v1)|null|
+|**2021-12-06**|**Graph Neural Networks Accelerated Molecular Dynamics**|Zijie Li et.al.|[2112.03383v1](http://arxiv.org/abs/2112.03383v1)|null|
+|**2021-12-06**|**Learning Connectivity with Graph Convolutional Networks for Skeleton-based Action Recognition**|Hichem Sahbi et.al.|[2112.03328v1](http://arxiv.org/abs/2112.03328v1)|null|
+|**2021-12-06**|**Dynamic Graph Learning-Neural Network for Multivariate Time Series Modeling**|Zhuoling Li et.al.|[2112.03273v1](http://arxiv.org/abs/2112.03273v1)|null|
 |**2021-12-06**|**Distance and Hop-wise Structures Encoding Enhanced Graph Attention Networks**|Zhiguo Huang et.al.|[2112.02868v1](http://arxiv.org/abs/2112.02868v1)|**[link](https://github.com/hzg0601/dhsegats)**|
 |**2021-12-06**|**An Effective GCN-based Hierarchical Multi-label classification for Protein Function Prediction**|Kyudam Choi et.al.|[2112.02810v1](http://arxiv.org/abs/2112.02810v1)|null|
 |**2021-12-06**|**STformer: A Noise-Aware Efficient Spatio-Temporal Transformer Architecture for Traffic Forecasting**|Yanjun Qin et.al.|[2112.02740v1](http://arxiv.org/abs/2112.02740v1)|null|
