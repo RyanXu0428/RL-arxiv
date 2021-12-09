@@ -96,8 +96,8 @@ layout: default
 |**2021-12-07**|**Information is Power: Intrinsic Control via Information Capture**|Nicholas Rhinehart et.al.|[2112.03899v1](http://arxiv.org/abs/2112.03899v1)|null|
 |**2021-12-07**|**Attention-Based Model and Deep Reinforcement Learning for Distribution of Event Processing Tasks**|A. Mazayev et.al.|[2112.03835v1](http://arxiv.org/abs/2112.03835v1)|null|
 |**2021-12-07**|**The Partially Observable Asynchronous Multi-Agent Cooperation Challenge**|Meng Yao et.al.|[2112.03809v1](http://arxiv.org/abs/2112.03809v1)|null|
-|**2021-12-07**|**PTR-PPO: Proximal Policy Optimization with Prioritized Trajectory Replay**|Xingxing Liang et.al.|[2112.03798v1](http://arxiv.org/abs/2112.03798v1)|null|
-|**2021-12-07**|**Tell me why! -- Explanations support learning of relational and causal structure**|Andrew K. Lampinen et.al.|[2112.03753v1](http://arxiv.org/abs/2112.03753v1)|null|
+|**2021-12-07**|**PTR-PPO: Proximal Policy Optimization with Prioritized Trajectory Replay**|Xingxing Liang et.al.|[2112.03798v2](http://arxiv.org/abs/2112.03798v2)|null|
+|**2021-12-07**|**Tell me why! -- Explanations support learning of relational and causal structure**|Andrew K. Lampinen et.al.|[2112.03753v2](http://arxiv.org/abs/2112.03753v2)|null|
 |**2021-12-07**|**Adaptive Mimic: Deep Reinforcement Learning of Parameterized Bipedal Walking from Infeasible References**|Chong Zhang et.al.|[2112.03735v1](http://arxiv.org/abs/2112.03735v1)|null|
 |**2021-12-07**|**QKSA: Quantum Knowledge Seeking Agent -- resource-optimized reinforcement learning using quantum process tomography**|Aritra Sarkar et.al.|[2112.03643v1](http://arxiv.org/abs/2112.03643v1)|null|
 |**2021-12-07**|**Godot Reinforcement Learning Agents**|Edward Beeching et.al.|[2112.03636v1](http://arxiv.org/abs/2112.03636v1)|**[link](https://github.com/edbeeching/godot_rl_agents)**|
