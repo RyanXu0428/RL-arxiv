@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-08**|**CoMPS: Continual Meta Policy Search**|Glen Berseth et.al.|[2112.04467v1](http://arxiv.org/abs/2112.04467v1)|null|
+|**2021-12-08**|**Greedy-based Value Representation for Optimal Coordination in Multi-agent Reinforcement Learning**|Lipeng Wan et.al.|[2112.04454v1](http://arxiv.org/abs/2112.04454v1)|null|
+|**2021-12-08**|**Suboptimal and trait-like reinforcement learning strategies correlate with midbrain encoding of prediction errors**|Liran Szlak et.al.|[2112.04327v1](http://arxiv.org/abs/2112.04327v1)|null|
+|**2021-12-08**|**Application of Deep Reinforcement Learning to Payment Fraud**|Siddharth Vimal et.al.|[2112.04236v1](http://arxiv.org/abs/2112.04236v1)|null|
+|**2021-12-08**|**Learning over All Stabilizing Nonlinear Controllers for a Partially-Observed Linear System**|Ruigang Wang et.al.|[2112.04219v1](http://arxiv.org/abs/2112.04219v1)|null|
+|**2021-12-08**|**Specializing Versatile Skill Libraries using Local Mixture of Experts**|Onur Celik et.al.|[2112.04216v1](http://arxiv.org/abs/2112.04216v1)|null|
+|**2021-12-08**|**Model-Value Inconsistency as a Signal for Epistemic Uncertainty**|Angelos Filos et.al.|[2112.04153v1](http://arxiv.org/abs/2112.04153v1)|null|
+|**2021-12-08**|**A Review for Deep Reinforcement Learning in Atari:Benchmarks, Challenges, and Solutions**|Jiajun Fan et.al.|[2112.04145v1](http://arxiv.org/abs/2112.04145v1)|null|
+|**2021-12-08**|**ShinRL: A Library for Evaluating RL Algorithms from Theoretical and Practical Perspectives**|Toshinori Kitamura et.al.|[2112.04123v1](http://arxiv.org/abs/2112.04123v1)|**[link](https://github.com/omron-sinicx/shinrl)**|
+|**2021-12-08**|**Learning to Select the Next Reasonable Mention for Entity Linking**|Jian Sun et.al.|[2112.04104v1](http://arxiv.org/abs/2112.04104v1)|null|
 |**2021-12-07**|**Information is Power: Intrinsic Control via Information Capture**|Nicholas Rhinehart et.al.|[2112.03899v1](http://arxiv.org/abs/2112.03899v1)|null|
 |**2021-12-07**|**Attention-Based Model and Deep Reinforcement Learning for Distribution of Event Processing Tasks**|A. Mazayev et.al.|[2112.03835v1](http://arxiv.org/abs/2112.03835v1)|null|
 |**2021-12-07**|**The Partially Observable Asynchronous Multi-Agent Cooperation Challenge**|Meng Yao et.al.|[2112.03809v1](http://arxiv.org/abs/2112.03809v1)|null|
@@ -374,6 +384,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-08**|**Improving the Training of Graph Neural Networks with Consistency Regularization**|Chenhui Zhang et.al.|[2112.04319v1](http://arxiv.org/abs/2112.04319v1)|**[link](https://github.com/thudm/crgnn)**|
+|**2021-12-08**|**Trainability for Universal GNNs Through Surgical Randomness**|Billy Joe Franks et.al.|[2112.04314v1](http://arxiv.org/abs/2112.04314v1)|null|
+|**2021-12-08**|**A Hierarchical Spatio-Temporal Graph Convolutional Neural Network for Anomaly Detection in Videos**|Xianlin Zeng et.al.|[2112.04294v1](http://arxiv.org/abs/2112.04294v1)|null|
+|**2021-12-08**|**Modeling Spatio-Temporal Dynamics in Brain Networks: A Comparison of Graph Neural Network Architectures**|Simon Wein et.al.|[2112.04266v1](http://arxiv.org/abs/2112.04266v1)|**[link](https://github.com/simonvino/graphwavenet_brain_connectivity)**|
+|**2021-12-08**|**Pretrained Cost Model for Distributed Constraint Optimization Problems**|Yanchen Deng et.al.|[2112.04187v1](http://arxiv.org/abs/2112.04187v1)|**[link](https://github.com/dyc941126/gat-pcm)**|
+|**2021-12-08**|**Topology-aware Convolutional Neural Network for Efficient Skeleton-based Action Recognition**|Kailin Xu et.al.|[2112.04178v1](http://arxiv.org/abs/2112.04178v1)|null|
+|**2021-12-08**|**Garment4D: Garment Reconstruction from Point Cloud Sequences**|Fangzhou Hong et.al.|[2112.04159v1](http://arxiv.org/abs/2112.04159v1)|**[link](https://github.com/hongfz16/garment4d)**|
+|**2021-12-07**|**Learning Theory Can (Sometimes) Explain Generalisation in Graph Neural Networks**|Pascal Mattia Esser et.al.|[2112.03968v1](http://arxiv.org/abs/2112.03968v1)|null|
 |**2021-12-07**|**OOD-GNN: Out-of-Distribution Generalized Graph Neural Network**|Haoyang Li et.al.|[2112.03806v1](http://arxiv.org/abs/2112.03806v1)|null|
 |**2021-12-07**|**GKS: Graph-based Knowledge Selector for Task-oriented Dialog System**|Jen-Chieh Yang et.al.|[2112.03719v1](http://arxiv.org/abs/2112.03719v1)|null|
 |**2021-12-07**|**Graph Neural Controlled Differential Equations for Traffic Forecasting**|Jeongwhan Choi et.al.|[2112.03558v1](http://arxiv.org/abs/2112.03558v1)|**[link](https://github.com/jeongwhanchoi/STG-NCDE)**|
