@@ -383,7 +383,7 @@
 |**2021-12-08**|**Improving the Training of Graph Neural Networks with Consistency Regularization**|Chenhui Zhang et.al.|[2112.04319v1](http://arxiv.org/abs/2112.04319v1)|**[link](https://github.com/thudm/crgnn)**|
 |**2021-12-08**|**Trainability for Universal GNNs Through Surgical Randomness**|Billy Joe Franks et.al.|[2112.04314v1](http://arxiv.org/abs/2112.04314v1)|null|
 |**2021-12-08**|**A Hierarchical Spatio-Temporal Graph Convolutional Neural Network for Anomaly Detection in Videos**|Xianlin Zeng et.al.|[2112.04294v1](http://arxiv.org/abs/2112.04294v1)|null|
-|**2021-12-08**|**Modeling Spatio-Temporal Dynamics in Brain Networks: A Comparison of Graph Neural Network Architectures**|Simon Wein et.al.|[2112.04266v1](http://arxiv.org/abs/2112.04266v1)|**[link](https://github.com/simonvino/graphwavenet_brain_connectivity)**|
+|**2021-12-08**|**Modeling Spatio-Temporal Dynamics in Brain Networks: A Comparison of Graph Neural Network Architectures**|Simon Wein et.al.|[2112.04266v1](http://arxiv.org/abs/2112.04266v1)|**[link](https://github.com/simonvino/DCRNN_brain_connectivity)**|
 |**2021-12-08**|**Pretrained Cost Model for Distributed Constraint Optimization Problems**|Yanchen Deng et.al.|[2112.04187v1](http://arxiv.org/abs/2112.04187v1)|**[link](https://github.com/dyc941126/gat-pcm)**|
 |**2021-12-08**|**Topology-aware Convolutional Neural Network for Efficient Skeleton-based Action Recognition**|Kailin Xu et.al.|[2112.04178v1](http://arxiv.org/abs/2112.04178v1)|null|
 |**2021-12-08**|**Garment4D: Garment Reconstruction from Point Cloud Sequences**|Fangzhou Hong et.al.|[2112.04159v1](http://arxiv.org/abs/2112.04159v1)|**[link](https://github.com/hongfz16/garment4d)**|
