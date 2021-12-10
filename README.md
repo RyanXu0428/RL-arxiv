@@ -385,7 +385,7 @@
 |**2021-12-08**|**A Hierarchical Spatio-Temporal Graph Convolutional Neural Network for Anomaly Detection in Videos**|Xianlin Zeng et.al.|[2112.04294v1](http://arxiv.org/abs/2112.04294v1)|null|
 |**2021-12-08**|**Modeling Spatio-Temporal Dynamics in Brain Networks: A Comparison of Graph Neural Network Architectures**|Simon Wein et.al.|[2112.04266v1](http://arxiv.org/abs/2112.04266v1)|**[link](https://github.com/simonvino/DCRNN_brain_connectivity)**|
 |**2021-12-08**|**Pretrained Cost Model for Distributed Constraint Optimization Problems**|Yanchen Deng et.al.|[2112.04187v1](http://arxiv.org/abs/2112.04187v1)|**[link](https://github.com/dyc941126/gat-pcm)**|
-|**2021-12-08**|**Topology-aware Convolutional Neural Network for Efficient Skeleton-based Action Recognition**|Kailin Xu et.al.|[2112.04178v1](http://arxiv.org/abs/2112.04178v1)|null|
+|**2021-12-08**|**Topology-aware Convolutional Neural Network for Efficient Skeleton-based Action Recognition**|Kailin Xu et.al.|[2112.04178v2](http://arxiv.org/abs/2112.04178v2)|null|
 |**2021-12-08**|**Garment4D: Garment Reconstruction from Point Cloud Sequences**|Fangzhou Hong et.al.|[2112.04159v1](http://arxiv.org/abs/2112.04159v1)|**[link](https://github.com/hongfz16/garment4d)**|
 |**2021-12-07**|**Learning Theory Can (Sometimes) Explain Generalisation in Graph Neural Networks**|Pascal Mattia Esser et.al.|[2112.03968v1](http://arxiv.org/abs/2112.03968v1)|null|
 |**2021-12-07**|**OOD-GNN: Out-of-Distribution Generalized Graph Neural Network**|Haoyang Li et.al.|[2112.03806v1](http://arxiv.org/abs/2112.03806v1)|null|
