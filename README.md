@@ -89,6 +89,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-09**|**VMAgent: Scheduling Simulator for Reinforcement Learning**|Junjie Sheng et.al.|[2112.04785v1](http://arxiv.org/abs/2112.04785v1)|null|
+|**2021-12-09**|**High-Dimensional Stock Portfolio Trading with Deep Reinforcement Learning**|Uta Pigorsch et.al.|[2112.04755v1](http://arxiv.org/abs/2112.04755v1)|null|
+|**2021-12-09**|**Learning multiple gaits of quadruped robot using hierarchical reinforcement learning**|Yunho Kim et.al.|[2112.04741v1](http://arxiv.org/abs/2112.04741v1)|**[link](https://github.com/awesomericky/multiple-gait-controller-for-quadruped-robot)**|
+|**2021-12-09**|**DR3: Value-Based Deep Reinforcement Learning Requires Explicit Regularization**|Aviral Kumar et.al.|[2112.04716v1](http://arxiv.org/abs/2112.04716v1)|null|
+|**2021-12-09**|**Learning Generalizable Multi-Lane Mixed-Autonomy Behaviors in Single Lane Representations of Traffic-compressed**|Abdul Rahman Kreidieh et.al.|[2112.04688v1](http://arxiv.org/abs/2112.04688v1)|null|
+|**2021-12-08**|**Ambiguous Dynamic Treatment Regimes: A Reinforcement Learning Approach**|Soroush Saghafian et.al.|[2112.04571v1](http://arxiv.org/abs/2112.04571v1)|null|
+|**2021-12-08**|**Recent Advances in Reinforcement Learning in Finance**|Ben Hambly et.al.|[2112.04553v1](http://arxiv.org/abs/2112.04553v1)|null|
 |**2021-12-08**|**CoMPS: Continual Meta Policy Search**|Glen Berseth et.al.|[2112.04467v1](http://arxiv.org/abs/2112.04467v1)|null|
 |**2021-12-08**|**Greedy-based Value Representation for Optimal Coordination in Multi-agent Reinforcement Learning**|Lipeng Wan et.al.|[2112.04454v1](http://arxiv.org/abs/2112.04454v1)|null|
 |**2021-12-08**|**Suboptimal and trait-like reinforcement learning strategies correlate with midbrain encoding of prediction errors**|Liran Szlak et.al.|[2112.04327v1](http://arxiv.org/abs/2112.04327v1)|null|
@@ -380,6 +387,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-09**|**DP-GCN: Node Classification Based on Both Connectivity and Topology Structure Convolutions for Risky Seller Detection**|Chen Zhe et.al.|[2112.04757v1](http://arxiv.org/abs/2112.04757v1)|null|
+|**2021-12-09**|**Transferability Properties of Graph Neural Networks**|Luana Ruiz et.al.|[2112.04629v1](http://arxiv.org/abs/2112.04629v1)|null|
+|**2021-12-08**|**Adaptive Kernel Graph Neural Network**|Mingxuan Ju et.al.|[2112.04575v1](http://arxiv.org/abs/2112.04575v1)|**[link](https://github.com/jumxglhf/akgnn)**|
 |**2021-12-08**|**Improving the Training of Graph Neural Networks with Consistency Regularization**|Chenhui Zhang et.al.|[2112.04319v1](http://arxiv.org/abs/2112.04319v1)|**[link](https://github.com/thudm/crgnn)**|
 |**2021-12-08**|**Trainability for Universal GNNs Through Surgical Randomness**|Billy Joe Franks et.al.|[2112.04314v1](http://arxiv.org/abs/2112.04314v1)|null|
 |**2021-12-08**|**A Hierarchical Spatio-Temporal Graph Convolutional Neural Network for Anomaly Detection in Videos**|Xianlin Zeng et.al.|[2112.04294v1](http://arxiv.org/abs/2112.04294v1)|null|
