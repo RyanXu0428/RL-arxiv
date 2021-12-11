@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2021.12.10
+## Updated on 2021.12.11
 
 ## SLAM
 
@@ -93,7 +93,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2021-12-09**|**VMAgent: Scheduling Simulator for Reinforcement Learning**|Junjie Sheng et.al.|[2112.04785v1](http://arxiv.org/abs/2112.04785v1)|null|
+|**2021-12-09**|**VMAgent: Scheduling Simulator for Reinforcement Learning**|Junjie Sheng et.al.|[2112.04785v1](http://arxiv.org/abs/2112.04785v1)|**[link](https://github.com/mail-ecnu/vmagent)**|
 |**2021-12-09**|**High-Dimensional Stock Portfolio Trading with Deep Reinforcement Learning**|Uta Pigorsch et.al.|[2112.04755v1](http://arxiv.org/abs/2112.04755v1)|null|
 |**2021-12-09**|**Learning multiple gaits of quadruped robot using hierarchical reinforcement learning**|Yunho Kim et.al.|[2112.04741v1](http://arxiv.org/abs/2112.04741v1)|**[link](https://github.com/awesomericky/multiple-gait-controller-for-quadruped-robot)**|
 |**2021-12-09**|**DR3: Value-Based Deep Reinforcement Learning Requires Explicit Regularization**|Aviral Kumar et.al.|[2112.04716v1](http://arxiv.org/abs/2112.04716v1)|null|
