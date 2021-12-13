@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-10**|**Reward-Based Environment States for Robot Manipulation Policy Learning**|Cédérick Mouliets et.al.|[2112.05621v1](http://arxiv.org/abs/2112.05621v1)|null|
+|**2021-12-10**|**A Validation Tool for Designing Reinforcement Learning Environments**|Ruiyang Xu et.al.|[2112.05519v1](http://arxiv.org/abs/2112.05519v1)|null|
+|**2021-12-10**|**How Private Is Your RL Policy? An Inverse RL Based Analysis Framework**|Kritika Prakash et.al.|[2112.05495v1](http://arxiv.org/abs/2112.05495v1)|**[link](https://github.com/magnetar-iiith/pril)**|
+|**2021-12-10**|**A Reinforcement Learning-based Adaptive Control Model for Future Street Planning, An Algorithm and A Case Study**|Qiming Ye et.al.|[2112.05434v1](http://arxiv.org/abs/2112.05434v1)|null|
+|**2021-12-10**|**Blockwise Sequential Model Learning for Partially Observable Reinforcement Learning**|Giseung Park et.al.|[2112.05343v1](http://arxiv.org/abs/2112.05343v1)|**[link](https://github.com/giseung-park/blockseq)**|
+|**2021-12-10**|**Zero-Shot Uncertainty-Aware Deployment of Simulation Trained Policies on Real-World Robots**|Krishan Rana et.al.|[2112.05299v1](http://arxiv.org/abs/2112.05299v1)|null|
+|**2021-12-10**|**SmartCon: Deep Probabilistic Learning Based Intelligent Link-Configuration in Narrowband-IoT Towards 5G and B5G**|Raja Karmakar et.al.|[2112.05286v1](http://arxiv.org/abs/2112.05286v1)|null|
+|**2021-12-09**|**An Experimental Design Perspective on Model-Based Reinforcement Learning**|Viraj Mehta et.al.|[2112.05244v1](http://arxiv.org/abs/2112.05244v1)|null|
+|**2021-12-09**|**Learning Generalizable Behavior via Visual Rewrite Rules**|Yiheng Xie et.al.|[2112.05218v1](http://arxiv.org/abs/2112.05218v1)|null|
+|**2021-12-09**|**Reinforcement Learning with Almost Sure Constraints**|Agustin Castellano et.al.|[2112.05198v1](http://arxiv.org/abs/2112.05198v1)|null|
 |**2021-12-09**|**VMAgent: Scheduling Simulator for Reinforcement Learning**|Junjie Sheng et.al.|[2112.04785v1](http://arxiv.org/abs/2112.04785v1)|**[link](https://github.com/mail-ecnu/vmagent)**|
 |**2021-12-09**|**High-Dimensional Stock Portfolio Trading with Deep Reinforcement Learning**|Uta Pigorsch et.al.|[2112.04755v1](http://arxiv.org/abs/2112.04755v1)|null|
 |**2021-12-09**|**Learning multiple gaits of quadruped robot using hierarchical reinforcement learning**|Yunho Kim et.al.|[2112.04741v1](http://arxiv.org/abs/2112.04741v1)|**[link](https://github.com/awesomericky/multiple-gait-controller-for-quadruped-robot)**|
