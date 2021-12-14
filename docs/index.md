@@ -411,7 +411,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2021-12-13**|**BScNets: Block Simplicial Complex Neural Networks**|Yuzhou Chen et.al.|[2112.06826v1](http://arxiv.org/abs/2112.06826v1)|null|
+|**2021-12-13**|**BScNets: Block Simplicial Complex Neural Networks**|Yuzhou Chen et.al.|[2112.06826v1](http://arxiv.org/abs/2112.06826v1)|**[link](https://github.com/BScNets/BScNets)**|
 |**2021-12-13**|**GCNDepth: Self-supervised Monocular Depth Estimation based on Graph Convolutional Network**|Armin Masoumian et.al.|[2112.06782v1](http://arxiv.org/abs/2112.06782v1)|**[link](https://github.com/arminmasoumian/gcndepth)**|
 |**2021-12-13**|**Hybrid Graph Neural Networks for Few-Shot Learning**|Tianyuan Yu et.al.|[2112.06538v1](http://arxiv.org/abs/2112.06538v1)|null|
 |**2021-12-13**|**Fake Reviewer Group Detection in Online Review Systems**|Chen Cao et.al.|[2112.06403v1](http://arxiv.org/abs/2112.06403v1)|null|
