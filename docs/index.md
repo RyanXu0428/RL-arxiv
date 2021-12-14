@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-13**|**Beyond Ads: Sequential Decision-Making Algorithms in Public Policy**|Peter Henderson et.al.|[2112.06833v1](http://arxiv.org/abs/2112.06833v1)|null|
+|**2021-12-13**|**FinRL-Meta: A Universe of Near-Real Market Environments for Data-Driven Deep Reinforcement Learning in Quantitative Finance**|Xiao-Yang Liu et.al.|[2112.06753v1](http://arxiv.org/abs/2112.06753v1)|**[link](https://github.com/ai4finance-foundation/finrl-meta)**|
+|**2021-12-13**|**Probability Density Estimation Based Imitation Learning**|Yang Liu et.al.|[2112.06746v1](http://arxiv.org/abs/2112.06746v1)|null|
+|**2021-12-13**|**Hypothesis learning in an automated experiment: application to combinatorial materials libraries**|Maxim Ziatdinov et.al.|[2112.06649v1](http://arxiv.org/abs/2112.06649v1)|null|
+|**2021-12-13**|**Quantum Stream Learning**|Yongcheng Ding et.al.|[2112.06628v1](http://arxiv.org/abs/2112.06628v1)|null|
+|**2021-12-13**|**Lifelong Hyper-Policy Optimization with Multiple Importance Sampling Regularization**|Pierre Liotet et.al.|[2112.06625v1](http://arxiv.org/abs/2112.06625v1)|null|
+|**2021-12-13**|**Contextual Exploration Using a Linear Approximation Method Based on Satisficing**|Akane Minami et.al.|[2112.06452v1](http://arxiv.org/abs/2112.06452v1)|null|
+|**2021-12-13**|**A Benchmark for Low-Switching-Cost Reinforcement Learning**|Shusheng Xu et.al.|[2112.06424v1](http://arxiv.org/abs/2112.06424v1)|null|
+|**2021-12-12**|**ValueNet: A New Dataset for Human Value Driven Dialogue System**|Liang Qiu et.al.|[2112.06346v1](http://arxiv.org/abs/2112.06346v1)|null|
+|**2021-12-12**|**Multi-Agent Vulnerability Discovery for Autonomous Driving with Hazard Arbitration Reward**|Weilin Liu et.al.|[2112.06185v1](http://arxiv.org/abs/2112.06185v1)|null|
 |**2021-12-10**|**Reward-Based Environment States for Robot Manipulation Policy Learning**|Cédérick Mouliets et.al.|[2112.05621v1](http://arxiv.org/abs/2112.05621v1)|null|
 |**2021-12-10**|**A Validation Tool for Designing Reinforcement Learning Environments**|Ruiyang Xu et.al.|[2112.05519v1](http://arxiv.org/abs/2112.05519v1)|null|
 |**2021-12-10**|**How Private Is Your RL Policy? An Inverse RL Based Analysis Framework**|Kritika Prakash et.al.|[2112.05495v1](http://arxiv.org/abs/2112.05495v1)|**[link](https://github.com/magnetar-iiith/pril)**|
@@ -401,6 +411,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-13**|**BScNets: Block Simplicial Complex Neural Networks**|Yuzhou Chen et.al.|[2112.06826v1](http://arxiv.org/abs/2112.06826v1)|null|
+|**2021-12-13**|**GCNDepth: Self-supervised Monocular Depth Estimation based on Graph Convolutional Network**|Armin Masoumian et.al.|[2112.06782v1](http://arxiv.org/abs/2112.06782v1)|**[link](https://github.com/arminmasoumian/gcndepth)**|
+|**2021-12-13**|**Hybrid Graph Neural Networks for Few-Shot Learning**|Tianyuan Yu et.al.|[2112.06538v1](http://arxiv.org/abs/2112.06538v1)|null|
+|**2021-12-13**|**Fake Reviewer Group Detection in Online Review Systems**|Chen Cao et.al.|[2112.06403v1](http://arxiv.org/abs/2112.06403v1)|null|
+|**2021-12-13**|**N-Cloth: Predicting 3D Cloth Deformation with Mesh-Based Networks**|Yudi Li et.al.|[2112.06397v1](http://arxiv.org/abs/2112.06397v1)|null|
+|**2021-12-13**|**Sparse Structure Learning via Graph Neural Networks for Inductive Document Classification**|Yinhua Piao et.al.|[2112.06386v1](http://arxiv.org/abs/2112.06386v1)|null|
+|**2021-12-11**|**A Comparative Study on Robust Graph Neural Networks to Structural Noises**|Zeyu Zhang et.al.|[2112.06070v1](http://arxiv.org/abs/2112.06070v1)|null|
+|**2021-12-11**|**Spatial Graph Convolutional Neural Network via Structured Subdomain Adaptation and Domain Adversarial Learning for Bearing Fault Diagnosis**|Mohammadreza Ghorvei et.al.|[2112.06033v1](http://arxiv.org/abs/2112.06033v1)|null|
+|**2021-12-11**|**Attacking Point Cloud Segmentation with Color-only Perturbation**|Jiacen Xu et.al.|[2112.05871v1](http://arxiv.org/abs/2112.05871v1)|null|
 |**2021-12-09**|**DP-GCN: Node Classification Based on Both Connectivity and Topology Structure Convolutions for Risky Seller Detection**|Chen Zhe et.al.|[2112.04757v1](http://arxiv.org/abs/2112.04757v1)|null|
 |**2021-12-09**|**Transferability Properties of Graph Neural Networks**|Luana Ruiz et.al.|[2112.04629v1](http://arxiv.org/abs/2112.04629v1)|null|
 |**2021-12-08**|**Adaptive Kernel Graph Neural Network**|Mingxuan Ju et.al.|[2112.04575v1](http://arxiv.org/abs/2112.04575v1)|**[link](https://github.com/jumxglhf/akgnn)**|
