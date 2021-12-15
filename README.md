@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-14**|**Reinforcing Semantic-Symmetry for Document Summarization**|Mingyang Song et.al.|[2112.07583v1](http://arxiv.org/abs/2112.07583v1)|null|
+|**2021-12-14**|**Cooperation for Scalable Supervision of Autonomy in Mixed Traffic**|Cameron Hickert et.al.|[2112.07569v1](http://arxiv.org/abs/2112.07569v1)|null|
+|**2021-12-14**|**Scientific Discovery and the Cost of Measurement -- Balancing Information and Cost in Reinforcement Learning**|Colin Bellinger et.al.|[2112.07535v1](http://arxiv.org/abs/2112.07535v1)|null|
+|**2021-12-14**|**Reinforced Abstractive Summarization with Adaptive Length Controlling**|Mingyang Song et.al.|[2112.07534v1](http://arxiv.org/abs/2112.07534v1)|null|
+|**2021-12-14**|**A Tutorial on Optimal Control and Reinforcement Learning methods for Quantum Technologies**|Luigi Giannelli et.al.|[2112.07453v1](http://arxiv.org/abs/2112.07453v1)|null|
+|**2021-12-14**|**Conjugated Discrete Distributions for Distributional Reinforcement Learning**|Björn Lindenberg et.al.|[2112.07424v1](http://arxiv.org/abs/2112.07424v1)|null|
+|**2021-12-14**|**Stochastic Planner-Actor-Critic for Unsupervised Deformable Image Registration**|Ziwei Luo et.al.|[2112.07415v1](http://arxiv.org/abs/2112.07415v1)|null|
+|**2021-12-14**|**Branching Time Active Inference with Bayesian Filtering**|Théophile Champion et.al.|[2112.07406v1](http://arxiv.org/abs/2112.07406v1)|null|
+|**2021-12-14**|**Stochastic Actor-Executor-Critic for Image-to-Image Translation**|Ziwei Luo et.al.|[2112.07403v1](http://arxiv.org/abs/2112.07403v1)|null|
+|**2021-12-14**|**Biased Gradient Estimate with Drastic Variance Reduction for Meta Reinforcement Learning**|Yunhao Tang et.al.|[2112.07328v1](http://arxiv.org/abs/2112.07328v1)|null|
 |**2021-12-13**|**Beyond Ads: Sequential Decision-Making Algorithms in Public Policy**|Peter Henderson et.al.|[2112.06833v1](http://arxiv.org/abs/2112.06833v1)|null|
 |**2021-12-13**|**FinRL-Meta: A Universe of Near-Real Market Environments for Data-Driven Deep Reinforcement Learning in Quantitative Finance**|Xiao-Yang Liu et.al.|[2112.06753v1](http://arxiv.org/abs/2112.06753v1)|**[link](https://github.com/ai4finance-foundation/finrl-meta)**|
 |**2021-12-13**|**Probability Density Estimation Based Imitation Learning**|Yang Liu et.al.|[2112.06746v1](http://arxiv.org/abs/2112.06746v1)|null|
@@ -407,6 +417,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-14**|**Robust Graph Neural Networks via Probabilistic Lipschitz Constraints**|Raghu Arghal et.al.|[2112.07575v1](http://arxiv.org/abs/2112.07575v1)|null|
+|**2021-12-14**|**An Adaptive Graph Pre-training Framework for Localized Collaborative Filtering**|Yiqi Wang et.al.|[2112.07191v1](http://arxiv.org/abs/2112.07191v1)|null|
+|**2021-12-14**|**MuxLink: Circumventing Learning-Resilient MUX-Locking Using Graph Neural Network-based Link Prediction**|Lilas Alrahis et.al.|[2112.07178v1](http://arxiv.org/abs/2112.07178v1)|null|
+|**2021-12-14**|**Improving Spectral Graph Convolution for Learning Graph-level Representation**|Mingqi Yang et.al.|[2112.07160v1](http://arxiv.org/abs/2112.07160v1)|null|
+|**2021-12-14**|**Joint 3D Object Detection and Tracking Using Spatio-Temporal Representation of Camera Image and LiDAR Point Clouds**|Junho Koh et.al.|[2112.07116v1](http://arxiv.org/abs/2112.07116v1)|null|
 |**2021-12-13**|**BScNets: Block Simplicial Complex Neural Networks**|Yuzhou Chen et.al.|[2112.06826v1](http://arxiv.org/abs/2112.06826v1)|**[link](https://github.com/BScNets/BScNets)**|
 |**2021-12-13**|**GCNDepth: Self-supervised Monocular Depth Estimation based on Graph Convolutional Network**|Armin Masoumian et.al.|[2112.06782v1](http://arxiv.org/abs/2112.06782v1)|**[link](https://github.com/arminmasoumian/gcndepth)**|
 |**2021-12-13**|**Hybrid Graph Neural Networks for Few-Shot Learning**|Tianyuan Yu et.al.|[2112.06538v1](http://arxiv.org/abs/2112.06538v1)|null|
