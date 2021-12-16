@@ -421,7 +421,7 @@
 |**2021-12-14**|**An Adaptive Graph Pre-training Framework for Localized Collaborative Filtering**|Yiqi Wang et.al.|[2112.07191v1](http://arxiv.org/abs/2112.07191v1)|null|
 |**2021-12-14**|**MuxLink: Circumventing Learning-Resilient MUX-Locking Using Graph Neural Network-based Link Prediction**|Lilas Alrahis et.al.|[2112.07178v1](http://arxiv.org/abs/2112.07178v1)|null|
 |**2021-12-14**|**Improving Spectral Graph Convolution for Learning Graph-level Representation**|Mingqi Yang et.al.|[2112.07160v1](http://arxiv.org/abs/2112.07160v1)|null|
-|**2021-12-14**|**Joint 3D Object Detection and Tracking Using Spatio-Temporal Representation of Camera Image and LiDAR Point Clouds**|Junho Koh et.al.|[2112.07116v1](http://arxiv.org/abs/2112.07116v1)|null|
+|**2021-12-14**|**Joint 3D Object Detection and Tracking Using Spatio-Temporal Representation of Camera Image and LiDAR Point Clouds**|Junho Koh et.al.|[2112.07116v2](http://arxiv.org/abs/2112.07116v2)|null|
 |**2021-12-13**|**BScNets: Block Simplicial Complex Neural Networks**|Yuzhou Chen et.al.|[2112.06826v1](http://arxiv.org/abs/2112.06826v1)|**[link](https://github.com/BScNets/BScNets)**|
 |**2021-12-13**|**GCNDepth: Self-supervised Monocular Depth Estimation based on Graph Convolutional Network**|Armin Masoumian et.al.|[2112.06782v1](http://arxiv.org/abs/2112.06782v1)|**[link](https://github.com/arminmasoumian/gcndepth)**|
 |**2021-12-13**|**Hybrid Graph Neural Networks for Few-Shot Learning**|Tianyuan Yu et.al.|[2112.06538v1](http://arxiv.org/abs/2112.06538v1)|null|
