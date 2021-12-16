@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2021.12.15
+## Updated on 2021.12.16
 
 ## SLAM
 
@@ -98,7 +98,7 @@ layout: default
 |**2021-12-14**|**Scientific Discovery and the Cost of Measurement -- Balancing Information and Cost in Reinforcement Learning**|Colin Bellinger et.al.|[2112.07535v1](http://arxiv.org/abs/2112.07535v1)|null|
 |**2021-12-14**|**Reinforced Abstractive Summarization with Adaptive Length Controlling**|Mingyang Song et.al.|[2112.07534v1](http://arxiv.org/abs/2112.07534v1)|null|
 |**2021-12-14**|**A Tutorial on Optimal Control and Reinforcement Learning methods for Quantum Technologies**|Luigi Giannelli et.al.|[2112.07453v1](http://arxiv.org/abs/2112.07453v1)|null|
-|**2021-12-14**|**Conjugated Discrete Distributions for Distributional Reinforcement Learning**|Björn Lindenberg et.al.|[2112.07424v1](http://arxiv.org/abs/2112.07424v1)|null|
+|**2021-12-14**|**Conjugated Discrete Distributions for Distributional Reinforcement Learning**|Björn Lindenberg et.al.|[2112.07424v1](http://arxiv.org/abs/2112.07424v1)|**[link](https://github.com/bjliaa/c2d)**|
 |**2021-12-14**|**Stochastic Planner-Actor-Critic for Unsupervised Deformable Image Registration**|Ziwei Luo et.al.|[2112.07415v1](http://arxiv.org/abs/2112.07415v1)|null|
 |**2021-12-14**|**Branching Time Active Inference with Bayesian Filtering**|Théophile Champion et.al.|[2112.07406v1](http://arxiv.org/abs/2112.07406v1)|null|
 |**2021-12-14**|**Stochastic Actor-Executor-Critic for Image-to-Image Translation**|Ziwei Luo et.al.|[2112.07403v1](http://arxiv.org/abs/2112.07403v1)|null|
