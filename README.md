@@ -89,6 +89,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-15**|**N3H-Core: Neuron-designed Neural Network Accelerator via FPGA-based Heterogeneous Computing Cores**|Yu Gong et.al.|[2112.08193v1](http://arxiv.org/abs/2112.08193v1)|null|
+|**2021-12-15**|**Automatic tuning of hyper-parameters of reinforcement learning algorithms using Bayesian optimization with behavioral cloning**|Juan Cruz Barsce et.al.|[2112.08094v1](http://arxiv.org/abs/2112.08094v1)|null|
+|**2021-12-15**|**Finite-Sample Analysis of Decentralized Q-Learning for Stochastic Games**|Zuguang Gao et.al.|[2112.07859v1](http://arxiv.org/abs/2112.07859v1)|null|
+|**2021-12-14**|**Assessing Human Interaction in Virtual Reality With Continually Learning Prediction Agents Based on Reinforcement Learning Algorithms: A Pilot Study**|Dylan J. A. Brenneis et.al.|[2112.07774v1](http://arxiv.org/abs/2112.07774v1)|null|
+|**2021-12-14**|**Representation and Invariance in Reinforcement Learning**|Samuel Alexander et.al.|[2112.07752v1](http://arxiv.org/abs/2112.07752v1)|null|
+|**2021-12-14**|**CEM-GD: Cross-Entropy Method with Gradient Descent Planner for Model-Based Reinforcement Learning**|Kevin Huang et.al.|[2112.07746v1](http://arxiv.org/abs/2112.07746v1)|null|
+|**2021-12-14**|**Conservative and Adaptive Penalty for Model-Based Safe Reinforcement Learning**|Yecheng Jason Ma et.al.|[2112.07701v1](http://arxiv.org/abs/2112.07701v1)|null|
 |**2021-12-14**|**Reinforcing Semantic-Symmetry for Document Summarization**|Mingyang Song et.al.|[2112.07583v1](http://arxiv.org/abs/2112.07583v1)|null|
 |**2021-12-14**|**Cooperation for Scalable Supervision of Autonomy in Mixed Traffic**|Cameron Hickert et.al.|[2112.07569v1](http://arxiv.org/abs/2112.07569v1)|null|
 |**2021-12-14**|**Scientific Discovery and the Cost of Measurement -- Balancing Information and Cost in Reinforcement Learning**|Colin Bellinger et.al.|[2112.07535v1](http://arxiv.org/abs/2112.07535v1)|null|
@@ -417,6 +424,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-15**|**Model Stealing Attacks Against Inductive Graph Neural Networks**|Yun Shen et.al.|[2112.08331v1](http://arxiv.org/abs/2112.08331v1)|null|
+|**2021-12-15**|**Joint Demand Prediction for Multimodal Systems: A Multi-task Multi-relational Spatiotemporal Graph Neural Network Approach**|Yuebing Liang et.al.|[2112.08078v1](http://arxiv.org/abs/2112.08078v1)|null|
+|**2021-12-15**|**Named entity recognition architecture combining contextual and global features**|Tran Thi Hong Hanh et.al.|[2112.08033v1](http://arxiv.org/abs/2112.08033v1)|null|
+|**2021-12-15**|**CentSmoothie: Central-Smoothing Hypergraph Neural Networks for Predicting Drug-Drug Interactions**|Duc Anh Nguyen et.al.|[2112.07837v1](http://arxiv.org/abs/2112.07837v1)|null|
+|**2021-12-14**|**Neighborhood Random Walk Graph Sampling for Regularized Bayesian Graph Convolutional Neural Networks**|Aneesh Komanduri et.al.|[2112.07743v1](http://arxiv.org/abs/2112.07743v1)|null|
 |**2021-12-14**|**Robust Graph Neural Networks via Probabilistic Lipschitz Constraints**|Raghu Arghal et.al.|[2112.07575v1](http://arxiv.org/abs/2112.07575v1)|null|
 |**2021-12-14**|**An Adaptive Graph Pre-training Framework for Localized Collaborative Filtering**|Yiqi Wang et.al.|[2112.07191v1](http://arxiv.org/abs/2112.07191v1)|null|
 |**2021-12-14**|**MuxLink: Circumventing Learning-Resilient MUX-Locking Using Graph Neural Network-based Link Prediction**|Lilas Alrahis et.al.|[2112.07178v1](http://arxiv.org/abs/2112.07178v1)|null|
