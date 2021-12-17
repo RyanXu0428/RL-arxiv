@@ -91,7 +91,7 @@
 |---|---|---|---|---|
 |**2021-12-15**|**N3H-Core: Neuron-designed Neural Network Accelerator via FPGA-based Heterogeneous Computing Cores**|Yu Gong et.al.|[2112.08193v1](http://arxiv.org/abs/2112.08193v1)|null|
 |**2021-12-15**|**Automatic tuning of hyper-parameters of reinforcement learning algorithms using Bayesian optimization with behavioral cloning**|Juan Cruz Barsce et.al.|[2112.08094v1](http://arxiv.org/abs/2112.08094v1)|null|
-|**2021-12-15**|**Finite-Sample Analysis of Decentralized Q-Learning for Stochastic Games**|Zuguang Gao et.al.|[2112.07859v1](http://arxiv.org/abs/2112.07859v1)|null|
+|**2021-12-15**|**Finite-Sample Analysis of Decentralized Q-Learning for Stochastic Games**|Zuguang Gao et.al.|[2112.07859v2](http://arxiv.org/abs/2112.07859v2)|null|
 |**2021-12-14**|**Assessing Human Interaction in Virtual Reality With Continually Learning Prediction Agents Based on Reinforcement Learning Algorithms: A Pilot Study**|Dylan J. A. Brenneis et.al.|[2112.07774v1](http://arxiv.org/abs/2112.07774v1)|null|
 |**2021-12-14**|**Representation and Invariance in Reinforcement Learning**|Samuel Alexander et.al.|[2112.07752v1](http://arxiv.org/abs/2112.07752v1)|null|
 |**2021-12-14**|**CEM-GD: Cross-Entropy Method with Gradient Descent Planner for Model-Based Reinforcement Learning**|Kevin Huang et.al.|[2112.07746v1](http://arxiv.org/abs/2112.07746v1)|null|
