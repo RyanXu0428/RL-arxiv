@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-16**|**Decentralized Mean Field Games**|Sriram Ganapathi Subramanian et.al.|[2112.09099v1](http://arxiv.org/abs/2112.09099v1)|null|
+|**2021-12-16**|**Learning and Analyzing Generation Order for Undirected Sequence Models**|Yichen Jiang et.al.|[2112.09097v1](http://arxiv.org/abs/2112.09097v1)|null|
+|**2021-12-16**|**Deep Reinforcement Learning Policies Learn Shared Adversarial Features Across MDPs**|Ezgi Korkmaz et.al.|[2112.09025v1](http://arxiv.org/abs/2112.09025v1)|null|
+|**2021-12-16**|**Centralizing State-Values in Dueling Networks for Multi-Robot Reinforcement Learning Mapless Navigation**|Enrico Marchesini et.al.|[2112.09012v1](http://arxiv.org/abs/2112.09012v1)|null|
+|**2021-12-16**|**Learning from Guided Play: A Scheduled Hierarchical Approach for Improving Exploration in Adversarial Imitation Learning**|Trevor Ablett et.al.|[2112.08932v1](http://arxiv.org/abs/2112.08932v1)|null|
+|**2021-12-16**|**Inherently Explainable Reinforcement Learning in Natural Language**|Xiangyu Peng et.al.|[2112.08907v1](http://arxiv.org/abs/2112.08907v1)|null|
+|**2021-12-16**|**Unsupervised Reinforcement Learning in Multiple Environments**|Mirco Mutti et.al.|[2112.08746v1](http://arxiv.org/abs/2112.08746v1)|null|
+|**2021-12-16**|**Learning to Minimize Cost-to-Serve for Multi-Node Multi-Product Order Fulfilment in Electronic Commerce**|Pranavi Pathakota et.al.|[2112.08736v1](http://arxiv.org/abs/2112.08736v1)|null|
+|**2021-12-16**|**Learning to Share in Multi-Agent Reinforcement Learning**|Yuxuan Yi et.al.|[2112.08702v1](http://arxiv.org/abs/2112.08702v1)|null|
+|**2021-12-16**|**Goal-Directed Story Generation: Augmenting Generative Language Models with Reinforcement Learning**|Amal Alabdulkarim et.al.|[2112.08593v1](http://arxiv.org/abs/2112.08593v1)|null|
 |**2021-12-15**|**N3H-Core: Neuron-designed Neural Network Accelerator via FPGA-based Heterogeneous Computing Cores**|Yu Gong et.al.|[2112.08193v1](http://arxiv.org/abs/2112.08193v1)|null|
 |**2021-12-15**|**Automatic tuning of hyper-parameters of reinforcement learning algorithms using Bayesian optimization with behavioral cloning**|Juan Cruz Barsce et.al.|[2112.08094v1](http://arxiv.org/abs/2112.08094v1)|null|
 |**2021-12-15**|**Finite-Sample Analysis of Decentralized Q-Learning for Stochastic Games**|Zuguang Gao et.al.|[2112.07859v2](http://arxiv.org/abs/2112.07859v2)|null|
@@ -424,6 +434,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-16**|**Inherently Explainable Reinforcement Learning in Natural Language**|Xiangyu Peng et.al.|[2112.08907v1](http://arxiv.org/abs/2112.08907v1)|null|
+|**2021-12-16**|**Graph Structure Learning with Variational Information Bottleneck**|Qingyun Sun et.al.|[2112.08903v1](http://arxiv.org/abs/2112.08903v1)|null|
+|**2021-12-16**|**Graph Convolutional Networks with Dual Message Passing for Subgraph Isomorphism Counting and Matching**|Xin Liu et.al.|[2112.08764v1](http://arxiv.org/abs/2112.08764v1)|null|
+|**2021-12-16**|**GIMIRec: Global Interaction Information Aware Multi-Interest Framework for Sequential Recommendation**|Jie Zhang et.al.|[2112.08717v1](http://arxiv.org/abs/2112.08717v1)|null|
+|**2021-12-16**|**CDRec: Cayley-Dickson Recommender**|Anchen Li et.al.|[2112.08632v1](http://arxiv.org/abs/2112.08632v1)|null|
+|**2021-12-16**|**Goal-Directed Story Generation: Augmenting Generative Language Models with Reinforcement Learning**|Amal Alabdulkarim et.al.|[2112.08593v1](http://arxiv.org/abs/2112.08593v1)|null|
+|**2021-12-16**|**Knowledge Graph Embedding in E-commerce Applications: Attentive Reasoning, Explanations, and Transferable Rules**|Wen Zhang et.al.|[2112.08589v1](http://arxiv.org/abs/2112.08589v1)|null|
+|**2021-12-16**|**HampDTI: a heterogeneous graph automatic meta-path learning method for drug-target interaction prediction**|Hongzhun Wang et.al.|[2112.08567v1](http://arxiv.org/abs/2112.08567v1)|null|
+|**2021-12-16**|**BGL: GPU-Efficient GNN Training by Optimizing Graph Data I/O and Preprocessing**|Tianfeng Liu et.al.|[2112.08541v1](http://arxiv.org/abs/2112.08541v1)|null|
 |**2021-12-15**|**Model Stealing Attacks Against Inductive Graph Neural Networks**|Yun Shen et.al.|[2112.08331v1](http://arxiv.org/abs/2112.08331v1)|null|
 |**2021-12-15**|**Joint Demand Prediction for Multimodal Systems: A Multi-task Multi-relational Spatiotemporal Graph Neural Network Approach**|Yuebing Liang et.al.|[2112.08078v1](http://arxiv.org/abs/2112.08078v1)|null|
 |**2021-12-15**|**Named entity recognition architecture combining contextual and global features**|Tran Thi Hong Hanh et.al.|[2112.08033v1](http://arxiv.org/abs/2112.08033v1)|null|
