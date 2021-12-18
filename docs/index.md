@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2021.12.17
+## Updated on 2021.12.18
 
 ## SLAM
 
@@ -97,7 +97,7 @@ layout: default
 |**2021-12-16**|**Learning and Analyzing Generation Order for Undirected Sequence Models**|Yichen Jiang et.al.|[2112.09097v1](http://arxiv.org/abs/2112.09097v1)|null|
 |**2021-12-16**|**Deep Reinforcement Learning Policies Learn Shared Adversarial Features Across MDPs**|Ezgi Korkmaz et.al.|[2112.09025v1](http://arxiv.org/abs/2112.09025v1)|null|
 |**2021-12-16**|**Centralizing State-Values in Dueling Networks for Multi-Robot Reinforcement Learning Mapless Navigation**|Enrico Marchesini et.al.|[2112.09012v1](http://arxiv.org/abs/2112.09012v1)|null|
-|**2021-12-16**|**Learning from Guided Play: A Scheduled Hierarchical Approach for Improving Exploration in Adversarial Imitation Learning**|Trevor Ablett et.al.|[2112.08932v1](http://arxiv.org/abs/2112.08932v1)|null|
+|**2021-12-16**|**Learning from Guided Play: A Scheduled Hierarchical Approach for Improving Exploration in Adversarial Imitation Learning**|Trevor Ablett et.al.|[2112.08932v1](http://arxiv.org/abs/2112.08932v1)|**[link](https://github.com/utiasstars/lfgp)**|
 |**2021-12-16**|**Inherently Explainable Reinforcement Learning in Natural Language**|Xiangyu Peng et.al.|[2112.08907v1](http://arxiv.org/abs/2112.08907v1)|null|
 |**2021-12-16**|**Unsupervised Reinforcement Learning in Multiple Environments**|Mirco Mutti et.al.|[2112.08746v1](http://arxiv.org/abs/2112.08746v1)|null|
 |**2021-12-16**|**Learning to Minimize Cost-to-Serve for Multi-Node Multi-Product Order Fulfilment in Electronic Commerce**|Pranavi Pathakota et.al.|[2112.08736v1](http://arxiv.org/abs/2112.08736v1)|null|
