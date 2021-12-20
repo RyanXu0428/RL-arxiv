@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-17**|**An Online Data-Driven Emergency-Response Method for Autonomous Agents in Unforeseen Situations**|Glenn Maguire et.al.|[2112.09670v1](http://arxiv.org/abs/2112.09670v1)|null|
+|**2021-12-17**|**Distillation of RL Policies with Formal Guarantees via Variational Abstraction of Markov Decision Processes (Technical Report)**|Florent Delgrange et.al.|[2112.09655v1](http://arxiv.org/abs/2112.09655v1)|null|
+|**2021-12-17**|**Autonomous Reinforcement Learning: Formalism and Benchmarking**|Archit Sharma et.al.|[2112.09605v1](http://arxiv.org/abs/2112.09605v1)|null|
+|**2021-12-17**|**ColO-RAN: Developing Machine Learning-based xApps for Open RAN Closed-loop Control on Programmable Experimental Platforms**|Michele Polese et.al.|[2112.09559v1](http://arxiv.org/abs/2112.09559v1)|null|
+|**2021-12-17**|**Symmetry-aware Neural Architecture for Embodied Visual Navigation**|Shuang Liu et.al.|[2112.09515v1](http://arxiv.org/abs/2112.09515v1)|null|
+|**2021-12-17**|**Stability Verification in Stochastic Control Systems via Neural Network Supermartingales**|Mathias Lechner et.al.|[2112.09495v1](http://arxiv.org/abs/2112.09495v1)|null|
+|**2021-12-17**|**Learning Reward Machines: A Study in Partially Observable Reinforcement Learning**|Rodrigo Toro Icarte et.al.|[2112.09477v1](http://arxiv.org/abs/2112.09477v1)|null|
+|**2021-12-17**|**Contrastive Explanations for Comparing Preferences of Reinforcement Learning Agents**|Jasmina Gajcin et.al.|[2112.09462v1](http://arxiv.org/abs/2112.09462v1)|null|
+|**2021-12-17**|**D3PG: Dirichlet DDGP for Task Partitioning and Offloading with Constrained Hybrid Action Space in Mobile Edge Computing**|Laha Ale et.al.|[2112.09328v1](http://arxiv.org/abs/2112.09328v1)|null|
+|**2021-12-16**|**On Optimizing Interventions in Shared Autonomy**|Weihao Tan et.al.|[2112.09169v1](http://arxiv.org/abs/2112.09169v1)|null|
 |**2021-12-16**|**Decentralized Mean Field Games**|Sriram Ganapathi Subramanian et.al.|[2112.09099v1](http://arxiv.org/abs/2112.09099v1)|null|
 |**2021-12-16**|**Learning and Analyzing Generation Order for Undirected Sequence Models**|Yichen Jiang et.al.|[2112.09097v1](http://arxiv.org/abs/2112.09097v1)|**[link](https://github.com/jiangyctarheel/undirected-generation)**|
 |**2021-12-16**|**Deep Reinforcement Learning Policies Learn Shared Adversarial Features Across MDPs**|Ezgi Korkmaz et.al.|[2112.09025v1](http://arxiv.org/abs/2112.09025v1)|null|
@@ -438,9 +448,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-17**|**Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers**|Yusra Alkendi et.al.|[2112.09685v1](http://arxiv.org/abs/2112.09685v1)|null|
+|**2021-12-17**|**Embedding Graph Convolutional Networks in Recurrent Neural Networks for Predictive Monitoring**|Efrén Rama-Maneiro et.al.|[2112.09641v1](http://arxiv.org/abs/2112.09641v1)|null|
+|**2021-12-17**|**Distillation of Human-Object Interaction Contexts for Action Recognition**|Muna Almushyti et.al.|[2112.09448v1](http://arxiv.org/abs/2112.09448v1)|null|
+|**2021-12-17**|**Self-attention based anchor proposal for skeleton-based action recognition**|Ruijie Hou et.al.|[2112.09413v1](http://arxiv.org/abs/2112.09413v1)|null|
+|**2021-12-17**|**Community-based Layerwise Distributed Training of Graph Convolutional Networks**|Hongyi Li et.al.|[2112.09335v1](http://arxiv.org/abs/2112.09335v1)|null|
+|**2021-12-16**|**Two-view Graph Neural Networks for Knowledge Graph Completion**|Vinh Tong et.al.|[2112.09231v1](http://arxiv.org/abs/2112.09231v1)|null|
 |**2021-12-16**|**Inherently Explainable Reinforcement Learning in Natural Language**|Xiangyu Peng et.al.|[2112.08907v1](http://arxiv.org/abs/2112.08907v1)|null|
 |**2021-12-16**|**Graph Structure Learning with Variational Information Bottleneck**|Qingyun Sun et.al.|[2112.08903v1](http://arxiv.org/abs/2112.08903v1)|null|
-|**2021-12-16**|**Graph Convolutional Networks with Dual Message Passing for Subgraph Isomorphism Counting and Matching**|Xin Liu et.al.|[2112.08764v1](http://arxiv.org/abs/2112.08764v1)|null|
+|**2021-12-16**|**Graph Convolutional Networks with Dual Message Passing for Subgraph Isomorphism Counting and Matching**|Xin Liu et.al.|[2112.08764v1](http://arxiv.org/abs/2112.08764v1)|**[link](https://github.com/hkust-knowcomp/dualmessagepassing)**|
 |**2021-12-16**|**GIMIRec: Global Interaction Information Aware Multi-Interest Framework for Sequential Recommendation**|Jie Zhang et.al.|[2112.08717v1](http://arxiv.org/abs/2112.08717v1)|null|
 |**2021-12-16**|**CDRec: Cayley-Dickson Recommender**|Anchen Li et.al.|[2112.08632v1](http://arxiv.org/abs/2112.08632v1)|null|
 |**2021-12-16**|**Goal-Directed Story Generation: Augmenting Generative Language Models with Reinforcement Learning**|Amal Alabdulkarim et.al.|[2112.08593v1](http://arxiv.org/abs/2112.08593v1)|null|
