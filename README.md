@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-20**|**RvS: What is Essential for Offline RL via Supervised Learning?**|Scott Emmons et.al.|[2112.10751v1](http://arxiv.org/abs/2112.10751v1)|null|
+|**2021-12-20**|**Optimization for Master-UAV-powered Auxiliary-Aerial-IRS-assisted IoT Networks: An Option-based Multi-agent Hierarchical Deep Reinforcement Learning Approach**|Jingren Xu et.al.|[2112.10630v1](http://arxiv.org/abs/2112.10630v1)|null|
+|**2021-12-20**|**Differentially Private Regret Minimization in Episodic Markov Decision Processes**|Sayak Ray Chowdhury et.al.|[2112.10599v1](http://arxiv.org/abs/2112.10599v1)|null|
+|**2021-12-20**|**Learning Robust Policy against Disturbance in Transition Dynamics via State-Conservative Policy Optimization**|Yufei Kuang et.al.|[2112.10513v1](http://arxiv.org/abs/2112.10513v1)|null|
+|**2021-12-20**|**Safe multi-agent deep reinforcement learning for joint bidding and maintenance scheduling of generation units**|Pegah Rokhforoz et.al.|[2112.10459v1](http://arxiv.org/abs/2112.10459v1)|null|
+|**2021-12-20**|**Diaformer: Automatic Diagnosis via Symptoms Sequence Generation**|Junying Chen et.al.|[2112.10433v1](http://arxiv.org/abs/2112.10433v1)|null|
+|**2021-12-20**|**Multi-agent Communication with Graph Information Bottleneck under Limited Bandwidth (a position paper)**|Qi Tian et.al.|[2112.10374v1](http://arxiv.org/abs/2112.10374v1)|null|
+|**2021-12-19**|**Exploration-exploitation trade-off for continuous-time episodic reinforcement learning with linear-convex models**|Lukasz Szpruch et.al.|[2112.10264v1](http://arxiv.org/abs/2112.10264v1)|null|
+|**2021-12-19**|**RoboAssembly: Learning Generalizable Furniture Assembly Policy in a Novel Multi-robot Contact-rich Simulation Environment**|Mingxin Yu et.al.|[2112.10143v1](http://arxiv.org/abs/2112.10143v1)|null|
+|**2021-12-19**|**Masked Deep Q-Recommender for Effective Question Scheduling**|Keunhyung Chung et.al.|[2112.10125v1](http://arxiv.org/abs/2112.10125v1)|null|
 |**2021-12-17**|**An Online Data-Driven Emergency-Response Method for Autonomous Agents in Unforeseen Situations**|Glenn Maguire et.al.|[2112.09670v1](http://arxiv.org/abs/2112.09670v1)|null|
 |**2021-12-17**|**Distillation of RL Policies with Formal Guarantees via Variational Abstraction of Markov Decision Processes (Technical Report)**|Florent Delgrange et.al.|[2112.09655v1](http://arxiv.org/abs/2112.09655v1)|null|
 |**2021-12-17**|**Autonomous Reinforcement Learning: Formalism and Benchmarking**|Archit Sharma et.al.|[2112.09605v1](http://arxiv.org/abs/2112.09605v1)|null|
@@ -444,6 +454,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-20**|**Dynamic Hypergraph Convolutional Networks for Skeleton-Based Action Recognition**|Jinfeng Wei et.al.|[2112.10570v1](http://arxiv.org/abs/2112.10570v1)|null|
+|**2021-12-20**|**Lifelong Learning in Evolving Graphs with Limited Labeled Data and Unseen Class Detection**|Lukas Galke et.al.|[2112.10558v1](http://arxiv.org/abs/2112.10558v1)|null|
+|**2021-12-20**|**A Comprehensive Analytical Survey on Unsupervised and Semi-Supervised Graph Representation Learning Methods**|Md. Khaledur Rahman et.al.|[2112.10372v1](http://arxiv.org/abs/2112.10372v1)|null|
+|**2021-12-20**|**DMS-GCN: Dynamic Mutiscale Spatiotemporal Graph Convolutional Networks for Human Motion Prediction**|Zigeng Yan et.al.|[2112.10365v1](http://arxiv.org/abs/2112.10365v1)|null|
+|**2021-12-20**|**Model-based gait recognition using graph network on very large population database**|Zhihao Wang et.al.|[2112.10305v1](http://arxiv.org/abs/2112.10305v1)|null|
+|**2021-12-19**|**FedNI: Federated Graph Learning with Network Inpainting for Population-Based Disease Prediction**|Liang Peng et.al.|[2112.10166v1](http://arxiv.org/abs/2112.10166v1)|null|
+|**2021-12-19**|**Information Field Theory as Artificial Intelligence**|Torsten Enßlin et.al.|[2112.10133v1](http://arxiv.org/abs/2112.10133v1)|null|
+|**2021-12-19**|**Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation**|Rongrong Ma et.al.|[2112.10063v1](http://arxiv.org/abs/2112.10063v1)|null|
+|**2021-12-18**|**FlowPool: Pooling Graph Representations with Wasserstein Gradient Flows**|Effrosyni Simou et.al.|[2112.09990v1](http://arxiv.org/abs/2112.09990v1)|null|
+|**2021-12-18**|**Syntactic-GCN Bert based Chinese Event Extraction**|Jiangwei Liu et.al.|[2112.09939v1](http://arxiv.org/abs/2112.09939v1)|null|
 |**2021-12-17**|**Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers**|Yusra Alkendi et.al.|[2112.09685v1](http://arxiv.org/abs/2112.09685v1)|null|
 |**2021-12-17**|**Embedding Graph Convolutional Networks in Recurrent Neural Networks for Predictive Monitoring**|Efrén Rama-Maneiro et.al.|[2112.09641v1](http://arxiv.org/abs/2112.09641v1)|null|
 |**2021-12-17**|**Distillation of Human-Object Interaction Contexts for Action Recognition**|Muna Almushyti et.al.|[2112.09448v1](http://arxiv.org/abs/2112.09448v1)|null|
