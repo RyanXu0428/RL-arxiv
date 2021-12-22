@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-21**|**Value Activation for Bias Alleviation: Generalized-activated Deep Double Deterministic Policy Gradients**|Jiafei Lyu et.al.|[2112.11216v1](http://arxiv.org/abs/2112.11216v1)|null|
+|**2021-12-21**|**Soft Actor-Critic with Cross-Entropy Policy Optimization**|Zhenyang Shi et.al.|[2112.11115v1](http://arxiv.org/abs/2112.11115v1)|null|
+|**2021-12-21**|**Aerial Base Station Positioning and Power Control for Securing Communications: A Deep Q-Network Approach**|Aly Sabri Abdalla et.al.|[2112.11090v1](http://arxiv.org/abs/2112.11090v1)|null|
+|**2021-12-21**|**A Scalable Deep Reinforcement Learning Model for Online Scheduling Coflows of Multi-Stage Jobs for High Performance Computing**|Xin Wang et.al.|[2112.11055v1](http://arxiv.org/abs/2112.11055v1)|null|
+|**2021-12-21**|**District Cooling System Control for Providing Operating Reserve based on Safe Deep Reinforcement Learning**|Peipei Yu et.al.|[2112.10949v1](http://arxiv.org/abs/2112.10949v1)|null|
+|**2021-12-21**|**Task-Oriented Image Transmission for Scene Classification in Unmanned Aerial Systems**|Xu Kang et.al.|[2112.10948v1](http://arxiv.org/abs/2112.10948v1)|null|
+|**2021-12-21**|**Reinforcement Learning based Sequential Batch-sampling for Bayesian Optimal Experimental Design**|Yonatan Ashenafi et.al.|[2112.10944v1](http://arxiv.org/abs/2112.10944v1)|null|
+|**2021-12-21**|**Nearly Optimal Policy Optimization with Stable at Any Time Guarantee**|Tianhao Wu et.al.|[2112.10935v1](http://arxiv.org/abs/2112.10935v1)|null|
+|**2021-12-21**|**DB-BERT: a Database Tuning Tool that "Reads the Manual"**|Immanuel Trummer et.al.|[2112.10925v1](http://arxiv.org/abs/2112.10925v1)|null|
+|**2021-12-20**|**Fast Algorithms for Poker Require Modelling it as a Sequential Bayesian Game**|Vojtěch Kovařík et.al.|[2112.10890v1](http://arxiv.org/abs/2112.10890v1)|null|
 |**2021-12-20**|**RvS: What is Essential for Offline RL via Supervised Learning?**|Scott Emmons et.al.|[2112.10751v1](http://arxiv.org/abs/2112.10751v1)|null|
 |**2021-12-20**|**Optimization for Master-UAV-powered Auxiliary-Aerial-IRS-assisted IoT Networks: An Option-based Multi-agent Hierarchical Deep Reinforcement Learning Approach**|Jingren Xu et.al.|[2112.10630v1](http://arxiv.org/abs/2112.10630v1)|null|
 |**2021-12-20**|**Differentially Private Regret Minimization in Episodic Markov Decision Processes**|Sayak Ray Chowdhury et.al.|[2112.10599v1](http://arxiv.org/abs/2112.10599v1)|null|
@@ -458,6 +468,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-21**|**A Scalable Deep Reinforcement Learning Model for Online Scheduling Coflows of Multi-Stage Jobs for High Performance Computing**|Xin Wang et.al.|[2112.11055v1](http://arxiv.org/abs/2112.11055v1)|null|
+|**2021-12-21**|**ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization**|Zichen Yang et.al.|[2112.10977v1](http://arxiv.org/abs/2112.10977v1)|null|
+|**2021-12-21**|**Compact Multi-level Sparse Neural Networks with Input Independent Dynamic Rerouting**|Minghai Qin et.al.|[2112.10930v1](http://arxiv.org/abs/2112.10930v1)|null|
+|**2021-12-20**|**One Sketch for All: One-Shot Personalized Sketch Segmentation**|Anran Qi et.al.|[2112.10838v1](http://arxiv.org/abs/2112.10838v1)|null|
 |**2021-12-20**|**Dynamic Hypergraph Convolutional Networks for Skeleton-Based Action Recognition**|Jinfeng Wei et.al.|[2112.10570v1](http://arxiv.org/abs/2112.10570v1)|null|
 |**2021-12-20**|**Lifelong Learning in Evolving Graphs with Limited Labeled Data and Unseen Class Detection**|Lukas Galke et.al.|[2112.10558v1](http://arxiv.org/abs/2112.10558v1)|null|
 |**2021-12-20**|**A Comprehensive Analytical Survey on Unsupervised and Semi-Supervised Graph Representation Learning Methods**|Md. Khaledur Rahman et.al.|[2112.10372v1](http://arxiv.org/abs/2112.10372v1)|null|
