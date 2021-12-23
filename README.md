@@ -96,7 +96,7 @@
 |**2021-12-21**|**District Cooling System Control for Providing Operating Reserve based on Safe Deep Reinforcement Learning**|Peipei Yu et.al.|[2112.10949v1](http://arxiv.org/abs/2112.10949v1)|null|
 |**2021-12-21**|**Task-Oriented Image Transmission for Scene Classification in Unmanned Aerial Systems**|Xu Kang et.al.|[2112.10948v1](http://arxiv.org/abs/2112.10948v1)|null|
 |**2021-12-21**|**Reinforcement Learning based Sequential Batch-sampling for Bayesian Optimal Experimental Design**|Yonatan Ashenafi et.al.|[2112.10944v1](http://arxiv.org/abs/2112.10944v1)|null|
-|**2021-12-21**|**Nearly Optimal Policy Optimization with Stable at Any Time Guarantee**|Tianhao Wu et.al.|[2112.10935v1](http://arxiv.org/abs/2112.10935v1)|null|
+|**2021-12-21**|**Nearly Optimal Policy Optimization with Stable at Any Time Guarantee**|Tianhao Wu et.al.|[2112.10935v2](http://arxiv.org/abs/2112.10935v2)|null|
 |**2021-12-21**|**DB-BERT: a Database Tuning Tool that "Reads the Manual"**|Immanuel Trummer et.al.|[2112.10925v1](http://arxiv.org/abs/2112.10925v1)|null|
 |**2021-12-20**|**Fast Algorithms for Poker Require Modelling it as a Sequential Bayesian Game**|Vojtěch Kovařík et.al.|[2112.10890v1](http://arxiv.org/abs/2112.10890v1)|null|
 |**2021-12-20**|**RvS: What is Essential for Offline RL via Supervised Learning?**|Scott Emmons et.al.|[2112.10751v1](http://arxiv.org/abs/2112.10751v1)|null|
