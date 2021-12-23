@@ -93,6 +93,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-22**|**Evaluating the Robustness of Deep Reinforcement Learning for Autonomous and Adversarial Policies in a Multi-agent Urban Driving Environment**|Aizaz Sharif et.al.|[2112.11947v1](http://arxiv.org/abs/2112.11947v1)|null|
+|**2021-12-22**|**Adversarial Deep Reinforcement Learning for Trustworthy Autonomous Driving Policies**|Aizaz Sharif et.al.|[2112.11937v1](http://arxiv.org/abs/2112.11937v1)|null|
+|**2021-12-22**|**Meta-Learning and Self-Supervised Pretraining for Real World Image Translation**|Ileana Rugina et.al.|[2112.11929v1](http://arxiv.org/abs/2112.11929v1)|null|
+|**2021-12-22**|**Graph augmented Deep Reinforcement Learning in the GameRLand3D environment**|Edward Beeching et.al.|[2112.11731v1](http://arxiv.org/abs/2112.11731v1)|null|
+|**2021-12-22**|**Maximum Entropy Population Based Training for Zero-Shot Human-AI Coordination**|Rui Zhao et.al.|[2112.11701v1](http://arxiv.org/abs/2112.11701v1)|null|
+|**2021-12-21**|**Off Environment Evaluation Using Convex Risk Minimization**|Pulkit Katdare et.al.|[2112.11532v1](http://arxiv.org/abs/2112.11532v1)|null|
+|**2021-12-21**|**Do Androids Dream of Electric Fences? Safety-Aware Reinforcement Learning with Latent Shielding**|Peter He et.al.|[2112.11490v1](http://arxiv.org/abs/2112.11490v1)|null|
+|**2021-12-22**|**Deep Reinforcement Learning for Optimal Power Flow with Renewables Using Spatial-Temporal Graph Information**|Jinhao Li et.al.|[2112.11461v1](http://arxiv.org/abs/2112.11461v1)|null|
 |**2021-12-21**|**Value Activation for Bias Alleviation: Generalized-activated Deep Double Deterministic Policy Gradients**|Jiafei Lyu et.al.|[2112.11216v1](http://arxiv.org/abs/2112.11216v1)|null|
 |**2021-12-21**|**Soft Actor-Critic with Cross-Entropy Policy Optimization**|Zhenyang Shi et.al.|[2112.11115v1](http://arxiv.org/abs/2112.11115v1)|null|
 |**2021-12-21**|**Aerial Base Station Positioning and Power Control for Securing Communications: A Deep Q-Network Approach**|Aly Sabri Abdalla et.al.|[2112.11090v1](http://arxiv.org/abs/2112.11090v1)|null|
@@ -468,6 +476,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-22**|**Investigating Neighborhood Modeling and Asymmetry Preservation in Digraph Representation Learning**|Honglu Zhou et.al.|[2112.11734v1](http://arxiv.org/abs/2112.11734v1)|null|
+|**2021-12-22**|**HP-GNN: Generating High Throughput GNN Training Implementation on CPU-FPGA Heterogeneous Platform**|Yi-Chien Lin et.al.|[2112.11684v1](http://arxiv.org/abs/2112.11684v1)|null|
+|**2021-12-22**|**SkipNode: On Alleviating Over-smoothing for Deep Graph Convolutional Networks**|Weigang Lu et.al.|[2112.11628v1](http://arxiv.org/abs/2112.11628v1)|null|
+|**2021-12-22**|**GCoD: Graph Convolutional Network Acceleration via Dedicated Algorithm and Accelerator Co-Design**|Haoran You et.al.|[2112.11594v1](http://arxiv.org/abs/2112.11594v1)|null|
+|**2021-12-22**|**Deep Reinforcement Learning for Optimal Power Flow with Renewables Using Spatial-Temporal Graph Information**|Jinhao Li et.al.|[2112.11461v1](http://arxiv.org/abs/2112.11461v1)|null|
 |**2021-12-21**|**A Scalable Deep Reinforcement Learning Model for Online Scheduling Coflows of Multi-Stage Jobs for High Performance Computing**|Xin Wang et.al.|[2112.11055v1](http://arxiv.org/abs/2112.11055v1)|null|
 |**2021-12-21**|**ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization**|Zichen Yang et.al.|[2112.10977v1](http://arxiv.org/abs/2112.10977v1)|null|
 |**2021-12-21**|**Compact Multi-level Sparse Neural Networks with Input Independent Dynamic Rerouting**|Minghai Qin et.al.|[2112.10930v1](http://arxiv.org/abs/2112.10930v1)|null|
