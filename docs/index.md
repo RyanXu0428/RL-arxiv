@@ -93,6 +93,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-23**|**Learning Cooperative Multi-Agent Policies with Partial Reward Decoupling**|Benjamin Freed et.al.|[2112.12740v1](http://arxiv.org/abs/2112.12740v1)|null|
+|**2021-12-23**|**Curriculum Learning for Safe Mapless Navigation**|Luca Marzari et.al.|[2112.12490v1](http://arxiv.org/abs/2112.12490v1)|null|
+|**2021-12-23**|**The Impact of Missing Velocity Information in Dynamic Obstacle Avoidance based on Deep Reinforcement Learning**|Fabian Hart et.al.|[2112.12465v1](http://arxiv.org/abs/2112.12465v1)|null|
+|**2021-12-23**|**Local Advantage Networks for Cooperative Multi-Agent Reinforcement Learning**|Raphaël Avalos et.al.|[2112.12458v1](http://arxiv.org/abs/2112.12458v1)|null|
+|**2021-12-23**|**Safety and Liveness Guarantees through Reach-Avoid Reinforcement Learning**|Kai-Chieh Hsu et.al.|[2112.12288v1](http://arxiv.org/abs/2112.12288v1)|null|
+|**2021-12-23**|**Improving the Efficiency of Off-Policy Reinforcement Learning by Accounting for Past Decisions**|Brett Daley et.al.|[2112.12281v1](http://arxiv.org/abs/2112.12281v1)|null|
+|**2021-12-22**|**Direct Behavior Specification via Constrained Reinforcement Learning**|Julien Roy et.al.|[2112.12228v1](http://arxiv.org/abs/2112.12228v1)|null|
 |**2021-12-22**|**Evaluating the Robustness of Deep Reinforcement Learning for Autonomous and Adversarial Policies in a Multi-agent Urban Driving Environment**|Aizaz Sharif et.al.|[2112.11947v1](http://arxiv.org/abs/2112.11947v1)|null|
 |**2021-12-22**|**Adversarial Deep Reinforcement Learning for Trustworthy Autonomous Driving Policies**|Aizaz Sharif et.al.|[2112.11937v1](http://arxiv.org/abs/2112.11937v1)|null|
 |**2021-12-22**|**Meta-Learning and Self-Supervised Pretraining for Real World Image Translation**|Ileana Rugina et.al.|[2112.11929v1](http://arxiv.org/abs/2112.11929v1)|null|
@@ -476,6 +483,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-23**|**3D Skeleton-based Few-shot Action Recognition with JEANIE is not so Naïve**|Lei Wang et.al.|[2112.12668v1](http://arxiv.org/abs/2112.12668v1)|null|
+|**2021-12-23**|**Self-supervised Representation Learning of Neuronal Morphologies**|Marissa A. Weis et.al.|[2112.12482v1](http://arxiv.org/abs/2112.12482v1)|null|
+|**2021-12-23**|**S+PAGE: A Speaker and Position-Aware Graph Neural Network Model for Emotion Recognition in Conversation**|Chen Liang et.al.|[2112.12389v1](http://arxiv.org/abs/2112.12389v1)|null|
+|**2021-12-23**|**Revisiting Transformation Invariant Geometric Deep Learning: Are Initial Representations All You Need?**|Ziwei Zhang et.al.|[2112.12345v1](http://arxiv.org/abs/2112.12345v1)|null|
+|**2021-12-23**|**Graph attentive feature aggregation for text-independent speaker verification**|Hye-jin Shim et.al.|[2112.12343v1](http://arxiv.org/abs/2112.12343v1)|null|
+|**2021-12-22**|**ML4CO: Is GCNN All You Need? Graph Convolutional Neural Networks Produce Strong Baselines For Combinatorial Optimization Problems, If Tuned and Trained Properly, on Appropriate Data**|Amin Banitalebi-Dehkordi et.al.|[2112.12251v1](http://arxiv.org/abs/2112.12251v1)|null|
+|**2021-12-22**|**MC-DGCNN: A Novel DNN Architecture for Multi-Category Point Set Classification**|Majid Farhadloo et.al.|[2112.12219v1](http://arxiv.org/abs/2112.12219v1)|null|
 |**2021-12-22**|**Investigating Neighborhood Modeling and Asymmetry Preservation in Digraph Representation Learning**|Honglu Zhou et.al.|[2112.11734v1](http://arxiv.org/abs/2112.11734v1)|null|
 |**2021-12-22**|**HP-GNN: Generating High Throughput GNN Training Implementation on CPU-FPGA Heterogeneous Platform**|Yi-Chien Lin et.al.|[2112.11684v1](http://arxiv.org/abs/2112.11684v1)|null|
 |**2021-12-22**|**SkipNode: On Alleviating Over-smoothing for Deep Graph Convolutional Networks**|Weigang Lu et.al.|[2112.11628v1](http://arxiv.org/abs/2112.11628v1)|null|
