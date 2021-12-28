@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-27**|**Intelligent Traffic Light via Policy-based Deep Reinforcement Learning**|Yue Zhu et.al.|[2112.13817v1](http://arxiv.org/abs/2112.13817v1)|null|
+|**2021-12-27**|**Improving the Performance of Backward Chained Behavior Trees using Reinforcement Learning**|Mart Kartašev et.al.|[2112.13744v1](http://arxiv.org/abs/2112.13744v1)|null|
+|**2021-12-27**|**Double Critic Deep Reinforcement Learning for Mapless 3D Navigation of Unmanned Aerial Vehicles**|Ricardo Bedin Grando et.al.|[2112.13724v1](http://arxiv.org/abs/2112.13724v1)|null|
+|**2021-12-27**|**Can Reinforcement Learning Find Stackelberg-Nash Equilibria in General-Sum Markov Games with Myopic Followers?**|Han Zhong et.al.|[2112.13521v1](http://arxiv.org/abs/2112.13521v1)|null|
+|**2021-12-27**|**The Statistical Complexity of Interactive Decision Making**|Dylan J. Foster et.al.|[2112.13487v1](http://arxiv.org/abs/2112.13487v1)|null|
+|**2021-12-26**|**Neuro-Symbolic Hierarchical Rule Induction**|Claire Glanois et.al.|[2112.13418v1](http://arxiv.org/abs/2112.13418v1)|null|
+|**2021-12-26**|**Reinforcement Learning with Dynamic Convex Risk Measures**|Anthony Coache et.al.|[2112.13414v1](http://arxiv.org/abs/2112.13414v1)|null|
+|**2021-12-26**|**Abstractions of General Reinforcement Learning**|Sultan J. Majeed et.al.|[2112.13404v1](http://arxiv.org/abs/2112.13404v1)|null|
+|**2021-12-26**|**Reducing Planning Complexity of General Reinforcement Learning with Non-Markovian Abstractions**|Sultan J. Majeed et.al.|[2112.13386v1](http://arxiv.org/abs/2112.13386v1)|null|
+|**2021-12-26**|**Large-scale Machine Learning Cluster Scheduling via Multi-agent Graph Reinforcement Learning**|Xiaoyang Zhao et.al.|[2112.13354v1](http://arxiv.org/abs/2112.13354v1)|null|
 |**2021-12-23**|**Learning Cooperative Multi-Agent Policies with Partial Reward Decoupling**|Benjamin Freed et.al.|[2112.12740v1](http://arxiv.org/abs/2112.12740v1)|null|
 |**2021-12-23**|**Curriculum Learning for Safe Mapless Navigation**|Luca Marzari et.al.|[2112.12490v1](http://arxiv.org/abs/2112.12490v1)|null|
 |**2021-12-23**|**The Impact of Missing Velocity Information in Dynamic Obstacle Avoidance based on Deep Reinforcement Learning**|Fabian Hart et.al.|[2112.12465v1](http://arxiv.org/abs/2112.12465v1)|null|
@@ -483,6 +493,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-27**|**Learn Layer-wise Connections in Graph Neural Networks**|Lanning Wei et.al.|[2112.13585v1](http://arxiv.org/abs/2112.13585v1)|null|
+|**2021-12-27**|**Powerful Graph Convolutioal Networks with Adaptive Propagation Mechanism for Homophily and Heterophily**|Tao Wang et.al.|[2112.13562v1](http://arxiv.org/abs/2112.13562v1)|null|
+|**2021-12-27**|**Block Modeling-Guided Graph Convolutional Neural Networks**|Dongxiao He et.al.|[2112.13507v1](http://arxiv.org/abs/2112.13507v1)|**[link](https://github.com/hedongxiao-tju/BM-GCN)**|
+|**2021-12-26**|**Attributed Graph Neural Networks for Recommendation Systems on Large-Scale and Sparse Graph**|Yifei Zhao et.al.|[2112.13389v1](http://arxiv.org/abs/2112.13389v1)|null|
+|**2021-12-25**|**Task and Model Agnostic Adversarial Attack on Graph Neural Networks**|Kartik Sharma et.al.|[2112.13267v1](http://arxiv.org/abs/2112.13267v1)|null|
+|**2021-12-25**|**Practical Fixed-Parameter Algorithms for Defending Active Directory Style Attack Graphs**|Mingyu Guo et.al.|[2112.13175v1](http://arxiv.org/abs/2112.13175v1)|null|
+|**2021-12-25**|**Cyberattack Detection in Large-Scale Smart Grids using Chebyshev Graph Convolutional Networks**|Osman Boyaci et.al.|[2112.13166v1](http://arxiv.org/abs/2112.13166v1)|null|
+|**2021-12-24**|**Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition**|Yue He et.al.|[2112.12916v1](http://arxiv.org/abs/2112.12916v1)|null|
 |**2021-12-23**|**3D Skeleton-based Few-shot Action Recognition with JEANIE is not so Naïve**|Lei Wang et.al.|[2112.12668v1](http://arxiv.org/abs/2112.12668v1)|null|
 |**2021-12-23**|**Self-supervised Representation Learning of Neuronal Morphologies**|Marissa A. Weis et.al.|[2112.12482v1](http://arxiv.org/abs/2112.12482v1)|null|
 |**2021-12-23**|**S+PAGE: A Speaker and Position-Aware Graph Neural Network Model for Emotion Recognition in Conversation**|Chen Liang et.al.|[2112.12389v1](http://arxiv.org/abs/2112.12389v1)|null|
