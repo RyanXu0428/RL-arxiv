@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-29**|**Sequential Episodic Control**|Ismael T. Freire et.al.|[2112.14734v1](http://arxiv.org/abs/2112.14734v1)|null|
+|**2021-12-29**|**DDPG car-following model with real-world human driving experience in CARLA**|Dianzhao Li et.al.|[2112.14602v1](http://arxiv.org/abs/2112.14602v1)|null|
+|**2021-12-29**|**Control Theoretic Analysis of Temporal Difference Learning**|Donghwan Lee et.al.|[2112.14417v1](http://arxiv.org/abs/2112.14417v1)|null|
+|**2021-12-28**|**AdaFocus V2: End-to-End Training of Spatial Dynamic Networks for Video Recognition**|Yulin Wang et.al.|[2112.14238v1](http://arxiv.org/abs/2112.14238v1)|null|
+|**2021-12-28**|**Exponential Family Model-Based Reinforcement Learning via Score Matching**|Gene Li et.al.|[2112.14195v1](http://arxiv.org/abs/2112.14195v1)|null|
+|**2021-12-28**|**Embodied Learning for Lifelong Visual Perception**|David Nilsson et.al.|[2112.14084v1](http://arxiv.org/abs/2112.14084v1)|null|
+|**2021-12-28**|**Efficient Performance Bounds for Primal-Dual Reinforcement Learning from Demonstrations**|Angeliki Kamoutsi et.al.|[2112.14004v1](http://arxiv.org/abs/2112.14004v1)|null|
+|**2021-12-28**|**Relative velocity-based reward functions for crowd navigation of robots**|Xiaoqing Yang et.al.|[2112.13984v1](http://arxiv.org/abs/2112.13984v1)|null|
+|**2021-12-27**|**Safe Reinforcement Learning with Chance-constrained Model Predictive Control**|Samuel Pfrommer et.al.|[2112.13941v1](http://arxiv.org/abs/2112.13941v1)|null|
+|**2021-12-27**|**Multiagent Model-based Credit Assignment for Continuous Control**|Dongge Han et.al.|[2112.13937v1](http://arxiv.org/abs/2112.13937v1)|null|
 |**2021-12-27**|**Intelligent Traffic Light via Policy-based Deep Reinforcement Learning**|Yue Zhu et.al.|[2112.13817v1](http://arxiv.org/abs/2112.13817v1)|null|
 |**2021-12-27**|**Improving the Performance of Backward Chained Behavior Trees using Reinforcement Learning**|Mart Kartašev et.al.|[2112.13744v1](http://arxiv.org/abs/2112.13744v1)|null|
 |**2021-12-27**|**Double Critic Deep Reinforcement Learning for Mapless 3D Navigation of Unmanned Aerial Vehicles**|Ricardo Bedin Grando et.al.|[2112.13724v1](http://arxiv.org/abs/2112.13724v1)|null|
@@ -493,6 +503,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-29**|**Designing the Topology of Graph Neural Networks: A Novel Feature Fusion Perspective**|Lanning Wei et.al.|[2112.14531v1](http://arxiv.org/abs/2112.14531v1)|null|
+|**2021-12-29**|**How Powerful are Interest Diffusion on Purchasing Prediction: A Case Study of Taocode**|Xuanwen Huang et.al.|[2112.14446v1](http://arxiv.org/abs/2112.14446v1)|null|
+|**2021-12-29**|**Deformable Graph Convolutional Networks**|Jinyoung Park et.al.|[2112.14438v1](http://arxiv.org/abs/2112.14438v1)|null|
 |**2021-12-27**|**Learn Layer-wise Connections in Graph Neural Networks**|Lanning Wei et.al.|[2112.13585v1](http://arxiv.org/abs/2112.13585v1)|null|
 |**2021-12-27**|**Powerful Graph Convolutioal Networks with Adaptive Propagation Mechanism for Homophily and Heterophily**|Tao Wang et.al.|[2112.13562v1](http://arxiv.org/abs/2112.13562v1)|null|
 |**2021-12-27**|**Block Modeling-Guided Graph Convolutional Neural Networks**|Dongxiao He et.al.|[2112.13507v2](http://arxiv.org/abs/2112.13507v2)|**[link](https://github.com/hedongxiao-tju/BM-GCN)**|
