@@ -495,7 +495,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2021-12-27**|**Learn Layer-wise Connections in Graph Neural Networks**|Lanning Wei et.al.|[2112.13585v1](http://arxiv.org/abs/2112.13585v1)|null|
 |**2021-12-27**|**Powerful Graph Convolutioal Networks with Adaptive Propagation Mechanism for Homophily and Heterophily**|Tao Wang et.al.|[2112.13562v1](http://arxiv.org/abs/2112.13562v1)|null|
-|**2021-12-27**|**Block Modeling-Guided Graph Convolutional Neural Networks**|Dongxiao He et.al.|[2112.13507v1](http://arxiv.org/abs/2112.13507v1)|**[link](https://github.com/hedongxiao-tju/BM-GCN)**|
+|**2021-12-27**|**Block Modeling-Guided Graph Convolutional Neural Networks**|Dongxiao He et.al.|[2112.13507v2](http://arxiv.org/abs/2112.13507v2)|**[link](https://github.com/hedongxiao-tju/BM-GCN)**|
 |**2021-12-26**|**Attributed Graph Neural Networks for Recommendation Systems on Large-Scale and Sparse Graph**|Yifei Zhao et.al.|[2112.13389v1](http://arxiv.org/abs/2112.13389v1)|null|
 |**2021-12-25**|**Task and Model Agnostic Adversarial Attack on Graph Neural Networks**|Kartik Sharma et.al.|[2112.13267v1](http://arxiv.org/abs/2112.13267v1)|null|
 |**2021-12-25**|**Practical Fixed-Parameter Algorithms for Defending Active Directory Style Attack Graphs**|Mingyu Guo et.al.|[2112.13175v1](http://arxiv.org/abs/2112.13175v1)|null|
