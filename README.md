@@ -92,7 +92,7 @@
 |**2021-12-29**|**Sequential Episodic Control**|Ismael T. Freire et.al.|[2112.14734v1](http://arxiv.org/abs/2112.14734v1)|null|
 |**2021-12-29**|**DDPG car-following model with real-world human driving experience in CARLA**|Dianzhao Li et.al.|[2112.14602v1](http://arxiv.org/abs/2112.14602v1)|null|
 |**2021-12-29**|**Control Theoretic Analysis of Temporal Difference Learning**|Donghwan Lee et.al.|[2112.14417v1](http://arxiv.org/abs/2112.14417v1)|null|
-|**2021-12-28**|**AdaFocus V2: End-to-End Training of Spatial Dynamic Networks for Video Recognition**|Yulin Wang et.al.|[2112.14238v1](http://arxiv.org/abs/2112.14238v1)|null|
+|**2021-12-28**|**AdaFocus V2: End-to-End Training of Spatial Dynamic Networks for Video Recognition**|Yulin Wang et.al.|[2112.14238v1](http://arxiv.org/abs/2112.14238v1)|**[link](https://github.com/leaplabthu/adafocusv2)**|
 |**2021-12-28**|**Exponential Family Model-Based Reinforcement Learning via Score Matching**|Gene Li et.al.|[2112.14195v1](http://arxiv.org/abs/2112.14195v1)|null|
 |**2021-12-28**|**Embodied Learning for Lifelong Visual Perception**|David Nilsson et.al.|[2112.14084v1](http://arxiv.org/abs/2112.14084v1)|null|
 |**2021-12-28**|**Efficient Performance Bounds for Primal-Dual Reinforcement Learning from Demonstrations**|Angeliki Kamoutsi et.al.|[2112.14004v1](http://arxiv.org/abs/2112.14004v1)|null|
