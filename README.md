@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-31**|**Single-Shot Pruning for Offline Reinforcement Learning**|Samin Yeasar Arnob et.al.|[2112.15579v1](http://arxiv.org/abs/2112.15579v1)|null|
+|**2021-12-31**|**Importance of Empirical Sample Complexity Analysis for Offline Reinforcement Learning**|Samin Yeasar Arnob et.al.|[2112.15578v1](http://arxiv.org/abs/2112.15578v1)|null|
+|**2021-12-31**|**Settling the Bias and Variance of Meta-Gradient Estimation for Meta-Reinforcement Learning**|Bo Liu et.al.|[2112.15400v1](http://arxiv.org/abs/2112.15400v1)|null|
+|**2021-12-31**|**Robust Entropy-regularized Markov Decision Processes**|Tien Mai et.al.|[2112.15364v1](http://arxiv.org/abs/2112.15364v1)|null|
+|**2021-12-31**|**Using Graph-Aware Reinforcement Learning to Identify Winning Strategies in Diplomacy Games (Student Abstract)**|Hansin Ahuja et.al.|[2112.15331v1](http://arxiv.org/abs/2112.15331v1)|null|
+|**2021-12-31**|**Bayesian Optimization of Function Networks**|Raul Astudillo et.al.|[2112.15311v1](http://arxiv.org/abs/2112.15311v1)|null|
+|**2021-12-31**|**SimSR: Simple Distance-based State Representation for Deep Reinforcement Learning**|Hongyu Zang et.al.|[2112.15303v1](http://arxiv.org/abs/2112.15303v1)|null|
+|**2021-12-30**|**Learning Agent State Online with Recurrent Generate-and-Test**|Amir Samani et.al.|[2112.15236v1](http://arxiv.org/abs/2112.15236v1)|null|
+|**2021-12-30**|**Constraint Sampling Reinforcement Learning: Incorporating Expertise For Faster Learning**|Tong Mu et.al.|[2112.15221v1](http://arxiv.org/abs/2112.15221v1)|null|
+|**2021-12-30**|**Stability-Preserving Automatic Tuning of PID Control with Reinforcement Learning**|Ayub I. Lakhani et.al.|[2112.15187v1](http://arxiv.org/abs/2112.15187v1)|null|
 |**2021-12-29**|**Sequential Episodic Control**|Ismael T. Freire et.al.|[2112.14734v1](http://arxiv.org/abs/2112.14734v1)|null|
 |**2021-12-29**|**DDPG car-following model with real-world human driving experience in CARLA**|Dianzhao Li et.al.|[2112.14602v1](http://arxiv.org/abs/2112.14602v1)|null|
 |**2021-12-29**|**Control Theoretic Analysis of Temporal Difference Learning**|Donghwan Lee et.al.|[2112.14417v2](http://arxiv.org/abs/2112.14417v2)|null|
@@ -499,6 +509,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-31**|**Scalable Deep Graph Clustering with Random-walk based Self-supervised Learning**|Xiang Li et.al.|[2112.15530v1](http://arxiv.org/abs/2112.15530v1)|null|
+|**2021-12-31**|**Distributed Hybrid CPU and GPU training for Graph Neural Networks on Billion-Scale Graphs**|Da Zheng et.al.|[2112.15345v1](http://arxiv.org/abs/2112.15345v1)|null|
+|**2021-12-31**|**Temporal aware Multi-Interest Graph Neural Network For Session-based Recommendation**|Qi Shen et.al.|[2112.15328v1](http://arxiv.org/abs/2112.15328v1)|null|
+|**2021-12-30**|**Deconfounded Training for Graph Neural Networks**|Yongduo Sui et.al.|[2112.15089v1](http://arxiv.org/abs/2112.15089v1)|null|
+|**2021-12-30**|**TextRGNN: Residual Graph Neural Networks for Text Classification**|Jiayuan Chen et.al.|[2112.15060v1](http://arxiv.org/abs/2112.15060v1)|null|
+|**2021-12-30**|**Measuring and Sampling: A Metric-guided Subgraph Learning Framework for Graph Neural Network**|Jiyang Bai et.al.|[2112.15015v1](http://arxiv.org/abs/2112.15015v1)|null|
+|**2021-12-30**|**Are we really making much progress? Revisiting, benchmarking, and refining heterogeneous graph neural networks**|Qingsong Lv et.al.|[2112.14936v1](http://arxiv.org/abs/2112.14936v1)|null|
+|**2021-12-30**|**Motif Graph Neural Network**|Xuexin Chen et.al.|[2112.14900v1](http://arxiv.org/abs/2112.14900v1)|null|
+|**2021-12-29**|**UCoDe: Unified Community Detection with Graph Convolutional Networks**|Atefeh Moradan et.al.|[2112.14822v1](http://arxiv.org/abs/2112.14822v1)|null|
+|**2021-12-29**|**Graph Neural Networks for Communication Networks: Context, Use Cases and Opportunities**|José Suárez-Varela et.al.|[2112.14792v1](http://arxiv.org/abs/2112.14792v1)|null|
 |**2021-12-29**|**Designing the Topology of Graph Neural Networks: A Novel Feature Fusion Perspective**|Lanning Wei et.al.|[2112.14531v1](http://arxiv.org/abs/2112.14531v1)|null|
 |**2021-12-29**|**How Powerful are Interest Diffusion on Purchasing Prediction: A Case Study of Taocode**|Xuanwen Huang et.al.|[2112.14446v2](http://arxiv.org/abs/2112.14446v2)|null|
 |**2021-12-29**|**Deformable Graph Convolutional Networks**|Jinyoung Park et.al.|[2112.14438v1](http://arxiv.org/abs/2112.14438v1)|null|
