@@ -1,4 +1,4 @@
-## Updated on 2022.01.03
+## Updated on 2022.01.04
 
 ## SLAM
 
@@ -97,7 +97,7 @@
 |**2021-12-31**|**Bayesian Optimization of Function Networks**|Raul Astudillo et.al.|[2112.15311v1](http://arxiv.org/abs/2112.15311v1)|null|
 |**2021-12-31**|**SimSR: Simple Distance-based State Representation for Deep Reinforcement Learning**|Hongyu Zang et.al.|[2112.15303v1](http://arxiv.org/abs/2112.15303v1)|null|
 |**2021-12-30**|**Learning Agent State Online with Recurrent Generate-and-Test**|Amir Samani et.al.|[2112.15236v1](http://arxiv.org/abs/2112.15236v1)|null|
-|**2021-12-30**|**Constraint Sampling Reinforcement Learning: Incorporating Expertise For Faster Learning**|Tong Mu et.al.|[2112.15221v1](http://arxiv.org/abs/2112.15221v1)|null|
+|**2021-12-30**|**Constraint Sampling Reinforcement Learning: Incorporating Expertise For Faster Learning**|Tong Mu et.al.|[2112.15221v1](http://arxiv.org/abs/2112.15221v1)|**[link](https://github.com/StanfordAI4HI/CSRL)**|
 |**2021-12-30**|**Stability-Preserving Automatic Tuning of PID Control with Reinforcement Learning**|Ayub I. Lakhani et.al.|[2112.15187v1](http://arxiv.org/abs/2112.15187v1)|null|
 |**2021-12-29**|**Sequential Episodic Control**|Ismael T. Freire et.al.|[2112.14734v1](http://arxiv.org/abs/2112.14734v1)|null|
 |**2021-12-29**|**DDPG car-following model with real-world human driving experience in CARLA**|Dianzhao Li et.al.|[2112.14602v1](http://arxiv.org/abs/2112.14602v1)|null|
