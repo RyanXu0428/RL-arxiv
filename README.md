@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-03**|**Have I done enough planning or should I plan more?**|Ruiqi He et.al.|[2201.00764v1](http://arxiv.org/abs/2201.00764v1)|null|
+|**2022-01-03**|**Execute Order 66: Targeted Data Poisoning for Reinforcement Learning**|Harrison Foley et.al.|[2201.00762v1](http://arxiv.org/abs/2201.00762v1)|null|
+|**2022-01-03**|**Neural combinatorial optimization beyond the TSP: Existing architectures under-represent graph structure**|Matteo Boffa et.al.|[2201.00668v1](http://arxiv.org/abs/2201.00668v1)|null|
+|**2022-01-03**|**Asymptotic Convergence of Deep Multi-Agent Actor-Critic Algorithms**|Adrian Redder et.al.|[2201.00570v1](http://arxiv.org/abs/2201.00570v1)|null|
+|**2022-01-03**|**Hybrid intelligence for dynamic job-shop scheduling with deep reinforcement learning and attention mechanism**|Yunhui Zeng et.al.|[2201.00548v1](http://arxiv.org/abs/2201.00548v1)|null|
+|**2022-01-03**|**Feedback-efficient Active Preference Learning for Socially Aware Robot Navigation**|Ruiqi Wang et.al.|[2201.00469v1](http://arxiv.org/abs/2201.00469v1)|null|
+|**2022-01-03**|**Actor-Critic Network for Q&A in an Adversarial Environment**|Bejan Sadeghian et.al.|[2201.00455v1](http://arxiv.org/abs/2201.00455v1)|null|
+|**2022-01-02**|**Toward Causal-Aware RL: State-Wise Action-Refined Temporal Difference**|Hao Sun et.al.|[2201.00354v1](http://arxiv.org/abs/2201.00354v1)|null|
+|**2022-01-02**|**Robust Algorithmic Collusion**|Nicolas Eschenbaum et.al.|[2201.00345v1](http://arxiv.org/abs/2201.00345v1)|null|
+|**2022-01-02**|**Reinforcement Learning for Task Specifications with Action-Constraints**|Arun Raman et.al.|[2201.00286v1](http://arxiv.org/abs/2201.00286v1)|null|
 |**2021-12-31**|**Single-Shot Pruning for Offline Reinforcement Learning**|Samin Yeasar Arnob et.al.|[2112.15579v1](http://arxiv.org/abs/2112.15579v1)|null|
 |**2021-12-31**|**Importance of Empirical Sample Complexity Analysis for Offline Reinforcement Learning**|Samin Yeasar Arnob et.al.|[2112.15578v1](http://arxiv.org/abs/2112.15578v1)|null|
 |**2021-12-31**|**Settling the Bias and Variance of Meta-Gradient Estimation for Meta-Reinforcement Learning**|Bo Liu et.al.|[2112.15400v1](http://arxiv.org/abs/2112.15400v1)|null|
@@ -509,6 +519,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-03**|**Neural combinatorial optimization beyond the TSP: Existing architectures under-represent graph structure**|Matteo Boffa et.al.|[2201.00668v1](http://arxiv.org/abs/2201.00668v1)|null|
+|**2022-01-03**|**GAT-CADNet: Graph Attention Network for Panoptic Symbol Spotting in CAD Drawings**|Zhaohua Zheng et.al.|[2201.00625v1](http://arxiv.org/abs/2201.00625v1)|null|
+|**2022-01-03**|**KerGNNs: Interpretable Graph Neural Networks with Graph Kernels**|Aosong Feng et.al.|[2201.00491v1](http://arxiv.org/abs/2201.00491v1)|null|
+|**2022-01-03**|**Memory-Guided Semantic Learning Network for Temporal Sentence Grounding**|Daizong Liu et.al.|[2201.00454v1](http://arxiv.org/abs/2201.00454v1)|null|
+|**2022-01-02**|**Semi-Supervised Graph Attention Networks for Event Representation Learning**|Joao Pedro Rodrigues Mattos et.al.|[2201.00363v1](http://arxiv.org/abs/2201.00363v1)|null|
+|**2022-01-01**|**Towards Robust Graph Neural Networks for Noisy Graphs with Sparse Labels**|Enyan Dai et.al.|[2201.00232v1](http://arxiv.org/abs/2201.00232v1)|null|
+|**2022-01-01**|**Toward the Analysis of Graph Neural Networks**|Thanh-Dat Nguyen et.al.|[2201.00115v1](http://arxiv.org/abs/2201.00115v1)|null|
 |**2021-12-31**|**Scalable Deep Graph Clustering with Random-walk based Self-supervised Learning**|Xiang Li et.al.|[2112.15530v1](http://arxiv.org/abs/2112.15530v1)|null|
 |**2021-12-31**|**Distributed Hybrid CPU and GPU training for Graph Neural Networks on Billion-Scale Graphs**|Da Zheng et.al.|[2112.15345v1](http://arxiv.org/abs/2112.15345v1)|null|
 |**2021-12-31**|**Temporal aware Multi-Interest Graph Neural Network For Session-based Recommendation**|Qi Shen et.al.|[2112.15328v1](http://arxiv.org/abs/2112.15328v1)|null|
