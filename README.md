@@ -89,7 +89,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-01-03**|**Have I done enough planning or should I plan more?**|Ruiqi He et.al.|[2201.00764v1](http://arxiv.org/abs/2201.00764v1)|null|
+|**2022-01-04**|**Multi-Stage Episodic Control for Strategic Exploration in Text Games**|Jens Tuyls et.al.|[2201.01251v1](http://arxiv.org/abs/2201.01251v1)|null|
+|**2022-01-03**|**A Deeper Understanding of State-Based Critics in Multi-Agent Reinforcement Learning**|Xueguang Lyu et.al.|[2201.01221v1](http://arxiv.org/abs/2201.01221v1)|null|
+|**2022-01-04**|**Deep Learning-based Predictive Control of Battery Management for Frequency Regulation**|Yun Li et.al.|[2201.01166v1](http://arxiv.org/abs/2201.01166v1)|null|
+|**2022-01-03**|**Finding General Equilibria in Many-Agent Economic Simulations Using Deep Reinforcement Learning**|Michael Curry et.al.|[2201.01163v1](http://arxiv.org/abs/2201.01163v1)|null|
+|**2022-01-04**|**Learning Complex Spatial Behaviours in ABM: An Experimental Observational Study**|Sedar Olmez et.al.|[2201.01099v1](http://arxiv.org/abs/2201.01099v1)|null|
+|**2022-01-04**|**McXai: Local model-agnostic explanation as two games**|Yiran Huang et.al.|[2201.01044v1](http://arxiv.org/abs/2201.01044v1)|null|
+|**2022-01-03**|**Monitoring and Anomaly Detection Actor-Critic Based Controlled Sensing**|Geethu Joseph et.al.|[2201.00879v1](http://arxiv.org/abs/2201.00879v1)|null|
+|**2022-01-03**|**Have I done enough planning or should I plan more?**|Ruiqi He et.al.|[2201.00764v1](http://arxiv.org/abs/2201.00764v1)|**[link](https://github.com/reeche/planningamount)**|
 |**2022-01-03**|**Execute Order 66: Targeted Data Poisoning for Reinforcement Learning**|Harrison Foley et.al.|[2201.00762v1](http://arxiv.org/abs/2201.00762v1)|null|
 |**2022-01-03**|**Neural combinatorial optimization beyond the TSP: Existing architectures under-represent graph structure**|Matteo Boffa et.al.|[2201.00668v1](http://arxiv.org/abs/2201.00668v1)|null|
 |**2022-01-03**|**Asymptotic Convergence of Deep Multi-Agent Actor-Critic Algorithms**|Adrian Redder et.al.|[2201.00570v1](http://arxiv.org/abs/2201.00570v1)|null|
@@ -519,6 +526,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-03**|**Two-level Graph Neural Network**|Xing Ai et.al.|[2201.01190v1](http://arxiv.org/abs/2201.01190v1)|null|
+|**2022-01-03**|**Graph Neural Networks: a bibliometrics overview**|Abdalsamad Keramatfar et.al.|[2201.01188v1](http://arxiv.org/abs/2201.01188v1)|null|
 |**2022-01-03**|**Neural combinatorial optimization beyond the TSP: Existing architectures under-represent graph structure**|Matteo Boffa et.al.|[2201.00668v1](http://arxiv.org/abs/2201.00668v1)|null|
 |**2022-01-03**|**GAT-CADNet: Graph Attention Network for Panoptic Symbol Spotting in CAD Drawings**|Zhaohua Zheng et.al.|[2201.00625v1](http://arxiv.org/abs/2201.00625v1)|null|
 |**2022-01-03**|**KerGNNs: Interpretable Graph Neural Networks with Graph Kernels**|Aosong Feng et.al.|[2201.00491v1](http://arxiv.org/abs/2201.00491v1)|null|
