@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.01.04
+## Updated on 2022.01.05
 
 ## SLAM
 
@@ -527,7 +527,7 @@ layout: default
 |**2022-01-03**|**GAT-CADNet: Graph Attention Network for Panoptic Symbol Spotting in CAD Drawings**|Zhaohua Zheng et.al.|[2201.00625v1](http://arxiv.org/abs/2201.00625v1)|null|
 |**2022-01-03**|**KerGNNs: Interpretable Graph Neural Networks with Graph Kernels**|Aosong Feng et.al.|[2201.00491v1](http://arxiv.org/abs/2201.00491v1)|null|
 |**2022-01-03**|**Memory-Guided Semantic Learning Network for Temporal Sentence Grounding**|Daizong Liu et.al.|[2201.00454v1](http://arxiv.org/abs/2201.00454v1)|null|
-|**2022-01-02**|**Semi-Supervised Graph Attention Networks for Event Representation Learning**|Joao Pedro Rodrigues Mattos et.al.|[2201.00363v1](http://arxiv.org/abs/2201.00363v1)|null|
+|**2022-01-02**|**Semi-Supervised Graph Attention Networks for Event Representation Learning**|Joao Pedro Rodrigues Mattos et.al.|[2201.00363v1](http://arxiv.org/abs/2201.00363v1)|**[link](https://github.com/joaopedromattos/gnee)**|
 |**2022-01-01**|**Towards Robust Graph Neural Networks for Noisy Graphs with Sparse Labels**|Enyan Dai et.al.|[2201.00232v1](http://arxiv.org/abs/2201.00232v1)|null|
 |**2022-01-01**|**Toward the Analysis of Graph Neural Networks**|Thanh-Dat Nguyen et.al.|[2201.00115v1](http://arxiv.org/abs/2201.00115v1)|null|
 |**2021-12-31**|**Scalable Deep Graph Clustering with Random-walk based Self-supervised Learning**|Xiang Li et.al.|[2112.15530v1](http://arxiv.org/abs/2112.15530v1)|null|
