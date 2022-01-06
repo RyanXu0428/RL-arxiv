@@ -89,9 +89,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-01-04**|**Multi-Stage Episodic Control for Strategic Exploration in Text Games**|Jens Tuyls et.al.|[2201.01251v1](http://arxiv.org/abs/2201.01251v1)|null|
+|**2022-01-04**|**Multi-Stage Episodic Control for Strategic Exploration in Text Games**|Jens Tuyls et.al.|[2201.01251v1](http://arxiv.org/abs/2201.01251v1)|**[link](https://github.com/princeton-nlp/xtx)**|
 |**2022-01-03**|**A Deeper Understanding of State-Based Critics in Multi-Agent Reinforcement Learning**|Xueguang Lyu et.al.|[2201.01221v1](http://arxiv.org/abs/2201.01221v1)|null|
-|**2022-01-04**|**Deep Learning-based Predictive Control of Battery Management for Frequency Regulation**|Yun Li et.al.|[2201.01166v1](http://arxiv.org/abs/2201.01166v1)|null|
+|**2022-01-04**|**Deep Learning-based Predictive Control of Battery Management for Frequency Regulation**|Yun Li et.al.|[2201.01166v1](http://arxiv.org/abs/2201.01166v1)|**[link](https://github.com/li-yun/battery_fr_rl)**|
 |**2022-01-03**|**Finding General Equilibria in Many-Agent Economic Simulations Using Deep Reinforcement Learning**|Michael Curry et.al.|[2201.01163v1](http://arxiv.org/abs/2201.01163v1)|null|
 |**2022-01-04**|**Learning Complex Spatial Behaviours in ABM: An Experimental Observational Study**|Sedar Olmez et.al.|[2201.01099v1](http://arxiv.org/abs/2201.01099v1)|null|
 |**2022-01-04**|**McXai: Local model-agnostic explanation as two games**|Yiran Huang et.al.|[2201.01044v1](http://arxiv.org/abs/2201.01044v1)|null|
