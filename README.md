@@ -89,6 +89,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-05**|**Sample Efficient Deep Reinforcement Learning via Uncertainty Estimation**|Vincent Mai et.al.|[2201.01666v1](http://arxiv.org/abs/2201.01666v1)|null|
+|**2022-01-05**|**Reinforcement Online Learning to Rank with Unbiased Reward Shaping**|Shengyao Zhuang et.al.|[2201.01534v1](http://arxiv.org/abs/2201.01534v1)|**[link](https://github.com/ielab/oltr)**|
+|**2022-01-05**|**Supervised Permutation Invariant Networks for Solving the CVRP with Bounded Fleet Size**|Daniela Thyssens et.al.|[2201.01529v1](http://arxiv.org/abs/2201.01529v1)|null|
+|**2022-01-05**|**Offsetting Unequal Competition through RL-assisted Incentive Schemes**|Paramita Koley et.al.|[2201.01450v1](http://arxiv.org/abs/2201.01450v1)|null|
+|**2022-01-05**|**Balsa: Learning a Query Optimizer Without Expert Demonstrations**|Zongheng Yang et.al.|[2201.01441v1](http://arxiv.org/abs/2201.01441v1)|null|
+|**2022-01-04**|**Using Simulation Optimization to Improve Zero-shot Policy Transfer of Quadrotors**|Sven Gronauer et.al.|[2201.01369v1](http://arxiv.org/abs/2201.01369v1)|null|
+|**2022-01-04**|**Learning Control Policies for Fall prevention and safety in bipedal locomotion**|Visak Kumar et.al.|[2201.01361v1](http://arxiv.org/abs/2201.01361v1)|null|
+|**2022-01-04**|**Deep BSDE-ML Learning and Its Application to Model-Free Optimal Control**|Yutian Wang et.al.|[2201.01318v1](http://arxiv.org/abs/2201.01318v1)|null|
 |**2022-01-04**|**Multi-Stage Episodic Control for Strategic Exploration in Text Games**|Jens Tuyls et.al.|[2201.01251v1](http://arxiv.org/abs/2201.01251v1)|**[link](https://github.com/princeton-nlp/xtx)**|
 |**2022-01-03**|**A Deeper Understanding of State-Based Critics in Multi-Agent Reinforcement Learning**|Xueguang Lyu et.al.|[2201.01221v1](http://arxiv.org/abs/2201.01221v1)|null|
 |**2022-01-04**|**Deep Learning-based Predictive Control of Battery Management for Frequency Regulation**|Yun Li et.al.|[2201.01166v1](http://arxiv.org/abs/2201.01166v1)|**[link](https://github.com/li-yun/battery_fr_rl)**|
@@ -526,6 +534,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-05**|**Multi-Robot Collaborative Perception with Graph Neural Networks**|Yang Zhou et.al.|[2201.01760v1](http://arxiv.org/abs/2201.01760v1)|null|
+|**2022-01-05**|**Towards Similarity-Aware Time-Series Classification**|Daochen Zha et.al.|[2201.01413v1](http://arxiv.org/abs/2201.01413v1)|**[link](https://github.com/daochenzha/simtsc)**|
 |**2022-01-03**|**Two-level Graph Neural Network**|Xing Ai et.al.|[2201.01190v1](http://arxiv.org/abs/2201.01190v1)|null|
 |**2022-01-03**|**Graph Neural Networks: a bibliometrics overview**|Abdalsamad Keramatfar et.al.|[2201.01188v1](http://arxiv.org/abs/2201.01188v1)|null|
 |**2022-01-03**|**Neural combinatorial optimization beyond the TSP: Existing architectures under-represent graph structure**|Matteo Boffa et.al.|[2201.00668v1](http://arxiv.org/abs/2201.00668v1)|null|
