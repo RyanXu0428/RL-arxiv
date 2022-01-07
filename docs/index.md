@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.01.06
+## Updated on 2022.01.07
 
 ## SLAM
 
@@ -93,7 +93,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-01-05**|**Sample Efficient Deep Reinforcement Learning via Uncertainty Estimation**|Vincent Mai et.al.|[2201.01666v1](http://arxiv.org/abs/2201.01666v1)|null|
+|**2022-01-05**|**Sample Efficient Deep Reinforcement Learning via Uncertainty Estimation**|Vincent Mai et.al.|[2201.01666v1](http://arxiv.org/abs/2201.01666v1)|**[link](https://github.com/montrealrobotics/iv_rl)**|
 |**2022-01-05**|**Reinforcement Online Learning to Rank with Unbiased Reward Shaping**|Shengyao Zhuang et.al.|[2201.01534v1](http://arxiv.org/abs/2201.01534v1)|**[link](https://github.com/ielab/oltr)**|
 |**2022-01-05**|**Supervised Permutation Invariant Networks for Solving the CVRP with Bounded Fleet Size**|Daniela Thyssens et.al.|[2201.01529v1](http://arxiv.org/abs/2201.01529v1)|null|
 |**2022-01-05**|**Offsetting Unequal Competition through RL-assisted Incentive Schemes**|Paramita Koley et.al.|[2201.01450v1](http://arxiv.org/abs/2201.01450v1)|null|
