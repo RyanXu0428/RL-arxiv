@@ -89,6 +89,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-06**|**Admissible Policy Teaching through Reward Design**|Kiarash Banihashem et.al.|[2201.02185v1](http://arxiv.org/abs/2201.02185v1)|null|
+|**2022-01-06**|**Machine Learning: Algorithms, Models, and Applications**|Jaydip Sen et.al.|[2201.01943v1](http://arxiv.org/abs/2201.01943v1)|null|
+|**2022-01-06**|**SABLAS: Learning Safe Control for Black-box Dynamical Systems**|Zengyi Qin et.al.|[2201.01918v1](http://arxiv.org/abs/2201.01918v1)|**[link](https://github.com/zengyi-qin/bcbf)**|
+|**2022-01-06**|**Combining Reinforcement Learning and Inverse Reinforcement Learning for Asset Allocation Recommendations**|Igor Halperin et.al.|[2201.01874v1](http://arxiv.org/abs/2201.01874v1)|null|
+|**2022-01-05**|**A Generalized Bootstrap Target for Value-Learning, Efficiently Combining Value and Feature Predictions**|Anthony GX-Chen et.al.|[2201.01836v1](http://arxiv.org/abs/2201.01836v1)|null|
+|**2022-01-05**|**Hidden Agenda: a Social Deduction Game with Diverse Learned Equilibria**|Kavya Kopparapu et.al.|[2201.01816v1](http://arxiv.org/abs/2201.01816v1)|null|
 |**2022-01-05**|**Sample Efficient Deep Reinforcement Learning via Uncertainty Estimation**|Vincent Mai et.al.|[2201.01666v1](http://arxiv.org/abs/2201.01666v1)|**[link](https://github.com/montrealrobotics/iv_rl)**|
 |**2022-01-05**|**Reinforcement Online Learning to Rank with Unbiased Reward Shaping**|Shengyao Zhuang et.al.|[2201.01534v1](http://arxiv.org/abs/2201.01534v1)|**[link](https://github.com/ielab/oltr)**|
 |**2022-01-05**|**Supervised Permutation Invariant Networks for Solving the CVRP with Bounded Fleet Size**|Daniela Thyssens et.al.|[2201.01529v1](http://arxiv.org/abs/2201.01529v1)|null|
@@ -534,6 +540,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-06**|**Skip Vectors for RDF Data: Extraction Based on the Complexity of Feature Patterns**|Yota Minami et.al.|[2201.01996v1](http://arxiv.org/abs/2201.01996v1)|null|
+|**2022-01-05**|**Frame Shift Prediction**|Zheng-Xin Yong et.al.|[2201.01837v1](http://arxiv.org/abs/2201.01837v1)|null|
 |**2022-01-05**|**Multi-Robot Collaborative Perception with Graph Neural Networks**|Yang Zhou et.al.|[2201.01760v1](http://arxiv.org/abs/2201.01760v1)|null|
 |**2022-01-05**|**Towards Similarity-Aware Time-Series Classification**|Daochen Zha et.al.|[2201.01413v2](http://arxiv.org/abs/2201.01413v2)|**[link](https://github.com/daochenzha/simtsc)**|
 |**2022-01-03**|**Two-level Graph Neural Network**|Xing Ai et.al.|[2201.01190v1](http://arxiv.org/abs/2201.01190v1)|null|
