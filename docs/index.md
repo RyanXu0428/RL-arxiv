@@ -539,7 +539,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-01-05**|**Multi-Robot Collaborative Perception with Graph Neural Networks**|Yang Zhou et.al.|[2201.01760v1](http://arxiv.org/abs/2201.01760v1)|null|
-|**2022-01-05**|**Towards Similarity-Aware Time-Series Classification**|Daochen Zha et.al.|[2201.01413v1](http://arxiv.org/abs/2201.01413v1)|**[link](https://github.com/daochenzha/simtsc)**|
+|**2022-01-05**|**Towards Similarity-Aware Time-Series Classification**|Daochen Zha et.al.|[2201.01413v2](http://arxiv.org/abs/2201.01413v2)|**[link](https://github.com/daochenzha/simtsc)**|
 |**2022-01-03**|**Two-level Graph Neural Network**|Xing Ai et.al.|[2201.01190v1](http://arxiv.org/abs/2201.01190v1)|null|
 |**2022-01-03**|**Graph Neural Networks: a bibliometrics overview**|Abdalsamad Keramatfar et.al.|[2201.01188v1](http://arxiv.org/abs/2201.01188v1)|null|
 |**2022-01-03**|**Neural combinatorial optimization beyond the TSP: Existing architectures under-represent graph structure**|Matteo Boffa et.al.|[2201.00668v1](http://arxiv.org/abs/2201.00668v1)|null|
