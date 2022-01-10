@@ -544,7 +544,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-01-06**|**Skip Vectors for RDF Data: Extraction Based on the Complexity of Feature Patterns**|Yota Minami et.al.|[2201.01996v1](http://arxiv.org/abs/2201.01996v1)|null|
+|**2022-01-06**|**Skip Vectors for RDF Data: Extraction Based on the Complexity of Feature Patterns**|Yota Minami et.al.|[2201.01996v2](http://arxiv.org/abs/2201.01996v2)|null|
 |**2022-01-05**|**Frame Shift Prediction**|Zheng-Xin Yong et.al.|[2201.01837v1](http://arxiv.org/abs/2201.01837v1)|null|
 |**2022-01-05**|**Multi-Robot Collaborative Perception with Graph Neural Networks**|Yang Zhou et.al.|[2201.01760v1](http://arxiv.org/abs/2201.01760v1)|null|
 |**2022-01-05**|**Towards Similarity-Aware Time-Series Classification**|Daochen Zha et.al.|[2201.01413v2](http://arxiv.org/abs/2201.01413v2)|**[link](https://github.com/daochenzha/simtsc)**|
