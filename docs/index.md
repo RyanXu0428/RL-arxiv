@@ -93,6 +93,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-07**|**Neural Network Optimization for Reinforcement Learning Tasks Using Sparse Computations**|Dmitry Ivanov et.al.|[2201.02571v1](http://arxiv.org/abs/2201.02571v1)|null|
+|**2022-01-07**|**Deep Learnable Strategy Templates for Multi-Issue Bilateral Negotiation**|Pallavi Bagga et.al.|[2201.02455v1](http://arxiv.org/abs/2201.02455v1)|null|
+|**2022-01-07**|**Offline Reinforcement Learning for Road Traffic Control**|Mayuresh Kunjir et.al.|[2201.02381v1](http://arxiv.org/abs/2201.02381v1)|null|
+|**2022-01-07**|**Mirror Learning: A Unifying Framework of Policy Optimisation**|Jakub Grudzien Kuba et.al.|[2201.02373v1](http://arxiv.org/abs/2201.02373v1)|**[link](https://github.com/znowu/mirror-learning)**|
+|**2022-01-07**|**A Theoretical Framework of Almost Hyperparameter-free Hyperparameter Selection Methods for Offline Policy Evaluation**|Kohei Miyaguchi et.al.|[2201.02300v1](http://arxiv.org/abs/2201.02300v1)|null|
 |**2022-01-06**|**Admissible Policy Teaching through Reward Design**|Kiarash Banihashem et.al.|[2201.02185v1](http://arxiv.org/abs/2201.02185v1)|null|
 |**2022-01-06**|**Machine Learning: Algorithms, Models, and Applications**|Jaydip Sen et.al.|[2201.01943v1](http://arxiv.org/abs/2201.01943v1)|null|
 |**2022-01-06**|**SABLAS: Learning Safe Control for Black-box Dynamical Systems**|Zengyi Qin et.al.|[2201.01918v1](http://arxiv.org/abs/2201.01918v1)|**[link](https://github.com/zengyi-qin/bcbf)**|
@@ -544,6 +549,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-07**|**MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs**|Qiaoyu Tan et.al.|[2201.02534v1](http://arxiv.org/abs/2201.02534v1)|null|
+|**2022-01-07**|**Budget-aware Few-shot Learning via Graph Convolutional Network**|Shipeng Yan et.al.|[2201.02304v1](http://arxiv.org/abs/2201.02304v1)|null|
 |**2022-01-06**|**Skip Vectors for RDF Data: Extraction Based on the Complexity of Feature Patterns**|Yota Minami et.al.|[2201.01996v2](http://arxiv.org/abs/2201.01996v2)|null|
 |**2022-01-05**|**Frame Shift Prediction**|Zheng-Xin Yong et.al.|[2201.01837v1](http://arxiv.org/abs/2201.01837v1)|null|
 |**2022-01-05**|**Multi-Robot Collaborative Perception with Graph Neural Networks**|Yang Zhou et.al.|[2201.01760v1](http://arxiv.org/abs/2201.01760v1)|null|
