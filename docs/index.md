@@ -93,6 +93,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-10**|**When is Offline Two-Player Zero-Sum Markov Game Solvable?**|Qiwen Cui et.al.|[2201.03522v1](http://arxiv.org/abs/2201.03522v1)|null|
+|**2022-01-10**|**State of the Art of User Simulation approaches for conversational information retrieval**|Pierre Erbacher et.al.|[2201.03435v1](http://arxiv.org/abs/2201.03435v1)|null|
+|**2022-01-10**|**Opportunities of Hybrid Model-based Reinforcement Learning for Cell Therapy Manufacturing Process Development and Control**|Hua Zheng et.al.|[2201.03116v1](http://arxiv.org/abs/2201.03116v1)|null|
+|**2022-01-09**|**Glance and Focus Networks for Dynamic Visual Recognition**|Gao Huang et.al.|[2201.03014v1](http://arxiv.org/abs/2201.03014v1)|**[link](https://github.com/blackfeather-wang/GFNet-Pytorch)**|
+|**2022-01-09**|**An Adaptive Device-Edge Co-Inference Framework Based on Soft Actor-Critic**|Tao Niu et.al.|[2201.02968v1](http://arxiv.org/abs/2201.02968v1)|null|
+|**2022-01-09**|**A Multi-agent Reinforcement Learning Approach for Efficient Client Selection in Federated Learning**|Sai Qian Zhang et.al.|[2201.02932v1](http://arxiv.org/abs/2201.02932v1)|null|
+|**2022-01-08**|**Assessing Policy, Loss and Planning Combinations in Reinforcement Learning using a New Modular Architecture**|Tiago Gaspar Oliveira et.al.|[2201.02874v1](http://arxiv.org/abs/2201.02874v1)|null|
+|**2022-01-08**|**RARA: Zero-shot Sim2Real Visual Navigation with Following Foreground Cues**|Klaas Kelchtermans et.al.|[2201.02798v1](http://arxiv.org/abs/2201.02798v1)|**[link](https://github.com/kkelchte/fgbg)**|
+|**2022-01-07**|**Attention Option-Critic**|Raviteja Chunduru et.al.|[2201.02628v1](http://arxiv.org/abs/2201.02628v1)|null|
 |**2022-01-07**|**Neural Network Optimization for Reinforcement Learning Tasks Using Sparse Computations**|Dmitry Ivanov et.al.|[2201.02571v1](http://arxiv.org/abs/2201.02571v1)|null|
 |**2022-01-07**|**Deep Learnable Strategy Templates for Multi-Issue Bilateral Negotiation**|Pallavi Bagga et.al.|[2201.02455v1](http://arxiv.org/abs/2201.02455v1)|null|
 |**2022-01-07**|**Offline Reinforcement Learning for Road Traffic Control**|Mayuresh Kunjir et.al.|[2201.02381v1](http://arxiv.org/abs/2201.02381v1)|null|
@@ -549,6 +558,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-10**|**Disentangled Graph Neural Networks for Session-based Recommendation**|Ansong Li et.al.|[2201.03482v1](http://arxiv.org/abs/2201.03482v1)|null|
+|**2022-01-10**|**Graph Representation Learning for Multi-Task Settings: a Meta-Learning Approach**|Davide Buffelli et.al.|[2201.03326v1](http://arxiv.org/abs/2201.03326v1)|null|
+|**2022-01-10**|**Wind Park Power Prediction: Attention-Based Graph Networks and Deep Learning to Capture Wake Losses**|Lars Ødegaard Bentsen et.al.|[2201.03229v1](http://arxiv.org/abs/2201.03229v1)|null|
+|**2022-01-10**|**Supervised Contrastive Learning for Recommendation**|Chun Yang et.al.|[2201.03144v1](http://arxiv.org/abs/2201.03144v1)|null|
+|**2022-01-08**|**AnomMAN: Detect Anomaly on Multi-view Attributed Networks**|Ling-Hao Chen et.al.|[2201.02822v1](http://arxiv.org/abs/2201.02822v1)|null|
+|**2022-01-08**|**Scaling Knowledge Graph Embedding Models**|Nasrullah Sheikh et.al.|[2201.02791v1](http://arxiv.org/abs/2201.02791v1)|null|
+|**2022-01-07**|**Neighbor2vec: an efficient and effective method for Graph Embedding**|Zhiming Lin et.al.|[2201.02626v1](http://arxiv.org/abs/2201.02626v1)|null|
+|**2022-01-07**|**Spatio-Temporal Graph Representation Learning for Fraudster Group Detection**|Saeedreza Shehnepoor et.al.|[2201.02621v1](http://arxiv.org/abs/2201.02621v1)|null|
 |**2022-01-07**|**MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs**|Qiaoyu Tan et.al.|[2201.02534v1](http://arxiv.org/abs/2201.02534v1)|null|
 |**2022-01-07**|**Budget-aware Few-shot Learning via Graph Convolutional Network**|Shipeng Yan et.al.|[2201.02304v1](http://arxiv.org/abs/2201.02304v1)|null|
 |**2022-01-06**|**Skip Vectors for RDF Data: Extraction Based on the Complexity of Feature Patterns**|Yota Minami et.al.|[2201.01996v2](http://arxiv.org/abs/2201.01996v2)|null|
