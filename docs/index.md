@@ -100,7 +100,7 @@ layout: default
 |**2022-01-07**|**A Theoretical Framework of Almost Hyperparameter-free Hyperparameter Selection Methods for Offline Policy Evaluation**|Kohei Miyaguchi et.al.|[2201.02300v1](http://arxiv.org/abs/2201.02300v1)|null|
 |**2022-01-06**|**Admissible Policy Teaching through Reward Design**|Kiarash Banihashem et.al.|[2201.02185v1](http://arxiv.org/abs/2201.02185v1)|null|
 |**2022-01-06**|**Machine Learning: Algorithms, Models, and Applications**|Jaydip Sen et.al.|[2201.01943v1](http://arxiv.org/abs/2201.01943v1)|null|
-|**2022-01-06**|**SABLAS: Learning Safe Control for Black-box Dynamical Systems**|Zengyi Qin et.al.|[2201.01918v1](http://arxiv.org/abs/2201.01918v1)|**[link](https://github.com/zengyi-qin/bcbf)**|
+|**2022-01-06**|**SABLAS: Learning Safe Control for Black-box Dynamical Systems**|Zengyi Qin et.al.|[2201.01918v2](http://arxiv.org/abs/2201.01918v2)|**[link](https://github.com/zengyi-qin/bcbf)**|
 |**2022-01-06**|**Combining Reinforcement Learning and Inverse Reinforcement Learning for Asset Allocation Recommendations**|Igor Halperin et.al.|[2201.01874v1](http://arxiv.org/abs/2201.01874v1)|null|
 |**2022-01-05**|**A Generalized Bootstrap Target for Value-Learning, Efficiently Combining Value and Feature Predictions**|Anthony GX-Chen et.al.|[2201.01836v1](http://arxiv.org/abs/2201.01836v1)|null|
 |**2022-01-05**|**Hidden Agenda: a Social Deduction Game with Diverse Learned Equilibria**|Kavya Kopparapu et.al.|[2201.01816v1](http://arxiv.org/abs/2201.01816v1)|null|
@@ -558,7 +558,7 @@ layout: default
 |**2022-01-03**|**Two-level Graph Neural Network**|Xing Ai et.al.|[2201.01190v1](http://arxiv.org/abs/2201.01190v1)|null|
 |**2022-01-03**|**Graph Neural Networks: a bibliometrics overview**|Abdalsamad Keramatfar et.al.|[2201.01188v1](http://arxiv.org/abs/2201.01188v1)|null|
 |**2022-01-03**|**Neural combinatorial optimization beyond the TSP: Existing architectures under-represent graph structure**|Matteo Boffa et.al.|[2201.00668v1](http://arxiv.org/abs/2201.00668v1)|null|
-|**2022-01-03**|**GAT-CADNet: Graph Attention Network for Panoptic Symbol Spotting in CAD Drawings**|Zhaohua Zheng et.al.|[2201.00625v1](http://arxiv.org/abs/2201.00625v1)|null|
+|**2022-01-03**|**GAT-CADNet: Graph Attention Network for Panoptic Symbol Spotting in CAD Drawings**|Zhaohua Zheng et.al.|[2201.00625v2](http://arxiv.org/abs/2201.00625v2)|null|
 |**2022-01-03**|**KerGNNs: Interpretable Graph Neural Networks with Graph Kernels**|Aosong Feng et.al.|[2201.00491v1](http://arxiv.org/abs/2201.00491v1)|null|
 |**2022-01-03**|**Memory-Guided Semantic Learning Network for Temporal Sentence Grounding**|Daizong Liu et.al.|[2201.00454v1](http://arxiv.org/abs/2201.00454v1)|null|
 |**2022-01-02**|**Semi-Supervised Graph Attention Networks for Event Representation Learning**|Joao Pedro Rodrigues Mattos et.al.|[2201.00363v1](http://arxiv.org/abs/2201.00363v1)|**[link](https://github.com/joaopedromattos/gnee)**|
