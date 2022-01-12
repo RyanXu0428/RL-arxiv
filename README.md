@@ -554,7 +554,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-01-10**|**Disentangled Graph Neural Networks for Session-based Recommendation**|Ansong Li et.al.|[2201.03482v1](http://arxiv.org/abs/2201.03482v1)|null|
+|**2022-01-10**|**Disentangled Graph Neural Networks for Session-based Recommendation**|Ansong Li et.al.|[2201.03482v2](http://arxiv.org/abs/2201.03482v2)|null|
 |**2022-01-10**|**Graph Representation Learning for Multi-Task Settings: a Meta-Learning Approach**|Davide Buffelli et.al.|[2201.03326v1](http://arxiv.org/abs/2201.03326v1)|null|
 |**2022-01-10**|**Wind Park Power Prediction: Attention-Based Graph Networks and Deep Learning to Capture Wake Losses**|Lars Ødegaard Bentsen et.al.|[2201.03229v1](http://arxiv.org/abs/2201.03229v1)|null|
 |**2022-01-10**|**Supervised Contrastive Learning for Recommendation**|Chun Yang et.al.|[2201.03144v1](http://arxiv.org/abs/2201.03144v1)|null|
