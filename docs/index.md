@@ -97,7 +97,7 @@ layout: default
 |**2022-01-11**|**Active Reinforcement Learning -- A Roadmap Towards Curious Classifier Systems for Self-Adaptation**|Simon Reichhuber et.al.|[2201.03947v1](http://arxiv.org/abs/2201.03947v1)|null|
 |**2022-01-11**|**Automated Reinforcement Learning (AutoRL): A Survey and Open Problems**|Jack Parker-Holder et.al.|[2201.03916v1](http://arxiv.org/abs/2201.03916v1)|null|
 |**2022-01-11**|**Combining Learning-based Locomotion Policy with Model-based Manipulation for Legged Mobile Manipulators**|Yuntao Ma et.al.|[2201.03871v1](http://arxiv.org/abs/2201.03871v1)|null|
-|**2022-01-11**|**End-To-End Optimization of LiDAR Beam Configuration for 3D Object Detection and Localization**|Niclas Vödisch et.al.|[2201.03860v1](http://arxiv.org/abs/2201.03860v1)|null|
+|**2022-01-11**|**End-To-End Optimization of LiDAR Beam Configuration for 3D Object Detection and Localization**|Niclas Vödisch et.al.|[2201.03860v1](http://arxiv.org/abs/2201.03860v1)|**[link](https://github.com/vniclas/lidar_beam_selection)**|
 |**2022-01-11**|**Reward Relabelling for combined Reinforcement and Imitation Learning on sparse-reward tasks**|Jesus Bujalance Martin et.al.|[2201.03834v1](http://arxiv.org/abs/2201.03834v1)|null|
 |**2022-01-11**|**Pavlovian Signalling with General Value Functions in Agent-Agent Temporal Decision Making**|Andrew Butcher et.al.|[2201.03709v1](http://arxiv.org/abs/2201.03709v1)|null|
 |**2022-01-10**|**Verified Probabilistic Policies for Deep Reinforcement Learning**|Edoardo Bacci et.al.|[2201.03698v1](http://arxiv.org/abs/2201.03698v1)|null|
