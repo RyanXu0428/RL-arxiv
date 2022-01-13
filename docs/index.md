@@ -93,6 +93,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-12**|**Agent-Temporal Attention for Reward Redistribution in Episodic Multi-Agent Reinforcement Learning**|Baicen Xiao et.al.|[2201.04612v1](http://arxiv.org/abs/2201.04612v1)|**[link](https://github.com/baicenxiao/arel)**|
+|**2022-01-12**|**Dyna-T: Dyna-Q and Upper Confidence Bounds Applied to Trees**|Tarek Faycal et.al.|[2201.04502v1](http://arxiv.org/abs/2201.04502v1)|null|
+|**2022-01-12**|**Evolutionary Action Selection for Gradient-based Policy Learning**|Yan Ma et.al.|[2201.04286v1](http://arxiv.org/abs/2201.04286v1)|null|
+|**2022-01-12**|**Dynamical Audio-Visual Navigation: Catching Unheard Moving Sound Sources in Unmapped 3D Environments**|Abdelrahman Younes et.al.|[2201.04279v1](http://arxiv.org/abs/2201.04279v1)|null|
+|**2022-01-11**|**SmartDet: Context-Aware Dynamic Control of Edge Task Offloading for Mobile Object Detection**|Davide Callegaro et.al.|[2201.04235v1](http://arxiv.org/abs/2201.04235v1)|null|
+|**2022-01-11**|**Benchmarking Deep Reinforcement Learning Algorithms for Vision-based Robotics**|Swagat Kumar et.al.|[2201.04224v1](http://arxiv.org/abs/2201.04224v1)|null|
+|**2022-01-11**|**Learning Robust Policies for Generalized Debris Capture with an Automated Tether-Net System**|Chen Zeng et.al.|[2201.04180v1](http://arxiv.org/abs/2201.04180v1)|null|
 |**2022-01-11**|**In Defense of the Unitary Scalarization for Deep Multi-Task Learning**|Vitaly Kurin et.al.|[2201.04122v1](http://arxiv.org/abs/2201.04122v1)|null|
 |**2022-01-11**|**Active Reinforcement Learning -- A Roadmap Towards Curious Classifier Systems for Self-Adaptation**|Simon Reichhuber et.al.|[2201.03947v1](http://arxiv.org/abs/2201.03947v1)|null|
 |**2022-01-11**|**Automated Reinforcement Learning (AutoRL): A Survey and Open Problems**|Jack Parker-Holder et.al.|[2201.03916v1](http://arxiv.org/abs/2201.03916v1)|null|
@@ -566,6 +573,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-12**|**Multi-task Joint Strategies of Self-supervised Representation Learning on Biomedical Networks for Drug Discovery**|Xiaoqi Wang et.al.|[2201.04437v1](http://arxiv.org/abs/2201.04437v1)|null|
 |**2022-01-11**|**State Estimation in Electric Power Systems Leveraging Graph Neural Networks**|Ognjen Kundacina et.al.|[2201.04056v1](http://arxiv.org/abs/2201.04056v1)|null|
 |**2022-01-10**|**FairEdit: Preserving Fairness in Graph Neural Networks through Greedy Graph Editing**|Donald Loveland et.al.|[2201.03681v2](http://arxiv.org/abs/2201.03681v2)|**[link](https://github.com/royull/fairedit)**|
 |**2022-01-10**|**Neuroplastic graph attention networks for nuclei segmentation in histopathology images**|Yoav Alon et.al.|[2201.03669v1](http://arxiv.org/abs/2201.03669v1)|null|
