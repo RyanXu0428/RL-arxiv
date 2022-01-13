@@ -100,7 +100,7 @@ layout: default
 |**2022-01-11**|**End-To-End Optimization of LiDAR Beam Configuration for 3D Object Detection and Localization**|Niclas Vödisch et.al.|[2201.03860v1](http://arxiv.org/abs/2201.03860v1)|**[link](https://github.com/vniclas/lidar_beam_selection)**|
 |**2022-01-11**|**Reward Relabelling for combined Reinforcement and Imitation Learning on sparse-reward tasks**|Jesus Bujalance Martin et.al.|[2201.03834v1](http://arxiv.org/abs/2201.03834v1)|null|
 |**2022-01-11**|**Pavlovian Signalling with General Value Functions in Agent-Agent Temporal Decision Making**|Andrew Butcher et.al.|[2201.03709v1](http://arxiv.org/abs/2201.03709v1)|null|
-|**2022-01-10**|**Verified Probabilistic Policies for Deep Reinforcement Learning**|Edoardo Bacci et.al.|[2201.03698v1](http://arxiv.org/abs/2201.03698v1)|null|
+|**2022-01-10**|**Verified Probabilistic Policies for Deep Reinforcement Learning**|Edoardo Bacci et.al.|[2201.03698v1](http://arxiv.org/abs/2201.03698v1)|**[link](https://github.com/phate09/safedrl)**|
 |**2022-01-10**|**When is Offline Two-Player Zero-Sum Markov Game Solvable?**|Qiwen Cui et.al.|[2201.03522v1](http://arxiv.org/abs/2201.03522v1)|null|
 |**2022-01-10**|**State of the Art of User Simulation approaches for conversational information retrieval**|Pierre Erbacher et.al.|[2201.03435v1](http://arxiv.org/abs/2201.03435v1)|null|
 |**2022-01-10**|**Opportunities of Hybrid Model-based Reinforcement Learning for Cell Therapy Manufacturing Process Development and Control**|Hua Zheng et.al.|[2201.03116v1](http://arxiv.org/abs/2201.03116v1)|null|
@@ -567,7 +567,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-01-11**|**State Estimation in Electric Power Systems Leveraging Graph Neural Networks**|Ognjen Kundacina et.al.|[2201.04056v1](http://arxiv.org/abs/2201.04056v1)|null|
-|**2022-01-10**|**FairEdit: Preserving Fairness in Graph Neural Networks through Greedy Graph Editing**|Donald Loveland et.al.|[2201.03681v1](http://arxiv.org/abs/2201.03681v1)|null|
+|**2022-01-10**|**FairEdit: Preserving Fairness in Graph Neural Networks through Greedy Graph Editing**|Donald Loveland et.al.|[2201.03681v2](http://arxiv.org/abs/2201.03681v2)|**[link](https://github.com/royull/fairedit)**|
 |**2022-01-10**|**Neuroplastic graph attention networks for nuclei segmentation in histopathology images**|Yoav Alon et.al.|[2201.03669v1](http://arxiv.org/abs/2201.03669v1)|null|
 |**2022-01-10**|**Disentangled Graph Neural Networks for Session-based Recommendation**|Ansong Li et.al.|[2201.03482v2](http://arxiv.org/abs/2201.03482v2)|null|
 |**2022-01-10**|**Graph Representation Learning for Multi-Task Settings: a Meta-Learning Approach**|Davide Buffelli et.al.|[2201.03326v1](http://arxiv.org/abs/2201.03326v1)|null|
