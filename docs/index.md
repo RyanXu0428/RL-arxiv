@@ -93,6 +93,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-13**|**Criticality-Based Varying Step-Number Algorithm for Reinforcement Learning**|Yitzhak Spielberg et.al.|[2201.05034v1](http://arxiv.org/abs/2201.05034v1)|null|
+|**2022-01-13**|**Automated Reinforcement Learning: An Overview**|Reza Refaei Afshar et.al.|[2201.05000v1](http://arxiv.org/abs/2201.05000v1)|null|
+|**2022-01-13**|**Solving Dynamic Graph Problems with Multi-Attention Deep Reinforcement Learning**|Udesh Gunarathna et.al.|[2201.04895v1](http://arxiv.org/abs/2201.04895v1)|null|
+|**2022-01-13**|**Weakly Supervised Scene Text Detection using Deep Reinforcement Learning**|Emanuel Metzenthin et.al.|[2201.04866v1](http://arxiv.org/abs/2201.04866v1)|**[link](https://github.com/emanuel-metzenthin/rl-scene-text-detection)**|
+|**2022-01-13**|**Direct Mutation and Crossover in Genetic Algorithms Applied to Reinforcement Learning Tasks**|Tarek Faycal et.al.|[2201.04815v1](http://arxiv.org/abs/2201.04815v1)|null|
+|**2022-01-12**|**Planning in Observable POMDPs in Quasipolynomial Time**|Noah Golowich et.al.|[2201.04735v1](http://arxiv.org/abs/2201.04735v1)|null|
+|**2022-01-12**|**The Recurrent Reinforcement Learning Crypto Agent**|Gabriel Borrageiro et.al.|[2201.04699v1](http://arxiv.org/abs/2201.04699v1)|null|
+|**2022-01-12**|**Multi-echelon Supply Chains with Uncertain Seasonal Demands and Lead Times Using Deep Reinforcement Learning**|Julio César Alves et.al.|[2201.04651v1](http://arxiv.org/abs/2201.04651v1)|null|
 |**2022-01-12**|**Agent-Temporal Attention for Reward Redistribution in Episodic Multi-Agent Reinforcement Learning**|Baicen Xiao et.al.|[2201.04612v1](http://arxiv.org/abs/2201.04612v1)|**[link](https://github.com/baicenxiao/arel)**|
 |**2022-01-12**|**Dyna-T: Dyna-Q and Upper Confidence Bounds Applied to Trees**|Tarek Faycal et.al.|[2201.04502v1](http://arxiv.org/abs/2201.04502v1)|null|
 |**2022-01-12**|**Evolutionary Action Selection for Gradient-based Policy Learning**|Yan Ma et.al.|[2201.04286v1](http://arxiv.org/abs/2201.04286v1)|null|
@@ -573,6 +581,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-11**|**Quasi-Framelets: Another Improvement to GraphNeural Networks**|Mengxi Yang et.al.|[2201.04728v1](http://arxiv.org/abs/2201.04728v1)|null|
+|**2022-01-12**|**Semantic Labeling of Human Action For Visually Impaired And Blind People Scene Interaction**|Leyla Benhamida et.al.|[2201.04706v1](http://arxiv.org/abs/2201.04706v1)|null|
+|**2022-01-12**|**How Can Graph Neural Networks Help Document Retrieval: A Case Study on CORD19 with Concept Map Generation**|Hejie Cui et.al.|[2201.04672v1](http://arxiv.org/abs/2201.04672v1)|null|
 |**2022-01-12**|**Multi-task Joint Strategies of Self-supervised Representation Learning on Biomedical Networks for Drug Discovery**|Xiaoqi Wang et.al.|[2201.04437v1](http://arxiv.org/abs/2201.04437v1)|null|
 |**2022-01-11**|**State Estimation in Electric Power Systems Leveraging Graph Neural Networks**|Ognjen Kundacina et.al.|[2201.04056v1](http://arxiv.org/abs/2201.04056v1)|null|
 |**2022-01-10**|**FairEdit: Preserving Fairness in Graph Neural Networks through Greedy Graph Editing**|Donald Loveland et.al.|[2201.03681v2](http://arxiv.org/abs/2201.03681v2)|**[link](https://github.com/royull/fairedit)**|
