@@ -89,6 +89,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-14**|**Smart Magnetic Microrobots Learn to Swim with Deep Reinforcement Learning**|Michael R. Behrens et.al.|[2201.05599v1](http://arxiv.org/abs/2201.05599v1)|**[link](https://github.com/synthetic-automated-systems/ruder_mbot_rl)**|
+|**2022-01-14**|**Reinforcement Learning in Time-Varying Systems: an Empirical Study**|Pouya Hamadanian et.al.|[2201.05560v1](http://arxiv.org/abs/2201.05560v1)|null|
+|**2022-01-14**|**Reinforcement Learning based Air Combat Maneuver Generation**|Muhammed Murat Ozbek et.al.|[2201.05528v1](http://arxiv.org/abs/2201.05528v1)|null|
+|**2022-01-14**|**Comparing Model-free and Model-based Algorithms for Offline Reinforcement Learning**|Phillip Swazinna et.al.|[2201.05433v1](http://arxiv.org/abs/2201.05433v1)|null|
+|**2022-01-14**|**Reinforcement Learning to Solve NP-hard Problems: an Application to the CVRP**|Leo Ardon et.al.|[2201.05393v1](http://arxiv.org/abs/2201.05393v1)|null|
+|**2022-01-14**|**AWSnet: An Auto-weighted Supervision Attention Network for Myocardial Scar and Edema Segmentation in Multi-sequence Cardiac Magnetic Resonance Images**|Kai-Ni Wang et.al.|[2201.05344v1](http://arxiv.org/abs/2201.05344v1)|null|
 |**2022-01-13**|**Criticality-Based Varying Step-Number Algorithm for Reinforcement Learning**|Yitzhak Spielberg et.al.|[2201.05034v1](http://arxiv.org/abs/2201.05034v1)|null|
 |**2022-01-13**|**Automated Reinforcement Learning: An Overview**|Reza Refaei Afshar et.al.|[2201.05000v1](http://arxiv.org/abs/2201.05000v1)|null|
 |**2022-01-13**|**Solving Dynamic Graph Problems with Multi-Attention Deep Reinforcement Learning**|Udesh Gunarathna et.al.|[2201.04895v1](http://arxiv.org/abs/2201.04895v1)|null|
@@ -577,6 +583,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-14**|**Compact Graph Structure Learning via Mutual Information Compression**|Nian Liu et.al.|[2201.05540v1](http://arxiv.org/abs/2201.05540v1)|**[link](https://github.com/liun-online/cogsl)**|
+|**2022-01-14**|**Collaborative learning of images and geometrics for predicting isocitrate dehydrogenase status of glioma**|Yiran Wei et.al.|[2201.05530v1](http://arxiv.org/abs/2201.05530v1)|null|
+|**2022-01-14**|**Training Free Graph Neural Networks for Graph Matching**|Zhiyuan Liu et.al.|[2201.05349v1](http://arxiv.org/abs/2201.05349v1)|**[link](https://github.com/acharkq/training-free-graph-matching)**|
+|**2022-01-14**|**Structure Enhanced Graph Neural Networks for Link Prediction**|Baole Ai et.al.|[2201.05293v1](http://arxiv.org/abs/2201.05293v1)|null|
+|**2022-01-13**|**Decompositional Quantum Graph Neural Network**|Xing Ai et.al.|[2201.05158v1](http://arxiv.org/abs/2201.05158v1)|null|
 |**2022-01-11**|**Quasi-Framelets: Another Improvement to GraphNeural Networks**|Mengxi Yang et.al.|[2201.04728v1](http://arxiv.org/abs/2201.04728v1)|null|
 |**2022-01-12**|**Semantic Labeling of Human Action For Visually Impaired And Blind People Scene Interaction**|Leyla Benhamida et.al.|[2201.04706v1](http://arxiv.org/abs/2201.04706v1)|null|
 |**2022-01-12**|**How Can Graph Neural Networks Help Document Retrieval: A Case Study on CORD19 with Concept Map Generation**|Hejie Cui et.al.|[2201.04672v1](http://arxiv.org/abs/2201.04672v1)|null|
