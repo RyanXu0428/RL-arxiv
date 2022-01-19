@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-18**|**Synthesizing explainable counterfactual policies for algorithmic recourse with program synthesis**|Giovanni De Toni et.al.|[2201.07135v1](http://arxiv.org/abs/2201.07135v1)|null|
+|**2022-01-18**|**K-nearest Multi-agent Deep Reinforcement Learning for Collaborative Tasks with a Variable Number of Agents**|Hamed Khorasgani et.al.|[2201.07092v1](http://arxiv.org/abs/2201.07092v1)|null|
+|**2022-01-18**|**Inducing Structure in Reward Learning by Learning Features**|Andreea Bobu et.al.|[2201.07082v1](http://arxiv.org/abs/2201.07082v1)|null|
+|**2022-01-18**|**Differentially Private Reinforcement Learning with Linear Function Approximation**|Xingyu Zhou et.al.|[2201.07052v1](http://arxiv.org/abs/2201.07052v1)|null|
+|**2022-01-18**|**Accelerating Representation Learning with View-Consistent Dynamics in Data-Efficient Reinforcement Learning**|Tao Huang et.al.|[2201.07016v1](http://arxiv.org/abs/2201.07016v1)|null|
+|**2022-01-18**|**Using Reinforcement Learning for Load Testing of Video Games**|Rosalia Tufano et.al.|[2201.06865v1](http://arxiv.org/abs/2201.06865v1)|null|
+|**2022-01-18**|**Programmatic Policy Extraction by Iterative Local Search**|Rasmus Larsen et.al.|[2201.06863v1](http://arxiv.org/abs/2201.06863v1)|null|
+|**2022-01-18**|**Toward Self-Learning End-to-End Dialog Systems**|Xiaoying Zhang et.al.|[2201.06849v1](http://arxiv.org/abs/2201.06849v1)|null|
+|**2022-01-18**|**Ray Based Distributed Autonomous Vehicle Research Platform**|Derek Xu et.al.|[2201.06835v1](http://arxiv.org/abs/2201.06835v1)|null|
+|**2022-01-18**|**A sojourn-based approach to semi-Markov Reinforcement Learning**|Giacomo Ascione et.al.|[2201.06827v1](http://arxiv.org/abs/2201.06827v1)|null|
 |**2022-01-14**|**Smart Magnetic Microrobots Learn to Swim with Deep Reinforcement Learning**|Michael R. Behrens et.al.|[2201.05599v1](http://arxiv.org/abs/2201.05599v1)|**[link](https://github.com/synthetic-automated-systems/ruder_mbot_rl)**|
 |**2022-01-14**|**Reinforcement Learning in Time-Varying Systems: an Empirical Study**|Pouya Hamadanian et.al.|[2201.05560v1](http://arxiv.org/abs/2201.05560v1)|null|
 |**2022-01-14**|**Reinforcement Learning based Air Combat Maneuver Generation**|Muhammed Murat Ozbek et.al.|[2201.05528v1](http://arxiv.org/abs/2201.05528v1)|null|
@@ -583,6 +593,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-18**|**Incompleteness of graph convolutional neural networks for points clouds in three dimensions**|Sergey N. Pozdnyakov et.al.|[2201.07136v1](http://arxiv.org/abs/2201.07136v1)|null|
+|**2022-01-18**|**Deep Graph Convolutional Network and LSTM based approach for predicting drug-target binding affinity**|Shrimon Mukherjee et.al.|[2201.06872v1](http://arxiv.org/abs/2201.06872v1)|**[link](https://github.com/mllab4cs/deepglstm)**|
+|**2022-01-18**|**High-Level Synthesis Performance Prediction using GNNs: Benchmarking, Modeling, and Advancing**|Nan Wu et.al.|[2201.06848v1](http://arxiv.org/abs/2201.06848v1)|null|
+|**2022-01-17**|**Longitudinal Spin Transfer to $Λ$ Hyperons in CLAS12**|Matthew McEneaney et.al.|[2201.06480v1](http://arxiv.org/abs/2201.06480v1)|null|
+|**2022-01-17**|**Towards Unsupervised Deep Graph Structure Learning**|Yixin Liu et.al.|[2201.06367v1](http://arxiv.org/abs/2201.06367v1)|**[link](https://github.com/grand-lab/sublime)**|
+|**2022-01-17**|**Neighboring Backdoor Attacks on Graph Convolutional Network**|Liang Chen et.al.|[2201.06202v1](http://arxiv.org/abs/2201.06202v1)|null|
+|**2022-01-16**|**Doing More with Less: Overcoming Data Scarcity for POI Recommendation via Cross-Region Transfer**|Vinayak Gupta et.al.|[2201.06095v1](http://arxiv.org/abs/2201.06095v1)|null|
+|**2022-01-15**|**Edge-based Tensor prediction via graph neural networks**|Yang Zhong et.al.|[2201.05770v1](http://arxiv.org/abs/2201.05770v1)|null|
+|**2022-01-15**|**Real-World Graph Convolution Networks (RW-GCNs) for Action Recognition in Smart Video Surveillance**|Justin Sanchez et.al.|[2201.05739v1](http://arxiv.org/abs/2201.05739v1)|null|
+|**2022-01-15**|**Learning Hierarchical Graph Representation for Image Manipulation Detection**|Wenyan Pan et.al.|[2201.05730v1](http://arxiv.org/abs/2201.05730v1)|null|
 |**2022-01-14**|**Compact Graph Structure Learning via Mutual Information Compression**|Nian Liu et.al.|[2201.05540v1](http://arxiv.org/abs/2201.05540v1)|**[link](https://github.com/liun-online/cogsl)**|
 |**2022-01-14**|**Collaborative learning of images and geometrics for predicting isocitrate dehydrogenase status of glioma**|Yiran Wei et.al.|[2201.05530v1](http://arxiv.org/abs/2201.05530v1)|null|
 |**2022-01-14**|**Training Free Graph Neural Networks for Graph Matching**|Zhiyuan Liu et.al.|[2201.05349v1](http://arxiv.org/abs/2201.05349v1)|**[link](https://github.com/acharkq/training-free-graph-matching)**|
