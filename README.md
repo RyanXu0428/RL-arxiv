@@ -94,7 +94,7 @@
 |**2022-01-18**|**Inducing Structure in Reward Learning by Learning Features**|Andreea Bobu et.al.|[2201.07082v1](http://arxiv.org/abs/2201.07082v1)|**[link](https://github.com/andreea7b/FERL)**|
 |**2022-01-18**|**Differentially Private Reinforcement Learning with Linear Function Approximation**|Xingyu Zhou et.al.|[2201.07052v1](http://arxiv.org/abs/2201.07052v1)|null|
 |**2022-01-18**|**Accelerating Representation Learning with View-Consistent Dynamics in Data-Efficient Reinforcement Learning**|Tao Huang et.al.|[2201.07016v1](http://arxiv.org/abs/2201.07016v1)|null|
-|**2022-01-18**|**Using Reinforcement Learning for Load Testing of Video Games**|Rosalia Tufano et.al.|[2201.06865v1](http://arxiv.org/abs/2201.06865v1)|null|
+|**2022-01-18**|**Using Reinforcement Learning for Load Testing of Video Games**|Rosalia Tufano et.al.|[2201.06865v1](http://arxiv.org/abs/2201.06865v1)|**[link](https://github.com/rosaliatufano/rlgameauthors)**|
 |**2022-01-18**|**Programmatic Policy Extraction by Iterative Local Search**|Rasmus Larsen et.al.|[2201.06863v1](http://arxiv.org/abs/2201.06863v1)|null|
 |**2022-01-18**|**Toward Self-Learning End-to-End Dialog Systems**|Xiaoying Zhang et.al.|[2201.06849v1](http://arxiv.org/abs/2201.06849v1)|null|
 |**2022-01-18**|**Ray Based Distributed Autonomous Vehicle Research Platform**|Derek Xu et.al.|[2201.06835v1](http://arxiv.org/abs/2201.06835v1)|null|
