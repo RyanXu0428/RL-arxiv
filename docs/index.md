@@ -93,6 +93,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-19**|**Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation**|Rishabh Jangir et.al.|[2201.07779v1](http://arxiv.org/abs/2201.07779v1)|null|
+|**2022-01-19**|**Anytime Optimal PSRO for Two-Player Zero-Sum Games**|Stephen McAleer et.al.|[2201.07700v1](http://arxiv.org/abs/2201.07700v1)|null|
+|**2022-01-18**|**Enabling Deep Reinforcement Learning on Energy Constrained Devices at the Edge of the Network**|Jernej Hribar et.al.|[2201.07308v1](http://arxiv.org/abs/2201.07308v1)|null|
+|**2022-01-18**|**Conservative Distributional Reinforcement Learning with Safety Constraints**|Hengrui Zhang et.al.|[2201.07286v1](http://arxiv.org/abs/2201.07286v1)|null|
 |**2022-01-18**|**Synthesizing explainable counterfactual policies for algorithmic recourse with program synthesis**|Giovanni De Toni et.al.|[2201.07135v1](http://arxiv.org/abs/2201.07135v1)|null|
 |**2022-01-18**|**K-nearest Multi-agent Deep Reinforcement Learning for Collaborative Tasks with a Variable Number of Agents**|Hamed Khorasgani et.al.|[2201.07092v1](http://arxiv.org/abs/2201.07092v1)|null|
 |**2022-01-18**|**Inducing Structure in Reward Learning by Learning Features**|Andreea Bobu et.al.|[2201.07082v1](http://arxiv.org/abs/2201.07082v1)|**[link](https://github.com/andreea7b/FERL)**|
@@ -597,6 +601,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-19**|**A Full $w$CDM Analysis of KiDS-1000 Weak Lensing Maps using Deep Learning**|Janis Fluri et.al.|[2201.07771v1](http://arxiv.org/abs/2201.07771v1)|null|
+|**2022-01-19**|**Debiased Graph Neural Networks with Agnostic Label Selection Bias**|Shaohua Fan et.al.|[2201.07708v1](http://arxiv.org/abs/2201.07708v1)|null|
+|**2022-01-19**|**GNN-based Android Malware Detection with Jumping Knowledge**|Wai Weng Lo et.al.|[2201.07537v1](http://arxiv.org/abs/2201.07537v1)|null|
 |**2022-01-18**|**Incompleteness of graph convolutional neural networks for points clouds in three dimensions**|Sergey N. Pozdnyakov et.al.|[2201.07136v1](http://arxiv.org/abs/2201.07136v1)|null|
 |**2022-01-18**|**Deep Graph Convolutional Network and LSTM based approach for predicting drug-target binding affinity**|Shrimon Mukherjee et.al.|[2201.06872v1](http://arxiv.org/abs/2201.06872v1)|**[link](https://github.com/mllab4cs/deepglstm)**|
 |**2022-01-18**|**High-Level Synthesis Performance Prediction using GNNs: Benchmarking, Modeling, and Advancing**|Nan Wu et.al.|[2201.06848v1](http://arxiv.org/abs/2201.06848v1)|null|
