@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-20**|**Sim-to-Lab-to-Real: Safe Reinforcement Learning with Shielding and Generalization Guarantees**|Kai-Chieh Hsu et.al.|[2201.08355v1](http://arxiv.org/abs/2201.08355v1)|null|
+|**2022-01-20**|**From Psychological Curiosity to Artificial Curiosity: Curiosity-Driven Learning in Artificial Intelligence Tasks**|Chenyu Sun et.al.|[2201.08300v1](http://arxiv.org/abs/2201.08300v1)|null|
+|**2022-01-20**|**Goal-Conditioned Reinforcement Learning: Problems and Solutions**|Minghuan Liu et.al.|[2201.08299v1](http://arxiv.org/abs/2201.08299v1)|null|
+|**2022-01-20**|**Multi-agent Covering Option Discovery based on Kronecker Product of Factor Graphs**|Jiayu Chen et.al.|[2201.08227v1](http://arxiv.org/abs/2201.08227v1)|null|
+|**2022-01-20**|**Enhancement or Super-Resolution: Learning-based Adaptive Video Streaming with Client-Side Video Processing**|Junyan Yang et.al.|[2201.08197v1](http://arxiv.org/abs/2201.08197v1)|null|
+|**2022-01-20**|**Self-Awareness Safety of Deep Reinforcement Learning in Road Traffic Junction Driving**|Zehong Cao et.al.|[2201.08116v1](http://arxiv.org/abs/2201.08116v1)|null|
+|**2022-01-20**|**Priors, Hierarchy, and Information Asymmetry for Skill Transfer in Reinforcement Learning**|Sasha Salter et.al.|[2201.08115v1](http://arxiv.org/abs/2201.08115v1)|null|
+|**2022-01-20**|**Safety-AwareMulti-Agent Apprenticeship Learning**|Junchen Zhao et.al.|[2201.08111v1](http://arxiv.org/abs/2201.08111v1)|null|
+|**2022-01-20**|**Safe Deep RL in 3D Environments using Human Feedback**|Matthew Rahtz et.al.|[2201.08102v1](http://arxiv.org/abs/2201.08102v1)|null|
+|**2022-01-20**|**Two-Sample Testing in Reinforcement Learning**|Martin Waltz et.al.|[2201.08078v1](http://arxiv.org/abs/2201.08078v1)|null|
 |**2022-01-19**|**Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation**|Rishabh Jangir et.al.|[2201.07779v2](http://arxiv.org/abs/2201.07779v2)|null|
 |**2022-01-19**|**Anytime Optimal PSRO for Two-Player Zero-Sum Games**|Stephen McAleer et.al.|[2201.07700v1](http://arxiv.org/abs/2201.07700v1)|null|
 |**2022-01-18**|**Enabling Deep Reinforcement Learning on Energy Constrained Devices at the Edge of the Network**|Jernej Hribar et.al.|[2201.07308v1](http://arxiv.org/abs/2201.07308v1)|null|
@@ -597,6 +607,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-20**|**Informative Pseudo-Labeling for Graph Neural Networks with Few Labels**|Yayong Li et.al.|[2201.07951v1](http://arxiv.org/abs/2201.07951v1)|null|
+|**2022-01-20**|**GASCN: Graph Attention Shape Completion Network**|Haojie Huang et.al.|[2201.07937v1](http://arxiv.org/abs/2201.07937v1)|null|
+|**2022-01-19**|**Decoupling the Depth and Scope of Graph Neural Networks**|Hanqing Zeng et.al.|[2201.07858v1](http://arxiv.org/abs/2201.07858v1)|**[link](https://github.com/facebookresearch/shaDow_GNN)**|
+|**2022-01-19**|**Cognitive Explainers of Graph Neural Networks Based on Medical Concepts**|Yingni Wang et.al.|[2201.07798v1](http://arxiv.org/abs/2201.07798v1)|null|
 |**2022-01-19**|**A Full $w$CDM Analysis of KiDS-1000 Weak Lensing Maps using Deep Learning**|Janis Fluri et.al.|[2201.07771v1](http://arxiv.org/abs/2201.07771v1)|null|
 |**2022-01-19**|**Debiased Graph Neural Networks with Agnostic Label Selection Bias**|Shaohua Fan et.al.|[2201.07708v1](http://arxiv.org/abs/2201.07708v1)|null|
 |**2022-01-19**|**Graph Neural Network-based Android Malware Classification with Jumping Knowledge**|Wai Weng Lo et.al.|[2201.07537v2](http://arxiv.org/abs/2201.07537v2)|null|
