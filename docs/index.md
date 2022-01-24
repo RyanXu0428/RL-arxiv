@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-21**|**Occupancy Information Ratio: Infinite-Horizon, Information-Directed, Parameterized Policy Search**|Wesley A. Suttle et.al.|[2201.08832v1](http://arxiv.org/abs/2201.08832v1)|null|
+|**2022-01-21**|**Clipped DeepControl: deep neural network two-dimensional pulse design with an amplitude constraint layer**|Mads Sloth Vinding et.al.|[2201.08668v1](http://arxiv.org/abs/2201.08668v1)|null|
+|**2022-01-21**|**Deep Q-learning: a robust control approach**|Balázs Varga et.al.|[2201.08610v1](http://arxiv.org/abs/2201.08610v1)|null|
+|**2022-01-21**|**Instance-Dependent Confidence and Early Stopping for Reinforcement Learning**|Koulik Khamaru et.al.|[2201.08536v1](http://arxiv.org/abs/2201.08536v1)|null|
+|**2022-01-21**|**Learning Two-Step Hybrid Policy for Graph-Based Interpretable Reinforcement Learning**|Tongzhou Mu et.al.|[2201.08520v1](http://arxiv.org/abs/2201.08520v1)|null|
+|**2022-01-21**|**Optimal variance-reduced stochastic approximation in Banach spaces**|Wenlong Mou et.al.|[2201.08518v1](http://arxiv.org/abs/2201.08518v1)|null|
+|**2022-01-21**|**Deep reinforcement learning under signal temporal logic constraints using Lagrangian relaxation**|Junya Ikemoto et.al.|[2201.08504v1](http://arxiv.org/abs/2201.08504v1)|null|
+|**2022-01-20**|**Iterated Reasoning with Mutual Information in Cooperative and Byzantine Decentralized Teaming**|Sachin Konan et.al.|[2201.08484v1](http://arxiv.org/abs/2201.08484v1)|null|
+|**2022-01-20**|**A Prescriptive Dirichlet Power Allocation Policy with Deep Reinforcement Learning**|Yuan Tian et.al.|[2201.08445v1](http://arxiv.org/abs/2201.08445v1)|null|
+|**2022-01-20**|**DROPO: Sim-to-Real Transfer with Offline Domain Randomization**|Gabriele Tiboni et.al.|[2201.08434v1](http://arxiv.org/abs/2201.08434v1)|**[link](https://github.com/gabrieletiboni/dropo)**|
 |**2022-01-20**|**Sim-to-Lab-to-Real: Safe Reinforcement Learning with Shielding and Generalization Guarantees**|Kai-Chieh Hsu et.al.|[2201.08355v1](http://arxiv.org/abs/2201.08355v1)|null|
 |**2022-01-20**|**From Psychological Curiosity to Artificial Curiosity: Curiosity-Driven Learning in Artificial Intelligence Tasks**|Chenyu Sun et.al.|[2201.08300v1](http://arxiv.org/abs/2201.08300v1)|null|
 |**2022-01-20**|**Goal-Conditioned Reinforcement Learning: Problems and Solutions**|Minghuan Liu et.al.|[2201.08299v1](http://arxiv.org/abs/2201.08299v1)|null|
@@ -611,6 +621,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-21**|**Representing Long-Range Context for Graph Neural Networks with Global Attention**|Zhanghao Wu et.al.|[2201.08821v1](http://arxiv.org/abs/2201.08821v1)|**[link](https://github.com/ucbrise/graphtrans)**|
+|**2022-01-21**|**Deconfounding to Explanation Evaluation in Graph Neural Networks**|Ying-Xin et.al.|[2201.08802v1](http://arxiv.org/abs/2201.08802v1)|null|
+|**2022-01-21**|**Robust Unsupervised Graph Representation Learning via Mutual Information Maximization**|Jihong Wang et.al.|[2201.08557v1](http://arxiv.org/abs/2201.08557v1)|null|
+|**2022-01-21**|**Fair Node Representation Learning via Adaptive Data Augmentation**|O. Deniz Kose et.al.|[2201.08549v1](http://arxiv.org/abs/2201.08549v1)|null|
+|**2022-01-20**|**GenGNN: A Generic FPGA Framework for Graph Neural Network Acceleration**|Stefan Abi-Karam et.al.|[2201.08475v1](http://arxiv.org/abs/2201.08475v1)|**[link](https://github.com/sharc-lab/gengnn)**|
+|**2022-01-20**|**Hybrid Graph Models for Logic Optimization via Spatio-Temporal Information**|Nan Wu et.al.|[2201.08455v1](http://arxiv.org/abs/2201.08455v1)|null|
 |**2022-01-20**|**Informative Pseudo-Labeling for Graph Neural Networks with Few Labels**|Yayong Li et.al.|[2201.07951v1](http://arxiv.org/abs/2201.07951v1)|null|
 |**2022-01-20**|**GASCN: Graph Attention Shape Completion Network**|Haojie Huang et.al.|[2201.07937v1](http://arxiv.org/abs/2201.07937v1)|null|
 |**2022-01-19**|**Decoupling the Depth and Scope of Graph Neural Networks**|Hanqing Zeng et.al.|[2201.07858v1](http://arxiv.org/abs/2201.07858v1)|**[link](https://github.com/facebookresearch/shaDow_GNN)**|
