@@ -97,7 +97,7 @@
 |**2022-01-20**|**Self-Awareness Safety of Deep Reinforcement Learning in Road Traffic Junction Driving**|Zehong Cao et.al.|[2201.08116v1](http://arxiv.org/abs/2201.08116v1)|null|
 |**2022-01-20**|**Priors, Hierarchy, and Information Asymmetry for Skill Transfer in Reinforcement Learning**|Sasha Salter et.al.|[2201.08115v1](http://arxiv.org/abs/2201.08115v1)|null|
 |**2022-01-20**|**Safety-AwareMulti-Agent Apprenticeship Learning**|Junchen Zhao et.al.|[2201.08111v1](http://arxiv.org/abs/2201.08111v1)|null|
-|**2022-01-20**|**Safe Deep RL in 3D Environments using Human Feedback**|Matthew Rahtz et.al.|[2201.08102v1](http://arxiv.org/abs/2201.08102v1)|null|
+|**2022-01-20**|**Safe Deep RL in 3D Environments using Human Feedback**|Matthew Rahtz et.al.|[2201.08102v2](http://arxiv.org/abs/2201.08102v2)|null|
 |**2022-01-20**|**Two-Sample Testing in Reinforcement Learning**|Martin Waltz et.al.|[2201.08078v1](http://arxiv.org/abs/2201.08078v1)|null|
 |**2022-01-19**|**Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation**|Rishabh Jangir et.al.|[2201.07779v2](http://arxiv.org/abs/2201.07779v2)|null|
 |**2022-01-19**|**Anytime Optimal PSRO for Two-Player Zero-Sum Games**|Stephen McAleer et.al.|[2201.07700v1](http://arxiv.org/abs/2201.07700v1)|null|
