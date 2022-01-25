@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-24**|**Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots**|Jagdeep Singh Bhatia et.al.|[2201.09863v1](http://arxiv.org/abs/2201.09863v1)|null|
+|**2022-01-24**|**Graph Reinforcement Learning for Wireless Control Systems: Large-Scale Resource Allocation over Interference Channels**|Vinicius Lima et.al.|[2201.09859v1](http://arxiv.org/abs/2201.09859v1)|null|
+|**2022-01-24**|**TOPS: Transition-based VOlatility-controlled Policy Search and its Global Convergence**|Liangliang Xu et.al.|[2201.09857v1](http://arxiv.org/abs/2201.09857v1)|null|
+|**2022-01-24**|**Deep Reinforcement Learning for Random Access in Machine-Type Communication**|Muhammad Awais Jadoon et.al.|[2201.09841v1](http://arxiv.org/abs/2201.09841v1)|null|
+|**2022-01-24**|**Cache Allocation in Multi-Tenant Edge Computing via online Reinforcement Learning**|Ayoub Ben-Ameur et.al.|[2201.09833v1](http://arxiv.org/abs/2201.09833v1)|null|
+|**2022-01-24**|**Constrained Policy Optimization via Bayesian World Models**|Yarden As et.al.|[2201.09802v1](http://arxiv.org/abs/2201.09802v1)|null|
+|**2022-01-24**|**Generative Planning for Temporally Coordinated Exploration in Reinforcement Learning**|Haichao Zhang et.al.|[2201.09765v1](http://arxiv.org/abs/2201.09765v1)|null|
+|**2022-01-24**|**Optimizing Tandem Speaker Verification and Anti-Spoofing Systems**|Anssi Kanervisto et.al.|[2201.09709v1](http://arxiv.org/abs/2201.09709v1)|null|
+|**2022-01-24**|**The Paradox of Choice: Using Attention in Hierarchical Reinforcement Learning**|Andrei Nica et.al.|[2201.09653v1](http://arxiv.org/abs/2201.09653v1)|**[link](https://github.com/andreicnica/hrl_attention)**|
+|**2022-01-24**|**Multiscale Generative Models: Improving Performance of a Generative Model Using Feedback from Other Dependent Generative Models**|Changyu Chen et.al.|[2201.09644v1](http://arxiv.org/abs/2201.09644v1)|**[link](https://github.com/cameron-chen/mgm)**|
 |**2022-01-21**|**Occupancy Information Ratio: Infinite-Horizon, Information-Directed, Parameterized Policy Search**|Wesley A. Suttle et.al.|[2201.08832v1](http://arxiv.org/abs/2201.08832v1)|null|
 |**2022-01-21**|**Clipped DeepControl: deep neural network two-dimensional pulse design with an amplitude constraint layer**|Mads Sloth Vinding et.al.|[2201.08668v1](http://arxiv.org/abs/2201.08668v1)|null|
 |**2022-01-21**|**Deep Q-learning: a robust control approach**|Balázs Varga et.al.|[2201.08610v1](http://arxiv.org/abs/2201.08610v1)|null|
@@ -617,6 +627,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-24**|**On Evaluation Metrics for Graph Generative Models**|Rylee Thompson et.al.|[2201.09871v1](http://arxiv.org/abs/2201.09871v1)|**[link](https://github.com/uoguelph-mlrg/ggm-metrics)**|
+|**2022-01-24**|**Graph Reinforcement Learning for Wireless Control Systems: Large-Scale Resource Allocation over Interference Channels**|Vinicius Lima et.al.|[2201.09859v1](http://arxiv.org/abs/2201.09859v1)|null|
+|**2022-01-24**|**Neural Architecture Searching for Facial Attributes-based Depression Recognition**|Mingzhe Chen et.al.|[2201.09799v1](http://arxiv.org/abs/2201.09799v1)|null|
+|**2022-01-24**|**Graph Neural Diffusion Networks for Semi-supervised Learning**|Wei Ye et.al.|[2201.09698v1](http://arxiv.org/abs/2201.09698v1)|null|
+|**2022-01-24**|**DrugOOD: Out-of-Distribution (OOD) Dataset Curator and Benchmark for AI-aided Drug Discovery -- A Focus on Affinity Prediction Problems with Noise Annotations**|Yuanfeng Ji et.al.|[2201.09637v1](http://arxiv.org/abs/2201.09637v1)|null|
+|**2022-01-23**|**Towards Private Learning on Decentralized Graphs with Local Differential Privacy**|Wanyu Lin et.al.|[2201.09398v1](http://arxiv.org/abs/2201.09398v1)|null|
+|**2022-01-23**|**Partition-Based Active Learning for Graph Neural Networks**|Jiaqi Ma et.al.|[2201.09391v1](http://arxiv.org/abs/2201.09391v1)|null|
+|**2022-01-23**|**Investigating Expressiveness of Transformer in Spectral Domain for Graphs**|Anson Bastos et.al.|[2201.09332v1](http://arxiv.org/abs/2201.09332v1)|null|
+|**2022-01-23**|**Hardware/Software Co-Programmable Framework for Computational SSDs to Accelerate Deep Learning Service on Large-Scale Graphs**|Miryeong Kwon et.al.|[2201.09189v1](http://arxiv.org/abs/2201.09189v1)|null|
+|**2022-01-22**|**Predicting Physics in Mesh-reduced Space with Temporal Attention**|Xu Han et.al.|[2201.09113v1](http://arxiv.org/abs/2201.09113v1)|null|
 |**2022-01-21**|**Representing Long-Range Context for Graph Neural Networks with Global Attention**|Zhanghao Wu et.al.|[2201.08821v1](http://arxiv.org/abs/2201.08821v1)|**[link](https://github.com/ucbrise/graphtrans)**|
 |**2022-01-21**|**Deconfounding to Explanation Evaluation in Graph Neural Networks**|Ying-Xin et.al.|[2201.08802v1](http://arxiv.org/abs/2201.08802v1)|null|
 |**2022-01-21**|**Robust Unsupervised Graph Representation Learning via Mutual Information Maximization**|Jihong Wang et.al.|[2201.08557v1](http://arxiv.org/abs/2201.08557v1)|null|
