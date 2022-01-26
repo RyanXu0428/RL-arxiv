@@ -89,6 +89,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-25**|**What's Wrong with Deep Learning in Tree Search for Combinatorial Optimization**|Maximilian Böther et.al.|[2201.10494v1](http://arxiv.org/abs/2201.10494v1)|null|
+|**2022-01-25**|**The First AI4TSP Competition: Learning to Solve Stochastic Routing Problems**|Laurens Bliek et.al.|[2201.10453v1](http://arxiv.org/abs/2201.10453v1)|null|
+|**2022-01-25**|**Differentially Private Temporal Difference Learning with Stochastic Nonconvex-Strongly-Concave Optimization**|Canzhe Zhao et.al.|[2201.10447v1](http://arxiv.org/abs/2201.10447v1)|null|
+|**2022-01-25**|**Reinforcement Learning-Based Deadline and Battery-Aware Offloading in Smart Farm IoT-UAV Networks**|Anne Catherine Nguyen et.al.|[2201.10361v1](http://arxiv.org/abs/2201.10361v1)|null|
+|**2022-01-25**|**Latency Fairness Optimization on Wireless Networks through Deep Reinforcement Learning**|M. López-Sánchez et.al.|[2201.10281v1](http://arxiv.org/abs/2201.10281v1)|null|
+|**2022-01-25**|**Using Deep Reinforcement Learning for Zero Defect Smart Forging**|Yunpeng Ma et.al.|[2201.10268v1](http://arxiv.org/abs/2201.10268v1)|null|
+|**2022-01-25**|**MOORe: Model-based Offline-to-Online Reinforcement Learning**|Yihuan Mao et.al.|[2201.10070v1](http://arxiv.org/abs/2201.10070v1)|null|
+|**2022-01-25**|**Migration of self-propelling agent in a turbulent environment with minimal energy consumption**|Ao Xu et.al.|[2201.10041v1](http://arxiv.org/abs/2201.10041v1)|null|
+|**2022-01-25**|**PONI: Potential Functions for ObjectGoal Navigation with Interaction-free Learning**|Santhosh Kumar Ramakrishnan et.al.|[2201.10029v1](http://arxiv.org/abs/2201.10029v1)|null|
 |**2022-01-24**|**Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots**|Jagdeep Singh Bhatia et.al.|[2201.09863v1](http://arxiv.org/abs/2201.09863v1)|null|
 |**2022-01-24**|**Graph Reinforcement Learning for Wireless Control Systems: Large-Scale Resource Allocation over Interference Channels**|Vinicius Lima et.al.|[2201.09859v1](http://arxiv.org/abs/2201.09859v1)|null|
 |**2022-01-24**|**TOPS: Transition-based VOlatility-controlled Policy Search and its Global Convergence**|Liangliang Xu et.al.|[2201.09857v1](http://arxiv.org/abs/2201.09857v1)|null|
@@ -627,6 +636,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-25**|**What's Wrong with Deep Learning in Tree Search for Combinatorial Optimization**|Maximilian Böther et.al.|[2201.10494v1](http://arxiv.org/abs/2201.10494v1)|null|
+|**2022-01-25**|**Main Product Detection with Graph Networks for Fashion**|Vacit Oguz Yazici et.al.|[2201.10431v1](http://arxiv.org/abs/2201.10431v1)|null|
+|**2022-01-25**|**Towards Cross-Disaster Building Damage Assessment with Graph Convolutional Networks**|Ali Ismail et.al.|[2201.10395v1](http://arxiv.org/abs/2201.10395v1)|**[link](https://gitlab.com/awadailab/sage-project)**|
+|**2022-01-25**|**BLDNet: A Semi-supervised Change Detection Building Damage Framework using Graph Convolutional Networks and Urban Domain Knowledge**|Ali Ismail et.al.|[2201.10389v1](http://arxiv.org/abs/2201.10389v1)|**[link](https://gitlab.com/awadailab/gcn-remote-sensing)**|
+|**2022-01-25**|**Modeling Multi-level Context for Informational Bias Detection by Contrastive Learning and Sentential Graph Network**|Shijia Guo et.al.|[2201.10376v1](http://arxiv.org/abs/2201.10376v1)|null|
+|**2022-01-25**|**Unboxing the graph: Neural Relational Inference for Mobility Prediction**|Mathias Niemann Tygesen et.al.|[2201.10307v1](http://arxiv.org/abs/2201.10307v1)|null|
+|**2022-01-25**|**Multi-channel Attentive Graph Convolutional Network With Sentiment Fusion For Multimodal Sentiment Analysis**|Luwei Xiao et.al.|[2201.10274v1](http://arxiv.org/abs/2201.10274v1)|null|
+|**2022-01-25**|**Convergence of Invariant Graph Networks**|Chen Cai et.al.|[2201.10129v1](http://arxiv.org/abs/2201.10129v1)|null|
+|**2022-01-25**|**PowerGear: Early-Stage Power Estimation in FPGA HLS via Heterogeneous Edge-Centric GNNs**|Zhe Lin et.al.|[2201.10114v1](http://arxiv.org/abs/2201.10114v1)|null|
+|**2022-01-25**|**LP-UIT: A Multimodal Framework for Link Prediction in Social Networks**|Huizi Wu et.al.|[2201.10108v1](http://arxiv.org/abs/2201.10108v1)|null|
 |**2022-01-24**|**On Evaluation Metrics for Graph Generative Models**|Rylee Thompson et.al.|[2201.09871v1](http://arxiv.org/abs/2201.09871v1)|**[link](https://github.com/uoguelph-mlrg/ggm-metrics)**|
 |**2022-01-24**|**Graph Reinforcement Learning for Wireless Control Systems: Large-Scale Resource Allocation over Interference Channels**|Vinicius Lima et.al.|[2201.09859v1](http://arxiv.org/abs/2201.09859v1)|null|
 |**2022-01-24**|**Neural Architecture Searching for Facial Attributes-based Depression Recognition**|Mingzhe Chen et.al.|[2201.09799v1](http://arxiv.org/abs/2201.09799v1)|null|
