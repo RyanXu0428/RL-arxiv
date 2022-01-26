@@ -94,7 +94,7 @@
 |**2022-01-24**|**TOPS: Transition-based VOlatility-controlled Policy Search and its Global Convergence**|Liangliang Xu et.al.|[2201.09857v1](http://arxiv.org/abs/2201.09857v1)|null|
 |**2022-01-24**|**Deep Reinforcement Learning for Random Access in Machine-Type Communication**|Muhammad Awais Jadoon et.al.|[2201.09841v1](http://arxiv.org/abs/2201.09841v1)|null|
 |**2022-01-24**|**Cache Allocation in Multi-Tenant Edge Computing via online Reinforcement Learning**|Ayoub Ben-Ameur et.al.|[2201.09833v1](http://arxiv.org/abs/2201.09833v1)|null|
-|**2022-01-24**|**Constrained Policy Optimization via Bayesian World Models**|Yarden As et.al.|[2201.09802v1](http://arxiv.org/abs/2201.09802v1)|null|
+|**2022-01-24**|**Constrained Policy Optimization via Bayesian World Models**|Yarden As et.al.|[2201.09802v2](http://arxiv.org/abs/2201.09802v2)|null|
 |**2022-01-24**|**Generative Planning for Temporally Coordinated Exploration in Reinforcement Learning**|Haichao Zhang et.al.|[2201.09765v1](http://arxiv.org/abs/2201.09765v1)|null|
 |**2022-01-24**|**Optimizing Tandem Speaker Verification and Anti-Spoofing Systems**|Anssi Kanervisto et.al.|[2201.09709v1](http://arxiv.org/abs/2201.09709v1)|null|
 |**2022-01-24**|**The Paradox of Choice: Using Attention in Hierarchical Reinforcement Learning**|Andrei Nica et.al.|[2201.09653v1](http://arxiv.org/abs/2201.09653v1)|**[link](https://github.com/andreicnica/hrl_attention)**|
