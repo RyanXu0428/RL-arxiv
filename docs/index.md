@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.01.26
+## Updated on 2022.01.27
 
 ## SLAM
 
@@ -94,7 +94,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-01-25**|**What's Wrong with Deep Learning in Tree Search for Combinatorial Optimization**|Maximilian Böther et.al.|[2201.10494v1](http://arxiv.org/abs/2201.10494v1)|**[link](https://github.com/maxiboether/mis-benchmark-framework)**|
-|**2022-01-25**|**The First AI4TSP Competition: Learning to Solve Stochastic Routing Problems**|Laurens Bliek et.al.|[2201.10453v1](http://arxiv.org/abs/2201.10453v1)|null|
+|**2022-01-25**|**The First AI4TSP Competition: Learning to Solve Stochastic Routing Problems**|Laurens Bliek et.al.|[2201.10453v1](http://arxiv.org/abs/2201.10453v1)|**[link](https://github.com/paulorocosta/ai-for-tsp-competition)**|
 |**2022-01-25**|**Differentially Private Temporal Difference Learning with Stochastic Nonconvex-Strongly-Concave Optimization**|Canzhe Zhao et.al.|[2201.10447v1](http://arxiv.org/abs/2201.10447v1)|null|
 |**2022-01-25**|**Reinforcement Learning-Based Deadline and Battery-Aware Offloading in Smart Farm IoT-UAV Networks**|Anne Catherine Nguyen et.al.|[2201.10361v1](http://arxiv.org/abs/2201.10361v1)|null|
 |**2022-01-25**|**Latency Fairness Optimization on Wireless Networks through Deep Reinforcement Learning**|M. López-Sánchez et.al.|[2201.10281v1](http://arxiv.org/abs/2201.10281v1)|null|
