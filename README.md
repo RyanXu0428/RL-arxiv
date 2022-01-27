@@ -89,6 +89,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-26**|**Exploiting Semantic Epsilon Greedy Exploration Strategy in Multi-Agent Reinforcement Learning**|Hon Tik Tse et.al.|[2201.10803v1](http://arxiv.org/abs/2201.10803v1)|null|
 |**2022-01-25**|**What's Wrong with Deep Learning in Tree Search for Combinatorial Optimization**|Maximilian Böther et.al.|[2201.10494v1](http://arxiv.org/abs/2201.10494v1)|**[link](https://github.com/maxiboether/mis-benchmark-framework)**|
 |**2022-01-25**|**The First AI4TSP Competition: Learning to Solve Stochastic Routing Problems**|Laurens Bliek et.al.|[2201.10453v1](http://arxiv.org/abs/2201.10453v1)|**[link](https://github.com/paulorocosta/ai-for-tsp-competition)**|
 |**2022-01-25**|**Differentially Private Temporal Difference Learning with Stochastic Nonconvex-Strongly-Concave Optimization**|Canzhe Zhao et.al.|[2201.10447v1](http://arxiv.org/abs/2201.10447v1)|null|
@@ -636,6 +637,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-26**|**Graph Neural Networks with Dynamic and Static Representations for Social Recommendation**|Junfa Lin et.al.|[2201.10751v1](http://arxiv.org/abs/2201.10751v1)|null|
 |**2022-01-25**|**What's Wrong with Deep Learning in Tree Search for Combinatorial Optimization**|Maximilian Böther et.al.|[2201.10494v1](http://arxiv.org/abs/2201.10494v1)|**[link](https://github.com/maxiboether/mis-benchmark-framework)**|
 |**2022-01-25**|**Main Product Detection with Graph Networks for Fashion**|Vacit Oguz Yazici et.al.|[2201.10431v1](http://arxiv.org/abs/2201.10431v1)|null|
 |**2022-01-25**|**Towards Cross-Disaster Building Damage Assessment with Graph Convolutional Networks**|Ali Ismail et.al.|[2201.10395v1](http://arxiv.org/abs/2201.10395v1)|**[link](https://gitlab.com/awadailab/sage-project)**|
