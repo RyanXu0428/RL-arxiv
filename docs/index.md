@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-27**|**Reinforced Cooperative Load Balancing in Data Center**|Zhiyuan Yao et.al.|[2201.11727v1](http://arxiv.org/abs/2201.11727v1)|null|
+|**2022-01-27**|**Generative Adversarial Exploration for Reinforcement Learning**|Weijun Hong et.al.|[2201.11685v1](http://arxiv.org/abs/2201.11685v1)|null|
+|**2022-01-27**|**Stability and evolution of synonyms and homonyms in signaling game**|Dorota Lipowski et.al.|[2201.11680v1](http://arxiv.org/abs/2201.11680v1)|null|
+|**2022-01-27**|**Quantile-Based Policy Optimization for Reinforcement Learning**|Jinyang Jiang et.al.|[2201.11463v1](http://arxiv.org/abs/2201.11463v1)|null|
+|**2022-01-27**|**Human-centered mechanism design with Democratic AI**|Raphael Koster et.al.|[2201.11441v1](http://arxiv.org/abs/2201.11441v1)|null|
+|**2022-01-27**|**Reinforcement Learning-Empowered Mobile Edge Computing for 6G Edge Intelligence**|Peng Wei et.al.|[2201.11410v1](http://arxiv.org/abs/2201.11410v1)|null|
+|**2022-01-27**|**Network Slicing with MEC and Deep Reinforcement Learning for the Internet of Vehicles**|Zoubeir Mlika et.al.|[2201.11295v1](http://arxiv.org/abs/2201.11295v1)|null|
+|**2022-01-27**|**Excavation Reinforcement Learning Using Geometric Representation**|Qingkai Lu et.al.|[2201.11292v1](http://arxiv.org/abs/2201.11292v1)|null|
+|**2022-01-27**|**Network slicing for vehicular communications: a multi-agent deep reinforcement learning approach**|Zoubeir Mlika et.al.|[2201.11281v1](http://arxiv.org/abs/2201.11281v1)|null|
+|**2022-01-26**|**Reward-Free RL is No Harder Than Reward-Aware RL in Linear Markov Decision Processes**|Andrew Wagenmaker et.al.|[2201.11206v1](http://arxiv.org/abs/2201.11206v1)|null|
 |**2022-01-26**|**Exploiting Semantic Epsilon Greedy Exploration Strategy in Multi-Agent Reinforcement Learning**|Hon Tik Tse et.al.|[2201.10803v2](http://arxiv.org/abs/2201.10803v2)|null|
 |**2022-01-25**|**What's Wrong with Deep Learning in Tree Search for Combinatorial Optimization**|Maximilian Böther et.al.|[2201.10494v1](http://arxiv.org/abs/2201.10494v1)|**[link](https://github.com/maxiboether/mis-benchmark-framework)**|
 |**2022-01-25**|**The First AI4TSP Competition: Learning to Solve Stochastic Routing Problems**|Laurens Bliek et.al.|[2201.10453v1](http://arxiv.org/abs/2201.10453v1)|**[link](https://github.com/paulorocosta/ai-for-tsp-competition)**|
@@ -641,6 +651,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-27**|**Algorithm Selection for Software Verification using Graph Attention Networks**|Will Leeson et.al.|[2201.11711v1](http://arxiv.org/abs/2201.11711v1)|null|
+|**2022-01-27**|**FairMod: Fair Link Prediction and Recommendation via Graph Modification**|Sean Current et.al.|[2201.11596v1](http://arxiv.org/abs/2201.11596v1)|null|
+|**2022-01-27**|**Density-Aware Hyper-Graph Neural Networks for Graph-based Semi-supervised Node Classification**|Jianpeng Liao et.al.|[2201.11511v1](http://arxiv.org/abs/2201.11511v1)|null|
+|**2022-01-27**|**Confidence May Cheat: Self-Training on Graph Neural Networks under Distribution Shift**|Hongrui Liu et.al.|[2201.11349v1](http://arxiv.org/abs/2201.11349v1)|null|
+|**2022-01-27**|**A Higher-Order Semantic Dependency Parser**|Bin Li et.al.|[2201.11312v1](http://arxiv.org/abs/2201.11312v1)|**[link](https://github.com/libinnlp/hosdp)**|
 |**2022-01-26**|**Graph Neural Networks with Dynamic and Static Representations for Social Recommendation**|Junfa Lin et.al.|[2201.10751v1](http://arxiv.org/abs/2201.10751v1)|null|
 |**2022-01-25**|**What's Wrong with Deep Learning in Tree Search for Combinatorial Optimization**|Maximilian Böther et.al.|[2201.10494v1](http://arxiv.org/abs/2201.10494v1)|**[link](https://github.com/maxiboether/mis-benchmark-framework)**|
 |**2022-01-25**|**Main Product Detection with Graph Networks for Fashion**|Vacit Oguz Yazici et.al.|[2201.10431v1](http://arxiv.org/abs/2201.10431v1)|null|
