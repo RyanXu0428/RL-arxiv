@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-28**|**On the Hidden Biases of Policy Mirror Ascent in Continuous Action Spaces**|Amrit Singh Bedi et.al.|[2201.12332v1](http://arxiv.org/abs/2201.12332v1)|null|
+|**2022-01-28**|**Generative Cooperative Networks for Natural Language Generation**|Sylvain Lamprier et.al.|[2201.12320v1](http://arxiv.org/abs/2201.12320v1)|null|
+|**2022-01-28**|**Efficient Embedding of Semantic Similarity in Control Policies via Entangled Bisimulation**|Martin Bertran et.al.|[2201.12300v1](http://arxiv.org/abs/2201.12300v1)|null|
+|**2022-01-28**|**Joint Differentiable Optimization and Verification for Certified Reinforcement Learning**|Yixuan Wang et.al.|[2201.12243v1](http://arxiv.org/abs/2201.12243v1)|null|
+|**2022-01-28**|**Overcoming Exploration: Deep Reinforcement Learning in Complex Environments from Temporal Logic Specifications**|Mingyu Cai et.al.|[2201.12231v1](http://arxiv.org/abs/2201.12231v1)|null|
+|**2022-01-28**|**Leveraging class abstraction for commonsense reinforcement learning via residual policy gradient methods**|Niklas Höpner et.al.|[2201.12126v1](http://arxiv.org/abs/2201.12126v1)|null|
+|**2022-01-28**|**Can Wikipedia Help Offline Reinforcement Learning?**|Machel Reid et.al.|[2201.12122v1](http://arxiv.org/abs/2201.12122v1)|null|
+|**2022-01-28**|**Mask-based Latent Reconstruction for Reinforcement Learning**|Tao Yu et.al.|[2201.12096v1](http://arxiv.org/abs/2201.12096v1)|null|
+|**2022-01-28**|**FCMNet: Full Communication Memory Net]{FCMNet: Full Communication Memory Net for Team-Level Cooperation in Multi-Agent Systems**|Yutong Wang et.al.|[2201.11994v1](http://arxiv.org/abs/2201.11994v1)|null|
+|**2022-01-28**|**Provably Efficient Primal-Dual Reinforcement Learning for CMDPs with Non-stationary Objectives and Constraints**|Yuhao Ding et.al.|[2201.11965v1](http://arxiv.org/abs/2201.11965v1)|null|
 |**2022-01-27**|**Reinforced Cooperative Load Balancing in Data Center**|Zhiyuan Yao et.al.|[2201.11727v1](http://arxiv.org/abs/2201.11727v1)|null|
 |**2022-01-27**|**Generative Adversarial Exploration for Reinforcement Learning**|Weijun Hong et.al.|[2201.11685v1](http://arxiv.org/abs/2201.11685v1)|null|
 |**2022-01-27**|**Stability and evolution of synonyms and homonyms in signaling game**|Dorota Lipowski et.al.|[2201.11680v1](http://arxiv.org/abs/2201.11680v1)|null|
@@ -651,6 +661,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-28**|**RiskNet: Neural Risk Assessment in Networks of Unreliable Resources**|Krzysztof Rusek et.al.|[2201.12263v1](http://arxiv.org/abs/2201.12263v1)|null|
+|**2022-01-28**|**Compositionality-Aware Graph2Seq Learning**|Takeshi D. Itoh et.al.|[2201.12178v1](http://arxiv.org/abs/2201.12178v1)|null|
+|**2022-01-28**|**Detecting Owner-member Relationship with Graph Convolution Network in Fisheye Camera System**|Zizhang Wu et.al.|[2201.12099v1](http://arxiv.org/abs/2201.12099v1)|null|
+|**2022-01-28**|**Global-Reasoned Multi-Task Learning Model for Surgical Scene Understanding**|Lalithkumar Seenivasan et.al.|[2201.11957v1](http://arxiv.org/abs/2201.11957v1)|null|
+|**2022-01-27**|**Graph-based Algorithm Unfolding for Energy-aware Power Allocation in Wireless Networks**|Boning Li et.al.|[2201.11799v1](http://arxiv.org/abs/2201.11799v1)|null|
 |**2022-01-27**|**Algorithm Selection for Software Verification using Graph Attention Networks**|Will Leeson et.al.|[2201.11711v1](http://arxiv.org/abs/2201.11711v1)|null|
 |**2022-01-27**|**FairMod: Fair Link Prediction and Recommendation via Graph Modification**|Sean Current et.al.|[2201.11596v1](http://arxiv.org/abs/2201.11596v1)|null|
 |**2022-01-27**|**Density-Aware Hyper-Graph Neural Networks for Graph-based Semi-supervised Node Classification**|Jianpeng Liao et.al.|[2201.11511v1](http://arxiv.org/abs/2201.11511v1)|null|
