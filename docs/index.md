@@ -99,7 +99,7 @@ layout: default
 |**2022-01-28**|**Joint Differentiable Optimization and Verification for Certified Reinforcement Learning**|Yixuan Wang et.al.|[2201.12243v1](http://arxiv.org/abs/2201.12243v1)|null|
 |**2022-01-28**|**Overcoming Exploration: Deep Reinforcement Learning in Complex Environments from Temporal Logic Specifications**|Mingyu Cai et.al.|[2201.12231v1](http://arxiv.org/abs/2201.12231v1)|null|
 |**2022-01-28**|**Leveraging class abstraction for commonsense reinforcement learning via residual policy gradient methods**|Niklas Höpner et.al.|[2201.12126v1](http://arxiv.org/abs/2201.12126v1)|null|
-|**2022-01-28**|**Can Wikipedia Help Offline Reinforcement Learning?**|Machel Reid et.al.|[2201.12122v1](http://arxiv.org/abs/2201.12122v1)|null|
+|**2022-01-28**|**Can Wikipedia Help Offline Reinforcement Learning?**|Machel Reid et.al.|[2201.12122v1](http://arxiv.org/abs/2201.12122v1)|**[link](https://github.com/machelreid/can-wikipedia-help-offline-rl)**|
 |**2022-01-28**|**Mask-based Latent Reconstruction for Reinforcement Learning**|Tao Yu et.al.|[2201.12096v1](http://arxiv.org/abs/2201.12096v1)|null|
 |**2022-01-28**|**FCMNet: Full Communication Memory Net]{FCMNet: Full Communication Memory Net for Team-Level Cooperation in Multi-Agent Systems**|Yutong Wang et.al.|[2201.11994v1](http://arxiv.org/abs/2201.11994v1)|null|
 |**2022-01-28**|**Provably Efficient Primal-Dual Reinforcement Learning for CMDPs with Non-stationary Objectives and Constraints**|Yuhao Ding et.al.|[2201.11965v1](http://arxiv.org/abs/2201.11965v1)|null|
@@ -662,9 +662,9 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-01-28**|**RiskNet: Neural Risk Assessment in Networks of Unreliable Resources**|Krzysztof Rusek et.al.|[2201.12263v1](http://arxiv.org/abs/2201.12263v1)|null|
-|**2022-01-28**|**Compositionality-Aware Graph2Seq Learning**|Takeshi D. Itoh et.al.|[2201.12178v1](http://arxiv.org/abs/2201.12178v1)|null|
+|**2022-01-28**|**Compositionality-Aware Graph2Seq Learning**|Takeshi D. Itoh et.al.|[2201.12178v1](http://arxiv.org/abs/2201.12178v1)|**[link](https://github.com/itakeshi/mlap-graph2seq)**|
 |**2022-01-28**|**Detecting Owner-member Relationship with Graph Convolution Network in Fisheye Camera System**|Zizhang Wu et.al.|[2201.12099v1](http://arxiv.org/abs/2201.12099v1)|null|
-|**2022-01-28**|**Global-Reasoned Multi-Task Learning Model for Surgical Scene Understanding**|Lalithkumar Seenivasan et.al.|[2201.11957v1](http://arxiv.org/abs/2201.11957v1)|null|
+|**2022-01-28**|**Global-Reasoned Multi-Task Learning Model for Surgical Scene Understanding**|Lalithkumar Seenivasan et.al.|[2201.11957v1](http://arxiv.org/abs/2201.11957v1)|**[link](https://github.com/lalithjets/global-reasoned-multi-task-model)**|
 |**2022-01-27**|**Graph-based Algorithm Unfolding for Energy-aware Power Allocation in Wireless Networks**|Boning Li et.al.|[2201.11799v1](http://arxiv.org/abs/2201.11799v1)|null|
 |**2022-01-27**|**Algorithm Selection for Software Verification using Graph Attention Networks**|Will Leeson et.al.|[2201.11711v1](http://arxiv.org/abs/2201.11711v1)|null|
 |**2022-01-27**|**FairMod: Fair Link Prediction and Recommendation via Graph Modification**|Sean Current et.al.|[2201.11596v1](http://arxiv.org/abs/2201.11596v1)|null|
