@@ -89,7 +89,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-01-28**|**On the Hidden Biases of Policy Mirror Ascent in Continuous Action Spaces**|Amrit Singh Bedi et.al.|[2201.12332v1](http://arxiv.org/abs/2201.12332v1)|null|
+|**2022-01-28**|**On the Hidden Biases of Policy Mirror Ascent in Continuous Action Spaces**|Amrit Singh Bedi et.al.|[2201.12332v2](http://arxiv.org/abs/2201.12332v2)|null|
 |**2022-01-28**|**Generative Cooperative Networks for Natural Language Generation**|Sylvain Lamprier et.al.|[2201.12320v1](http://arxiv.org/abs/2201.12320v1)|null|
 |**2022-01-28**|**Efficient Embedding of Semantic Similarity in Control Policies via Entangled Bisimulation**|Martin Bertran et.al.|[2201.12300v1](http://arxiv.org/abs/2201.12300v1)|null|
 |**2022-01-28**|**Joint Differentiable Optimization and Verification for Certified Reinforcement Learning**|Yixuan Wang et.al.|[2201.12243v1](http://arxiv.org/abs/2201.12243v1)|null|
@@ -97,7 +97,7 @@
 |**2022-01-28**|**Leveraging class abstraction for commonsense reinforcement learning via residual policy gradient methods**|Niklas Höpner et.al.|[2201.12126v1](http://arxiv.org/abs/2201.12126v1)|null|
 |**2022-01-28**|**Can Wikipedia Help Offline Reinforcement Learning?**|Machel Reid et.al.|[2201.12122v1](http://arxiv.org/abs/2201.12122v1)|**[link](https://github.com/machelreid/can-wikipedia-help-offline-rl)**|
 |**2022-01-28**|**Mask-based Latent Reconstruction for Reinforcement Learning**|Tao Yu et.al.|[2201.12096v1](http://arxiv.org/abs/2201.12096v1)|null|
-|**2022-01-28**|**FCMNet: Full Communication Memory Net]{FCMNet: Full Communication Memory Net for Team-Level Cooperation in Multi-Agent Systems**|Yutong Wang et.al.|[2201.11994v1](http://arxiv.org/abs/2201.11994v1)|null|
+|**2022-01-28**|**FCMNet: Full Communication Memory Net for Team-Level Cooperation in Multi-Agent Systems**|Yutong Wang et.al.|[2201.11994v2](http://arxiv.org/abs/2201.11994v2)|null|
 |**2022-01-28**|**Provably Efficient Primal-Dual Reinforcement Learning for CMDPs with Non-stationary Objectives and Constraints**|Yuhao Ding et.al.|[2201.11965v1](http://arxiv.org/abs/2201.11965v1)|null|
 |**2022-01-27**|**Reinforced Cooperative Load Balancing in Data Center**|Zhiyuan Yao et.al.|[2201.11727v1](http://arxiv.org/abs/2201.11727v1)|null|
 |**2022-01-27**|**Generative Adversarial Exploration for Reinforcement Learning**|Weijun Hong et.al.|[2201.11685v1](http://arxiv.org/abs/2201.11685v1)|null|
