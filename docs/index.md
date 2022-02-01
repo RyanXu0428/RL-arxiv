@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-31**|**Warmth and competence in human-agent cooperation**|Kevin R. McKee et.al.|[2201.13448v1](http://arxiv.org/abs/2201.13448v1)|null|
+|**2022-01-31**|**Don't Change the Algorithm, Change the Data: Exploratory Data for Offline Reinforcement Learning**|Denis Yarats et.al.|[2201.13425v1](http://arxiv.org/abs/2201.13425v1)|null|
+|**2022-01-31**|**Compositional Multi-Object Reinforcement Learning with Linear Relation Networks**|Davide Mambelli et.al.|[2201.13388v1](http://arxiv.org/abs/2201.13388v1)|null|
+|**2022-01-31**|**DNS: Determinantal Point Process Based Neural Network Sampler for Ensemble Reinforcement Learning**|Hassam Sheikh et.al.|[2201.13357v1](http://arxiv.org/abs/2201.13357v1)|null|
+|**2022-01-31**|**Steady-State Error Compensation in Reference Tracking and Disturbance Rejection Problems for Reinforcement Learning-Based Control**|Daniel Weber et.al.|[2201.13331v1](http://arxiv.org/abs/2201.13331v1)|null|
+|**2022-01-31**|**Leela Zero Score: a Study of a Score-based AlphaGo Zero**|Luca Pasqualini et.al.|[2201.13176v1](http://arxiv.org/abs/2201.13176v1)|null|
+|**2022-01-31**|**Near-Optimal Regret for Adversarial MDP with Delayed Bandit Feedback**|Tiancheng Jin et.al.|[2201.13172v1](http://arxiv.org/abs/2201.13172v1)|null|
+|**2022-01-31**|**Cooperative Online Learning in Stochastic and Adversarial MDPs**|Tal Lancewicki et.al.|[2201.13170v1](http://arxiv.org/abs/2201.13170v1)|null|
+|**2022-01-31**|**CoTV: Cooperative Control for Traffic Light Signals and Connected Autonomous Vehicles using Deep Reinforcement Learning**|Jiaying Guo et.al.|[2201.13143v1](http://arxiv.org/abs/2201.13143v1)|null|
+|**2022-01-31**|**Single Object Tracking: A Survey of Methods, Datasets, and Evaluation Metrics**|Zahra Soleimanitaleb et.al.|[2201.13066v1](http://arxiv.org/abs/2201.13066v1)|null|
 |**2022-01-28**|**On the Hidden Biases of Policy Mirror Ascent in Continuous Action Spaces**|Amrit Singh Bedi et.al.|[2201.12332v2](http://arxiv.org/abs/2201.12332v2)|null|
 |**2022-01-28**|**Generative Cooperative Networks for Natural Language Generation**|Sylvain Lamprier et.al.|[2201.12320v1](http://arxiv.org/abs/2201.12320v1)|null|
 |**2022-01-28**|**Efficient Embedding of Semantic Similarity in Control Policies via Entangled Bisimulation**|Martin Bertran et.al.|[2201.12300v1](http://arxiv.org/abs/2201.12300v1)|null|
@@ -661,6 +671,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-31**|**Learning Robust Representation through Graph Adversarial Contrastive Learning**|Jiayan Guo et.al.|[2201.13025v1](http://arxiv.org/abs/2201.13025v1)|null|
+|**2022-01-31**|**GSN: A Universal Graph Neural Network Inspired by Spring Network**|Guanyu Cui et.al.|[2201.12994v1](http://arxiv.org/abs/2201.12994v1)|null|
+|**2022-01-30**|**A Theoretical Comparison of Graph Neural Network Extensions**|Pál András Papp et.al.|[2201.12884v1](http://arxiv.org/abs/2201.12884v1)|null|
+|**2022-01-30**|**DeepCatra: Learning Flow- and Graph-based Behaviors for Android Malware Detection**|Yafei Wu et.al.|[2201.12876v1](http://arxiv.org/abs/2201.12876v1)|null|
+|**2022-01-30**|**Discovering Invariant Rationales for Graph Neural Networks**|Ying-Xin Wu et.al.|[2201.12872v1](http://arxiv.org/abs/2201.12872v1)|**[link](https://github.com/wuyxin/dir-gnn)**|
+|**2022-01-30**|**On Recoverability of Graph Neural Network Representations**|Maxim Fishman et.al.|[2201.12843v1](http://arxiv.org/abs/2201.12843v1)|**[link](https://github.com/anonymous1252022/recoverability)**|
+|**2022-01-30**|**Over-smoothing Effect of Graph Convolutional Networks**|Fang Sun et.al.|[2201.12830v1](http://arxiv.org/abs/2201.12830v1)|null|
+|**2022-01-30**|**Graph Convolution-Based Deep Reinforcement Learning for Multi-Agent Decision-Making in Mixed Traffic Environments**|Qi Liu et.al.|[2201.12776v1](http://arxiv.org/abs/2201.12776v1)|**[link](https://github.com/jacklinkk/torchgrl)**|
+|**2022-01-30**|**GARNET: Reduced-Rank Topology Learning for Robust and Scalable Graph Neural Networks**|Chenhui Deng et.al.|[2201.12741v1](http://arxiv.org/abs/2201.12741v1)|null|
+|**2022-01-29**|**Rewiring with Positional Encodings for Graph Neural Networks**|Rickard Brüel-Gabrielsson et.al.|[2201.12674v1](http://arxiv.org/abs/2201.12674v1)|null|
 |**2022-01-28**|**RiskNet: Neural Risk Assessment in Networks of Unreliable Resources**|Krzysztof Rusek et.al.|[2201.12263v1](http://arxiv.org/abs/2201.12263v1)|null|
 |**2022-01-28**|**Compositionality-Aware Graph2Seq Learning**|Takeshi D. Itoh et.al.|[2201.12178v1](http://arxiv.org/abs/2201.12178v1)|**[link](https://github.com/itakeshi/mlap-graph2seq)**|
 |**2022-01-28**|**Detecting Owner-member Relationship with Graph Convolution Network in Fisheye Camera System**|Zizhang Wu et.al.|[2201.12099v1](http://arxiv.org/abs/2201.12099v1)|null|
