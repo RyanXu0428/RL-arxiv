@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-01**|**Tutorial on amortized optimization for learning to optimize over continuous domains**|Brandon Amos et.al.|[2202.00665v1](http://arxiv.org/abs/2202.00665v1)|**[link](https://github.com/facebookresearch/amortized-optimization-tutorial)**|
+|**2022-02-01**|**Scalable Fragment-Based 3D Molecular Design with Reinforcement Learning**|Daniel Flam-Shepherd et.al.|[2202.00658v1](http://arxiv.org/abs/2202.00658v1)|null|
+|**2022-02-01**|**A General, Evolution-Inspired Reward Function for Social Robotics**|Thomas Kingsford et.al.|[2202.00617v1](http://arxiv.org/abs/2202.00617v1)|**[link](https://github.com/tomkingsforduoa/social-reward-function)**|
+|**2022-02-01**|**Meta-Learning Hypothesis Spaces for Sequential Decision-making**|Parnian Kassraie et.al.|[2202.00602v1](http://arxiv.org/abs/2202.00602v1)|null|
+|**2022-02-01**|**Finding the optimal human strategy for Wordle using maximum correct letter probabilities and reinforcement learning**|Benton J. Anderson et.al.|[2202.00557v1](http://arxiv.org/abs/2202.00557v1)|null|
+|**2022-02-01**|**Planner-Reasoner Inside a Multi-task Reasoning Agent**|Daoming Lyu et.al.|[2202.00531v1](http://arxiv.org/abs/2202.00531v1)|null|
+|**2022-02-01**|**Accelerating Deep Reinforcement Learning for Digital Twin Network Optimization with Evolutionary Strategies**|Carlos Güemes-Palau et.al.|[2202.00360v1](http://arxiv.org/abs/2202.00360v1)|null|
+|**2022-02-01**|**Underwater Differential Game: Finite-Time Target Hunting Task with Communication Delay**|Wei Wei et.al.|[2202.00329v1](http://arxiv.org/abs/2202.00329v1)|null|
+|**2022-02-01**|**Sequential Search with Off-Policy Reinforcement Learning**|Dadong Miao et.al.|[2202.00245v1](http://arxiv.org/abs/2202.00245v1)|null|
+|**2022-02-01**|**DexVIP: Learning Dexterous Grasping with Human Hand Pose Priors from Video**|Priyanka Mandikal et.al.|[2202.00164v1](http://arxiv.org/abs/2202.00164v1)|null|
 |**2022-01-31**|**Warmth and competence in human-agent cooperation**|Kevin R. McKee et.al.|[2201.13448v1](http://arxiv.org/abs/2201.13448v1)|null|
 |**2022-01-31**|**Don't Change the Algorithm, Change the Data: Exploratory Data for Offline Reinforcement Learning**|Denis Yarats et.al.|[2201.13425v1](http://arxiv.org/abs/2201.13425v1)|null|
 |**2022-01-31**|**Compositional Multi-Object Reinforcement Learning with Linear Relation Networks**|Davide Mambelli et.al.|[2201.13388v1](http://arxiv.org/abs/2201.13388v1)|null|
@@ -671,6 +681,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-01**|**Molecular Graph Representation Learning via Heterogeneous Motif Graph Construction**|Zhaoning Yu et.al.|[2202.00529v1](http://arxiv.org/abs/2202.00529v1)|null|
+|**2022-02-01**|**MotifExplainer: a Motif-based Graph Neural Network Explainer**|Zhaoning Yu et.al.|[2202.00519v1](http://arxiv.org/abs/2202.00519v1)|null|
+|**2022-02-01**|**Memory-based Message Passing: Decoupling the Message for Propogation from Discrimination**|Jie Chen et.al.|[2202.00423v1](http://arxiv.org/abs/2202.00423v1)|null|
+|**2022-02-01**|**Dimensionality Reduction Meets Message Passing for Graph Node Embeddings**|Krzysztof Sadowski et.al.|[2202.00408v1](http://arxiv.org/abs/2202.00408v1)|null|
+|**2022-02-01**|**WebFormer: The Web-page Transformer for Structure Information Extraction**|Qifan Wang et.al.|[2202.00217v1](http://arxiv.org/abs/2202.00217v1)|null|
+|**2022-02-01**|**GNNRank: Learning Global Rankings from Pairwise Comparisons via Directed Graph Neural Networks**|Yixuan He et.al.|[2202.00211v1](http://arxiv.org/abs/2202.00211v1)|null|
+|**2022-01-31**|**SUGAR: Efficient Subgraph-level Training via Resource-aware Graph Partitioning**|Zihui Xue et.al.|[2202.00075v1](http://arxiv.org/abs/2202.00075v1)|null|
 |**2022-01-31**|**Learning Robust Representation through Graph Adversarial Contrastive Learning**|Jiayan Guo et.al.|[2201.13025v1](http://arxiv.org/abs/2201.13025v1)|null|
 |**2022-01-31**|**GSN: A Universal Graph Neural Network Inspired by Spring Network**|Guanyu Cui et.al.|[2201.12994v1](http://arxiv.org/abs/2201.12994v1)|null|
 |**2022-01-30**|**A Theoretical Comparison of Graph Neural Network Extensions**|Pál András Papp et.al.|[2201.12884v1](http://arxiv.org/abs/2201.12884v1)|null|
