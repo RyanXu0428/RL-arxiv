@@ -677,9 +677,9 @@ layout: default
 |**2022-01-30**|**DeepCatra: Learning Flow- and Graph-based Behaviors for Android Malware Detection**|Yafei Wu et.al.|[2201.12876v1](http://arxiv.org/abs/2201.12876v1)|null|
 |**2022-01-30**|**Discovering Invariant Rationales for Graph Neural Networks**|Ying-Xin Wu et.al.|[2201.12872v1](http://arxiv.org/abs/2201.12872v1)|**[link](https://github.com/wuyxin/dir-gnn)**|
 |**2022-01-30**|**On Recoverability of Graph Neural Network Representations**|Maxim Fishman et.al.|[2201.12843v1](http://arxiv.org/abs/2201.12843v1)|**[link](https://github.com/anonymous1252022/recoverability)**|
-|**2022-01-30**|**Over-smoothing Effect of Graph Convolutional Networks**|Fang Sun et.al.|[2201.12830v1](http://arxiv.org/abs/2201.12830v1)|null|
+|**2022-01-30**|**Over-smoothing Effect of Graph Convolutional Networks**|Fang Sun et.al.|[2201.12830v2](http://arxiv.org/abs/2201.12830v2)|null|
 |**2022-01-30**|**Graph Convolution-Based Deep Reinforcement Learning for Multi-Agent Decision-Making in Mixed Traffic Environments**|Qi Liu et.al.|[2201.12776v1](http://arxiv.org/abs/2201.12776v1)|**[link](https://github.com/jacklinkk/torchgrl)**|
-|**2022-01-30**|**GARNET: Reduced-Rank Topology Learning for Robust and Scalable Graph Neural Networks**|Chenhui Deng et.al.|[2201.12741v1](http://arxiv.org/abs/2201.12741v1)|null|
+|**2022-01-30**|**GARNET: Reduced-Rank Topology Learning for Robust and Scalable Graph Neural Networks**|Chenhui Deng et.al.|[2201.12741v2](http://arxiv.org/abs/2201.12741v2)|null|
 |**2022-01-29**|**Rewiring with Positional Encodings for Graph Neural Networks**|Rickard Brüel-Gabrielsson et.al.|[2201.12674v1](http://arxiv.org/abs/2201.12674v1)|null|
 |**2022-01-28**|**RiskNet: Neural Risk Assessment in Networks of Unreliable Resources**|Krzysztof Rusek et.al.|[2201.12263v1](http://arxiv.org/abs/2201.12263v1)|null|
 |**2022-01-28**|**Compositionality-Aware Graph2Seq Learning**|Takeshi D. Itoh et.al.|[2201.12178v1](http://arxiv.org/abs/2201.12178v1)|**[link](https://github.com/itakeshi/mlap-graph2seq)**|
