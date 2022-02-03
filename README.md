@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-02**|**Multi-armed Bandits for Link Configuration in Millimeter-wave Networks**|Yi Zhang et.al.|[2202.01196v1](http://arxiv.org/abs/2202.01196v1)|null|
+|**2022-02-02**|**Transfer in Reinforcement Learning via Regret Bounds for Learning Agents**|Adrienne Tuynman et.al.|[2202.01182v1](http://arxiv.org/abs/2202.01182v1)|null|
+|**2022-02-02**|**Federated Reinforcement Learning for Collective Navigation of Robotic Swarms**|Seongin Na et.al.|[2202.01141v1](http://arxiv.org/abs/2202.01141v1)|null|
+|**2022-02-02**|**Image-based Navigation in Real-World Environments via Multiple Mid-level Representations: Fusion Models, Benchmark and Efficient Evaluation**|Marco Rosano et.al.|[2202.01069v1](http://arxiv.org/abs/2202.01069v1)|null|
+|**2022-02-02**|**Robustness and Adaptability of Reinforcement Learning based Cooperative Autonomous Driving in Mixed-autonomy Traffic**|Rodolfo Valiente et.al.|[2202.00881v1](http://arxiv.org/abs/2202.00881v1)|null|
+|**2022-02-02**|**On the Effect of Log-Barrier Regularization in Decentralized Softmax Gradient Play in Multiagent Systems**|Runyu Zhang et.al.|[2202.00872v1](http://arxiv.org/abs/2202.00872v1)|null|
+|**2022-02-02**|**Extension -- Adaptive Sampling with Implicit Radiance Field**|Yuchi Huo et.al.|[2202.00855v1](http://arxiv.org/abs/2202.00855v1)|null|
+|**2022-02-02**|**Active Audio-Visual Separation of Dynamic Sound Sources**|Sagnik Majumder et.al.|[2202.00850v1](http://arxiv.org/abs/2202.00850v1)|null|
+|**2022-02-02**|**Optimizing Sequential Experimental Design with Deep Reinforcement Learning**|Tom Blau et.al.|[2202.00821v1](http://arxiv.org/abs/2202.00821v1)|null|
+|**2022-02-02**|**Do Differentiable Simulators Give Better Policy Gradients?**|H. J. Terry Suh et.al.|[2202.00817v1](http://arxiv.org/abs/2202.00817v1)|null|
 |**2022-02-01**|**Tutorial on amortized optimization for learning to optimize over continuous domains**|Brandon Amos et.al.|[2202.00665v1](http://arxiv.org/abs/2202.00665v1)|**[link](https://github.com/facebookresearch/amortized-optimization-tutorial)**|
 |**2022-02-01**|**Scalable Fragment-Based 3D Molecular Design with Reinforcement Learning**|Daniel Flam-Shepherd et.al.|[2202.00658v1](http://arxiv.org/abs/2202.00658v1)|null|
 |**2022-02-01**|**A General, Evolution-Inspired Reward Function for Social Robotics**|Thomas Kingsford et.al.|[2202.00617v1](http://arxiv.org/abs/2202.00617v1)|**[link](https://github.com/tomkingsforduoa/social-reward-function)**|
@@ -677,6 +687,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-02**|**Understanding Knowledge Integration in Language Models with Graph Convolutions**|Yifan Hou et.al.|[2202.00964v1](http://arxiv.org/abs/2202.00964v1)|null|
+|**2022-02-01**|**Investigating Transfer Learning in Graph Neural Networks**|Nishai Kooverjee et.al.|[2202.00740v1](http://arxiv.org/abs/2202.00740v1)|null|
 |**2022-02-01**|**Molecular Graph Representation Learning via Heterogeneous Motif Graph Construction**|Zhaoning Yu et.al.|[2202.00529v1](http://arxiv.org/abs/2202.00529v1)|null|
 |**2022-02-01**|**MotifExplainer: a Motif-based Graph Neural Network Explainer**|Zhaoning Yu et.al.|[2202.00519v1](http://arxiv.org/abs/2202.00519v1)|null|
 |**2022-02-01**|**Memory-based Message Passing: Decoupling the Message for Propogation from Discrimination**|Jie Chen et.al.|[2202.00423v1](http://arxiv.org/abs/2202.00423v1)|null|
