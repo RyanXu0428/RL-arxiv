@@ -89,6 +89,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-03**|**How to Leverage Unlabeled Data in Offline Reinforcement Learning**|Tianhe Yu et.al.|[2202.01741v1](http://arxiv.org/abs/2202.01741v1)|null|
+|**2022-02-03**|**Green Vehicle Routing Problem: State of the Art and Future Directions**|Saba Sabet et.al.|[2202.01695v1](http://arxiv.org/abs/2202.01695v1)|null|
+|**2022-02-03**|**AI-as-a-Service Toolkit for Human-Centered Intelligence in Autonomous Driving**|Valerio De Caro et.al.|[2202.01645v1](http://arxiv.org/abs/2202.01645v1)|null|
+|**2022-02-03**|**Influence-Augmented Local Simulators: A Scalable Solution for Fast Deep RL in Large Networked Systems**|Miguel Suau et.al.|[2202.01534v1](http://arxiv.org/abs/2202.01534v1)|null|
+|**2022-02-03**|**Challenging Common Assumptions in Convex Reinforcement Learning**|Mirco Mutti et.al.|[2202.01511v1](http://arxiv.org/abs/2202.01511v1)|null|
+|**2022-02-03**|**Resource Management and Security Scheme of ICPSs and IoT Based on VNE Algorithm**|Peiying Zhang et.al.|[2202.01375v1](http://arxiv.org/abs/2202.01375v1)|null|
+|**2022-02-03**|**VNE Solution for Network Differentiated QoS and Security Requirements: From the Perspective of Deep Reinforcement Learning**|Chao Wang et.al.|[2202.01362v1](http://arxiv.org/abs/2202.01362v1)|null|
+|**2022-02-02**|**Adaptive Discrete Communication Bottlenecks with Dynamic Vector Quantization**|Dianbo Liu et.al.|[2202.01334v1](http://arxiv.org/abs/2202.01334v1)|null|
+|**2022-02-02**|**Improved Regret for Differentially Private Exploration in Linear MDP**|Dung Daniel Ngo et.al.|[2202.01292v1](http://arxiv.org/abs/2202.01292v1)|null|
 |**2022-02-02**|**Multi-armed Bandits for Link Configuration in Millimeter-wave Networks**|Yi Zhang et.al.|[2202.01196v1](http://arxiv.org/abs/2202.01196v1)|null|
 |**2022-02-02**|**Transfer in Reinforcement Learning via Regret Bounds for Learning Agents**|Adrienne Tuynman et.al.|[2202.01182v1](http://arxiv.org/abs/2202.01182v1)|null|
 |**2022-02-02**|**Federated Reinforcement Learning for Collective Navigation of Robotic Swarms**|Seongin Na et.al.|[2202.01141v1](http://arxiv.org/abs/2202.01141v1)|null|
@@ -687,6 +696,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-03**|**Skeleton-Based Action Segmentation with Multi-Stage Spatial-Temporal Graph Convolutional Neural Networks**|Benjamin Filtjens et.al.|[2202.01727v1](http://arxiv.org/abs/2202.01727v1)|**[link](https://github.com/benjaminfiltjens/ms-gcn)**|
+|**2022-02-03**|**Unified theory of atom-centered representations and graph convolutional machine-learning schemes**|Jigyasa Nigam et.al.|[2202.01566v1](http://arxiv.org/abs/2202.01566v1)|null|
+|**2022-02-03**|**Learning Mechanically Driven Emergent Behavior with Message Passing Neural Networks**|Peerasait Prachaseree et.al.|[2202.01380v1](http://arxiv.org/abs/2202.01380v1)|**[link](https://github.com/pprachas/abc_dataset)**|
 |**2022-02-02**|**Understanding Knowledge Integration in Language Models with Graph Convolutions**|Yifan Hou et.al.|[2202.00964v1](http://arxiv.org/abs/2202.00964v1)|null|
 |**2022-02-01**|**Investigating Transfer Learning in Graph Neural Networks**|Nishai Kooverjee et.al.|[2202.00740v1](http://arxiv.org/abs/2202.00740v1)|null|
 |**2022-02-01**|**Molecular Graph Representation Learning via Heterogeneous Motif Graph Construction**|Zhaoning Yu et.al.|[2202.00529v1](http://arxiv.org/abs/2202.00529v1)|null|
