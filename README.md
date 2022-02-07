@@ -89,6 +89,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-04**|**Video Violence Recognition and Localization using a Semi-Supervised Hard-Attention Model**|Hamid Mohammadi et.al.|[2202.02212v1](http://arxiv.org/abs/2202.02212v1)|null|
+|**2022-02-03**|**Incorporating Distributed DRL into Storage Resource Optimization of Space-Air-Ground Integrated Wireless Communication Network**|Chao Wang et.al.|[2202.02141v1](http://arxiv.org/abs/2202.02141v1)|null|
+|**2022-02-03**|**Dynamic Virtual Network Embedding Algorithm based on Graph Convolution Neural Network and Reinforcement Learning**|Peiying Zhang et.al.|[2202.02140v1](http://arxiv.org/abs/2202.02140v1)|null|
+|**2022-02-04**|**5G Network on Wings: A Deep Reinforcement Learning Approach to UAV-based Integrated Access and Backhaul**|Hongyi Zhang et.al.|[2202.02006v1](http://arxiv.org/abs/2202.02006v1)|null|
+|**2022-02-04**|**A Reinforcement Learning Framework for PQoS in a Teleoperated Driving Scenario**|Federico Mason et.al.|[2202.01949v1](http://arxiv.org/abs/2202.01949v1)|null|
 |**2022-02-03**|**How to Leverage Unlabeled Data in Offline Reinforcement Learning**|Tianhe Yu et.al.|[2202.01741v1](http://arxiv.org/abs/2202.01741v1)|null|
 |**2022-02-03**|**Green Vehicle Routing Problem: State of the Art and Future Directions**|Saba Sabet et.al.|[2202.01695v1](http://arxiv.org/abs/2202.01695v1)|null|
 |**2022-02-03**|**AI-as-a-Service Toolkit for Human-Centered Intelligence in Autonomous Driving**|Valerio De Caro et.al.|[2202.01645v1](http://arxiv.org/abs/2202.01645v1)|null|
@@ -696,6 +701,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-04**|**Towards To-a-T Spatio-Temporal Focus for Skeleton-Based Action Recognition**|Lipeng Ke et.al.|[2202.02314v1](http://arxiv.org/abs/2202.02314v1)|null|
+|**2022-02-04**|**Graph-Coupled Oscillator Networks**|T. Konstantin Rusch et.al.|[2202.02296v1](http://arxiv.org/abs/2202.02296v1)|null|
+|**2022-02-03**|**Dynamic Virtual Network Embedding Algorithm based on Graph Convolution Neural Network and Reinforcement Learning**|Peiying Zhang et.al.|[2202.02140v1](http://arxiv.org/abs/2202.02140v1)|null|
+|**2022-02-04**|**Multi-task graph neural networks for simultaneous prediction of global and atomic properties in ferromagnetic systems**|Massimiliano Lupo Pasini et.al.|[2202.01954v1](http://arxiv.org/abs/2202.01954v1)|null|
 |**2022-02-03**|**Skeleton-Based Action Segmentation with Multi-Stage Spatial-Temporal Graph Convolutional Neural Networks**|Benjamin Filtjens et.al.|[2202.01727v1](http://arxiv.org/abs/2202.01727v1)|**[link](https://github.com/benjaminfiltjens/ms-gcn)**|
 |**2022-02-03**|**Unified theory of atom-centered representations and graph convolutional machine-learning schemes**|Jigyasa Nigam et.al.|[2202.01566v1](http://arxiv.org/abs/2202.01566v1)|null|
 |**2022-02-03**|**Learning Mechanically Driven Emergent Behavior with Message Passing Neural Networks**|Peerasait Prachaseree et.al.|[2202.01380v1](http://arxiv.org/abs/2202.01380v1)|**[link](https://github.com/pprachas/abc_dataset)**|
