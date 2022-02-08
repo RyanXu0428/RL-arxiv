@@ -96,7 +96,7 @@ layout: default
 |**2022-02-04**|**Video Violence Recognition and Localization using a Semi-Supervised Hard-Attention Model**|Hamid Mohammadi et.al.|[2202.02212v1](http://arxiv.org/abs/2202.02212v1)|null|
 |**2022-02-03**|**Incorporating Distributed DRL into Storage Resource Optimization of Space-Air-Ground Integrated Wireless Communication Network**|Chao Wang et.al.|[2202.02141v1](http://arxiv.org/abs/2202.02141v1)|null|
 |**2022-02-03**|**Dynamic Virtual Network Embedding Algorithm based on Graph Convolution Neural Network and Reinforcement Learning**|Peiying Zhang et.al.|[2202.02140v1](http://arxiv.org/abs/2202.02140v1)|null|
-|**2022-02-04**|**5G Network on Wings: A Deep Reinforcement Learning Approach to UAV-based Integrated Access and Backhaul**|Hongyi Zhang et.al.|[2202.02006v1](http://arxiv.org/abs/2202.02006v1)|null|
+|**2022-02-04**|**5G Network on Wings: A Deep Reinforcement Learning Approach to UAV-based Integrated Access and Backhaul**|Hongyi Zhang et.al.|[2202.02006v2](http://arxiv.org/abs/2202.02006v2)|null|
 |**2022-02-04**|**A Reinforcement Learning Framework for PQoS in a Teleoperated Driving Scenario**|Federico Mason et.al.|[2202.01949v1](http://arxiv.org/abs/2202.01949v1)|null|
 |**2022-02-03**|**How to Leverage Unlabeled Data in Offline Reinforcement Learning**|Tianhe Yu et.al.|[2202.01741v1](http://arxiv.org/abs/2202.01741v1)|null|
 |**2022-02-03**|**Green Vehicle Routing Problem: State of the Art and Future Directions**|Saba Sabet et.al.|[2202.01695v1](http://arxiv.org/abs/2202.01695v1)|null|
@@ -712,7 +712,7 @@ layout: default
 |**2022-02-03**|**Skeleton-Based Action Segmentation with Multi-Stage Spatial-Temporal Graph Convolutional Neural Networks**|Benjamin Filtjens et.al.|[2202.01727v1](http://arxiv.org/abs/2202.01727v1)|**[link](https://github.com/benjaminfiltjens/ms-gcn)**|
 |**2022-02-03**|**Unified theory of atom-centered representations and graph convolutional machine-learning schemes**|Jigyasa Nigam et.al.|[2202.01566v1](http://arxiv.org/abs/2202.01566v1)|null|
 |**2022-02-03**|**Learning Mechanically Driven Emergent Behavior with Message Passing Neural Networks**|Peerasait Prachaseree et.al.|[2202.01380v1](http://arxiv.org/abs/2202.01380v1)|**[link](https://github.com/pprachas/abc_dataset)**|
-|**2022-02-02**|**Understanding Knowledge Integration in Language Models with Graph Convolutions**|Yifan Hou et.al.|[2202.00964v1](http://arxiv.org/abs/2202.00964v1)|null|
+|**2022-02-02**|**Understanding Knowledge Integration in Language Models with Graph Convolutions**|Yifan Hou et.al.|[2202.00964v2](http://arxiv.org/abs/2202.00964v2)|null|
 |**2022-02-01**|**Investigating Transfer Learning in Graph Neural Networks**|Nishai Kooverjee et.al.|[2202.00740v1](http://arxiv.org/abs/2202.00740v1)|null|
 |**2022-02-01**|**Molecular Graph Representation Learning via Heterogeneous Motif Graph Construction**|Zhaoning Yu et.al.|[2202.00529v1](http://arxiv.org/abs/2202.00529v1)|null|
 |**2022-02-01**|**MotifExplainer: a Motif-based Graph Neural Network Explainer**|Zhaoning Yu et.al.|[2202.00519v1](http://arxiv.org/abs/2202.00519v1)|null|
