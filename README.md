@@ -89,7 +89,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-02-07**|**GMC -- Geometric Multimodal Contrastive Representation Learning**|Petra Poklukar et.al.|[2202.03390v1](http://arxiv.org/abs/2202.03390v1)|null|
+|**2022-02-07**|**GMC -- Geometric Multimodal Contrastive Representation Learning**|Petra Poklukar et.al.|[2202.03390v2](http://arxiv.org/abs/2202.03390v2)|null|
 |**2022-02-07**|**Policy Optimization for Stochastic Shortest Path**|Liyu Chen et.al.|[2202.03334v1](http://arxiv.org/abs/2202.03334v1)|null|
 |**2022-02-07**|**Red Teaming Language Models with Language Models**|Ethan Perez et.al.|[2202.03286v1](http://arxiv.org/abs/2202.03286v1)|null|
 |**2022-02-07**|**Theory-inspired Parameter Control Benchmarks for Dynamic Algorithm Configuration**|André Biedenkapp et.al.|[2202.03259v1](http://arxiv.org/abs/2202.03259v1)|**[link](https://github.com/caroladoerr/leadingonedac)**|
@@ -97,7 +97,7 @@
 |**2022-02-07**|**Model-Based Offline Meta-Reinforcement Learning with Regularization**|Sen Lin et.al.|[2202.02929v1](http://arxiv.org/abs/2202.02929v1)|null|
 |**2022-02-07**|**Reinforcement Learning for Shared Autonomy Drone Landings**|Kal Backman et.al.|[2202.02927v1](http://arxiv.org/abs/2202.02927v1)|null|
 |**2022-02-07**|**3TO: THz-Enabled Throughput and Trajectory Optimization of UAVs in 6G Networks by Proximal Policy Optimization Deep Reinforcement Learning**|Sheikh Salman Hassan et.al.|[2202.02924v1](http://arxiv.org/abs/2202.02924v1)|null|
-|**2022-02-07**|**Soft Actor-Critic with Inhibitory Networks for Faster Retraining**|Jaime S. Ide et.al.|[2202.02918v1](http://arxiv.org/abs/2202.02918v1)|null|
+|**2022-02-07**|**Soft Actor-Critic with Inhibitory Networks for Faster Retraining**|Jaime S. Ide et.al.|[2202.02918v2](http://arxiv.org/abs/2202.02918v2)|null|
 |**2022-02-06**|**Leveraging Approximate Symbolic Models for Reinforcement Learning via Skill Diversity**|Lin Guan et.al.|[2202.02886v1](http://arxiv.org/abs/2202.02886v1)|null|
 |**2022-02-04**|**Video Violence Recognition and Localization using a Semi-Supervised Hard-Attention Model**|Hamid Mohammadi et.al.|[2202.02212v1](http://arxiv.org/abs/2202.02212v1)|null|
 |**2022-02-03**|**Incorporating Distributed DRL into Storage Resource Optimization of Space-Air-Ground Integrated Wireless Communication Network**|Chao Wang et.al.|[2202.02141v1](http://arxiv.org/abs/2202.02141v1)|null|
@@ -713,7 +713,7 @@
 |---|---|---|---|---|
 |**2022-02-07**|**PopNet: Real-Time Population-Level Disease Prediction with Data Latency**|Junyi Gao et.al.|[2202.03415v1](http://arxiv.org/abs/2202.03415v1)|null|
 |**2022-02-07**|**Neighbor2Seq: Deep Learning on Massive Graphs by Transforming Neighbors to Sequences**|Meng Liu et.al.|[2202.03341v1](http://arxiv.org/abs/2202.03341v1)|**[link](https://github.com/divelab/neighbor2seq)**|
-|**2022-02-07**|**A Variational Edge Partition Model for Supervised Graph Representation Learning**|Yilin He et.al.|[2202.03233v1](http://arxiv.org/abs/2202.03233v1)|null|
+|**2022-02-07**|**A Variational Edge Partition Model for Supervised Graph Representation Learning**|Yilin He et.al.|[2202.03233v2](http://arxiv.org/abs/2202.03233v2)|null|
 |**2022-02-07**|**Neural Models for Output-Space Invariance in Combinatorial Problems**|Yatin Nandwani et.al.|[2202.03229v1](http://arxiv.org/abs/2202.03229v1)|null|
 |**2022-02-07**|**PSSNet: Planarity-sensible Semantic Segmentation of Large-scale Urban Meshes**|Weixiao Gao et.al.|[2202.03209v1](http://arxiv.org/abs/2202.03209v1)|null|
 |**2022-02-07**|**More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks**|Jing Xu et.al.|[2202.03195v1](http://arxiv.org/abs/2202.03195v1)|null|
