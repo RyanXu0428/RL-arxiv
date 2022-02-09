@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-08**|**Wi-Fi Rate Adaptation using a Simple Deep Reinforcement Learning Approach**|Ruben Queiros et.al.|[2202.03997v1](http://arxiv.org/abs/2202.03997v1)|null|
+|**2022-02-08**|**Provable Reinforcement Learning with a Short-Term Memory**|Yonathan Efroni et.al.|[2202.03983v1](http://arxiv.org/abs/2202.03983v1)|null|
+|**2022-02-08**|**Bingham Policy Parameterization for 3D Rotations in Reinforcement Learning**|Stephen James et.al.|[2202.03957v1](http://arxiv.org/abs/2202.03957v1)|null|
+|**2022-02-08**|**skrl: Modular and Flexible Library for Reinforcement Learning**|Antonio Serrano-Muñoz et.al.|[2202.03825v1](http://arxiv.org/abs/2202.03825v1)|**[link](https://github.com/toni-sm/skrl)**|
+|**2022-02-08**|**Energy Management Based on Multi-Agent Deep Reinforcement Learning for A Multi-Energy Industrial Park**|Dafeng Zhu et.al.|[2202.03771v1](http://arxiv.org/abs/2202.03771v1)|null|
+|**2022-02-08**|**Approximating Gradients for Differentiable Quality Diversity in Reinforcement Learning**|Bryon Tjanaka et.al.|[2202.03666v1](http://arxiv.org/abs/2202.03666v1)|**[link](https://github.com/icaros-usc/dqd-rl)**|
+|**2022-02-08**|**Multi-Agent Path Finding with Prioritized Communication Learning**|Wenhao Li et.al.|[2202.03634v1](http://arxiv.org/abs/2202.03634v1)|null|
+|**2022-02-08**|**Backdoor Detection in Reinforcement Learning**|Junfeng Guo et.al.|[2202.03609v1](http://arxiv.org/abs/2202.03609v1)|null|
+|**2022-02-08**|**Local Explanations for Reinforcement Learning**|Ronny Luss et.al.|[2202.03597v1](http://arxiv.org/abs/2202.03597v1)|null|
+|**2022-02-07**|**Evaluating Robustness of Cooperative MARL: A Model-based Approach**|Nhan H. Pham et.al.|[2202.03558v1](http://arxiv.org/abs/2202.03558v1)|null|
 |**2022-02-07**|**GMC -- Geometric Multimodal Contrastive Representation Learning**|Petra Poklukar et.al.|[2202.03390v2](http://arxiv.org/abs/2202.03390v2)|null|
 |**2022-02-07**|**Policy Optimization for Stochastic Shortest Path**|Liyu Chen et.al.|[2202.03334v1](http://arxiv.org/abs/2202.03334v1)|null|
 |**2022-02-07**|**Red Teaming Language Models with Language Models**|Ethan Perez et.al.|[2202.03286v1](http://arxiv.org/abs/2202.03286v1)|null|
@@ -715,7 +725,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-02-07**|**PopNet: Real-Time Population-Level Disease Prediction with Data Latency**|Junyi Gao et.al.|[2202.03415v1](http://arxiv.org/abs/2202.03415v1)|null|
+|**2022-02-08**|**Ada-NETS: Face Clustering via Adaptive Neighbour Discovery in the Structure Space**|Yaohua Wang et.al.|[2202.03800v1](http://arxiv.org/abs/2202.03800v1)|null|
+|**2022-02-07**|**PopNet: Real-Time Population-Level Disease Prediction with Data Latency**|Junyi Gao et.al.|[2202.03415v1](http://arxiv.org/abs/2202.03415v1)|**[link](https://github.com/v1xerunt/popnet)**|
 |**2022-02-07**|**Neighbor2Seq: Deep Learning on Massive Graphs by Transforming Neighbors to Sequences**|Meng Liu et.al.|[2202.03341v1](http://arxiv.org/abs/2202.03341v1)|**[link](https://github.com/divelab/neighbor2seq)**|
 |**2022-02-07**|**A Variational Edge Partition Model for Supervised Graph Representation Learning**|Yilin He et.al.|[2202.03233v2](http://arxiv.org/abs/2202.03233v2)|null|
 |**2022-02-07**|**Neural Models for Output-Space Invariance in Combinatorial Problems**|Yatin Nandwani et.al.|[2202.03229v1](http://arxiv.org/abs/2202.03229v1)|null|
