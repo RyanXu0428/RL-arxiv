@@ -726,7 +726,7 @@
 |**2022-02-07**|**Neighbor2Seq: Deep Learning on Massive Graphs by Transforming Neighbors to Sequences**|Meng Liu et.al.|[2202.03341v1](http://arxiv.org/abs/2202.03341v1)|**[link](https://github.com/divelab/neighbor2seq)**|
 |**2022-02-07**|**A Variational Edge Partition Model for Supervised Graph Representation Learning**|Yilin He et.al.|[2202.03233v2](http://arxiv.org/abs/2202.03233v2)|null|
 |**2022-02-07**|**Neural Models for Output-Space Invariance in Combinatorial Problems**|Yatin Nandwani et.al.|[2202.03229v1](http://arxiv.org/abs/2202.03229v1)|null|
-|**2022-02-07**|**PSSNet: Planarity-sensible Semantic Segmentation of Large-scale Urban Meshes**|Weixiao Gao et.al.|[2202.03209v1](http://arxiv.org/abs/2202.03209v1)|null|
+|**2022-02-07**|**PSSNet: Planarity-sensible Semantic Segmentation of Large-scale Urban Meshes**|Weixiao Gao et.al.|[2202.03209v2](http://arxiv.org/abs/2202.03209v2)|null|
 |**2022-02-07**|**More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks**|Jing Xu et.al.|[2202.03195v1](http://arxiv.org/abs/2202.03195v1)|null|
 |**2022-02-07**|**SimGRACE: A Simple Framework for Graph Contrastive Learning without Data Augmentation**|Jun Xia et.al.|[2202.03104v1](http://arxiv.org/abs/2202.03104v1)|null|
 |**2022-02-07**|**Structure-Aware Transformer for Graph Representation Learning**|Dexiong Chen et.al.|[2202.03036v1](http://arxiv.org/abs/2202.03036v1)|null|
