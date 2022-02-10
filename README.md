@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-09**|**Offline Reinforcement Learning with Realizability and Single-policy Concentrability**|Wenhao Zhan et.al.|[2202.04634v1](http://arxiv.org/abs/2202.04634v1)|null|
+|**2022-02-09**|**Reinforcement Learning with Sparse Rewards using Guidance from Offline Demonstration**|Desik Rengarajan et.al.|[2202.04628v1](http://arxiv.org/abs/2202.04628v1)|**[link](https://github.com/desikrengarajan/logo)**|
+|**2022-02-09**|**Soft Robots Learn to Crawl: Jointly Optimizing Design and Control with Sim-to-Real Transfer**|Charles Schaff et.al.|[2202.04575v1](http://arxiv.org/abs/2202.04575v1)|null|
+|**2022-02-09**|**Contextualize Me -- The Case for Context in Reinforcement Learning**|Carolin Benjamins et.al.|[2202.04500v1](http://arxiv.org/abs/2202.04500v1)|null|
+|**2022-02-09**|**Rethinking Goal-conditioned Supervised Learning and Its Connection to Offline RL**|Rui Yang et.al.|[2202.04478v1](http://arxiv.org/abs/2202.04478v1)|**[link](https://github.com/yangrui2015/awgcsl)**|
+|**2022-02-09**|**A Reinforcement Learning Approach to Domain-Knowledge Inclusion Using Grammar Guided Symbolic Regression**|Laure Crochepierre et.al.|[2202.04367v1](http://arxiv.org/abs/2202.04367v1)|null|
+|**2022-02-09**|**Scenario-Assisted Deep Reinforcement Learning**|Raz Yerushalmi et.al.|[2202.04337v1](http://arxiv.org/abs/2202.04337v1)|null|
+|**2022-02-09**|**Can Open Domain Question Answering Systems Answer Visual Knowledge Questions?**|Jiawen Zhang et.al.|[2202.04306v1](http://arxiv.org/abs/2202.04306v1)|null|
+|**2022-02-09**|**Intelligent Autonomous Intersection Management**|Udesh Gunarathna et.al.|[2202.04224v1](http://arxiv.org/abs/2202.04224v1)|null|
+|**2022-02-08**|**Independent Policy Gradient for Large-Scale Markov Potential Games: Sharper Rates, Function Approximation, and Game-Agnostic Convergence**|Dongsheng Ding et.al.|[2202.04129v1](http://arxiv.org/abs/2202.04129v1)|null|
 |**2022-02-08**|**Wi-Fi Rate Adaptation using a Simple Deep Reinforcement Learning Approach**|Ruben Queiros et.al.|[2202.03997v1](http://arxiv.org/abs/2202.03997v1)|null|
 |**2022-02-08**|**Provable Reinforcement Learning with a Short-Term Memory**|Yonathan Efroni et.al.|[2202.03983v1](http://arxiv.org/abs/2202.03983v1)|null|
 |**2022-02-08**|**Bingham Policy Parameterization for 3D Rotations in Reinforcement Learning**|Stephen James et.al.|[2202.03957v1](http://arxiv.org/abs/2202.03957v1)|null|
@@ -721,6 +731,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-09**|**Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs**|Cristian Bodnar et.al.|[2202.04579v1](http://arxiv.org/abs/2202.04579v1)|null|
+|**2022-02-09**|**A Multimodal Canonical-Correlated Graph Neural Network for Energy-Efficient Speech Enhancement**|Leandro Aparecido Passos et.al.|[2202.04528v1](http://arxiv.org/abs/2202.04528v1)|null|
+|**2022-02-09**|**CRAT-Pred: Vehicle Trajectory Prediction with Crystal Graph Convolutional Neural Networks and Multi-Head Self-Attention**|Julian Schmidt et.al.|[2202.04488v1](http://arxiv.org/abs/2202.04488v1)|**[link](https://github.com/schmidt-ju/crat-pred)**|
+|**2022-02-08**|**FMP: Toward Fair Graph Message Passing against Topology Bias**|Zhimeng Jiang et.al.|[2202.04187v1](http://arxiv.org/abs/2202.04187v1)|null|
+|**2022-02-08**|**Simplified Graph Convolution with Heterophily**|Sudhanshu Chanpuriya et.al.|[2202.04139v1](http://arxiv.org/abs/2202.04139v1)|null|
+|**2022-02-08**|**Joint-bone Fusion Graph Convolutional Network for Semi-supervised Skeleton Action Recognition**|Zhigang Tu et.al.|[2202.04075v1](http://arxiv.org/abs/2202.04075v1)|null|
 |**2022-02-08**|**Ada-NETS: Face Clustering via Adaptive Neighbour Discovery in the Structure Space**|Yaohua Wang et.al.|[2202.03800v1](http://arxiv.org/abs/2202.03800v1)|null|
 |**2022-02-07**|**PopNet: Real-Time Population-Level Disease Prediction with Data Latency**|Junyi Gao et.al.|[2202.03415v1](http://arxiv.org/abs/2202.03415v1)|**[link](https://github.com/v1xerunt/popnet)**|
 |**2022-02-07**|**Neighbor2Seq: Deep Learning on Massive Graphs by Transforming Neighbors to Sequences**|Meng Liu et.al.|[2202.03341v1](http://arxiv.org/abs/2202.03341v1)|**[link](https://github.com/divelab/neighbor2seq)**|
