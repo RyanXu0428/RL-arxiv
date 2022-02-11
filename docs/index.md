@@ -737,7 +737,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-02-09**|**Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs**|Cristian Bodnar et.al.|[2202.04579v1](http://arxiv.org/abs/2202.04579v1)|null|
 |**2022-02-09**|**A Multimodal Canonical-Correlated Graph Neural Network for Energy-Efficient Speech Enhancement**|Leandro Aparecido Passos et.al.|[2202.04528v1](http://arxiv.org/abs/2202.04528v1)|null|
-|**2022-02-09**|**CRAT-Pred: Vehicle Trajectory Prediction with Crystal Graph Convolutional Neural Networks and Multi-Head Self-Attention**|Julian Schmidt et.al.|[2202.04488v1](http://arxiv.org/abs/2202.04488v1)|**[link](https://github.com/schmidt-ju/crat-pred)**|
+|**2022-02-09**|**CRAT-Pred: Vehicle Trajectory Prediction with Crystal Graph Convolutional Neural Networks and Multi-Head Self-Attention**|Julian Schmidt et.al.|[2202.04488v2](http://arxiv.org/abs/2202.04488v2)|**[link](https://github.com/schmidt-ju/crat-pred)**|
 |**2022-02-08**|**FMP: Toward Fair Graph Message Passing against Topology Bias**|Zhimeng Jiang et.al.|[2202.04187v1](http://arxiv.org/abs/2202.04187v1)|null|
 |**2022-02-08**|**Simplified Graph Convolution with Heterophily**|Sudhanshu Chanpuriya et.al.|[2202.04139v1](http://arxiv.org/abs/2202.04139v1)|null|
 |**2022-02-08**|**Joint-bone Fusion Graph Convolutional Network for Semi-supervised Skeleton Action Recognition**|Zhigang Tu et.al.|[2202.04075v1](http://arxiv.org/abs/2202.04075v1)|null|
