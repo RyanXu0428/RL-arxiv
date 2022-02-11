@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-10**|**Uncovering Instabilities in Variational-Quantum Deep Q-Networks**|Maja Franz et.al.|[2202.05195v1](http://arxiv.org/abs/2202.05195v1)|**[link](https://github.com/lfd/quantum-rl)**|
+|**2022-02-10**|**DDA3C: Cooperative Distributed Deep Reinforcement Learning in A Group-Agent System**|Kaiyue Wu et.al.|[2202.05135v1](http://arxiv.org/abs/2202.05135v1)|null|
+|**2022-02-10**|**AI-based Robust Resource Allocation in End-to-End Network Slicing under Demand and CSI Uncertainties**|Amir Gharehgoli et.al.|[2202.05131v1](http://arxiv.org/abs/2202.05131v1)|null|
+|**2022-02-10**|**Reinforcement Learning in the Wild: Scalable RL Dispatching Algorithm Deployed in Ridehailing Marketplace**|Soheil Sadeghi Eshkevari et.al.|[2202.05118v1](http://arxiv.org/abs/2202.05118v1)|null|
+|**2022-02-10**|**EvoJAX: Hardware-Accelerated Neuroevolution**|Yujin Tang et.al.|[2202.05008v1](http://arxiv.org/abs/2202.05008v1)|**[link](https://github.com/google/evojax)**|
+|**2022-02-10**|**Off-Policy Fitted Q-Evaluation with Differentiable Function Approximators: Z-Estimation and Inference Theory**|Ruiqi Zhang et.al.|[2202.04970v1](http://arxiv.org/abs/2202.04970v1)|null|
+|**2022-02-10**|**Interpretable pipelines with evolutionarily optimized modules for RL tasks with visual inputs**|Leonardo Lucio Custode et.al.|[2202.04943v1](http://arxiv.org/abs/2202.04943v1)|null|
+|**2022-02-10**|**Understanding Value Decomposition Algorithms in Deep Cooperative Multi-Agent Reinforcement Learning**|Zehao Dou et.al.|[2202.04868v1](http://arxiv.org/abs/2202.04868v1)|null|
+|**2022-02-10**|**Settling the Communication Complexity for Distributed Offline Reinforcement Learning**|Juliusz Krysztof Ziomek et.al.|[2202.04862v1](http://arxiv.org/abs/2202.04862v1)|null|
+|**2022-02-10**|**SAFER: Data-Efficient and Safe Reinforcement Learning via Skill Acquisition**|Dylan Slack et.al.|[2202.04849v1](http://arxiv.org/abs/2202.04849v1)|null|
 |**2022-02-09**|**Offline Reinforcement Learning with Realizability and Single-policy Concentrability**|Wenhao Zhan et.al.|[2202.04634v1](http://arxiv.org/abs/2202.04634v1)|null|
 |**2022-02-09**|**Reinforcement Learning with Sparse Rewards using Guidance from Offline Demonstration**|Desik Rengarajan et.al.|[2202.04628v1](http://arxiv.org/abs/2202.04628v1)|**[link](https://github.com/desikrengarajan/logo)**|
 |**2022-02-09**|**Soft Robots Learn to Crawl: Jointly Optimizing Design and Control with Sim-to-Real Transfer**|Charles Schaff et.al.|[2202.04575v1](http://arxiv.org/abs/2202.04575v1)|null|
@@ -731,6 +741,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-10**|**Graph Neural Network for Local Corruption Recovery**|Bingxin Zhou et.al.|[2202.04936v1](http://arxiv.org/abs/2202.04936v1)|**[link](https://github.com/bzho3923/magnet)**|
+|**2022-02-10**|**Survey on Graph Neural Network Acceleration: An Algorithmic Perspective**|Xin Liu et.al.|[2202.04822v1](http://arxiv.org/abs/2202.04822v1)|null|
+|**2022-02-09**|**Graph Neural Network for Cell Tracking in Microscopy Videos**|Tal Ben-Haim et.al.|[2202.04731v1](http://arxiv.org/abs/2202.04731v1)|null|
 |**2022-02-09**|**Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs**|Cristian Bodnar et.al.|[2202.04579v1](http://arxiv.org/abs/2202.04579v1)|null|
 |**2022-02-09**|**A Multimodal Canonical-Correlated Graph Neural Network for Energy-Efficient Speech Enhancement**|Leandro Aparecido Passos et.al.|[2202.04528v1](http://arxiv.org/abs/2202.04528v1)|null|
 |**2022-02-09**|**CRAT-Pred: Vehicle Trajectory Prediction with Crystal Graph Convolutional Neural Networks and Multi-Head Self-Attention**|Julian Schmidt et.al.|[2202.04488v2](http://arxiv.org/abs/2202.04488v2)|**[link](https://github.com/schmidt-ju/crat-pred)**|
