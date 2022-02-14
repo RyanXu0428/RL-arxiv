@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-11**|**Active Privacy-Utility Trade-off Against Inference in Time-Series Data Sharing**|Ecenaz Erdemir et.al.|[2202.05833v1](http://arxiv.org/abs/2202.05833v1)|null|
+|**2022-02-11**|**Automated Architecture Search for Brain-inspired Hyperdimensional Computing**|Junhuan Yang et.al.|[2202.05827v1](http://arxiv.org/abs/2202.05827v1)|null|
+|**2022-02-11**|**Rate-matching the regret lower-bound in the linear quadratic regulator with unknown dynamics**|Feicheng Wang et.al.|[2202.05799v1](http://arxiv.org/abs/2202.05799v1)|null|
+|**2022-02-11**|**A Modern Self-Referential Weight Matrix That Learns to Modify Itself**|Kazuki Irie et.al.|[2202.05780v1](http://arxiv.org/abs/2202.05780v1)|**[link](https://github.com/idsia/modern-srwm)**|
+|**2022-02-11**|**Choices, Risks, and Reward Reports: Charting Public Policy for Reinforcement Learning Systems**|Thomas Krendl Gilbert et.al.|[2202.05716v1](http://arxiv.org/abs/2202.05716v1)|null|
+|**2022-02-11**|**Online Decision Transformer**|Qinqing Zheng et.al.|[2202.05607v1](http://arxiv.org/abs/2202.05607v1)|null|
+|**2022-02-11**|**The Shapley Value in Machine Learning**|Benedek Rozemberczki et.al.|[2202.05594v1](http://arxiv.org/abs/2202.05594v1)|**[link](https://github.com/benedekrozemberczki/shapley)**|
+|**2022-02-11**|**Faster No-Regret Learning Dynamics for Extensive-Form Correlated and Coarse Correlated Equilibria**|Ioannis Anagnostides et.al.|[2202.05446v1](http://arxiv.org/abs/2202.05446v1)|null|
+|**2022-02-11**|**Computational-Statistical Gaps in Reinforcement Learning**|Daniel Kane et.al.|[2202.05444v1](http://arxiv.org/abs/2202.05444v1)|null|
+|**2022-02-11**|**Understanding Curriculum Learning in Policy Optimization for Solving Combinatorial Optimization Problems**|Runlong Zhou et.al.|[2202.05423v1](http://arxiv.org/abs/2202.05423v1)|**[link](https://github.com/zhourunlong/RL-for-Combinatorial-Optimization)**|
 |**2022-02-10**|**Uncovering Instabilities in Variational-Quantum Deep Q-Networks**|Maja Franz et.al.|[2202.05195v1](http://arxiv.org/abs/2202.05195v1)|**[link](https://github.com/lfd/quantum-rl)**|
 |**2022-02-10**|**DDA3C: Cooperative Distributed Deep Reinforcement Learning in A Group-Agent System**|Kaiyue Wu et.al.|[2202.05135v1](http://arxiv.org/abs/2202.05135v1)|null|
 |**2022-02-10**|**AI-based Robust Resource Allocation in End-to-End Network Slicing under Demand and CSI Uncertainties**|Amir Gharehgoli et.al.|[2202.05131v1](http://arxiv.org/abs/2202.05131v1)|null|
