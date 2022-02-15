@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.02.14
+## Updated on 2022.02.15
 
 ## SLAM
 
@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-14**|**Convex Programs and Lyapunov Functions for Reinforcement Learning: A Unified Perspective on the Analysis of Value-Based Methods**|Xingang Guo et.al.|[2202.06922v1](http://arxiv.org/abs/2202.06922v1)|null|
+|**2022-02-14**|**Stochastic linear optimization never overfits with quadratically-bounded losses on general data**|Matus Telgarsky et.al.|[2202.06915v1](http://arxiv.org/abs/2202.06915v1)|null|
+|**2022-02-14**|**On the Chattering of SARSA with Linear Function Approximation**|Shangtong Zhang et.al.|[2202.06828v1](http://arxiv.org/abs/2202.06828v1)|null|
+|**2022-02-14**|**SAUTE RL: Almost Surely Safe Reinforcement Learning Using State Augmentation**|Aivar Sootla et.al.|[2202.06558v1](http://arxiv.org/abs/2202.06558v1)|null|
+|**2022-02-14**|**Reinforcement Learning in Presence of Discrete Markovian Context Evolution**|Hang Ren et.al.|[2202.06557v1](http://arxiv.org/abs/2202.06557v1)|null|
+|**2022-02-14**|**Provably Efficient Causal Model-Based Reinforcement Learning for Systematic Generalization**|Mirco Mutti et.al.|[2202.06545v1](http://arxiv.org/abs/2202.06545v1)|null|
+|**2022-02-14**|**Towards Deployment-Efficient Reinforcement Learning: Lower Bound and Optimality**|Jiawei Huang et.al.|[2202.06450v1](http://arxiv.org/abs/2202.06450v1)|null|
+|**2022-02-14**|**Learning Reward Models for Cooperative Trajectory Planning with Inverse Reinforcement Learning and Monte Carlo Tree Search**|Karl Kurzer et.al.|[2202.06443v1](http://arxiv.org/abs/2202.06443v1)|null|
+|**2022-02-13**|**Communication and Computation O-RAN Resource Slicing for URLLC Services Using Deep Reinforcement Learning**|Abderrahime Filali et.al.|[2202.06439v1](http://arxiv.org/abs/2202.06439v1)|null|
+|**2022-02-13**|**Dynamic SDN-based Radio Access Network Slicing with Deep Reinforcement Learning for URLLC and eMBB Services**|Abderrahime Filali et.al.|[2202.06435v1](http://arxiv.org/abs/2202.06435v1)|null|
 |**2022-02-11**|**Active Privacy-Utility Trade-off Against Inference in Time-Series Data Sharing**|Ecenaz Erdemir et.al.|[2202.05833v1](http://arxiv.org/abs/2202.05833v1)|null|
 |**2022-02-11**|**Automated Architecture Search for Brain-inspired Hyperdimensional Computing**|Junhuan Yang et.al.|[2202.05827v1](http://arxiv.org/abs/2202.05827v1)|null|
 |**2022-02-11**|**Rate-matching the regret lower-bound in the linear quadratic regulator with unknown dynamics**|Feicheng Wang et.al.|[2202.05799v1](http://arxiv.org/abs/2202.05799v1)|null|
@@ -755,6 +765,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-14**|**Semi-Equivariant GNN Architectures for Jet Tagging**|Daniel Murnane et.al.|[2202.06941v1](http://arxiv.org/abs/2202.06941v1)|null|
+|**2022-02-14**|**Accelerating the Inference of the Exa.TrkX Pipeline**|Alina Lazar et.al.|[2202.06929v1](http://arxiv.org/abs/2202.06929v1)|null|
+|**2022-02-14**|**A Graphical Approach For Brain Haemorrhage Segmentation**|Dr. Ninad Mehendale et.al.|[2202.06876v1](http://arxiv.org/abs/2202.06876v1)|null|
+|**2022-02-14**|**HyLa: Hyperbolic Laplacian Features For Graph Learning**|Tao Yu et.al.|[2202.06854v1](http://arxiv.org/abs/2202.06854v1)|null|
+|**2022-02-14**|**Aspect Based Sentiment Analysis Using Spectral Temporal Graph Neural Network**|Abir Chakraborty et.al.|[2202.06776v1](http://arxiv.org/abs/2202.06776v1)|null|
+|**2022-02-14**|**Improved Aggregating and Accelerating Training Methods for Spatial Graph Neural Networks on Fraud Detection**|Yufan Zeng et.al.|[2202.06580v1](http://arxiv.org/abs/2202.06580v1)|null|
+|**2022-02-14**|**Adaptive graph convolutional networks for weakly supervised anomaly detection in videos**|Congqi Cao et.al.|[2202.06503v1](http://arxiv.org/abs/2202.06503v1)|null|
+|**2022-02-14**|**NEDMP: Neural Enhanced Dynamic Message Passing**|Fei Gao et.al.|[2202.06496v1](http://arxiv.org/abs/2202.06496v1)|null|
+|**2022-02-13**|**Deep Graph Learning for Spatially-Varying Indoor Lighting Prediction**|Jiayang Bai et.al.|[2202.06300v1](http://arxiv.org/abs/2202.06300v1)|null|
+|**2022-02-13**|**Graph-adaptive Rectified Linear Unit for Graph Neural Networks**|Yifei Zhang et.al.|[2202.06281v1](http://arxiv.org/abs/2202.06281v1)|null|
 |**2022-02-10**|**Graph Neural Network for Local Corruption Recovery**|Bingxin Zhou et.al.|[2202.04936v1](http://arxiv.org/abs/2202.04936v1)|**[link](https://github.com/bzho3923/magnet)**|
 |**2022-02-10**|**Survey on Graph Neural Network Acceleration: An Algorithmic Perspective**|Xin Liu et.al.|[2202.04822v1](http://arxiv.org/abs/2202.04822v1)|null|
 |**2022-02-09**|**Graph Neural Network for Cell Tracking in Microscopy Videos**|Tal Ben-Haim et.al.|[2202.04731v1](http://arxiv.org/abs/2202.04731v1)|null|
