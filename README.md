@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-15**|**Deciding What is Good-for-MDPs**|Sven Schewe et.al.|[2202.07629v1](http://arxiv.org/abs/2202.07629v1)|null|
+|**2022-02-15**|**CUP: A Conservative Update Policy Algorithm for Safe Reinforcement Learning**|Long Yang et.al.|[2202.07565v1](http://arxiv.org/abs/2202.07565v1)|null|
+|**2022-02-15**|**Beyond the Policy Gradient Theorem for Efficient Policy Updates in Actor-Critic Algorithms**|Romain Laroche et.al.|[2202.07496v1](http://arxiv.org/abs/2202.07496v1)|null|
+|**2022-02-15**|**Interpretable Reinforcement Learning with Multilevel Subgoal Discovery**|Alexander Demin et.al.|[2202.07414v1](http://arxiv.org/abs/2202.07414v1)|null|
+|**2022-02-15**|**Exploring Deep Reinforcement Learning-Assisted Federated Learning for Online Resource Allocation in EdgeIoT**|Jingjing Zheng et.al.|[2202.07391v1](http://arxiv.org/abs/2202.07391v1)|null|
+|**2022-02-15**|**User-Oriented Robust Reinforcement Learning**|Haoyi You et.al.|[2202.07301v1](http://arxiv.org/abs/2202.07301v1)|null|
+|**2022-02-15**|**L2C2: Locally Lipschitz Continuous Constraint towards Stable and Smooth Reinforcement Learning**|Taisuke Kobayashi et.al.|[2202.07152v1](http://arxiv.org/abs/2202.07152v1)|null|
+|**2022-02-15**|**Graph Meta-Reinforcement Learning for Transferable Autonomous Mobility-on-Demand**|Daniele Gammelli et.al.|[2202.07147v1](http://arxiv.org/abs/2202.07147v1)|null|
+|**2022-02-15**|**Learning to Mitigate AI Collusion on Economic Platforms**|Gianluca Brero et.al.|[2202.07106v1](http://arxiv.org/abs/2202.07106v1)|null|
+|**2022-02-14**|**Statistical Inference After Adaptive Sampling in Non-Markovian Environments**|Kelly W Zhang et.al.|[2202.07098v1](http://arxiv.org/abs/2202.07098v1)|null|
 |**2022-02-14**|**Convex Programs and Lyapunov Functions for Reinforcement Learning: A Unified Perspective on the Analysis of Value-Based Methods**|Xingang Guo et.al.|[2202.06922v1](http://arxiv.org/abs/2202.06922v1)|null|
 |**2022-02-14**|**Stochastic linear optimization never overfits with quadratically-bounded losses on general data**|Matus Telgarsky et.al.|[2202.06915v1](http://arxiv.org/abs/2202.06915v1)|null|
 |**2022-02-14**|**On the Chattering of SARSA with Linear Function Approximation**|Shangtong Zhang et.al.|[2202.06828v1](http://arxiv.org/abs/2202.06828v1)|null|
@@ -761,6 +771,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-15**|**Hyper-relationship Learning Network for Scene Graph Generation**|Yibing Zhan et.al.|[2202.07271v1](http://arxiv.org/abs/2202.07271v1)|null|
+|**2022-02-15**|**Federated Graph Neural Networks: Overview, Techniques and Challenges**|Rui Liu et.al.|[2202.07256v1](http://arxiv.org/abs/2202.07256v1)|null|
+|**2022-02-15**|**Geometrically Equivariant Graph Neural Networks: A Survey**|Jiaqi Han et.al.|[2202.07230v1](http://arxiv.org/abs/2202.07230v1)|null|
+|**2022-02-15**|**G-Mixup: Graph Data Augmentation for Graph Classification**|Xiaotian Han et.al.|[2202.07179v1](http://arxiv.org/abs/2202.07179v1)|null|
+|**2022-02-15**|**Graph Neural Network-Based Scheduling for Multi-UAV-Enabled Communications in D2D Networks**|Pei Li et.al.|[2202.07115v1](http://arxiv.org/abs/2202.07115v1)|null|
+|**2022-02-14**|**Graph Neural Networks for Graphs with Heterophily: A Survey**|Xin Zheng et.al.|[2202.07082v1](http://arxiv.org/abs/2202.07082v1)|null|
 |**2022-02-14**|**Semi-Equivariant GNN Architectures for Jet Tagging**|Daniel Murnane et.al.|[2202.06941v1](http://arxiv.org/abs/2202.06941v1)|null|
 |**2022-02-14**|**Accelerating the Inference of the Exa.TrkX Pipeline**|Alina Lazar et.al.|[2202.06929v1](http://arxiv.org/abs/2202.06929v1)|null|
 |**2022-02-14**|**A Graphical Approach For Brain Haemorrhage Segmentation**|Dr. Ninad Mehendale et.al.|[2202.06876v1](http://arxiv.org/abs/2202.06876v1)|null|
