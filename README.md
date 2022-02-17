@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-16**|**Deep Contextual Bandits for Orchestrating Multi-User MISO Systems with Multiple RISs**|Kyriakos Stylianopoulos et.al.|[2202.08194v1](http://arxiv.org/abs/2202.08194v1)|null|
+|**2022-02-16**|**An Intrusion Response System utilizing Deep Q-Networks and System Partitions**|Valeria Cardellini et.al.|[2202.08182v1](http://arxiv.org/abs/2202.08182v1)|**[link](https://github.com/dpanigra/irs-partition)**|
+|**2022-02-16**|**Geometry of the Minimum Volume Confidence Sets**|Heguang Lin et.al.|[2202.08180v1](http://arxiv.org/abs/2202.08180v1)|null|
+|**2022-02-16**|**Domain Adaptive Fake News Detection via Reinforcement Learning**|Ahmadreza Mosallanezhad et.al.|[2202.08159v1](http://arxiv.org/abs/2202.08159v1)|null|
+|**2022-02-16**|**A data-driven approach for learning to control computers**|Peter C Humphreys et.al.|[2202.08137v1](http://arxiv.org/abs/2202.08137v1)|null|
+|**2022-02-16**|**Branching Reinforcement Learning**|Yihan Du et.al.|[2202.07995v1](http://arxiv.org/abs/2202.07995v1)|null|
+|**2022-02-16**|**On a Variance Reduction Correction of the Temporal Difference for Policy Evaluation in the Stochastic Continuous Setting**|Ziad Kobeissi et.al.|[2202.07960v1](http://arxiv.org/abs/2202.07960v1)|null|
+|**2022-02-16**|**Policy Learning and Evaluation with Randomized Quasi-Monte Carlo**|Sebastien M. R. Arnold et.al.|[2202.07808v1](http://arxiv.org/abs/2202.07808v1)|null|
+|**2022-02-15**|**Efficient Content Delivery in Cache-Enabled VEN with Deadline-Constrained Heterogeneous Demands: A User-Centric Approach**|Md Ferdous Pervej et.al.|[2202.07792v1](http://arxiv.org/abs/2202.07792v1)|null|
+|**2022-02-15**|**Safe Reinforcement Learning by Imagining the Near Future**|Garrett Thomas et.al.|[2202.07789v1](http://arxiv.org/abs/2202.07789v1)|**[link](https://github.com/gwthomas/safe-mbpo)**|
 |**2022-02-15**|**Deciding What is Good-for-MDPs**|Sven Schewe et.al.|[2202.07629v1](http://arxiv.org/abs/2202.07629v1)|null|
 |**2022-02-15**|**CUP: A Conservative Update Policy Algorithm for Safe Reinforcement Learning**|Long Yang et.al.|[2202.07565v1](http://arxiv.org/abs/2202.07565v1)|null|
 |**2022-02-15**|**Beyond the Policy Gradient Theorem for Efficient Policy Updates in Actor-Critic Algorithms**|Romain Laroche et.al.|[2202.07496v1](http://arxiv.org/abs/2202.07496v1)|null|
@@ -771,6 +781,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-15**|**Modular multi-source prediction of drug side-effects with DruGNN**|Pietro Bongini et.al.|[2202.08147v1](http://arxiv.org/abs/2202.08147v1)|null|
+|**2022-02-16**|**Graph Neural Network and Koopman Models for Learning Networked Dynamics: A Comparative Study on Power Grid Transients Prediction**|Sai Pushpak Nandanoori et.al.|[2202.08065v1](http://arxiv.org/abs/2202.08065v1)|null|
+|**2022-02-16**|**Understanding and Improving Graph Injection Attack by Promoting Unnoticeability**|Yongqiang Chen et.al.|[2202.08057v1](http://arxiv.org/abs/2202.08057v1)|**[link](https://github.com/lfhase/gia-hao)**|
+|**2022-02-16**|**Turn Tree into Graph: Automatic Code Review via Simplified AST Driven Graph Convolutional Network**|B. Wu et.al.|[2202.07946v1](http://arxiv.org/abs/2202.07946v1)|null|
+|**2022-02-16**|**When Does A Spectral Graph Neural Network Fail in Node Classification?**|Zhixian Chen et.al.|[2202.07902v1](http://arxiv.org/abs/2202.07902v1)|null|
+|**2022-02-16**|**Privacy-Preserving Graph Neural Network Training and Inference as a Cloud Service**|Songlei Wang et.al.|[2202.07835v1](http://arxiv.org/abs/2202.07835v1)|null|
+|**2022-02-16**|**Heterogeneous Graph Learning for Explainable Recommendation over Academic Networks**|Xiangtai Chen et.al.|[2202.07832v1](http://arxiv.org/abs/2202.07832v1)|null|
+|**2022-02-16**|**CenGCN: Centralized Convolutional Networks with Vertex Imbalance for Scale-Free Graphs**|Feng Xia et.al.|[2202.07826v1](http://arxiv.org/abs/2202.07826v1)|null|
 |**2022-02-15**|**Hyper-relationship Learning Network for Scene Graph Generation**|Yibing Zhan et.al.|[2202.07271v1](http://arxiv.org/abs/2202.07271v1)|null|
 |**2022-02-15**|**Federated Graph Neural Networks: Overview, Techniques and Challenges**|Rui Liu et.al.|[2202.07256v1](http://arxiv.org/abs/2202.07256v1)|null|
 |**2022-02-15**|**Geometrically Equivariant Graph Neural Networks: A Survey**|Jiaqi Han et.al.|[2202.07230v2](http://arxiv.org/abs/2202.07230v2)|null|
