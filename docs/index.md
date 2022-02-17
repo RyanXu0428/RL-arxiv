@@ -777,8 +777,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-02-15**|**Hyper-relationship Learning Network for Scene Graph Generation**|Yibing Zhan et.al.|[2202.07271v1](http://arxiv.org/abs/2202.07271v1)|null|
 |**2022-02-15**|**Federated Graph Neural Networks: Overview, Techniques and Challenges**|Rui Liu et.al.|[2202.07256v1](http://arxiv.org/abs/2202.07256v1)|null|
-|**2022-02-15**|**Geometrically Equivariant Graph Neural Networks: A Survey**|Jiaqi Han et.al.|[2202.07230v1](http://arxiv.org/abs/2202.07230v1)|null|
-|**2022-02-15**|**G-Mixup: Graph Data Augmentation for Graph Classification**|Xiaotian Han et.al.|[2202.07179v1](http://arxiv.org/abs/2202.07179v1)|null|
+|**2022-02-15**|**Geometrically Equivariant Graph Neural Networks: A Survey**|Jiaqi Han et.al.|[2202.07230v2](http://arxiv.org/abs/2202.07230v2)|null|
+|**2022-02-15**|**G-Mixup: Graph Data Augmentation for Graph Classification**|Xiaotian Han et.al.|[2202.07179v2](http://arxiv.org/abs/2202.07179v2)|null|
 |**2022-02-15**|**Graph Neural Network-Based Scheduling for Multi-UAV-Enabled Communications in D2D Networks**|Pei Li et.al.|[2202.07115v1](http://arxiv.org/abs/2202.07115v1)|null|
 |**2022-02-14**|**Graph Neural Networks for Graphs with Heterophily: A Survey**|Xin Zheng et.al.|[2202.07082v1](http://arxiv.org/abs/2202.07082v1)|null|
 |**2022-02-14**|**Semi-Equivariant GNN Architectures for Jet Tagging**|Daniel Murnane et.al.|[2202.06941v1](http://arxiv.org/abs/2202.06941v1)|null|
