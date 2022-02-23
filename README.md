@@ -1,4 +1,4 @@
-## Updated on 2022.02.22
+## Updated on 2022.02.23
 
 ## SLAM
 
@@ -806,6 +806,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-21**|**Degree-Preserving Randomized Response for Graph Neural Networks under Local Differential Privacy**|Seira Hidano et.al.|[2202.10209v1](http://arxiv.org/abs/2202.10209v1)|null|
+|**2022-02-20**|**Equivariant Graph Attention Networks for Molecular Property Prediction**|Tuan Le et.al.|[2202.09891v1](http://arxiv.org/abs/2202.09891v1)|null|
+|**2022-02-20**|**Learning to Help Emergency Vehicles Arrive Faster: A Cooperative Vehicle-Road Scheduling Approach**|Lige Ding et.al.|[2202.09773v1](http://arxiv.org/abs/2202.09773v1)|null|
+|**2022-02-20**|**Graph-based Extractive Explainer for Recommendations**|Peng Wang et.al.|[2202.09730v1](http://arxiv.org/abs/2202.09730v1)|null|
+|**2022-02-19**|**Graph Spring Network and Informative Anchor Selection for Session-based Recommendation**|Zizhuo Zhang et.al.|[2202.09502v1](http://arxiv.org/abs/2202.09502v1)|null|
+|**2022-02-18**|**Interactive Visual Pattern Search on Graph Data via Graph Representation Learning**|Huan Song et.al.|[2202.09459v1](http://arxiv.org/abs/2202.09459v1)|null|
+|**2022-02-18**|**Predicting deformation mechanisms in architected metamaterials using GNN**|Padmeya Prashant Indurkar et.al.|[2202.09427v1](http://arxiv.org/abs/2202.09427v1)|null|
+|**2022-02-18**|**Black-box Node Injection Attack for Graph Neural Networks**|Mingxuan Ju et.al.|[2202.09389v1](http://arxiv.org/abs/2202.09389v1)|null|
 |**2022-02-18**|**Improving Molecular Contrastive Learning via Faulty Negative Mitigation and Decomposed Fragment Contrast**|Yuyang Wang et.al.|[2202.09346v1](http://arxiv.org/abs/2202.09346v1)|null|
 |**2022-02-18**|**Comparing machine learning techniques for predicting glassy dynamics**|Rinske M. Alkemade et.al.|[2202.09173v1](http://arxiv.org/abs/2202.09173v1)|null|
 |**2022-02-18**|**Generalizing Aggregation Functions in GNNs:High-Capacity GNNs via Nonlinear Neighborhood Aggregators**|Beibei Wang et.al.|[2202.09145v1](http://arxiv.org/abs/2202.09145v1)|null|
