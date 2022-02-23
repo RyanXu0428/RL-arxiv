@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-22**|**Reward-Free Policy Space Compression for Reinforcement Learning**|Mirco Mutti et.al.|[2202.11079v1](http://arxiv.org/abs/2202.11079v1)|null|
+|**2022-02-22**|**Approximate gradient ascent methods for distortion risk measures**|Nithia Vijayan et.al.|[2202.11046v1](http://arxiv.org/abs/2202.11046v1)|null|
+|**2022-02-22**|**Discovering mechanisms for materials microstructure optimization via reinforcement learning of a generative model**|Rama K. Vasudevan et.al.|[2202.10988v1](http://arxiv.org/abs/2202.10988v1)|null|
+|**2022-02-22**|**Cellular Network Capacity and Coverage Enhancement with MDT Data and Deep Reinforcement Learning**|Marco Skocaj et.al.|[2202.10968v1](http://arxiv.org/abs/2202.10968v1)|null|
+|**2022-02-22**|**Adaptive Cut Selection in Mixed-Integer Linear Programming**|Mark Turner et.al.|[2202.10962v1](http://arxiv.org/abs/2202.10962v1)|null|
+|**2022-02-22**|**A Deep Reinforcement Learning based Approach for NOMA-based Random Access Network with Truncated Channel Inversion Power Control**|Ziru Chen et.al.|[2202.10955v1](http://arxiv.org/abs/2202.10955v1)|null|
+|**2022-02-22**|**Coordinate-Aligned Multi-Camera Collaboration for Active Multi-Object Tracking**|Zeyu Fang et.al.|[2202.10881v1](http://arxiv.org/abs/2202.10881v1)|null|
+|**2022-02-22**|**Behaviour-neutral Smart Charging of Plugin Electric Vehicles: Reinforcement learning approach**|Vladimir Dyo et.al.|[2202.10823v1](http://arxiv.org/abs/2202.10823v1)|null|
+|**2022-02-22**|**A Benchmark Comparison of Learned Control Policies for Agile Quadrotor Flight**|Elia Kaufmann et.al.|[2202.10796v1](http://arxiv.org/abs/2202.10796v1)|null|
+|**2022-02-22**|**Sequential Information Design: Markov Persuasion Process and Its Efficient Reinforcement Learning**|Jibang Wu et.al.|[2202.10678v1](http://arxiv.org/abs/2202.10678v1)|null|
 |**2022-02-21**|**Learning Causal Overhypotheses through Exploration in Children and Computational Models**|Eliza Kosoy et.al.|[2202.10430v1](http://arxiv.org/abs/2202.10430v1)|null|
 |**2022-02-21**|**Learning Behavioral Soft Constraints from Demonstrations**|Arie Glazier et.al.|[2202.10407v1](http://arxiv.org/abs/2202.10407v1)|null|
 |**2022-02-21**|**Rule Mining over Knowledge Graphs via Reinforcement Learning**|Lihan Chen et.al.|[2202.10381v1](http://arxiv.org/abs/2202.10381v1)|null|
@@ -810,6 +820,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-22**|**Message passing all the way up**|Petar Veličković et.al.|[2202.11097v1](http://arxiv.org/abs/2202.11097v1)|null|
+|**2022-02-22**|**Adaptive Cut Selection in Mixed-Integer Linear Programming**|Mark Turner et.al.|[2202.10962v1](http://arxiv.org/abs/2202.10962v1)|null|
+|**2022-02-22**|**Relation Regularized Scene Graph Generation**|Yuyu Guo et.al.|[2202.10826v1](http://arxiv.org/abs/2202.10826v1)|null|
+|**2022-02-22**|**One-shot Scene Graph Generation**|Yuyu Guo et.al.|[2202.10824v1](http://arxiv.org/abs/2202.10824v1)|null|
+|**2022-02-22**|**PyTorch Geometric Signed Directed: A Survey and Software on Graph Neural Networks for Signed and Directed Graphs**|Yixuan He et.al.|[2202.10793v1](http://arxiv.org/abs/2202.10793v1)|null|
+|**2022-02-22**|**EIGNN: Efficient Infinite-Depth Graph Neural Networks**|Juncheng Liu et.al.|[2202.10720v1](http://arxiv.org/abs/2202.10720v1)|**[link](https://github.com/liu-jc/eignn)**|
+|**2022-02-22**|**Targeting occupant feedback using digital twins: Adaptive spatial-temporal thermal preference sampling to optimize personal comfort models**|Mahmoud Abdelrahman et.al.|[2202.10707v1](http://arxiv.org/abs/2202.10707v1)|null|
+|**2022-02-22**|**A Two-Branch Neural Network for Gait Recognition**|Likai Wang et.al.|[2202.10645v1](http://arxiv.org/abs/2202.10645v1)|null|
+|**2022-02-21**|**Data-Driven Traffic Assignment: A Novel Approach for Learning Traffic Flow Patterns Using a Graph Convolutional Neural Network**|Rezaur Rahman et.al.|[2202.10508v1](http://arxiv.org/abs/2202.10508v1)|null|
 |**2022-02-21**|**Degree-Preserving Randomized Response for Graph Neural Networks under Local Differential Privacy**|Seira Hidano et.al.|[2202.10209v1](http://arxiv.org/abs/2202.10209v1)|null|
 |**2022-02-20**|**Equivariant Graph Attention Networks for Molecular Property Prediction**|Tuan Le et.al.|[2202.09891v1](http://arxiv.org/abs/2202.09891v1)|null|
 |**2022-02-20**|**Learning to Help Emergency Vehicles Arrive Faster: A Cooperative Vehicle-Road Scheduling Approach**|Lige Ding et.al.|[2202.09773v1](http://arxiv.org/abs/2202.09773v1)|null|
