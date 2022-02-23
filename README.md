@@ -98,7 +98,7 @@
 |**2022-02-21**|**CCPT: Automatic Gameplay Testing and Validation with Curiosity-Conditioned Proximal Trajectories**|Alessandro Sestini et.al.|[2202.10057v1](http://arxiv.org/abs/2202.10057v1)|null|
 |**2022-02-21**|**Autonomous Warehouse Robot using Deep Q-Learning**|Ismot Sadik Peyas et.al.|[2202.10019v1](http://arxiv.org/abs/2202.10019v1)|null|
 |**2022-02-21**|**Double Thompson Sampling in Finite stochastic Games**|Shuqing Shi et.al.|[2202.10008v1](http://arxiv.org/abs/2202.10008v1)|null|
-|**2022-02-21**|**Don't Touch What Matters: Task-Aware Lipschitz Data Augmentationfor Visual Reinforcement Learning**|Zhecheng Yuan et.al.|[2202.09982v1](http://arxiv.org/abs/2202.09982v1)|null|
+|**2022-02-21**|**Don't Touch What Matters: Task-Aware Lipschitz Data Augmentation for Visual Reinforcement Learning**|Zhecheng Yuan et.al.|[2202.09982v2](http://arxiv.org/abs/2202.09982v2)|null|
 |**2022-02-18**|**tinyMAN: Lightweight Energy Manager using Reinforcement Learning for Energy Harvesting Wearable IoT Devices**|Toygun Basaklar et.al.|[2202.09297v1](http://arxiv.org/abs/2202.09297v1)|null|
 |**2022-02-18**|**Improving AoI via Learning-based Distributed MAC in Wireless Networks**|Yash Deshpande et.al.|[2202.09222v1](http://arxiv.org/abs/2202.09222v1)|null|
 |**2022-02-18**|**Toward a Smart Resource Allocation Policy via Artificial Intelligence in 6G Networks: Centralized or Decentralized?**|Ali Nouruzi et.al.|[2202.09093v1](http://arxiv.org/abs/2202.09093v1)|null|
