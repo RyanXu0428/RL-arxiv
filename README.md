@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-23**|**Comparative analysis of machine learning methods for active flow control**|Fabio Pino et.al.|[2202.11664v1](http://arxiv.org/abs/2202.11664v1)|null|
+|**2022-02-23**|**Globally Convergent Policy Search over Dynamic Filters for Output Estimation**|Jack Umenberger et.al.|[2202.11659v1](http://arxiv.org/abs/2202.11659v1)|null|
+|**2022-02-23**|**Pessimistic Bootstrapping for Uncertainty-Driven Offline Reinforcement Learning**|Chenjia Bai et.al.|[2202.11566v1](http://arxiv.org/abs/2202.11566v1)|**[link](https://github.com/baichenjia/pbrl)**|
+|**2022-02-23**|**Using Deep Reinforcement Learning with Automatic Curriculum earning for Mapless Navigation in Intralogistics**|Honghu Xue et.al.|[2202.11512v1](http://arxiv.org/abs/2202.11512v1)|**[link](https://github.com/ai-lab-science/deep-reinforcement-learning-for-mapless-navigation-in-intralogistics)**|
+|**2022-02-23**|**AI-empowered Joint Communication and Radar Systems with Adaptive Waveform for Autonomous Vehicles**|Nam H. Chu et.al.|[2202.11508v1](http://arxiv.org/abs/2202.11508v1)|null|
+|**2022-02-23**|**Cooperative Behavioral Planning for Automated Driving using Graph Neural Networks**|Marvin Klimke et.al.|[2202.11376v1](http://arxiv.org/abs/2202.11376v1)|null|
+|**2022-02-23**|**Reinforcement Learning from Demonstrations by Novel Interactive Expert and Application to Automatic Berthing Control Systems for Unmanned Surface Vessel**|Haoran Zhang et.al.|[2202.11325v1](http://arxiv.org/abs/2202.11325v1)|null|
+|**2022-02-23**|**Deep Reinforcement Learning: Opportunities and Challenges**|Yuxi Li et.al.|[2202.11296v1](http://arxiv.org/abs/2202.11296v1)|null|
+|**2022-02-23**|**Blockchain Framework for Artificial Intelligence Computation**|Jie You et.al.|[2202.11264v1](http://arxiv.org/abs/2202.11264v1)|**[link](https://github.com/Dasudian/Curvetime)**|
+|**2022-02-22**|**Circuit and System Technologies for Energy-Efficient Edge Robotics**|Zishen Wan et.al.|[2202.11237v1](http://arxiv.org/abs/2202.11237v1)|null|
 |**2022-02-22**|**Reward-Free Policy Space Compression for Reinforcement Learning**|Mirco Mutti et.al.|[2202.11079v1](http://arxiv.org/abs/2202.11079v1)|null|
 |**2022-02-22**|**Approximate gradient ascent methods for distortion risk measures**|Nithia Vijayan et.al.|[2202.11046v1](http://arxiv.org/abs/2202.11046v1)|null|
 |**2022-02-22**|**Discovering mechanisms for materials microstructure optimization via reinforcement learning of a generative model**|Rama K. Vasudevan et.al.|[2202.10988v1](http://arxiv.org/abs/2202.10988v1)|null|
@@ -816,6 +826,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-23**|**Classification of Computer Aided Engineering (CAE) Parts Using Graph Convolutional Networks**|Alok Warey et.al.|[2202.11289v1](http://arxiv.org/abs/2202.11289v1)|null|
+|**2022-02-22**|**Bag Graph: Multiple Instance Learning using Bayesian Graph Neural Networks**|Soumyasundar Pal et.al.|[2202.11132v1](http://arxiv.org/abs/2202.11132v1)|**[link](https://github.com/networkslab/baggraph)**|
 |**2022-02-22**|**Message passing all the way up**|Petar Veličković et.al.|[2202.11097v1](http://arxiv.org/abs/2202.11097v1)|null|
 |**2022-02-22**|**Adaptive Cut Selection in Mixed-Integer Linear Programming**|Mark Turner et.al.|[2202.10962v1](http://arxiv.org/abs/2202.10962v1)|**[link](https://github.com/opt-mucca/adaptive-cutsel-milp)**|
 |**2022-02-22**|**Relation Regularized Scene Graph Generation**|Yuyu Guo et.al.|[2202.10826v1](http://arxiv.org/abs/2202.10826v1)|null|
