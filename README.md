@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-24**|**Self-organising Urban Traffic control on micro-level using Reinforcement Learning and Agent-based Modelling**|Stefan Bosse et.al.|[2202.12260v1](http://arxiv.org/abs/2202.12260v1)|null|
+|**2022-02-24**|**Quantum Deep Reinforcement Learning for Robot Navigation Tasks**|Dirk Heimann et.al.|[2202.12180v1](http://arxiv.org/abs/2202.12180v1)|null|
+|**2022-02-24**|**Collaborative Training of Heterogeneous Reinforcement Learning Agents in Environments with Sparse Rewards: What and When to Share?**|Alain Andres et.al.|[2202.12174v1](http://arxiv.org/abs/2202.12174v1)|null|
+|**2022-02-24**|**Multi-Modal Legged Locomotion Framework with Automated Residual Reinforcement Learning**|Chen Yu et.al.|[2202.12033v1](http://arxiv.org/abs/2202.12033v1)|null|
+|**2022-02-24**|**Evolutionary Multi-Objective Reinforcement Learning Based Trajectory Control and Task Offloading in UAV-Assisted Mobile Edge Computing**|Fuhong Song et.al.|[2202.12028v1](http://arxiv.org/abs/2202.12028v1)|null|
+|**2022-02-24**|**All You Need Is Supervised Learning: From Imitation Learning to Meta-RL With Upside Down RL**|Kai Arulkumaran et.al.|[2202.11960v1](http://arxiv.org/abs/2202.11960v1)|**[link](https://github.com/kaixhin/gudrl)**|
+|**2022-02-24**|**Collective Conditioned Reflex: A Bio-Inspired Fast Emergency Reaction Mechanism for Designing Safe Multi-Robot Systems**|Zhenting Zhao et.al.|[2202.11932v1](http://arxiv.org/abs/2202.11932v1)|null|
+|**2022-02-24**|**Explore-Bench: Data Sets, Metrics and Evaluations for Frontier-based and Deep-reinforcement-learning-based Autonomous Exploration**|Yuanfan Xu et.al.|[2202.11931v1](http://arxiv.org/abs/2202.11931v1)|null|
+|**2022-02-24**|**Machine Learning for Intrusion Detection in Industrial Control Systems: Applications, Challenges, and Recommendations**|Muhammad Azmi Umer et.al.|[2202.11917v1](http://arxiv.org/abs/2202.11917v1)|null|
+|**2022-02-23**|**Consistent Dropout for Policy Gradient Reinforcement Learning**|Matthew Hausknecht et.al.|[2202.11818v1](http://arxiv.org/abs/2202.11818v1)|null|
 |**2022-02-23**|**Comparative analysis of machine learning methods for active flow control**|Fabio Pino et.al.|[2202.11664v1](http://arxiv.org/abs/2202.11664v1)|null|
 |**2022-02-23**|**Globally Convergent Policy Search over Dynamic Filters for Output Estimation**|Jack Umenberger et.al.|[2202.11659v1](http://arxiv.org/abs/2202.11659v1)|null|
 |**2022-02-23**|**Pessimistic Bootstrapping for Uncertainty-Driven Offline Reinforcement Learning**|Chenjia Bai et.al.|[2202.11566v1](http://arxiv.org/abs/2202.11566v1)|**[link](https://github.com/baichenjia/pbrl)**|
