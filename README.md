@@ -96,7 +96,7 @@
 |**2022-02-24**|**Evolutionary Multi-Objective Reinforcement Learning Based Trajectory Control and Task Offloading in UAV-Assisted Mobile Edge Computing**|Fuhong Song et.al.|[2202.12028v1](http://arxiv.org/abs/2202.12028v1)|null|
 |**2022-02-24**|**All You Need Is Supervised Learning: From Imitation Learning to Meta-RL With Upside Down RL**|Kai Arulkumaran et.al.|[2202.11960v1](http://arxiv.org/abs/2202.11960v1)|**[link](https://github.com/kaixhin/gudrl)**|
 |**2022-02-24**|**Collective Conditioned Reflex: A Bio-Inspired Fast Emergency Reaction Mechanism for Designing Safe Multi-Robot Systems**|Zhenting Zhao et.al.|[2202.11932v1](http://arxiv.org/abs/2202.11932v1)|null|
-|**2022-02-24**|**Explore-Bench: Data Sets, Metrics and Evaluations for Frontier-based and Deep-reinforcement-learning-based Autonomous Exploration**|Yuanfan Xu et.al.|[2202.11931v1](http://arxiv.org/abs/2202.11931v1)|null|
+|**2022-02-24**|**Explore-Bench: Data Sets, Metrics and Evaluations for Frontier-based and Deep-reinforcement-learning-based Autonomous Exploration**|Yuanfan Xu et.al.|[2202.11931v1](http://arxiv.org/abs/2202.11931v1)|**[link](https://github.com/efc-robot/explore-bench)**|
 |**2022-02-24**|**Machine Learning for Intrusion Detection in Industrial Control Systems: Applications, Challenges, and Recommendations**|Muhammad Azmi Umer et.al.|[2202.11917v1](http://arxiv.org/abs/2202.11917v1)|null|
 |**2022-02-23**|**Consistent Dropout for Policy Gradient Reinforcement Learning**|Matthew Hausknecht et.al.|[2202.11818v1](http://arxiv.org/abs/2202.11818v1)|null|
 |**2022-02-23**|**Comparative analysis of machine learning methods for active flow control**|Fabio Pino et.al.|[2202.11664v1](http://arxiv.org/abs/2202.11664v1)|null|
