@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-25**|**Learning to Identify Perceptual Bugs in 3D Video Games**|Benedict Wilkins et.al.|[2202.12884v1](http://arxiv.org/abs/2202.12884v1)|null|
+|**2022-02-25**|**AutoFR: Automated Filter Rule Generation for Adblocking**|Hieu Le et.al.|[2202.12872v1](http://arxiv.org/abs/2202.12872v1)|null|
+|**2022-02-25**|**Learning to Schedule Heuristics for the Simultaneous Stochastic Optimization of Mining Complexes**|Yassine Yaakoubi et.al.|[2202.12866v1](http://arxiv.org/abs/2202.12866v1)|null|
+|**2022-02-25**|**Hierarchical Control for Multi-Agent Autonomous Racing**|Rishabh Saumil Thakkar et.al.|[2202.12861v1](http://arxiv.org/abs/2202.12861v1)|**[link](https://github.com/ribsthakkar/HierarchicalKarting)**|
+|**2022-02-25**|**Building a 3-Player Mahjong AI using Deep Reinforcement Learning**|Xiangyu Zhao et.al.|[2202.12847v1](http://arxiv.org/abs/2202.12847v1)|null|
+|**2022-02-25**|**Inter-Cell Slicing Resource Partitioning via Coordinated Multi-Agent Deep Reinforcement Learning**|Tianlun Hu et.al.|[2202.12833v1](http://arxiv.org/abs/2202.12833v1)|null|
+|**2022-02-25**|**Learning Dynamic Mechanisms in Unknown Environments: A Reinforcement Learning Approach**|Boxiang Lyu et.al.|[2202.12797v1](http://arxiv.org/abs/2202.12797v1)|null|
+|**2022-02-25**|**Hybrid Robotic Grasping with a Soft Multimodal Gripper and a Deep Multistage Learning Scheme**|Fukang Liu et.al.|[2202.12796v1](http://arxiv.org/abs/2202.12796v1)|null|
+|**2022-02-25**|**Behaviorally Grounded Model-Based and Model Free Cost Reduction in a Simulated Multi-Echelon Supply Chain**|James Paine et.al.|[2202.12786v1](http://arxiv.org/abs/2202.12786v1)|null|
+|**2022-02-25**|**Machine learning flow control with few sensor feedback and measurement noise**|R. Castellanos et.al.|[2202.12685v1](http://arxiv.org/abs/2202.12685v1)|null|
 |**2022-02-24**|**Self-organising Urban Traffic control on micro-level using Reinforcement Learning and Agent-based Modelling**|Stefan Bosse et.al.|[2202.12260v1](http://arxiv.org/abs/2202.12260v1)|null|
 |**2022-02-24**|**Quantum Deep Reinforcement Learning for Robot Navigation Tasks**|Dirk Heimann et.al.|[2202.12180v1](http://arxiv.org/abs/2202.12180v1)|null|
 |**2022-02-24**|**Collaborative Training of Heterogeneous Reinforcement Learning Agents in Environments with Sparse Rewards: What and When to Share?**|Alain Andres et.al.|[2202.12174v1](http://arxiv.org/abs/2202.12174v1)|null|
@@ -840,6 +850,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-25**|**Spatio-Temporal Latent Graph Structure Learning for Traffic Forecasting**|Jiabin Tang et.al.|[2202.12586v1](http://arxiv.org/abs/2202.12586v1)|null|
+|**2022-02-25**|**NeuralKG: An Open Source Library for Diverse Representation Learning of Knowledge Graphs**|Wen Zhang et.al.|[2202.12571v1](http://arxiv.org/abs/2202.12571v1)|null|
+|**2022-02-25**|**Improved Dual Correlation Reduction Network**|Yue Liu et.al.|[2202.12533v1](http://arxiv.org/abs/2202.12533v1)|null|
+|**2022-02-25**|**Addressing Over-Smoothing in Graph Neural Networks via Deep Supervision**|Pantelis Elinas et.al.|[2202.12508v1](http://arxiv.org/abs/2202.12508v1)|null|
+|**2022-02-25**|**A Deep Learning Approach for Network-wide Dynamic Traffic Prediction during Hurricane Evacuation**|Rezaur Rahman et.al.|[2202.12505v1](http://arxiv.org/abs/2202.12505v1)|null|
+|**2022-02-25**|**Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection**|Ting Long et.al.|[2202.12481v1](http://arxiv.org/abs/2202.12481v1)|null|
+|**2022-02-25**|**GAME-ON: Graph Attention Network based Multimodal Fusion for Fake News Detection**|Mudit Dhawan et.al.|[2202.12478v1](http://arxiv.org/abs/2202.12478v1)|null|
+|**2022-02-25**|**Directed Graph Auto-Encoders**|Georgios Kollias et.al.|[2202.12449v1](http://arxiv.org/abs/2202.12449v1)|null|
 |**2022-02-23**|**Classification of Computer Aided Engineering (CAE) Parts Using Graph Convolutional Networks**|Alok Warey et.al.|[2202.11289v1](http://arxiv.org/abs/2202.11289v1)|null|
 |**2022-02-22**|**Bag Graph: Multiple Instance Learning using Bayesian Graph Neural Networks**|Soumyasundar Pal et.al.|[2202.11132v1](http://arxiv.org/abs/2202.11132v1)|**[link](https://github.com/networkslab/baggraph)**|
 |**2022-02-22**|**Message passing all the way up**|Petar Veličković et.al.|[2202.11097v1](http://arxiv.org/abs/2202.11097v1)|null|
