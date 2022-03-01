@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-28**|**Combining Modular Skills in Multitask Learning**|Edoardo M. Ponti et.al.|[2202.13914v1](http://arxiv.org/abs/2202.13914v1)|null|
+|**2022-02-28**|**Pessimistic Q-Learning for Offline Reinforcement Learning: Towards Optimal Sample Complexity**|Laixi Shi et.al.|[2202.13890v1](http://arxiv.org/abs/2202.13890v1)|null|
+|**2022-02-28**|**Probing the Robustness of Trained Metrics for Conversational Dialogue Systems**|Jan Deriu et.al.|[2202.13887v1](http://arxiv.org/abs/2202.13887v1)|null|
+|**2022-02-28**|**Provably Efficient Convergence of Primal-Dual Actor-Critic with Nonlinear Function Approximation**|Jing Dong et.al.|[2202.13863v1](http://arxiv.org/abs/2202.13863v1)|null|
+|**2022-02-28**|**Monkey Business: Reinforcement learning meets neighborhood search for Virtual Network Embedding**|Maxime Elkael et.al.|[2202.13706v1](http://arxiv.org/abs/2202.13706v1)|null|
+|**2022-02-28**|**Hierarchical Policy Learning for Mechanical Search**|Oussama Zenkri et.al.|[2202.13680v1](http://arxiv.org/abs/2202.13680v1)|null|
+|**2022-02-28**|**A Survey on Recent Advances and Challenges in Reinforcement LearningMethods for Task-Oriented Dialogue Policy Learning**|Wai-Chung Kwan et.al.|[2202.13675v1](http://arxiv.org/abs/2202.13675v1)|null|
+|**2022-02-28**|**Avalanche RL: a Continual Reinforcement Learning Library**|Nicolò Lucchesi et.al.|[2202.13657v1](http://arxiv.org/abs/2202.13657v1)|null|
+|**2022-02-28**|**Hierarchical Multi-Agent DRL-Based Framework for Joint Multi-RAT Assignment and Dynamic Resource Allocation in Next-Generation HetNets**|Abdulmalik Alwarafy et.al.|[2202.13652v1](http://arxiv.org/abs/2202.13652v1)|null|
+|**2022-02-28**|**Weakly Supervised Disentangled Representation for Goal-conditioned Reinforcement Learning**|Zhifeng Qian et.al.|[2202.13624v1](http://arxiv.org/abs/2202.13624v1)|null|
 |**2022-02-25**|**Learning to Identify Perceptual Bugs in 3D Video Games**|Benedict Wilkins et.al.|[2202.12884v1](http://arxiv.org/abs/2202.12884v1)|null|
 |**2022-02-25**|**AutoFR: Automated Filter Rule Generation for Adblocking**|Hieu Le et.al.|[2202.12872v1](http://arxiv.org/abs/2202.12872v1)|null|
 |**2022-02-25**|**Learning to Schedule Heuristics for the Simultaneous Stochastic Optimization of Mining Complexes**|Yassine Yaakoubi et.al.|[2202.12866v1](http://arxiv.org/abs/2202.12866v1)|null|
@@ -846,6 +856,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-28**|**RouteNet-Erlang: A Graph Neural Network for Network Performance Evaluation**|Miquel Ferriol-Galmés et.al.|[2202.13956v1](http://arxiv.org/abs/2202.13956v1)|null|
+|**2022-02-28**|**Data-Augmentation for Graph Neural Network Learning of the Relaxed Energies of Unrelaxed Structures**|Jason B. Gibson et.al.|[2202.13947v1](http://arxiv.org/abs/2202.13947v1)|null|
+|**2022-02-28**|**Differential equation and probability inspired graph neural networks for latent variable learning**|Zhuangwei Shi et.al.|[2202.13800v1](http://arxiv.org/abs/2202.13800v1)|**[link](https://github.com/zshicode/latent-variable-gnn)**|
+|**2022-02-28**|**Filter-enhanced MLP is All You Need for Sequential Recommendation**|Kun Zhou et.al.|[2202.13556v1](http://arxiv.org/abs/2202.13556v1)|**[link](https://github.com/rucaibox/fmlp-rec)**|
+|**2022-02-28**|**RawlsGCN: Towards Rawlsian Difference Principle on Graph Convolutional Network**|Jian Kang et.al.|[2202.13547v1](http://arxiv.org/abs/2202.13547v1)|null|
+|**2022-02-28**|**Algorithm and System Co-design for Efficient Subgraph-based Graph Representation Learning**|Haoteng Yin et.al.|[2202.13538v1](http://arxiv.org/abs/2202.13538v1)|null|
+|**2022-02-28**|**Sparse Graph Learning with Eigen-gap for Spectral Filter Training in Graph Convolutional Networks**|Jin Zeng et.al.|[2202.13526v1](http://arxiv.org/abs/2202.13526v1)|null|
+|**2022-02-28**|**ESW Edge-Weights : Ensemble Stochastic Watershed Edge-Weights for Hyperspectral Image Classification**|Rohan Agarwal et.al.|[2202.13502v1](http://arxiv.org/abs/2202.13502v1)|null|
+|**2022-02-27**|**Distribution Preserving Graph Representation Learning**|Chengsheng Mao et.al.|[2202.13428v1](http://arxiv.org/abs/2202.13428v1)|null|
+|**2022-02-27**|**DAGAM: A Domain Adversarial Graph Attention Model for Subject Independent EEG-Based Emotion Recognition**|Tao Xu et.al.|[2202.12948v1](http://arxiv.org/abs/2202.12948v1)|null|
 |**2022-02-25**|**Spatio-Temporal Latent Graph Structure Learning for Traffic Forecasting**|Jiabin Tang et.al.|[2202.12586v1](http://arxiv.org/abs/2202.12586v1)|null|
 |**2022-02-25**|**NeuralKG: An Open Source Library for Diverse Representation Learning of Knowledge Graphs**|Wen Zhang et.al.|[2202.12571v1](http://arxiv.org/abs/2202.12571v1)|**[link](https://github.com/zjukg/neuralkg)**|
 |**2022-02-25**|**Improved Dual Correlation Reduction Network**|Yue Liu et.al.|[2202.12533v1](http://arxiv.org/abs/2202.12533v1)|null|
