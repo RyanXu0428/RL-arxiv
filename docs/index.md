@@ -100,7 +100,7 @@ layout: default
 |**2022-02-28**|**Monkey Business: Reinforcement learning meets neighborhood search for Virtual Network Embedding**|Maxime Elkael et.al.|[2202.13706v1](http://arxiv.org/abs/2202.13706v1)|null|
 |**2022-02-28**|**Hierarchical Policy Learning for Mechanical Search**|Oussama Zenkri et.al.|[2202.13680v1](http://arxiv.org/abs/2202.13680v1)|null|
 |**2022-02-28**|**A Survey on Recent Advances and Challenges in Reinforcement LearningMethods for Task-Oriented Dialogue Policy Learning**|Wai-Chung Kwan et.al.|[2202.13675v1](http://arxiv.org/abs/2202.13675v1)|null|
-|**2022-02-28**|**Avalanche RL: a Continual Reinforcement Learning Library**|Nicolò Lucchesi et.al.|[2202.13657v1](http://arxiv.org/abs/2202.13657v1)|null|
+|**2022-02-28**|**Avalanche RL: a Continual Reinforcement Learning Library**|Nicolò Lucchesi et.al.|[2202.13657v1](http://arxiv.org/abs/2202.13657v1)|**[link](https://github.com/nicklucche/continual-habitat-lab)**|
 |**2022-02-28**|**Hierarchical Multi-Agent DRL-Based Framework for Joint Multi-RAT Assignment and Dynamic Resource Allocation in Next-Generation HetNets**|Abdulmalik Alwarafy et.al.|[2202.13652v1](http://arxiv.org/abs/2202.13652v1)|null|
 |**2022-02-28**|**Weakly Supervised Disentangled Representation for Goal-conditioned Reinforcement Learning**|Zhifeng Qian et.al.|[2202.13624v1](http://arxiv.org/abs/2202.13624v1)|null|
 |**2022-02-25**|**Learning to Identify Perceptual Bugs in 3D Video Games**|Benedict Wilkins et.al.|[2202.12884v1](http://arxiv.org/abs/2202.12884v1)|null|
