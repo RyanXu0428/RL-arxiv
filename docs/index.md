@@ -96,11 +96,11 @@ layout: default
 |**2022-02-25**|**Learning to Identify Perceptual Bugs in 3D Video Games**|Benedict Wilkins et.al.|[2202.12884v1](http://arxiv.org/abs/2202.12884v1)|null|
 |**2022-02-25**|**AutoFR: Automated Filter Rule Generation for Adblocking**|Hieu Le et.al.|[2202.12872v1](http://arxiv.org/abs/2202.12872v1)|null|
 |**2022-02-25**|**Learning to Schedule Heuristics for the Simultaneous Stochastic Optimization of Mining Complexes**|Yassine Yaakoubi et.al.|[2202.12866v1](http://arxiv.org/abs/2202.12866v1)|null|
-|**2022-02-25**|**Hierarchical Control for Multi-Agent Autonomous Racing**|Rishabh Saumil Thakkar et.al.|[2202.12861v1](http://arxiv.org/abs/2202.12861v1)|**[link](https://github.com/ribsthakkar/HierarchicalKarting)**|
+|**2022-02-25**|**Hierarchical Control for Multi-Agent Autonomous Racing**|Rishabh Saumil Thakkar et.al.|[2202.12861v2](http://arxiv.org/abs/2202.12861v2)|**[link](https://github.com/ribsthakkar/HierarchicalKarting)**|
 |**2022-02-25**|**Building a 3-Player Mahjong AI using Deep Reinforcement Learning**|Xiangyu Zhao et.al.|[2202.12847v1](http://arxiv.org/abs/2202.12847v1)|null|
 |**2022-02-25**|**Inter-Cell Slicing Resource Partitioning via Coordinated Multi-Agent Deep Reinforcement Learning**|Tianlun Hu et.al.|[2202.12833v1](http://arxiv.org/abs/2202.12833v1)|null|
 |**2022-02-25**|**Learning Dynamic Mechanisms in Unknown Environments: A Reinforcement Learning Approach**|Boxiang Lyu et.al.|[2202.12797v1](http://arxiv.org/abs/2202.12797v1)|null|
-|**2022-02-25**|**Hybrid Robotic Grasping with a Soft Multimodal Gripper and a Deep Multistage Learning Scheme**|Fukang Liu et.al.|[2202.12796v1](http://arxiv.org/abs/2202.12796v1)|null|
+|**2022-02-25**|**Hybrid Robotic Grasping with a Soft Multimodal Gripper and a Deep Multistage Learning Scheme**|Fukang Liu et.al.|[2202.12796v2](http://arxiv.org/abs/2202.12796v2)|null|
 |**2022-02-25**|**Behaviorally Grounded Model-Based and Model Free Cost Reduction in a Simulated Multi-Echelon Supply Chain**|James Paine et.al.|[2202.12786v1](http://arxiv.org/abs/2202.12786v1)|**[link](https://github.com/jpain3/taming-the-bull)**|
 |**2022-02-25**|**Machine learning flow control with few sensor feedback and measurement noise**|R. Castellanos et.al.|[2202.12685v1](http://arxiv.org/abs/2202.12685v1)|null|
 |**2022-02-24**|**Self-organising Urban Traffic control on micro-level using Reinforcement Learning and Agent-based Modelling**|Stefan Bosse et.al.|[2202.12260v1](http://arxiv.org/abs/2202.12260v1)|null|
