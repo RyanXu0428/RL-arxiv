@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-01**|**AI Planning Annotation for Sample Efficient Reinforcement Learning**|Junkyu Lee et.al.|[2203.00669v1](http://arxiv.org/abs/2203.00669v1)|null|
+|**2022-03-01**|**Distributional Reinforcement Learning for Scheduling of (Bio)chemical Production Processes**|Max Mowbray et.al.|[2203.00636v1](http://arxiv.org/abs/2203.00636v1)|null|
+|**2022-03-01**|**On the Generalization of Representations in Reinforcement Learning**|Charline Le Lan et.al.|[2203.00543v1](http://arxiv.org/abs/2203.00543v1)|null|
+|**2022-03-01**|**DreamingV2: Reinforcement Learning with Discrete World Models without Reconstruction**|Masashi Okada et.al.|[2203.00494v1](http://arxiv.org/abs/2203.00494v1)|null|
+|**2022-03-01**|**A Theory of Abstraction in Reinforcement Learning**|David Abel et.al.|[2203.00397v1](http://arxiv.org/abs/2203.00397v1)|null|
+|**2022-03-01**|**Approximating a deep reinforcement learning docking agent using linear model trees**|Vilde B. Gjærum et.al.|[2203.00369v1](http://arxiv.org/abs/2203.00369v1)|null|
+|**2022-03-01**|**Explaining a Deep Reinforcement Learning Docking Agent Using Linear Model Trees with User Adapted Visualization**|Vilde B. Gjærum et.al.|[2203.00368v1](http://arxiv.org/abs/2203.00368v1)|null|
+|**2022-03-01**|**Diffusive shock acceleration at oblique high Mach number shocks**|Allard Jan van Marle et.al.|[2203.00353v1](http://arxiv.org/abs/2203.00353v1)|null|
+|**2022-03-01**|**Affordance Learning from Play for Sample-Efficient Policy Learning**|Jessica Borja-Diaz et.al.|[2203.00352v1](http://arxiv.org/abs/2203.00352v1)|null|
+|**2022-03-01**|**Structured Output Feedback Control for Linear Quadratic Regulator Using Policy Gradient Method**|Shokichi Takakura et.al.|[2203.00289v1](http://arxiv.org/abs/2203.00289v1)|null|
 |**2022-02-28**|**Combining Modular Skills in Multitask Learning**|Edoardo M. Ponti et.al.|[2202.13914v2](http://arxiv.org/abs/2202.13914v2)|null|
 |**2022-02-28**|**Pessimistic Q-Learning for Offline Reinforcement Learning: Towards Optimal Sample Complexity**|Laixi Shi et.al.|[2202.13890v1](http://arxiv.org/abs/2202.13890v1)|null|
 |**2022-02-28**|**Probing the Robustness of Trained Metrics for Conversational Dialogue Systems**|Jan Deriu et.al.|[2202.13887v1](http://arxiv.org/abs/2202.13887v1)|null|
@@ -860,6 +870,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-01**|**PaSca: a Graph Neural Architecture Search System under the Scalable Paradigm**|Wentao Zhang et.al.|[2203.00638v1](http://arxiv.org/abs/2203.00638v1)|null|
+|**2022-03-01**|**Descriptellation: Deep Learned Constellation Descriptors for SLAM**|Chunwei Xing et.al.|[2203.00567v1](http://arxiv.org/abs/2203.00567v1)|null|
+|**2022-03-01**|**Attention-based Contextual Multi-View Graph Convolutional Networks for Short-term Population Prediction**|Yuki Kubota et.al.|[2203.00489v1](http://arxiv.org/abs/2203.00489v1)|null|
+|**2022-03-01**|**Motion-aware Dynamic Graph Neural Network for Video Compressive Sensing**|Ruiying Lu et.al.|[2203.00387v1](http://arxiv.org/abs/2203.00387v1)|null|
+|**2022-03-01**|**Equivariant and Stable Positional Encoding for More Powerful Graph Neural Networks**|Haorui Wang et.al.|[2203.00199v1](http://arxiv.org/abs/2203.00199v1)|**[link](https://github.com/graph-com/peg)**|
+|**2022-03-01**|**GROW: A Row-Stationary Sparse-Dense GEMM Accelerator for Memory-Efficient Graph Convolutional Neural Networks**|Minhoo Kang et.al.|[2203.00158v1](http://arxiv.org/abs/2203.00158v1)|null|
+|**2022-02-28**|**GraphWorld: Fake Graphs Bring Real Insights for GNNs**|John Palowitch et.al.|[2203.00112v1](http://arxiv.org/abs/2203.00112v1)|null|
 |**2022-02-28**|**RouteNet-Erlang: A Graph Neural Network for Network Performance Evaluation**|Miquel Ferriol-Galmés et.al.|[2202.13956v1](http://arxiv.org/abs/2202.13956v1)|null|
 |**2022-02-28**|**Data-Augmentation for Graph Neural Network Learning of the Relaxed Energies of Unrelaxed Structures**|Jason B. Gibson et.al.|[2202.13947v1](http://arxiv.org/abs/2202.13947v1)|null|
 |**2022-02-28**|**Differential equation and probability inspired graph neural networks for latent variable learning**|Zhuangwei Shi et.al.|[2202.13800v1](http://arxiv.org/abs/2202.13800v1)|**[link](https://github.com/zshicode/latent-variable-gnn)**|
