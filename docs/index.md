@@ -93,7 +93,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-02-28**|**Combining Modular Skills in Multitask Learning**|Edoardo M. Ponti et.al.|[2202.13914v1](http://arxiv.org/abs/2202.13914v1)|null|
+|**2022-02-28**|**Combining Modular Skills in Multitask Learning**|Edoardo M. Ponti et.al.|[2202.13914v2](http://arxiv.org/abs/2202.13914v2)|null|
 |**2022-02-28**|**Pessimistic Q-Learning for Offline Reinforcement Learning: Towards Optimal Sample Complexity**|Laixi Shi et.al.|[2202.13890v1](http://arxiv.org/abs/2202.13890v1)|null|
 |**2022-02-28**|**Probing the Robustness of Trained Metrics for Conversational Dialogue Systems**|Jan Deriu et.al.|[2202.13887v1](http://arxiv.org/abs/2202.13887v1)|null|
 |**2022-02-28**|**Provably Efficient Convergence of Primal-Dual Actor-Critic with Nonlinear Function Approximation**|Jing Dong et.al.|[2202.13863v1](http://arxiv.org/abs/2202.13863v1)|null|
