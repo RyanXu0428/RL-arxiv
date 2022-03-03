@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-02**|**Evolving Curricula with Regret-Based Environment Design**|Jack Parker-Holder et.al.|[2203.01302v1](http://arxiv.org/abs/2203.01302v1)|null|
+|**2022-03-02**|**Pareto Frontier Approximation Network (PA-Net) to Solve Bi-objective TSP**|Ishaan Mehta et.al.|[2203.01298v1](http://arxiv.org/abs/2203.01298v1)|null|
+|**2022-03-02**|**Andes_gym: A Versatile Environment for Deep Reinforcement Learning in Power Systems**|Hantao Cui et.al.|[2203.01292v1](http://arxiv.org/abs/2203.01292v1)|null|
+|**2022-03-02**|**Model-free Neural Lyapunov Control for Safe Robot Navigation**|Zikang Xiong et.al.|[2203.01190v1](http://arxiv.org/abs/2203.01190v1)|null|
+|**2022-03-02**|**Reactive Stepping for Humanoid Robots using Reinforcement Learning: Application to Standing Push Recovery on the Exoskeleton Atalante**|Alexis Duburcq et.al.|[2203.01148v1](http://arxiv.org/abs/2203.01148v1)|null|
+|**2022-03-02**|**Reliable validation of Reinforcement Learning Benchmarks**|Matthias Müller-Brockhausen et.al.|[2203.01075v1](http://arxiv.org/abs/2203.01075v1)|null|
+|**2022-03-02**|**Learning in Sparse Rewards settings through Quality-Diversity algorithms**|Giuseppe Paolo et.al.|[2203.01027v1](http://arxiv.org/abs/2203.01027v1)|null|
+|**2022-03-02**|**Improving the Diversity of Bootstrapped DQN via Noisy Priors**|Li Meng et.al.|[2203.01004v1](http://arxiv.org/abs/2203.01004v1)|null|
+|**2022-03-02**|**Combining Reinforcement Learning and Optimal Transport for the Traveling Salesman Problem**|Yong Liang Goh et.al.|[2203.00903v1](http://arxiv.org/abs/2203.00903v1)|null|
+|**2022-03-02**|**A Learning Based Framework for Handling Uncertain Lead Times in Multi-Product Inventory Management**|Hardik Meisheri et.al.|[2203.00885v1](http://arxiv.org/abs/2203.00885v1)|null|
 |**2022-03-01**|**AI Planning Annotation for Sample Efficient Reinforcement Learning**|Junkyu Lee et.al.|[2203.00669v1](http://arxiv.org/abs/2203.00669v1)|null|
 |**2022-03-01**|**Distributional Reinforcement Learning for Scheduling of (Bio)chemical Production Processes**|Max Mowbray et.al.|[2203.00636v1](http://arxiv.org/abs/2203.00636v1)|null|
 |**2022-03-01**|**On the Generalization of Representations in Reinforcement Learning**|Charline Le Lan et.al.|[2203.00543v1](http://arxiv.org/abs/2203.00543v1)|null|
@@ -866,6 +876,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-02**|**GNN-based end-to-end reconstruction in the CMS Phase 2 High-Granularity Calorimeter**|Saptaparna Bhattacharya et.al.|[2203.01189v1](http://arxiv.org/abs/2203.01189v1)|null|
+|**2022-03-02**|**Visual Feature Encoding for GNNs on Road Networks**|Oliver Stromann et.al.|[2203.01187v1](http://arxiv.org/abs/2203.01187v1)|null|
+|**2022-03-02**|**Information Gain Propagation: a new way to Graph Active Learning with Soft Labels**|Wentao Zhang et.al.|[2203.01093v1](http://arxiv.org/abs/2203.01093v1)|**[link](https://github.com/zwt233/igp)**|
+|**2022-03-02**|**GAP: Differentially Private Graph Neural Networks with Aggregation Perturbation**|Sina Sajadmanesh et.al.|[2203.00949v1](http://arxiv.org/abs/2203.00949v1)|null|
+|**2022-03-02**|**3DCTN: 3D Convolution-Transformer Network for Point Cloud Classification**|Dening Lu et.al.|[2203.00828v1](http://arxiv.org/abs/2203.00828v1)|null|
 |**2022-03-01**|**PaSca: a Graph Neural Architecture Search System under the Scalable Paradigm**|Wentao Zhang et.al.|[2203.00638v1](http://arxiv.org/abs/2203.00638v1)|null|
 |**2022-03-01**|**Descriptellation: Deep Learned Constellation Descriptors for SLAM**|Chunwei Xing et.al.|[2203.00567v1](http://arxiv.org/abs/2203.00567v1)|null|
 |**2022-03-01**|**Attention-based Contextual Multi-View Graph Convolutional Networks for Short-term Population Prediction**|Yuki Kubota et.al.|[2203.00489v1](http://arxiv.org/abs/2203.00489v1)|null|
