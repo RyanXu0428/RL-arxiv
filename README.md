@@ -871,7 +871,7 @@
 |**2022-03-01**|**Attention-based Contextual Multi-View Graph Convolutional Networks for Short-term Population Prediction**|Yuki Kubota et.al.|[2203.00489v1](http://arxiv.org/abs/2203.00489v1)|null|
 |**2022-03-01**|**Motion-aware Dynamic Graph Neural Network for Video Compressive Sensing**|Ruiying Lu et.al.|[2203.00387v1](http://arxiv.org/abs/2203.00387v1)|null|
 |**2022-03-01**|**Equivariant and Stable Positional Encoding for More Powerful Graph Neural Networks**|Haorui Wang et.al.|[2203.00199v1](http://arxiv.org/abs/2203.00199v1)|**[link](https://github.com/graph-com/peg)**|
-|**2022-03-01**|**GROW: A Row-Stationary Sparse-Dense GEMM Accelerator for Memory-Efficient Graph Convolutional Neural Networks**|Minhoo Kang et.al.|[2203.00158v1](http://arxiv.org/abs/2203.00158v1)|null|
+|**2022-03-01**|**GROW: A Row-Stationary Sparse-Dense GEMM Accelerator for Memory-Efficient Graph Convolutional Neural Networks**|Minhoo Kang et.al.|[2203.00158v2](http://arxiv.org/abs/2203.00158v2)|null|
 |**2022-02-28**|**GraphWorld: Fake Graphs Bring Real Insights for GNNs**|John Palowitch et.al.|[2203.00112v1](http://arxiv.org/abs/2203.00112v1)|null|
 |**2022-02-28**|**RouteNet-Erlang: A Graph Neural Network for Network Performance Evaluation**|Miquel Ferriol-Galmés et.al.|[2202.13956v1](http://arxiv.org/abs/2202.13956v1)|null|
 |**2022-02-28**|**Data-Augmentation for Graph Neural Network Learning of the Relaxed Energies of Unrelaxed Structures**|Jason B. Gibson et.al.|[2202.13947v1](http://arxiv.org/abs/2202.13947v1)|null|
