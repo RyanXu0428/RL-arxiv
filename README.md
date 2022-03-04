@@ -90,7 +90,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-03-02**|**Evolving Curricula with Regret-Based Environment Design**|Jack Parker-Holder et.al.|[2203.01302v1](http://arxiv.org/abs/2203.01302v1)|null|
-|**2022-03-02**|**Pareto Frontier Approximation Network (PA-Net) to Solve Bi-objective TSP**|Ishaan Mehta et.al.|[2203.01298v1](http://arxiv.org/abs/2203.01298v1)|null|
+|**2022-03-02**|**Pareto Frontier Approximation Network (PA-Net) to Solve Bi-objective TSP**|Ishaan Mehta et.al.|[2203.01298v2](http://arxiv.org/abs/2203.01298v2)|null|
 |**2022-03-02**|**Andes_gym: A Versatile Environment for Deep Reinforcement Learning in Power Systems**|Hantao Cui et.al.|[2203.01292v1](http://arxiv.org/abs/2203.01292v1)|null|
 |**2022-03-02**|**Model-free Neural Lyapunov Control for Safe Robot Navigation**|Zikang Xiong et.al.|[2203.01190v1](http://arxiv.org/abs/2203.01190v1)|null|
 |**2022-03-02**|**Reactive Stepping for Humanoid Robots using Reinforcement Learning: Application to Standing Push Recovery on the Exoskeleton Atalante**|Alexis Duburcq et.al.|[2203.01148v1](http://arxiv.org/abs/2203.01148v1)|null|
@@ -885,7 +885,7 @@
 |**2022-03-01**|**Descriptellation: Deep Learned Constellation Descriptors for SLAM**|Chunwei Xing et.al.|[2203.00567v1](http://arxiv.org/abs/2203.00567v1)|null|
 |**2022-03-01**|**Attention-based Contextual Multi-View Graph Convolutional Networks for Short-term Population Prediction**|Yuki Kubota et.al.|[2203.00489v1](http://arxiv.org/abs/2203.00489v1)|null|
 |**2022-03-01**|**Motion-aware Dynamic Graph Neural Network for Video Compressive Sensing**|Ruiying Lu et.al.|[2203.00387v1](http://arxiv.org/abs/2203.00387v1)|null|
-|**2022-03-01**|**Equivariant and Stable Positional Encoding for More Powerful Graph Neural Networks**|Haorui Wang et.al.|[2203.00199v1](http://arxiv.org/abs/2203.00199v1)|**[link](https://github.com/graph-com/peg)**|
+|**2022-03-01**|**Equivariant and Stable Positional Encoding for More Powerful Graph Neural Networks**|Haorui Wang et.al.|[2203.00199v2](http://arxiv.org/abs/2203.00199v2)|**[link](https://github.com/graph-com/peg)**|
 |**2022-03-01**|**GROW: A Row-Stationary Sparse-Dense GEMM Accelerator for Memory-Efficient Graph Convolutional Neural Networks**|Minhoo Kang et.al.|[2203.00158v2](http://arxiv.org/abs/2203.00158v2)|null|
 |**2022-02-28**|**GraphWorld: Fake Graphs Bring Real Insights for GNNs**|John Palowitch et.al.|[2203.00112v1](http://arxiv.org/abs/2203.00112v1)|null|
 |**2022-02-28**|**RouteNet-Erlang: A Graph Neural Network for Network Performance Evaluation**|Miquel Ferriol-Galmés et.al.|[2202.13956v1](http://arxiv.org/abs/2202.13956v1)|null|
