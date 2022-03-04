@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-03**|**Quantum Reinforcement Learning via Policy Iteration**|El Amine Cherrat et.al.|[2203.01889v1](http://arxiv.org/abs/2203.01889v1)|null|
+|**2022-03-03**|**Reasoning about Counterfactuals to Improve Human Inverse Reinforcement Learning**|Michael S. Lee et.al.|[2203.01855v1](http://arxiv.org/abs/2203.01855v1)|null|
+|**2022-03-03**|**Socially Aware Robot Crowd Navigation with Interaction Graphs and Human Trajectory Prediction**|Shuijing Liu et.al.|[2203.01821v1](http://arxiv.org/abs/2203.01821v1)|null|
+|**2022-03-03**|**On Practical Reinforcement Learning: Provable Robustness, Scalability, and Statistical Efficiency**|Thanh Nguyen-Tang et.al.|[2203.01758v1](http://arxiv.org/abs/2203.01758v1)|null|
+|**2022-03-03**|**Modality-Adaptive Mixup and Invariant Decomposition for RGB-Infrared Person Re-Identification**|Zhipeng Huang et.al.|[2203.01735v1](http://arxiv.org/abs/2203.01735v1)|null|
+|**2022-03-03**|**Reinforcement Learning in Possibly Nonstationary Environments**|Mengbing Li et.al.|[2203.01707v1](http://arxiv.org/abs/2203.01707v1)|**[link](https://github.com/limengbinggz/cusum-rl)**|
+|**2022-03-03**|**Optimized cost function for demand response coordination of multiple EV charging stations using reinforcement learning**|Manu Lahariya et.al.|[2203.01654v1](http://arxiv.org/abs/2203.01654v1)|null|
+|**2022-03-03**|**The Best of Both Worlds: Reinforcement Learning with Logarithmic Regret and Policy Switches**|Grigoris Velegkas et.al.|[2203.01491v1](http://arxiv.org/abs/2203.01491v1)|null|
+|**2022-03-03**|**Deep Q-network using reservoir computing with multi-layered readout**|Toshitaka Matsuki et.al.|[2203.01465v1](http://arxiv.org/abs/2203.01465v1)|null|
+|**2022-03-02**|**Scalable Bayesian Optimization Using Vecchia Approximations of Gaussian Processes**|Felix Jimenez et.al.|[2203.01459v1](http://arxiv.org/abs/2203.01459v1)|null|
 |**2022-03-02**|**Evolving Curricula with Regret-Based Environment Design**|Jack Parker-Holder et.al.|[2203.01302v1](http://arxiv.org/abs/2203.01302v1)|null|
 |**2022-03-02**|**Pareto Frontier Approximation Network (PA-Net) to Solve Bi-objective TSP**|Ishaan Mehta et.al.|[2203.01298v2](http://arxiv.org/abs/2203.01298v2)|null|
 |**2022-03-02**|**Andes_gym: A Versatile Environment for Deep Reinforcement Learning in Power Systems**|Hantao Cui et.al.|[2203.01292v1](http://arxiv.org/abs/2203.01292v1)|null|
@@ -880,6 +890,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-03**|**Pay Attention to Relations: Multi-embeddings for Attributed Multiplex Networks**|Joshua Melton et.al.|[2203.01903v1](http://arxiv.org/abs/2203.01903v1)|null|
+|**2022-03-03**|**On an application of graph neural networks in population based SHM**|G. Tsialiamanis et.al.|[2203.01646v1](http://arxiv.org/abs/2203.01646v1)|null|
+|**2022-03-03**|**Neural Graph Matching for Pre-training Graph Neural Networks**|Yupeng Hou et.al.|[2203.01597v1](http://arxiv.org/abs/2203.01597v1)|**[link](https://github.com/rucaibox/gmpt)**|
+|**2022-03-03**|**MetaDT: Meta Decision Tree for Interpretable Few-Shot Learning**|Baoquan Zhang et.al.|[2203.01482v1](http://arxiv.org/abs/2203.01482v1)|null|
+|**2022-03-03**|**Spatial-Temporal Gating-Adjacency GCN for Human Motion Prediction**|Chongyang Zhong et.al.|[2203.01474v1](http://arxiv.org/abs/2203.01474v1)|null|
 |**2022-03-02**|**GNN-based end-to-end reconstruction in the CMS Phase 2 High-Granularity Calorimeter**|Saptaparna Bhattacharya et.al.|[2203.01189v1](http://arxiv.org/abs/2203.01189v1)|null|
 |**2022-03-02**|**Visual Feature Encoding for GNNs on Road Networks**|Oliver Stromann et.al.|[2203.01187v1](http://arxiv.org/abs/2203.01187v1)|null|
 |**2022-03-02**|**Information Gain Propagation: a new way to Graph Active Learning with Soft Labels**|Wentao Zhang et.al.|[2203.01093v1](http://arxiv.org/abs/2203.01093v1)|**[link](https://github.com/zwt233/igp)**|
