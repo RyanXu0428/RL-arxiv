@@ -89,6 +89,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-04**|**Learning Goal-Oriented Non-Prehensile Pushing in Cluttered Scenes**|Nils Dengler et.al.|[2203.02389v1](http://arxiv.org/abs/2203.02389v1)|null|
+|**2022-03-04**|**Where to Look Next: Learning Viewpoint Recommendations for Informative Trajectory Planning**|Max Lodel et.al.|[2203.02381v1](http://arxiv.org/abs/2203.02381v1)|null|
+|**2022-03-04**|**Cloud-Edge Training Architecture for Sim-to-Real Deep Reinforcement Learning**|Hongpeng Cao et.al.|[2203.02230v1](http://arxiv.org/abs/2203.02230v1)|null|
+|**2022-03-04**|**Neural Simulated Annealing**|Alvaro H. C. Correia et.al.|[2203.02201v1](http://arxiv.org/abs/2203.02201v1)|null|
+|**2022-03-04**|**Training language models to follow instructions with human feedback**|Long Ouyang et.al.|[2203.02155v1](http://arxiv.org/abs/2203.02155v1)|**[link](https://github.com/openai/following-instructions-human-feedback)**|
+|**2022-03-04**|**GraspARL: Dynamic Grasping via Adversarial Reinforcement Learning**|Tianhao Wu et.al.|[2203.02119v1](http://arxiv.org/abs/2203.02119v1)|null|
+|**2022-03-04**|**Learning Category-Level Generalizable Object Manipulation Policy via Generative Adversarial Self-Imitation Learning from Demonstrations**|Hao Shen et.al.|[2203.02107v1](http://arxiv.org/abs/2203.02107v1)|null|
+|**2022-03-03**|**Post-Error Correction for Quantum Annealing Processor using Reinforcement Learning**|Tomasz Śmierzchalski et.al.|[2203.02030v1](http://arxiv.org/abs/2203.02030v1)|null|
+|**2022-03-03**|**Learning Time-optimized Path Tracking with or without Sensory Feedback**|Jonas C. Kiemel et.al.|[2203.01968v1](http://arxiv.org/abs/2203.01968v1)|null|
 |**2022-03-03**|**Quantum Reinforcement Learning via Policy Iteration**|El Amine Cherrat et.al.|[2203.01889v1](http://arxiv.org/abs/2203.01889v1)|null|
 |**2022-03-03**|**Reasoning about Counterfactuals to Improve Human Inverse Reinforcement Learning**|Michael S. Lee et.al.|[2203.01855v1](http://arxiv.org/abs/2203.01855v1)|null|
 |**2022-03-03**|**Socially Aware Robot Crowd Navigation with Interaction Graphs and Human Trajectory Prediction**|Shuijing Liu et.al.|[2203.01821v1](http://arxiv.org/abs/2203.01821v1)|null|
@@ -886,6 +895,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-04**|**Ontological Learning from Weak Labels**|Larry Tang et.al.|[2203.02483v1](http://arxiv.org/abs/2203.02483v1)|null|
+|**2022-03-04**|**R-GCN: The R Could Stand for Random**|Vic Degraeve et.al.|[2203.02424v1](http://arxiv.org/abs/2203.02424v1)|null|
+|**2022-03-04**|**GCNet: Graph Completion Network for Incomplete Multimodal Learning in Conversation**|Zheng Lian et.al.|[2203.02177v1](http://arxiv.org/abs/2203.02177v1)|null|
+|**2022-03-04**|**Time-aware Graph Neural Networks for Entity Alignment between Temporal Knowledge Graphs**|Chengjin_Xu et.al.|[2203.02150v1](http://arxiv.org/abs/2203.02150v1)|**[link](https://github.com/soledad921/tea-gnn)**|
+|**2022-03-04**|**Detecting Offensive Language on Social Networks: An End-to-end Detection Method based on Graph Attention Networks**|Zhenxiong Miao et.al.|[2203.02123v1](http://arxiv.org/abs/2203.02123v1)|null|
+|**2022-03-04**|**Contrastive Graph Convolutional Networks for Hardware Trojan Detection in Third Party IP Cores**|Nikhil Muralidhar et.al.|[2203.02095v1](http://arxiv.org/abs/2203.02095v1)|null|
 |**2022-03-03**|**Pay Attention to Relations: Multi-embeddings for Attributed Multiplex Networks**|Joshua Melton et.al.|[2203.01903v1](http://arxiv.org/abs/2203.01903v1)|null|
 |**2022-03-03**|**On an application of graph neural networks in population based SHM**|G. Tsialiamanis et.al.|[2203.01646v1](http://arxiv.org/abs/2203.01646v1)|null|
 |**2022-03-03**|**Neural Graph Matching for Pre-training Graph Neural Networks**|Yupeng Hou et.al.|[2203.01597v1](http://arxiv.org/abs/2203.01597v1)|**[link](https://github.com/rucaibox/gmpt)**|
