@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-07**|**Influencing Long-Term Behavior in Multiagent Reinforcement Learning**|Dong-Ki Kim et.al.|[2203.03535v1](http://arxiv.org/abs/2203.03535v1)|null|
+|**2022-03-07**|**Reinforcement Learning for Location-Aware Scheduling**|Stelios Stavroulakis et.al.|[2203.03480v1](http://arxiv.org/abs/2203.03480v1)|null|
+|**2022-03-07**|**Graph Neural Networks for Image Classification and Reinforcement Learning using Graph representations**|Naman Goyal et.al.|[2203.03457v1](http://arxiv.org/abs/2203.03457v1)|null|
+|**2022-03-07**|**Safety Verification of Autonomous Systems: A Multi-Fidelity Reinforcement Learning Approach**|Jared J. Beard et.al.|[2203.03451v1](http://arxiv.org/abs/2203.03451v1)|null|
+|**2022-03-07**|**Scalable multi-agent reinforcement learning for distributed control of residential energy flexibility**|Flora Charbonnier et.al.|[2203.03417v1](http://arxiv.org/abs/2203.03417v1)|null|
+|**2022-03-07**|**Reliably Re-Acting to Partner's Actions with the Social Intrinsic Motivation of Transfer Empowerment**|Tessa van der Heiden et.al.|[2203.03355v1](http://arxiv.org/abs/2203.03355v1)|null|
+|**2022-03-07**|**Deep Reinforcement Learning for Entity Alignment**|Lingbing Guo et.al.|[2203.03315v1](http://arxiv.org/abs/2203.03315v1)|null|
+|**2022-03-07**|**On Credit Assignment in Hierarchical Reinforcement Learning**|Joery A. de Vries et.al.|[2203.03292v1](http://arxiv.org/abs/2203.03292v1)|**[link](https://github.com/joeryjoery/hierq)**|
+|**2022-03-07**|**Efficient Cooperation Strategy Generation in Multi-Agent Video Games via Hypergraph Neural Network**|Bin Zhang et.al.|[2203.03265v1](http://arxiv.org/abs/2203.03265v1)|null|
+|**2022-03-07**|**Knowledge Transfer in Deep Reinforcement Learning for Slice-Aware Mobility Robustness Optimization**|Qi Liao et.al.|[2203.03227v1](http://arxiv.org/abs/2203.03227v1)|null|
 |**2022-03-04**|**Learning Goal-Oriented Non-Prehensile Pushing in Cluttered Scenes**|Nils Dengler et.al.|[2203.02389v1](http://arxiv.org/abs/2203.02389v1)|null|
 |**2022-03-04**|**Where to Look Next: Learning Viewpoint Recommendations for Informative Trajectory Planning**|Max Lodel et.al.|[2203.02381v1](http://arxiv.org/abs/2203.02381v1)|null|
 |**2022-03-04**|**Cloud-Edge Training Architecture for Sim-to-Real Deep Reinforcement Learning**|Hongpeng Cao et.al.|[2203.02230v1](http://arxiv.org/abs/2203.02230v1)|null|
@@ -899,6 +909,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-07**|**I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement through Islandization**|Tong Geng et.al.|[2203.03606v1](http://arxiv.org/abs/2203.03606v1)|null|
+|**2022-03-07**|**Novel Architecture of Parameterized Quantum Circuit for Graph Convolutional Network**|Yanhu Chen et.al.|[2203.03251v1](http://arxiv.org/abs/2203.03251v1)|null|
+|**2022-03-07**|**Unpaired Image Captioning by Image-level Weakly-Supervised Visual Concept Recognition**|Peipei Zhu et.al.|[2203.03195v1](http://arxiv.org/abs/2203.03195v1)|null|
+|**2022-03-07**|**Scalable Verification of GNN-based Job Schedulers**|Haoze Wu et.al.|[2203.03153v1](http://arxiv.org/abs/2203.03153v1)|null|
+|**2022-03-07**|**End-to-end video instance segmentation via spatial-temporal graph neural networks**|Tao Wang et.al.|[2203.03145v1](http://arxiv.org/abs/2203.03145v1)|**[link](https://github.com/lucaswithai/visgraph)**|
+|**2022-03-07**|**HintNet: Hierarchical Knowledge Transfer Networks for Traffic Accident Forecasting on Heterogeneous Spatio-Temporal Data**|Bang An et.al.|[2203.03100v1](http://arxiv.org/abs/2203.03100v1)|null|
+|**2022-03-06**|**Story Point Effort Estimation by Text Level Graph Neural Network**|Hung Phan et.al.|[2203.03062v1](http://arxiv.org/abs/2203.03062v1)|null|
+|**2022-03-06**|**Dynamic Key-value Memory Enhanced Multi-step Graph Reasoning for Knowledge-based Visual Question Answering**|Mingxiao Li et.al.|[2203.02985v1](http://arxiv.org/abs/2203.02985v1)|null|
+|**2022-03-06**|**Graph Neural Network Potential for Magnetic Materials**|Hongyu Yu et.al.|[2203.02853v1](http://arxiv.org/abs/2203.02853v1)|null|
+|**2022-03-05**|**MVD: Memory-Related Vulnerability Detection Based on Flow-Sensitive Graph Neural Networks**|Sicong Cao et.al.|[2203.02660v1](http://arxiv.org/abs/2203.02660v1)|null|
 |**2022-03-04**|**Ontological Learning from Weak Labels**|Larry Tang et.al.|[2203.02483v1](http://arxiv.org/abs/2203.02483v1)|null|
 |**2022-03-04**|**R-GCN: The R Could Stand for Random**|Vic Degraeve et.al.|[2203.02424v1](http://arxiv.org/abs/2203.02424v1)|null|
 |**2022-03-04**|**GCNet: Graph Completion Network for Incomplete Multimodal Learning in Conversation**|Zheng Lian et.al.|[2203.02177v1](http://arxiv.org/abs/2203.02177v1)|null|
