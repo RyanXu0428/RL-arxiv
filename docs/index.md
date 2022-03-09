@@ -95,7 +95,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-03-07**|**Influencing Long-Term Behavior in Multiagent Reinforcement Learning**|Dong-Ki Kim et.al.|[2203.03535v1](http://arxiv.org/abs/2203.03535v1)|null|
 |**2022-03-07**|**Reinforcement Learning for Location-Aware Scheduling**|Stelios Stavroulakis et.al.|[2203.03480v1](http://arxiv.org/abs/2203.03480v1)|null|
-|**2022-03-07**|**Graph Neural Networks for Image Classification and Reinforcement Learning using Graph representations**|Naman Goyal et.al.|[2203.03457v1](http://arxiv.org/abs/2203.03457v1)|null|
+|**2022-03-07**|**Graph Neural Networks for Image Classification and Reinforcement Learning using Graph representations**|Naman Goyal et.al.|[2203.03457v2](http://arxiv.org/abs/2203.03457v2)|null|
 |**2022-03-07**|**Safety Verification of Autonomous Systems: A Multi-Fidelity Reinforcement Learning Approach**|Jared J. Beard et.al.|[2203.03451v1](http://arxiv.org/abs/2203.03451v1)|null|
 |**2022-03-07**|**Scalable multi-agent reinforcement learning for distributed control of residential energy flexibility**|Flora Charbonnier et.al.|[2203.03417v1](http://arxiv.org/abs/2203.03417v1)|null|
 |**2022-03-07**|**Reliably Re-Acting to Partner's Actions with the Social Intrinsic Motivation of Transfer Empowerment**|Tessa van der Heiden et.al.|[2203.03355v1](http://arxiv.org/abs/2203.03355v1)|**[link](https://github.com/tessavdheiden/social_empowerment)**|
