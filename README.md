@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-08**|**Policy-Based Bayesian Experimental Design for Non-Differentiable Implicit Models**|Vincent Lim et.al.|[2203.04272v1](http://arxiv.org/abs/2203.04272v1)|null|
+|**2022-03-08**|**Gradient Ascent Pulse Engineering with Feedback**|Riccardo Porotti et.al.|[2203.04271v1](http://arxiv.org/abs/2203.04271v1)|null|
+|**2022-03-08**|**A Sharp Characterization of Linear Estimators for Offline Policy Evaluation**|Juan C. Perdomo et.al.|[2203.04236v1](http://arxiv.org/abs/2203.04236v1)|null|
+|**2022-03-08**|**Learning based Age of Information Minimization in UAV-relayed IoT Networks**|Biplav Choudhury et.al.|[2203.04227v1](http://arxiv.org/abs/2203.04227v1)|null|
+|**2022-03-08**|**Distributed Control using Reinforcement Learning with Temporal-Logic-Based Reward Shaping**|Ningyuan Zhang et.al.|[2203.04172v1](http://arxiv.org/abs/2203.04172v1)|null|
+|**2022-03-08**|**Curriculum-based Reinforcement Learning for Distribution System Critical Load Restoration**|Xiangyu Zhang et.al.|[2203.04166v1](http://arxiv.org/abs/2203.04166v1)|null|
+|**2022-03-08**|**Graph-based Reinforcement Learning meets Mixed Integer Programs: An application to 3D robot assembly discovery**|Niklas Funk et.al.|[2203.04120v1](http://arxiv.org/abs/2203.04120v1)|null|
+|**2022-03-08**|**Robot Learning of Mobile Manipulation with Reachability Behavior Priors**|Snehal Jauhri et.al.|[2203.04051v1](http://arxiv.org/abs/2203.04051v1)|null|
+|**2022-03-08**|**Leveraging Randomized Smoothing for Optimal Control of Nonsmooth Dynamical Systems**|Quentin Le Lidec et.al.|[2203.03986v1](http://arxiv.org/abs/2203.03986v1)|null|
+|**2022-03-08**|**Residual Robot Learning for Object-Centric Probabilistic Movement Primitives**|Joao Carvalho et.al.|[2203.03918v1](http://arxiv.org/abs/2203.03918v1)|null|
 |**2022-03-07**|**Influencing Long-Term Behavior in Multiagent Reinforcement Learning**|Dong-Ki Kim et.al.|[2203.03535v1](http://arxiv.org/abs/2203.03535v1)|null|
 |**2022-03-07**|**Reinforcement Learning for Location-Aware Scheduling**|Stelios Stavroulakis et.al.|[2203.03480v1](http://arxiv.org/abs/2203.03480v1)|null|
 |**2022-03-07**|**Graph Neural Networks for Image Classification and Reinforcement Learning using Graph representations**|Naman Goyal et.al.|[2203.03457v2](http://arxiv.org/abs/2203.03457v2)|null|
@@ -905,8 +915,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-08**|**VoViT: Low Latency Graph-based Audio-Visual Voice Separation Transformer**|Juan F. Montesinos et.al.|[2203.04099v1](http://arxiv.org/abs/2203.04099v1)|**[link](https://github.com/JuanFMontesinos/VoViT)**|
+|**2022-03-08**|**Counting with Adaptive Auxiliary Learning**|Yanda Meng et.al.|[2203.04061v1](http://arxiv.org/abs/2203.04061v1)|**[link](https://github.com/smallmax00/counting_with_adaptive_auxiliary)**|
+|**2022-03-08**|**Graph Attention Transformer Network for Multi-Label Image Classification**|Jin Yuan et.al.|[2203.04049v1](http://arxiv.org/abs/2203.04049v1)|null|
+|**2022-03-08**|**Sparsification and Filtering for Spatial-temporal GNN in Multivariate Time-series**|Yuanrong Wang et.al.|[2203.03991v1](http://arxiv.org/abs/2203.03991v1)|null|
+|**2022-03-08**|**Few-Shot Traffic Prediction with Graph Networks using Locale as Relational Inductive Biases**|Mingxi Li et.al.|[2203.03965v1](http://arxiv.org/abs/2203.03965v1)|null|
+|**2022-03-07**|**Defending Graph Convolutional Networks against Dynamic Graph Perturbations via Bayesian Self-supervision**|Jun Zhuang et.al.|[2203.03762v1](http://arxiv.org/abs/2203.03762v1)|**[link](https://github.com/junzhuang-code/graphss)**|
 |**2022-03-07**|**I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement through Islandization**|Tong Geng et.al.|[2203.03606v1](http://arxiv.org/abs/2203.03606v1)|null|
-|**2022-03-07**|**Novel Architecture of Parameterized Quantum Circuit for Graph Convolutional Network**|Yanhu Chen et.al.|[2203.03251v1](http://arxiv.org/abs/2203.03251v1)|null|
+|**2022-03-07**|**Novel Architecture of Parameterized Quantum Circuit for Graph Convolutional Network**|Yanhu Chen et.al.|[2203.03251v1](http://arxiv.org/abs/2203.03251v1)|**[link](https://github.com/yanhuchen/quantum-graph-convolutional-network)**|
 |**2022-03-07**|**Unpaired Image Captioning by Image-level Weakly-Supervised Visual Concept Recognition**|Peipei Zhu et.al.|[2203.03195v1](http://arxiv.org/abs/2203.03195v1)|null|
 |**2022-03-07**|**Scalable Verification of GNN-based Job Schedulers**|Haoze Wu et.al.|[2203.03153v1](http://arxiv.org/abs/2203.03153v1)|null|
 |**2022-03-07**|**End-to-end video instance segmentation via spatial-temporal graph neural networks**|Tao Wang et.al.|[2203.03145v1](http://arxiv.org/abs/2203.03145v1)|**[link](https://github.com/lucaswithai/visgraph)**|
