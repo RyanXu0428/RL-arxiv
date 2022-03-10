@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.03.09
+## Updated on 2022.03.10
 
 ## SLAM
 
@@ -923,7 +923,7 @@ layout: default
 |**2022-03-08**|**Counting with Adaptive Auxiliary Learning**|Yanda Meng et.al.|[2203.04061v1](http://arxiv.org/abs/2203.04061v1)|**[link](https://github.com/smallmax00/counting_with_adaptive_auxiliary)**|
 |**2022-03-08**|**Graph Attention Transformer Network for Multi-Label Image Classification**|Jin Yuan et.al.|[2203.04049v1](http://arxiv.org/abs/2203.04049v1)|null|
 |**2022-03-08**|**Sparsification and Filtering for Spatial-temporal GNN in Multivariate Time-series**|Yuanrong Wang et.al.|[2203.03991v1](http://arxiv.org/abs/2203.03991v1)|null|
-|**2022-03-08**|**Few-Shot Traffic Prediction with Graph Networks using Locale as Relational Inductive Biases**|Mingxi Li et.al.|[2203.03965v1](http://arxiv.org/abs/2203.03965v1)|null|
+|**2022-03-08**|**Few-Shot Traffic Prediction with Graph Networks using Locale as Relational Inductive Biases**|Mingxi Li et.al.|[2203.03965v1](http://arxiv.org/abs/2203.03965v1)|**[link](https://github.com/mingxilii/localegn)**|
 |**2022-03-07**|**Defending Graph Convolutional Networks against Dynamic Graph Perturbations via Bayesian Self-supervision**|Jun Zhuang et.al.|[2203.03762v1](http://arxiv.org/abs/2203.03762v1)|**[link](https://github.com/junzhuang-code/graphss)**|
 |**2022-03-07**|**I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement through Islandization**|Tong Geng et.al.|[2203.03606v1](http://arxiv.org/abs/2203.03606v1)|null|
 |**2022-03-07**|**Novel Architecture of Parameterized Quantum Circuit for Graph Convolutional Network**|Yanhu Chen et.al.|[2203.03251v1](http://arxiv.org/abs/2203.03251v1)|**[link](https://github.com/yanhuchen/quantum-graph-convolutional-network)**|
