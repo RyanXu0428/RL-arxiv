@@ -93,6 +93,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-09**|**Investigation of Factorized Optical Flows as Mid-Level Representations**|Hsuan-Kung Yang et.al.|[2203.04927v1](http://arxiv.org/abs/2203.04927v1)|null|
+|**2022-03-09**|**On-Robot Policy Learning with $\mathrm{O}(2)$-Equivariant SAC**|Dian Wang et.al.|[2203.04923v1](http://arxiv.org/abs/2203.04923v1)|null|
+|**2022-03-09**|**Neuro-symbolic Natural Logic with Introspective Revision for Natural Language Inference**|Yufei Feng et.al.|[2203.04857v1](http://arxiv.org/abs/2203.04857v1)|null|
+|**2022-03-09**|**Dimensionality Reduction and Prioritized Exploration for Policy Search**|Marius Memmel et.al.|[2203.04791v1](http://arxiv.org/abs/2203.04791v1)|null|
+|**2022-03-09**|**Multi-robot Cooperative Pursuit via Potential Field-Enhanced Reinforcement Learning**|Zheng Zhang et.al.|[2203.04700v1](http://arxiv.org/abs/2203.04700v1)|null|
+|**2022-03-09**|**Gym-saturation: an OpenAI Gym environment for saturation provers**|Boris Shminke et.al.|[2203.04699v1](http://arxiv.org/abs/2203.04699v1)|null|
+|**2022-03-09**|**Multi-Objective reward generalization: Improving performance of Deep Reinforcement Learning for selected applications in stock and cryptocurrency trading**|Federico Cornalba et.al.|[2203.04579v1](http://arxiv.org/abs/2203.04579v1)|null|
+|**2022-03-09**|**Reinforced Meta Active Learning**|Michael Katz et.al.|[2203.04573v1](http://arxiv.org/abs/2203.04573v1)|null|
+|**2022-03-08**|**$\mathrm{SO}(2)$-Equivariant Reinforcement Learning**|Dian Wang et.al.|[2203.04439v1](http://arxiv.org/abs/2203.04439v1)|null|
 |**2022-03-08**|**Policy-Based Bayesian Experimental Design for Non-Differentiable Implicit Models**|Vincent Lim et.al.|[2203.04272v1](http://arxiv.org/abs/2203.04272v1)|null|
 |**2022-03-08**|**Gradient Ascent Pulse Engineering with Feedback**|Riccardo Porotti et.al.|[2203.04271v1](http://arxiv.org/abs/2203.04271v1)|null|
 |**2022-03-08**|**A Sharp Characterization of Linear Estimators for Offline Policy Evaluation**|Juan C. Perdomo et.al.|[2203.04236v1](http://arxiv.org/abs/2203.04236v1)|null|
@@ -919,6 +928,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-09**|**Benchmarking Graphormer on Large-Scale Molecular Modeling Datasets**|Yu Shi et.al.|[2203.04810v1](http://arxiv.org/abs/2203.04810v1)|null|
+|**2022-03-09**|**SkinningNet: Two-Stream Graph Convolutional Neural Network for Skinning Prediction of Synthetic Characters**|Albert Mosella-Montoro et.al.|[2203.04746v1](http://arxiv.org/abs/2203.04746v1)|null|
+|**2022-03-09**|**3D Dense Face Alignment with Fused Features by Aggregating CNNs and GCNs**|Yanda Meng et.al.|[2203.04643v1](http://arxiv.org/abs/2203.04643v1)|null|
+|**2022-03-09**|**Pruning Graph Convolutional Networks to select meaningful graph frequencies for fMRI decoding**|Yassine El Ouahidi et.al.|[2203.04455v1](http://arxiv.org/abs/2203.04455v1)|null|
+|**2022-03-08**|**Cluster Head Detection for Hierarchical UAV Swarm With Graph Self-supervised Learning**|Zhiyu Mou et.al.|[2203.04311v1](http://arxiv.org/abs/2203.04311v1)|null|
 |**2022-03-08**|**VoViT: Low Latency Graph-based Audio-Visual Voice Separation Transformer**|Juan F. Montesinos et.al.|[2203.04099v1](http://arxiv.org/abs/2203.04099v1)|**[link](https://github.com/JuanFMontesinos/VoViT)**|
 |**2022-03-08**|**Counting with Adaptive Auxiliary Learning**|Yanda Meng et.al.|[2203.04061v1](http://arxiv.org/abs/2203.04061v1)|**[link](https://github.com/smallmax00/counting_with_adaptive_auxiliary)**|
 |**2022-03-08**|**Graph Attention Transformer Network for Multi-Label Image Classification**|Jin Yuan et.al.|[2203.04049v1](http://arxiv.org/abs/2203.04049v1)|null|
