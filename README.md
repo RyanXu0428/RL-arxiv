@@ -89,6 +89,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-10**|**Artificial Intelligence in Vehicular Wireless Networks: A Case Study Using ns-3**|Matteo Drago et.al.|[2203.05449v1](http://arxiv.org/abs/2203.05449v1)|null|
+|**2022-03-10**|**Near-optimal Deep Reinforcement Learning Policies from Data for Zone Temperature Control**|Loris Di Natale et.al.|[2203.05434v1](http://arxiv.org/abs/2203.05434v1)|null|
+|**2022-03-10**|**Deep Residual Reinforcement Learning based Autonomous Blimp Control**|Yu Tang Liu et.al.|[2203.05360v1](http://arxiv.org/abs/2203.05360v1)|null|
+|**2022-03-10**|**API: Boosting Multi-Agent Reinforcement Learning via Agent-Permutation-Invariant Networks**|Xiaotian Hao et.al.|[2203.05285v1](http://arxiv.org/abs/2203.05285v1)|**[link](https://github.com/tju-drl-lab/api-marl)**|
+|**2022-03-10**|**Learning Torque Control for Quadrupedal Locomotion**|Shuxiao Chen et.al.|[2203.05194v1](http://arxiv.org/abs/2203.05194v1)|null|
+|**2022-03-10**|**Action-Constrained Reinforcement Learning for Frame-Level Bit Allocation in HEVC/H.265 through Frank-Wolfe Policy Optimization**|Yung-Han Ho et.al.|[2203.05127v1](http://arxiv.org/abs/2203.05127v1)|null|
+|**2022-03-09**|**SAGE: Generating Symbolic Goals for Myopic Models in Deep Reinforcement Learning**|Andrew Chester et.al.|[2203.05079v1](http://arxiv.org/abs/2203.05079v1)|**[link](https://github.com/andrewpaulchester/sage-code)**|
 |**2022-03-09**|**Investigation of Factorized Optical Flows as Mid-Level Representations**|Hsuan-Kung Yang et.al.|[2203.04927v2](http://arxiv.org/abs/2203.04927v2)|null|
 |**2022-03-09**|**On-Robot Policy Learning with $\mathrm{O}(2)$-Equivariant SAC**|Dian Wang et.al.|[2203.04923v1](http://arxiv.org/abs/2203.04923v1)|null|
 |**2022-03-09**|**Neuro-symbolic Natural Logic with Introspective Revision for Natural Language Inference**|Yufei Feng et.al.|[2203.04857v1](http://arxiv.org/abs/2203.04857v1)|null|
@@ -924,6 +931,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-10**|**AGCN: Augmented Graph Convolutional Network for Lifelong Multi-label Image Recognition**|Kaile Du et.al.|[2203.05534v1](http://arxiv.org/abs/2203.05534v1)|null|
+|**2022-03-10**|**Transferring Dual Stochastic Graph Convolutional Network for Facial Micro-expression Recognition**|Hui Tang et.al.|[2203.05208v1](http://arxiv.org/abs/2203.05208v1)|null|
+|**2022-03-10**|**MORE: Multi-Order RElation Mining for Dense Captioning in 3D Scenes**|Yang Jiao et.al.|[2203.05203v1](http://arxiv.org/abs/2203.05203v1)|null|
+|**2022-03-10**|**Earthquake Location and Magnitude Estimation with Graph Neural Networks**|Ian W. McBrearty et.al.|[2203.05144v1](http://arxiv.org/abs/2203.05144v1)|null|
+|**2022-03-10**|**Model-Architecture Co-Design for High Performance Temporal GNN Inference on FPGA**|Hongkuan Zhou et.al.|[2203.05095v1](http://arxiv.org/abs/2203.05095v1)|**[link](https://github.com/zjjzby/tgnn-fpga-ipdps2022)**|
+|**2022-03-09**|**Adaptive Trajectory Prediction via Transferable GNN**|Yi Xu et.al.|[2203.05046v1](http://arxiv.org/abs/2203.05046v1)|null|
 |**2022-03-09**|**Benchmarking Graphormer on Large-Scale Molecular Modeling Datasets**|Yu Shi et.al.|[2203.04810v1](http://arxiv.org/abs/2203.04810v1)|**[link](https://github.com/Microsoft/Graphormer)**|
 |**2022-03-09**|**SkinningNet: Two-Stream Graph Convolutional Neural Network for Skinning Prediction of Synthetic Characters**|Albert Mosella-Montoro et.al.|[2203.04746v1](http://arxiv.org/abs/2203.04746v1)|null|
 |**2022-03-09**|**3D Dense Face Alignment with Fused Features by Aggregating CNNs and GCNs**|Yanda Meng et.al.|[2203.04643v1](http://arxiv.org/abs/2203.04643v1)|null|
