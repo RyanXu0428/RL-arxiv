@@ -89,7 +89,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-03-09**|**Investigation of Factorized Optical Flows as Mid-Level Representations**|Hsuan-Kung Yang et.al.|[2203.04927v1](http://arxiv.org/abs/2203.04927v1)|null|
+|**2022-03-09**|**Investigation of Factorized Optical Flows as Mid-Level Representations**|Hsuan-Kung Yang et.al.|[2203.04927v2](http://arxiv.org/abs/2203.04927v2)|null|
 |**2022-03-09**|**On-Robot Policy Learning with $\mathrm{O}(2)$-Equivariant SAC**|Dian Wang et.al.|[2203.04923v1](http://arxiv.org/abs/2203.04923v1)|null|
 |**2022-03-09**|**Neuro-symbolic Natural Logic with Introspective Revision for Natural Language Inference**|Yufei Feng et.al.|[2203.04857v1](http://arxiv.org/abs/2203.04857v1)|null|
 |**2022-03-09**|**Dimensionality Reduction and Prioritized Exploration for Policy Search**|Marius Memmel et.al.|[2203.04791v1](http://arxiv.org/abs/2203.04791v1)|null|
