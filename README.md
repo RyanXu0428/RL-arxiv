@@ -1,4 +1,4 @@
-## Updated on 2022.03.13
+## Updated on 2022.03.14
 
 ## SLAM
 
@@ -931,7 +931,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-03-10**|**AGCN: Augmented Graph Convolutional Network for Lifelong Multi-label Image Recognition**|Kaile Du et.al.|[2203.05534v1](http://arxiv.org/abs/2203.05534v1)|null|
+|**2022-03-10**|**AGCN: Augmented Graph Convolutional Network for Lifelong Multi-label Image Recognition**|Kaile Du et.al.|[2203.05534v2](http://arxiv.org/abs/2203.05534v2)|null|
 |**2022-03-10**|**Transferring Dual Stochastic Graph Convolutional Network for Facial Micro-expression Recognition**|Hui Tang et.al.|[2203.05208v1](http://arxiv.org/abs/2203.05208v1)|null|
 |**2022-03-10**|**MORE: Multi-Order RElation Mining for Dense Captioning in 3D Scenes**|Yang Jiao et.al.|[2203.05203v1](http://arxiv.org/abs/2203.05203v1)|null|
 |**2022-03-10**|**Earthquake Location and Magnitude Estimation with Graph Neural Networks**|Ian W. McBrearty et.al.|[2203.05144v1](http://arxiv.org/abs/2203.05144v1)|null|
