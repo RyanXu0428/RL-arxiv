@@ -93,6 +93,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-11**|**Masked Visual Pre-training for Motor Control**|Tete Xiao et.al.|[2203.06173v1](http://arxiv.org/abs/2203.06173v1)|null|
+|**2022-03-11**|**A Machine Learning Approach for Prosumer Management in Intraday Electricity Markets**|Saeed Mohammadi et.al.|[2203.06053v1](http://arxiv.org/abs/2203.06053v1)|null|
+|**2022-03-11**|**Graph Neural Networks for Relational Inductive Bias in Vision-based Deep Reinforcement Learning of Robot Control**|Marco Oliva et.al.|[2203.05985v1](http://arxiv.org/abs/2203.05985v1)|null|
+|**2022-03-11**|**Near-optimal Offline Reinforcement Learning with Linear Representation: Leveraging Variance Information with Pessimism**|Ming Yin et.al.|[2203.05804v1](http://arxiv.org/abs/2203.05804v1)|null|
+|**2022-03-11**|**Physics-informed Reinforcement Learning for Perception and Reasoning about Fluids**|Beatriz Moya et.al.|[2203.05775v1](http://arxiv.org/abs/2203.05775v1)|**[link](https://github.com/beatrizmoya/rlfluidperception)**|
+|**2022-03-11**|**Reinforcement Learning for Linear Quadratic Control is Vulnerable Under Cost Manipulation**|Yunhan Huang et.al.|[2203.05774v1](http://arxiv.org/abs/2203.05774v1)|null|
+|**2022-03-11**|**Active Phase-Encode Selection for Slice-Specific Fast MR Scanning Using a Transformer-Based Deep Reinforcement Learning Framework**|Yiming Liu et.al.|[2203.05756v1](http://arxiv.org/abs/2203.05756v1)|null|
+|**2022-03-11**|**Deep Binary Reinforcement Learning for Scalable Verification**|Christopher Lazarus et.al.|[2203.05704v1](http://arxiv.org/abs/2203.05704v1)|null|
+|**2022-03-10**|**Dynamic Scheduling for Minimizing AoI in Resource-Constrained Multi-Source Relaying Systems with Stochastic Arrivals**|Abolfazl Zakeri et.al.|[2203.05656v1](http://arxiv.org/abs/2203.05656v1)|null|
 |**2022-03-10**|**Artificial Intelligence in Vehicular Wireless Networks: A Case Study Using ns-3**|Matteo Drago et.al.|[2203.05449v1](http://arxiv.org/abs/2203.05449v1)|null|
 |**2022-03-10**|**Near-optimal Deep Reinforcement Learning Policies from Data for Zone Temperature Control**|Loris Di Natale et.al.|[2203.05434v1](http://arxiv.org/abs/2203.05434v1)|null|
 |**2022-03-10**|**Deep Residual Reinforcement Learning based Autonomous Blimp Control**|Yu Tang Liu et.al.|[2203.05360v1](http://arxiv.org/abs/2203.05360v1)|**[link](https://github.com/robot-perception-group/autonomousblimpdrl)**|
@@ -935,6 +944,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-11**|**Graph Summarization with Graph Neural Networks**|Maximilian Blasi et.al.|[2203.05919v1](http://arxiv.org/abs/2203.05919v1)|null|
+|**2022-03-11**|**BabyNet: Reconstructing 3D faces of babies from uncalibrated photographs**|Araceli Morales et.al.|[2203.05908v1](http://arxiv.org/abs/2203.05908v1)|null|
+|**2022-03-11**|**PathSAGE: Spatial Graph Attention Neural Networks With Random Path Sampling**|Junhua Ma et.al.|[2203.05793v1](http://arxiv.org/abs/2203.05793v1)|null|
 |**2022-03-10**|**AGCN: Augmented Graph Convolutional Network for Lifelong Multi-label Image Recognition**|Kaile Du et.al.|[2203.05534v2](http://arxiv.org/abs/2203.05534v2)|null|
 |**2022-03-10**|**Transferring Dual Stochastic Graph Convolutional Network for Facial Micro-expression Recognition**|Hui Tang et.al.|[2203.05208v1](http://arxiv.org/abs/2203.05208v1)|null|
 |**2022-03-10**|**MORE: Multi-Order RElation Mining for Dense Captioning in 3D Scenes**|Yang Jiao et.al.|[2203.05203v1](http://arxiv.org/abs/2203.05203v1)|null|
