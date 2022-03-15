@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-14**|**The Efficacy of Pessimism in Asynchronous Q-Learning**|Yuling Yan et.al.|[2203.07368v1](http://arxiv.org/abs/2203.07368v1)|null|
+|**2022-03-14**|**Efficient Model-based Multi-agent Reinforcement Learning via Optimistic Equilibrium Computation**|Pier Giuseppe Sessa et.al.|[2203.07322v1](http://arxiv.org/abs/2203.07322v1)|null|
+|**2022-03-14**|**FRL-FI: Transient Fault Analysis for Federated Reinforcement Learning-Based Navigation Systems**|Zishen Wan et.al.|[2203.07276v1](http://arxiv.org/abs/2203.07276v1)|null|
+|**2022-03-14**|**Optimising low-Reynolds-number predation via optimal control and reinforcement learning**|Guangpu Zhu et.al.|[2203.07196v1](http://arxiv.org/abs/2203.07196v1)|null|
+|**2022-03-14**|**Impedance Adaptation by Reinforcement Learning with Contact Dynamic Movement Primitives**|Chunyang Chang et.al.|[2203.07191v1](http://arxiv.org/abs/2203.07191v1)|null|
+|**2022-03-14**|**Orchestrated Value Mapping for Reinforcement Learning**|Mehdi Fatemi et.al.|[2203.07171v1](http://arxiv.org/abs/2203.07171v1)|null|
+|**2022-03-14**|**The Multi-Agent Pickup and Delivery Problem: MAPF, MARL and Its Warehouse Applications**|Tim Tsz-Kit Lau et.al.|[2203.07092v1](http://arxiv.org/abs/2203.07092v1)|null|
+|**2022-03-14**|**Real-Robot Deep Reinforcement Learning: Improving Trajectory Tracking of Flexible-Joint Manipulator with Reference Correction**|Dmytro Pavlichenko et.al.|[2203.07051v1](http://arxiv.org/abs/2203.07051v1)|null|
+|**2022-03-14**|**Precise atom manipulation through deep reinforcement learning**|I-Ju Chen et.al.|[2203.06975v1](http://arxiv.org/abs/2203.06975v1)|null|
+|**2022-03-14**|**Calibration of Derivative Pricing Models: a Multi-Agent Reinforcement Learning Perspective**|Nelson Vadori et.al.|[2203.06865v1](http://arxiv.org/abs/2203.06865v1)|null|
 |**2022-03-11**|**Masked Visual Pre-training for Motor Control**|Tete Xiao et.al.|[2203.06173v1](http://arxiv.org/abs/2203.06173v1)|null|
 |**2022-03-11**|**A Machine Learning Approach for Prosumer Management in Intraday Electricity Markets**|Saeed Mohammadi et.al.|[2203.06053v1](http://arxiv.org/abs/2203.06053v1)|null|
 |**2022-03-11**|**Graph Neural Networks for Relational Inductive Bias in Vision-based Deep Reinforcement Learning of Robot Control**|Marco Oliva et.al.|[2203.05985v1](http://arxiv.org/abs/2203.05985v1)|null|
@@ -940,6 +950,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-12**|**Equivariant Graph Mechanics Networks with Constraints**|Wenbing Huang et.al.|[2203.06442v1](http://arxiv.org/abs/2203.06442v1)|**[link](https://github.com/hanjq17/gmn)**|
+|**2022-03-12**|**Concentration Network for Reinforcement Learning of Large-Scale Multi-Agent Systems**|Qingxu Fu et.al.|[2203.06416v1](http://arxiv.org/abs/2203.06416v1)|**[link](https://github.com/binary-husky/hmp2g)**|
+|**2022-03-12**|**Transition Relation Aware Self-Attention for Session-based Recommendation**|Guanghui Zhu et.al.|[2203.06407v1](http://arxiv.org/abs/2203.06407v1)|null|
+|**2022-03-12**|**GRAND+: Scalable Graph Random Neural Networks**|Wenzheng Feng et.al.|[2203.06389v1](http://arxiv.org/abs/2203.06389v1)|**[link](https://github.com/wzfhaha/grand-plus)**|
+|**2022-03-12**|**Tactile-ViewGCN: Learning Shape Descriptor from Tactile Data using Graph Convolutional Network**|Sachidanand V S et.al.|[2203.06183v1](http://arxiv.org/abs/2203.06183v1)|null|
 |**2022-03-11**|**Graph Summarization with Graph Neural Networks**|Maximilian Blasi et.al.|[2203.05919v1](http://arxiv.org/abs/2203.05919v1)|null|
 |**2022-03-11**|**BabyNet: Reconstructing 3D faces of babies from uncalibrated photographs**|Araceli Morales et.al.|[2203.05908v1](http://arxiv.org/abs/2203.05908v1)|null|
 |**2022-03-11**|**PathSAGE: Spatial Graph Attention Neural Networks With Random Path Sampling**|Junhua Ma et.al.|[2203.05793v1](http://arxiv.org/abs/2203.05793v1)|null|
