@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-15**|**Comparing two samples through stochastic dominance: a graphical approach**|Etor Arza et.al.|[2203.07889v1](http://arxiv.org/abs/2203.07889v1)|null|
+|**2022-03-15**|**Adaptive Environment Modeling Based Reinforcement Learning for Collision Avoidance in Complex Scenes**|Shuaijun Wang et.al.|[2203.07709v1](http://arxiv.org/abs/2203.07709v1)|null|
+|**2022-03-15**|**An Introduction to Multi-Agent Reinforcement Learning and Review of its Application to Autonomous Mobility**|Lukas M. Schmidt et.al.|[2203.07676v1](http://arxiv.org/abs/2203.07676v1)|null|
+|**2022-03-15**|**Graph Representation Learning for Popularity Prediction Problem: A Survey**|Tiantian Chen et.al.|[2203.07632v1](http://arxiv.org/abs/2203.07632v1)|null|
+|**2022-03-15**|**Sim-to-Real Learning of Footstep-Constrained Bipedal Dynamic Walking**|Helei Duan et.al.|[2203.07589v1](http://arxiv.org/abs/2203.07589v1)|null|
+|**2022-03-14**|**Reinforcement Learning for Optimal Control of a District Cooling Energy Plant**|Zhong Guo et.al.|[2203.07500v1](http://arxiv.org/abs/2203.07500v1)|null|
+|**2022-03-14**|**An Approximate Reinforcement Learning Algorithm for Controlled Diffusion Processes**|Erhan Bayraktar et.al.|[2203.07499v1](http://arxiv.org/abs/2203.07499v1)|null|
+|**2022-03-14**|**Uncertainty Estimation for Language Reward Models**|Adam Gleave et.al.|[2203.07472v1](http://arxiv.org/abs/2203.07472v1)|null|
+|**2022-03-14**|**L2Explorer: A Lifelong Reinforcement Learning Assessment Environment**|Erik C. Johnson et.al.|[2203.07454v1](http://arxiv.org/abs/2203.07454v1)|null|
+|**2022-03-14**|**Switch Trajectory Transformer with Distributional Value Approximation for Multi-Task Reinforcement Learning**|Qinjie Lin et.al.|[2203.07413v1](http://arxiv.org/abs/2203.07413v1)|null|
 |**2022-03-14**|**The Efficacy of Pessimism in Asynchronous Q-Learning**|Yuling Yan et.al.|[2203.07368v1](http://arxiv.org/abs/2203.07368v1)|null|
 |**2022-03-14**|**Efficient Model-based Multi-agent Reinforcement Learning via Optimistic Equilibrium Computation**|Pier Giuseppe Sessa et.al.|[2203.07322v1](http://arxiv.org/abs/2203.07322v1)|null|
 |**2022-03-14**|**FRL-FI: Transient Fault Analysis for Federated Reinforcement Learning-Based Navigation Systems**|Zishen Wan et.al.|[2203.07276v1](http://arxiv.org/abs/2203.07276v1)|null|
@@ -950,6 +960,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-14**|**Deep Transfer Learning with Graph Neural Network for Sensor-Based Human Activity Recognition**|Yan Yan et.al.|[2203.07910v1](http://arxiv.org/abs/2203.07910v1)|null|
+|**2022-03-14**|**Simulating Liquids with Graph Networks**|Jonathan Klimesch et.al.|[2203.07895v1](http://arxiv.org/abs/2203.07895v1)|null|
+|**2022-03-15**|**Graph Neural Network Sensitivity Under Probabilistic Error Model**|Xinjue Wang et.al.|[2203.07831v1](http://arxiv.org/abs/2203.07831v1)|null|
+|**2022-03-15**|**Incorporating Heterophily into Graph Neural Networks for Graph Classification**|Wei Ye et.al.|[2203.07678v1](http://arxiv.org/abs/2203.07678v1)|null|
+|**2022-03-15**|**Graph Representation Learning for Popularity Prediction Problem: A Survey**|Tiantian Chen et.al.|[2203.07632v1](http://arxiv.org/abs/2203.07632v1)|null|
+|**2022-03-12**|**Enhancing crowd flow prediction in various spatial and temporal granularities**|Marco Cardia et.al.|[2203.07372v1](http://arxiv.org/abs/2203.07372v1)|null|
 |**2022-03-12**|**Equivariant Graph Mechanics Networks with Constraints**|Wenbing Huang et.al.|[2203.06442v1](http://arxiv.org/abs/2203.06442v1)|**[link](https://github.com/hanjq17/gmn)**|
 |**2022-03-12**|**Concentration Network for Reinforcement Learning of Large-Scale Multi-Agent Systems**|Qingxu Fu et.al.|[2203.06416v1](http://arxiv.org/abs/2203.06416v1)|**[link](https://github.com/binary-husky/hmp2g)**|
 |**2022-03-12**|**Transition Relation Aware Self-Attention for Session-based Recommendation**|Guanghui Zhu et.al.|[2203.06407v1](http://arxiv.org/abs/2203.06407v1)|null|
