@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-16**|**PMIC: Improving Multi-Agent Reinforcement Learning with Progressive Mutual Information Collaboration**|Pengyi Li et.al.|[2203.08553v1](http://arxiv.org/abs/2203.08553v1)|null|
+|**2022-03-16**|**Lazy-MDPs: Towards Interpretable Reinforcement Learning by Learning When to Act**|Alexis Jacq et.al.|[2203.08542v1](http://arxiv.org/abs/2203.08542v1)|null|
+|**2022-03-16**|**Coach-assisted Multi-Agent Reinforcement Learning Framework for Unexpected Crashed Agents**|Jian Zhao et.al.|[2203.08454v1](http://arxiv.org/abs/2203.08454v1)|null|
+|**2022-03-16**|**CTDS: Centralized Teacher with Decentralized Student for Multi-Agent Reinforcement Learning**|Jian Zhao et.al.|[2203.08412v1](http://arxiv.org/abs/2203.08412v1)|null|
+|**2022-03-16**|**How to Learn from Risk: Explicit Risk-Utility Reinforcement Learning for Efficient and Safe Driving Strategies**|Lukas M. Schmidt et.al.|[2203.08409v1](http://arxiv.org/abs/2203.08409v1)|null|
+|**2022-03-16**|**COPA: Certifying Robust Policies for Offline Reinforcement Learning against Poisoning Attacks**|Fan Wu et.al.|[2203.08398v1](http://arxiv.org/abs/2203.08398v1)|null|
+|**2022-03-15**|**Bi-Manual Manipulation and Attachment via Sim-to-Real Reinforcement Learning**|Satoshi Kataoka et.al.|[2203.08277v1](http://arxiv.org/abs/2203.08277v1)|null|
+|**2022-03-15**|**Non-Linear Reinforcement Learning in Large Action Spaces: Structural Conditions and Sample-efficiency of Posterior Sampling**|Alekh Agarwal et.al.|[2203.08248v1](http://arxiv.org/abs/2203.08248v1)|null|
+|**2022-03-15**|**Zipfian environments for Reinforcement Learning**|Stephanie C. Y. Chan et.al.|[2203.08222v1](http://arxiv.org/abs/2203.08222v1)|null|
+|**2022-03-15**|**A Differentiable Approach to Combinatorial Optimization using Dataless Neural Networks**|Ismail R. Alkhouri et.al.|[2203.08209v1](http://arxiv.org/abs/2203.08209v1)|null|
 |**2022-03-15**|**Comparing two samples through stochastic dominance: a graphical approach**|Etor Arza et.al.|[2203.07889v1](http://arxiv.org/abs/2203.07889v1)|**[link](https://github.com/etorarza/supplementarypaperrvcompare)**|
 |**2022-03-15**|**Adaptive Environment Modeling Based Reinforcement Learning for Collision Avoidance in Complex Scenes**|Shuaijun Wang et.al.|[2203.07709v1](http://arxiv.org/abs/2203.07709v1)|**[link](https://github.com/sjwang2015/aemcarl)**|
 |**2022-03-15**|**An Introduction to Multi-Agent Reinforcement Learning and Review of its Application to Autonomous Mobility**|Lukas M. Schmidt et.al.|[2203.07676v1](http://arxiv.org/abs/2203.07676v1)|null|
@@ -960,6 +970,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-16**|**Graph Neural Networks for Multiparallel Word Alignment**|Ayyoob Imani et.al.|[2203.08654v1](http://arxiv.org/abs/2203.08654v1)|null|
+|**2022-03-16**|**FormNet: Structural Encoding beyond Sequential Modeling in Form Document Information Extraction**|Chen-Yu Lee et.al.|[2203.08411v1](http://arxiv.org/abs/2203.08411v1)|null|
 |**2022-03-14**|**Deep Transfer Learning with Graph Neural Network for Sensor-Based Human Activity Recognition**|Yan Yan et.al.|[2203.07910v1](http://arxiv.org/abs/2203.07910v1)|null|
 |**2022-03-14**|**Simulating Liquids with Graph Networks**|Jonathan Klimesch et.al.|[2203.07895v1](http://arxiv.org/abs/2203.07895v1)|null|
 |**2022-03-15**|**Graph Neural Network Sensitivity Under Probabilistic Error Model**|Xinjue Wang et.al.|[2203.07831v1](http://arxiv.org/abs/2203.07831v1)|null|
