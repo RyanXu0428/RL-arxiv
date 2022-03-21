@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-18**|**SURF: Semi-supervised Reward Learning with Data Augmentation for Feedback-efficient Preference-based Reinforcement Learning**|Jongjin Park et.al.|[2203.10050v1](http://arxiv.org/abs/2203.10050v1)|null|
+|**2022-03-18**|**Risk-Sensitive Bayesian Games for Multi-Agent Reinforcement Learning under Policy Uncertainty**|Hannes Eriksson et.al.|[2203.10045v1](http://arxiv.org/abs/2203.10045v1)|null|
+|**2022-03-18**|**Skill-based Multi-objective Reinforcement Learning of Industrial Robot Tasks with Planning and Knowledge Integration**|Matthias Mayr et.al.|[2203.10033v1](http://arxiv.org/abs/2203.10033v1)|null|
+|**2022-03-18**|**Reinforcement Learning Approach to Clear Paths of Robots in Elevator Environment**|Wanli Ma et.al.|[2203.09844v1](http://arxiv.org/abs/2203.09844v1)|null|
+|**2022-03-18**|**Proximal Policy Optimization with Adaptive Threshold for Symmetric Relative Density Ratio**|Taisuke Kobayashi et.al.|[2203.09809v1](http://arxiv.org/abs/2203.09809v1)|null|
+|**2022-03-18**|**Reinforcement-learning calibration of coherent-state receivers on variable-loss optical channels**|Matias Bilkis et.al.|[2203.09807v1](http://arxiv.org/abs/2203.09807v1)|null|
+|**2022-03-18**|**Federated Learning for Privacy Preservation in Smart Healthcare Systems: A Comprehensive Survey**|Mansoor Ali et.al.|[2203.09702v1](http://arxiv.org/abs/2203.09702v1)|null|
+|**2022-03-18**|**Latency Optimization for Blockchain-Empowered Federated Learning in Multi-Server Edge Computing**|Dinh C. Nguyen et.al.|[2203.09670v1](http://arxiv.org/abs/2203.09670v1)|null|
+|**2022-03-17**|**Meta Reinforcement Learning for Adaptive Control: An Offline Approach**|Daniel G. McClement et.al.|[2203.09661v1](http://arxiv.org/abs/2203.09661v1)|null|
+|**2022-03-17**|**Investigating Compounding Prediction Errors in Learned Dynamics Models**|Nathan Lambert et.al.|[2203.09637v1](http://arxiv.org/abs/2203.09637v1)|null|
 |**2022-03-17**|**The Frost Hollow Experiments: Pavlovian Signalling as a Path to Coordination and Communication Between Agents**|Patrick M. Pilarski et.al.|[2203.09498v1](http://arxiv.org/abs/2203.09498v1)|null|
 |**2022-03-17**|**Semi-Markov Offline Reinforcement Learning for Healthcare**|Mehdi Fatemi et.al.|[2203.09365v1](http://arxiv.org/abs/2203.09365v1)|null|
 |**2022-03-17**|**Near Instance-Optimal PAC Reinforcement Learning for Deterministic MDPs**|Andrea Tirinzoni et.al.|[2203.09251v1](http://arxiv.org/abs/2203.09251v1)|null|
@@ -981,6 +991,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-18**|**Towards Training Billion Parameter Graph Neural Networks for Atomic Simulations**|Anuroop Sriram et.al.|[2203.09697v1](http://arxiv.org/abs/2203.09697v1)|null|
+|**2022-03-17**|**Unified Line and Paragraph Detection by Graph Convolutional Networks**|Shuang Liu et.al.|[2203.09638v1](http://arxiv.org/abs/2203.09638v1)|null|
 |**2022-03-17**|**Vox2Cortex: Fast Explicit Reconstruction of Cortical Surfaces from 3D MRI Scans with Geometric Deep Neural Networks**|Fabian Bongratz et.al.|[2203.09446v2](http://arxiv.org/abs/2203.09446v2)|null|
 |**2022-03-17**|**Interacting Attention Graph for Single Image Two-Hand Reconstruction**|Mengcheng Li et.al.|[2203.09364v2](http://arxiv.org/abs/2203.09364v2)|null|
 |**2022-03-17**|**Behavior-aware Account De-anonymization on Ethereum Interaction Graph**|Jiajun Zhou et.al.|[2203.09360v2](http://arxiv.org/abs/2203.09360v2)|null|
