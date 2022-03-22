@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-21**|**Teaching language models to support answers with verified quotes**|Jacob Menick et.al.|[2203.11147v1](http://arxiv.org/abs/2203.11147v1)|null|
+|**2022-03-21**|**Optimizing Trajectories for Highway Driving with Offline Reinforcement Learning**|Branka Mirchevska et.al.|[2203.10949v1](http://arxiv.org/abs/2203.10949v1)|null|
+|**2022-03-21**|**Self-Imitation Learning from Demonstrations**|Georgiy Pshikhachev et.al.|[2203.10905v1](http://arxiv.org/abs/2203.10905v1)|null|
+|**2022-03-21**|**Lean Evolutionary Reinforcement Learning by Multitasking with Importance Sampling**|Nick Zhang et.al.|[2203.10844v1](http://arxiv.org/abs/2203.10844v1)|null|
+|**2022-03-21**|**Long Short-Term Memory for Spatial Encoding in Multi-Agent Path Planning**|Marc R. Schlichting et.al.|[2203.10823v1](http://arxiv.org/abs/2203.10823v1)|null|
+|**2022-03-21**|**Tactile Pose Estimation and Policy Learning for Unknown Object Manipulation**|Tarik Kelestemur et.al.|[2203.10685v1](http://arxiv.org/abs/2203.10685v1)|null|
+|**2022-03-20**|**Explicit User Manipulation in Reinforcement Learning Based Recommender Systems**|Matthew Sparr et.al.|[2203.10629v1](http://arxiv.org/abs/2203.10629v1)|null|
+|**2022-03-20**|**Hierarchical Reinforcement Learning of Locomotion Policies in Response to Approaching Objects: A Preliminary Study**|Shangqun Yu et.al.|[2203.10616v1](http://arxiv.org/abs/2203.10616v1)|null|
+|**2022-03-20**|**Model-based Multi-agent Reinforcement Learning: Recent Progress and Prospects**|Xihuai Wang et.al.|[2203.10603v1](http://arxiv.org/abs/2203.10603v1)|null|
+|**2022-03-20**|**Variational Quantum Policy Gradients with an Application to Quantum Control**|André Sequeira et.al.|[2203.10591v1](http://arxiv.org/abs/2203.10591v1)|null|
 |**2022-03-18**|**SURF: Semi-supervised Reward Learning with Data Augmentation for Feedback-efficient Preference-based Reinforcement Learning**|Jongjin Park et.al.|[2203.10050v1](http://arxiv.org/abs/2203.10050v1)|null|
 |**2022-03-18**|**Risk-Sensitive Bayesian Games for Multi-Agent Reinforcement Learning under Policy Uncertainty**|Hannes Eriksson et.al.|[2203.10045v1](http://arxiv.org/abs/2203.10045v1)|null|
 |**2022-03-18**|**Skill-based Multi-objective Reinforcement Learning of Industrial Robot Tasks with Planning and Knowledge Integration**|Matthias Mayr et.al.|[2203.10033v1](http://arxiv.org/abs/2203.10033v1)|null|
@@ -987,6 +997,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-21**|**Online Skeleton-based Action Recognition with Continual Spatio-Temporal Graph Convolutional Networks**|Lukas Hedegaard et.al.|[2203.11009v1](http://arxiv.org/abs/2203.11009v1)|null|
+|**2022-03-21**|**BNS-GCN: Efficient Full-Graph Training of Graph Convolutional Networks with Boundary Node Sampling**|Cheng Wan et.al.|[2203.10983v1](http://arxiv.org/abs/2203.10983v1)|**[link](https://github.com/RICE-EIC/BNS-GCN)**|
+|**2022-03-21**|**Improving anatomical plausibility in medical image segmentation via hybrid graph neural networks: applications to chest x-ray analysis**|Nicolás Gaggion et.al.|[2203.10977v1](http://arxiv.org/abs/2203.10977v1)|**[link](https://github.com/ngaggion/HybridGNet)**|
+|**2022-03-21**|**Graph Neural Networks for Wireless Communications: From Theory to Practice**|Yifei Shen et.al.|[2203.10800v1](http://arxiv.org/abs/2203.10800v1)|null|
+|**2022-03-21**|**Effective Token Graph Modeling using a Novel Labeling Strategy for Structured Sentiment Analysis**|Wenxuan Shi et.al.|[2203.10796v1](http://arxiv.org/abs/2203.10796v1)|null|
+|**2022-03-21**|**STCGAT: Spatial-temporal causal networks for complex urban road traffic flow prediction**|Wei Zhao et.al.|[2203.10749v1](http://arxiv.org/abs/2203.10749v1)|**[link](https://github.com/zhangshqii/STCGAT)**|
+|**2022-03-20**|**LEReg: Empower Graph Neural Networks with Local Energy Regularization**|Xiaojun Ma et.al.|[2203.10565v1](http://arxiv.org/abs/2203.10565v1)|null|
+|**2022-03-20**|**3D Human Pose Estimation Using Möbius Graph Convolutional Networks**|Niloofar Azizi et.al.|[2203.10554v1](http://arxiv.org/abs/2203.10554v1)|null|
+|**2022-03-20**|**Inspection-L: Practical GNN-Based Money Laundering Detection System for Bitcoin**|Wai Weng Lo et.al.|[2203.10465v1](http://arxiv.org/abs/2203.10465v1)|null|
+|**2022-03-20**|**Fine-Tuning Graph Neural Networks via Graph Topology induced Optimal Transport**|Jiying Zhang et.al.|[2203.10453v1](http://arxiv.org/abs/2203.10453v1)|null|
 |**2022-03-18**|**Towards Training Billion Parameter Graph Neural Networks for Atomic Simulations**|Anuroop Sriram et.al.|[2203.09697v1](http://arxiv.org/abs/2203.09697v1)|null|
 |**2022-03-17**|**Unified Line and Paragraph Detection by Graph Convolutional Networks**|Shuang Liu et.al.|[2203.09638v1](http://arxiv.org/abs/2203.09638v1)|null|
 |**2022-03-17**|**Vox2Cortex: Fast Explicit Reconstruction of Cortical Surfaces from 3D MRI Scans with Geometric Deep Neural Networks**|Fabian Bongratz et.al.|[2203.09446v2](http://arxiv.org/abs/2203.09446v2)|null|
