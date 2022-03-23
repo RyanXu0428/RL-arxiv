@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-22**|**Insights From the NeurIPS 2021 NetHack Challenge**|Eric Hambro et.al.|[2203.11889v1](http://arxiv.org/abs/2203.11889v1)|null|
+|**2022-03-22**|**X-MEN: Guaranteed XOR-Maximum Entropy Constrained Inverse Reinforcement Learning**|Fan Ding et.al.|[2203.11842v1](http://arxiv.org/abs/2203.11842v1)|null|
+|**2022-03-22**|**Linear convergence of a policy gradient method for finite horizon continuous time stochastic control problems**|Christoph Reisinger et.al.|[2203.11758v1](http://arxiv.org/abs/2203.11758v1)|null|
+|**2022-03-22**|**A Decentralised Multi-Agent Reinforcement Learning Approach for the Same-Day Delivery Problem**|Elvin Ngu et.al.|[2203.11658v1](http://arxiv.org/abs/2203.11658v1)|null|
+|**2022-03-22**|**Is Vanilla Policy Gradient Overlooked? Analyzing Deep Reinforcement Learning for Hanabi**|Bram Grooten et.al.|[2203.11656v1](http://arxiv.org/abs/2203.11656v1)|**[link](https://github.com/bramgrooten/deeprl-for-hanabi)**|
+|**2022-03-22**|**Transferring Multi-Agent Reinforcement Learning Policies for Autonomous Driving using Sim-to-Real**|Eduardo Candela et.al.|[2203.11653v1](http://arxiv.org/abs/2203.11653v1)|null|
+|**2022-03-22**|**Reinforcement-based frugal learning for satellite image change detection**|Sebastien Deschamps et.al.|[2203.11564v1](http://arxiv.org/abs/2203.11564v1)|null|
+|**2022-03-22**|**Explainability in reinforcement learning: perspective and position**|Agneza Krajna et.al.|[2203.11547v1](http://arxiv.org/abs/2203.11547v1)|null|
+|**2022-03-22**|**Action Candidate Driven Clipped Double Q-learning for Discrete and Continuous Action Tasks**|Haobo Jiang et.al.|[2203.11526v1](http://arxiv.org/abs/2203.11526v1)|null|
+|**2022-03-22**|**FrameHopper: Selective Processing of Video Frames in Detection-driven Real-Time Video Analytics**|Md Adnan Arefeen et.al.|[2203.11493v1](http://arxiv.org/abs/2203.11493v1)|null|
 |**2022-03-21**|**Teaching language models to support answers with verified quotes**|Jacob Menick et.al.|[2203.11147v1](http://arxiv.org/abs/2203.11147v1)|null|
 |**2022-03-21**|**Optimizing Trajectories for Highway Driving with Offline Reinforcement Learning**|Branka Mirchevska et.al.|[2203.10949v1](http://arxiv.org/abs/2203.10949v1)|null|
 |**2022-03-21**|**Self-Imitation Learning from Demonstrations**|Georgiy Pshikhachev et.al.|[2203.10905v1](http://arxiv.org/abs/2203.10905v1)|null|
@@ -997,6 +1007,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-22**|**Twin Weisfeiler-Lehman: High Expressive GNNs for Graph Classification**|Zhaohui Wang et.al.|[2203.11683v1](http://arxiv.org/abs/2203.11683v1)|null|
+|**2022-03-22**|**Exploring High-Order Structure for Robust Graph Structure Learning**|Guangqian Yang et.al.|[2203.11492v1](http://arxiv.org/abs/2203.11492v1)|null|
 |**2022-03-21**|**Online Skeleton-based Action Recognition with Continual Spatio-Temporal Graph Convolutional Networks**|Lukas Hedegaard et.al.|[2203.11009v1](http://arxiv.org/abs/2203.11009v1)|**[link](https://github.com/lukashedegaard/continual-skeletons)**|
 |**2022-03-21**|**BNS-GCN: Efficient Full-Graph Training of Graph Convolutional Networks with Boundary Node Sampling**|Cheng Wan et.al.|[2203.10983v1](http://arxiv.org/abs/2203.10983v1)|**[link](https://github.com/RICE-EIC/BNS-GCN)**|
 |**2022-03-21**|**Improving anatomical plausibility in medical image segmentation via hybrid graph neural networks: applications to chest x-ray analysis**|Nicolás Gaggion et.al.|[2203.10977v1](http://arxiv.org/abs/2203.10977v1)|**[link](https://github.com/ngaggion/HybridGNet)**|
