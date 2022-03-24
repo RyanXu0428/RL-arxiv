@@ -93,6 +93,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-23**|**Your Policy Regularizer is Secretly an Adversary**|Rob Brekelmans et.al.|[2203.12592v1](http://arxiv.org/abs/2203.12592v1)|null|
+|**2022-03-23**|**Resource allocation optimization using artificial intelligence methods in various computing paradigms: A Review**|Javad Hassannataj Joloudari et.al.|[2203.12315v1](http://arxiv.org/abs/2203.12315v1)|null|
+|**2022-03-23**|**Congestion-aware motion planning game with Markov decision process dynamics**|Sarah H. Q. Li et.al.|[2203.12133v1](http://arxiv.org/abs/2203.12133v1)|null|
+|**2022-03-23**|**NovGrid: A Flexible Grid World for Evaluating Agent Response to Novelty**|Jonathan Balloch et.al.|[2203.12117v1](http://arxiv.org/abs/2203.12117v1)|null|
+|**2022-03-23**|**An Optical Controlling Environment and Reinforcement Learning Benchmarks**|Abulikemu Abuduweili et.al.|[2203.12114v1](http://arxiv.org/abs/2203.12114v1)|**[link](https://github.com/walleclipse/reinforcement-learning-pulse-stacking)**|
+|**2022-03-22**|**Review of Metrics to Measure the Stability, Robustness and Resilience of Reinforcement Learning**|Laura L. Pullum et.al.|[2203.12048v1](http://arxiv.org/abs/2203.12048v1)|null|
+|**2022-03-22**|**Resonance in Weight Space: Covariate Shift Can Drive Divergence of SGD with Momentum**|Kirby Banman et.al.|[2203.11992v1](http://arxiv.org/abs/2203.11992v1)|null|
+|**2022-03-22**|**Scalable Deep Reinforcement Learning Algorithms for Mean Field Games**|Mathieu Laurière et.al.|[2203.11973v1](http://arxiv.org/abs/2203.11973v1)|null|
 |**2022-03-22**|**Insights From the NeurIPS 2021 NetHack Challenge**|Eric Hambro et.al.|[2203.11889v1](http://arxiv.org/abs/2203.11889v1)|null|
 |**2022-03-22**|**X-MEN: Guaranteed XOR-Maximum Entropy Constrained Inverse Reinforcement Learning**|Fan Ding et.al.|[2203.11842v1](http://arxiv.org/abs/2203.11842v1)|null|
 |**2022-03-22**|**Linear convergence of a policy gradient method for finite horizon continuous time stochastic control problems**|Christoph Reisinger et.al.|[2203.11758v1](http://arxiv.org/abs/2203.11758v1)|null|
@@ -1011,6 +1019,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-23**|**Semi-Supervised Graph Learning Meets Dimensionality Reduction**|Alex Morehead et.al.|[2203.12522v1](http://arxiv.org/abs/2203.12522v1)|**[link](https://github.com/amorehead/SSL-With-DR-And-GNNs)**|
+|**2022-03-23**|**A Spatial-Temporal Attention Multi-Graph Convolution Network for Ride-Hailing Demand Prediction Based on Periodicity with Offset**|Dong Xing et.al.|[2203.12505v1](http://arxiv.org/abs/2203.12505v1)|null|
+|**2022-03-23**|**Ethereum Fraud Detection with Heterogeneous Graph Neural Networks**|Hiroki Kanezashi et.al.|[2203.12363v1](http://arxiv.org/abs/2203.12363v1)|null|
+|**2022-03-23**|**Geometry-Aware Supertagging with Heterogeneous Dynamic Convolutions**|Konstantinos Kogkalidis et.al.|[2203.12235v1](http://arxiv.org/abs/2203.12235v1)|**[link](https://github.com/konstantinoskokos/dynamic-graph-supertagging)**|
 |**2022-03-22**|**Twin Weisfeiler-Lehman: High Expressive GNNs for Graph Classification**|Zhaohui Wang et.al.|[2203.11683v1](http://arxiv.org/abs/2203.11683v1)|null|
 |**2022-03-22**|**Exploring High-Order Structure for Robust Graph Structure Learning**|Guangqian Yang et.al.|[2203.11492v1](http://arxiv.org/abs/2203.11492v1)|null|
 |**2022-03-21**|**Online Skeleton-based Action Recognition with Continual Spatio-Temporal Graph Convolutional Networks**|Lukas Hedegaard et.al.|[2203.11009v1](http://arxiv.org/abs/2203.11009v1)|**[link](https://github.com/lukashedegaard/continual-skeletons)**|
