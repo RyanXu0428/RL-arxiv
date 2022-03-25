@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-24**|**Dexterous Imitation Made Easy: A Learning-Based Framework for Efficient Dexterous Manipulation**|Sridhar Pandian Arunachalam et.al.|[2203.13251v1](http://arxiv.org/abs/2203.13251v1)|null|
+|**2022-03-24**|**Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory**|Li Siyao et.al.|[2203.13055v1](http://arxiv.org/abs/2203.13055v1)|**[link](https://github.com/lisiyao21/bailando)**|
+|**2022-03-24**|**MERLIN -- Malware Evasion with Reinforcement LearnINg**|Tony Quertier et.al.|[2203.12980v1](http://arxiv.org/abs/2203.12980v1)|null|
+|**2022-03-24**|**Multilevel Bayesin Deep Neural Networks**|Neil K. Chada et.al.|[2203.12961v1](http://arxiv.org/abs/2203.12961v1)|null|
+|**2022-03-24**|**Horizon-Free Reinforcement Learning in Polynomial Time: the Power of Stationary Policies**|Zihan Zhang et.al.|[2203.12922v1](http://arxiv.org/abs/2203.12922v1)|null|
+|**2022-03-24**|**Bellman Residual Orthogonalization for Offline Reinforcement Learning**|Andrea Zanette et.al.|[2203.12786v1](http://arxiv.org/abs/2203.12786v1)|null|
+|**2022-03-23**|**Learning Efficient Exploration through Human Seeded Rapidly-exploring Random Trees**|Max Zuo et.al.|[2203.12774v1](http://arxiv.org/abs/2203.12774v1)|null|
+|**2022-03-23**|**Asynchronous Reinforcement Learning for Real-Time Control of Physical Robots**|Yufeng Yuan et.al.|[2203.12759v1](http://arxiv.org/abs/2203.12759v1)|**[link](https://github.com/yufengyuan/ur5_async_rl)**|
+|**2022-03-23**|**Possibility Before Utility: Learning And Using Hierarchical Affordances**|Robby Costales et.al.|[2203.12686v1](http://arxiv.org/abs/2203.12686v1)|**[link](https://github.com/robbycostales/hal)**|
+|**2022-03-23**|**Iterative Implicit Gradients for Nonconvex Optimization with Variational Inequality Constraints**|Harshal D. Kaushik et.al.|[2203.12653v1](http://arxiv.org/abs/2203.12653v1)|null|
 |**2022-03-23**|**Your Policy Regularizer is Secretly an Adversary**|Rob Brekelmans et.al.|[2203.12592v2](http://arxiv.org/abs/2203.12592v2)|null|
 |**2022-03-23**|**Resource allocation optimization using artificial intelligence methods in various computing paradigms: A Review**|Javad Hassannataj Joloudari et.al.|[2203.12315v1](http://arxiv.org/abs/2203.12315v1)|null|
 |**2022-03-23**|**Congestion-aware motion planning game with Markov decision process dynamics**|Sarah H. Q. Li et.al.|[2203.12133v1](http://arxiv.org/abs/2203.12133v1)|null|
@@ -1015,6 +1025,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-24**|**SSGCNet: A Sparse Spectra Graph Convolutional Network for Epileptic EEG Signal Classification**|Jialin Wang et.al.|[2203.12910v1](http://arxiv.org/abs/2203.12910v1)|null|
+|**2022-03-23**|**Graph Neural Networks in Particle Physics: Implementations, Innovations, and Challenges**|Savannah Thais et.al.|[2203.12852v1](http://arxiv.org/abs/2203.12852v1)|null|
 |**2022-03-23**|**Semi-Supervised Graph Learning Meets Dimensionality Reduction**|Alex Morehead et.al.|[2203.12522v1](http://arxiv.org/abs/2203.12522v1)|**[link](https://github.com/amorehead/SSL-With-DR-And-GNNs)**|
 |**2022-03-23**|**A Spatial-Temporal Attention Multi-Graph Convolution Network for Ride-Hailing Demand Prediction Based on Periodicity with Offset**|Dong Xing et.al.|[2203.12505v1](http://arxiv.org/abs/2203.12505v1)|null|
 |**2022-03-23**|**Ethereum Fraud Detection with Heterogeneous Graph Neural Networks**|Hiroki Kanezashi et.al.|[2203.12363v1](http://arxiv.org/abs/2203.12363v1)|null|
