@@ -1,4 +1,4 @@
-## Updated on 2022.03.24
+## Updated on 2022.03.25
 
 ## SLAM
 
@@ -89,7 +89,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-03-23**|**Your Policy Regularizer is Secretly an Adversary**|Rob Brekelmans et.al.|[2203.12592v1](http://arxiv.org/abs/2203.12592v1)|null|
+|**2022-03-23**|**Your Policy Regularizer is Secretly an Adversary**|Rob Brekelmans et.al.|[2203.12592v2](http://arxiv.org/abs/2203.12592v2)|null|
 |**2022-03-23**|**Resource allocation optimization using artificial intelligence methods in various computing paradigms: A Review**|Javad Hassannataj Joloudari et.al.|[2203.12315v1](http://arxiv.org/abs/2203.12315v1)|null|
 |**2022-03-23**|**Congestion-aware motion planning game with Markov decision process dynamics**|Sarah H. Q. Li et.al.|[2203.12133v1](http://arxiv.org/abs/2203.12133v1)|null|
 |**2022-03-23**|**NovGrid: A Flexible Grid World for Evaluating Agent Response to Novelty**|Jonathan Balloch et.al.|[2203.12117v1](http://arxiv.org/abs/2203.12117v1)|null|
