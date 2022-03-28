@@ -89,6 +89,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-25**|**Learning Relational Rules from Rewards**|Guillermo Puebla et.al.|[2203.13599v1](http://arxiv.org/abs/2203.13599v1)|null|
+|**2022-03-25**|**Unsupervised Learning of Temporal Abstractions with Slot-based Transformers**|Anand Gopalakrishnan et.al.|[2203.13573v1](http://arxiv.org/abs/2203.13573v1)|null|
+|**2022-03-25**|**A Visual Navigation Perspective for Category-Level Object Pose Estimation**|Jiaxin Guo et.al.|[2203.13572v1](http://arxiv.org/abs/2203.13572v1)|null|
+|**2022-03-25**|**An Intelligent End-to-End Neural Architecture Search Framework for Electricity Forecasting Model Development**|Jin Yang et.al.|[2203.13563v1](http://arxiv.org/abs/2203.13563v1)|null|
+|**2022-03-25**|**Dealing with Sparse Rewards Using Graph Neural Networks**|Matvey Gerasyov et.al.|[2203.13424v1](http://arxiv.org/abs/2203.13424v1)|null|
+|**2022-03-25**|**Using Reinforcement Learning to Study Platform Economies under Market Shocks**|Xintong Wang et.al.|[2203.13395v1](http://arxiv.org/abs/2203.13395v1)|null|
+|**2022-03-24**|**Deep reinforcement learning for optimal well control in subsurface systems with uncertain geology**|Yusuf Nasir et.al.|[2203.13375v1](http://arxiv.org/abs/2203.13375v1)|null|
+|**2022-03-24**|**Remember and Forget Experience Replay for Multi-Agent Reinforcement Learning**|Pascal Weber et.al.|[2203.13319v1](http://arxiv.org/abs/2203.13319v1)|null|
 |**2022-03-24**|**Dexterous Imitation Made Easy: A Learning-Based Framework for Efficient Dexterous Manipulation**|Sridhar Pandian Arunachalam et.al.|[2203.13251v1](http://arxiv.org/abs/2203.13251v1)|null|
 |**2022-03-24**|**Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory**|Li Siyao et.al.|[2203.13055v2](http://arxiv.org/abs/2203.13055v2)|**[link](https://github.com/lisiyao21/bailando)**|
 |**2022-03-24**|**MERLIN -- Malware Evasion with Reinforcement LearnINg**|Tony Quertier et.al.|[2203.12980v1](http://arxiv.org/abs/2203.12980v1)|null|
@@ -1025,6 +1033,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-25**|**Ensemble Spectral Prediction (ESP) Model for Metabolite Annotation**|Xinmeng Li et.al.|[2203.13783v1](http://arxiv.org/abs/2203.13783v1)|null|
+|**2022-03-25**|**Gransformer: Transformer-based Graph Generation**|Ahmad Khajenezhad et.al.|[2203.13655v1](http://arxiv.org/abs/2203.13655v1)|null|
+|**2022-03-25**|**Lightweight Graph Convolutional Networks with Topologically Consistent Magnitude Pruning**|Hichem Sahbi et.al.|[2203.13616v1](http://arxiv.org/abs/2203.13616v1)|null|
+|**2022-03-25**|**Improving Question Answering over Knowledge Graphs Using Graph Summarization**|Sirui Li et.al.|[2203.13570v1](http://arxiv.org/abs/2203.13570v1)|null|
+|**2022-03-25**|**Multimodal Pre-training Based on Graph Attention Network for Document Understanding**|Zhenrong Zhang et.al.|[2203.13530v1](http://arxiv.org/abs/2203.13530v1)|null|
+|**2022-03-25**|**Dealing with Sparse Rewards Using Graph Neural Networks**|Matvey Gerasyov et.al.|[2203.13424v1](http://arxiv.org/abs/2203.13424v1)|null|
 |**2022-03-24**|**SSGCNet: A Sparse Spectra Graph Convolutional Network for Epileptic EEG Signal Classification**|Jialin Wang et.al.|[2203.12910v1](http://arxiv.org/abs/2203.12910v1)|null|
 |**2022-03-23**|**Graph Neural Networks in Particle Physics: Implementations, Innovations, and Challenges**|Savannah Thais et.al.|[2203.12852v1](http://arxiv.org/abs/2203.12852v1)|null|
 |**2022-03-23**|**Semi-Supervised Graph Learning Meets Dimensionality Reduction**|Alex Morehead et.al.|[2203.12522v1](http://arxiv.org/abs/2203.12522v1)|**[link](https://github.com/amorehead/SSL-With-DR-And-GNNs)**|
