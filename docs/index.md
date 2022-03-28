@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.03.27
+## Updated on 2022.03.28
 
 ## SLAM
 
@@ -94,7 +94,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-03-24**|**Dexterous Imitation Made Easy: A Learning-Based Framework for Efficient Dexterous Manipulation**|Sridhar Pandian Arunachalam et.al.|[2203.13251v1](http://arxiv.org/abs/2203.13251v1)|null|
-|**2022-03-24**|**Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory**|Li Siyao et.al.|[2203.13055v1](http://arxiv.org/abs/2203.13055v1)|**[link](https://github.com/lisiyao21/bailando)**|
+|**2022-03-24**|**Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory**|Li Siyao et.al.|[2203.13055v2](http://arxiv.org/abs/2203.13055v2)|**[link](https://github.com/lisiyao21/bailando)**|
 |**2022-03-24**|**MERLIN -- Malware Evasion with Reinforcement LearnINg**|Tony Quertier et.al.|[2203.12980v1](http://arxiv.org/abs/2203.12980v1)|null|
 |**2022-03-24**|**Multilevel Bayesin Deep Neural Networks**|Neil K. Chada et.al.|[2203.12961v1](http://arxiv.org/abs/2203.12961v1)|null|
 |**2022-03-24**|**Horizon-Free Reinforcement Learning in Polynomial Time: the Power of Stationary Policies**|Zihan Zhang et.al.|[2203.12922v1](http://arxiv.org/abs/2203.12922v1)|null|
