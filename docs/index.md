@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.03.28
+## Updated on 2022.03.29
 
 ## SLAM
 
@@ -93,7 +93,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-03-25**|**Learning Relational Rules from Rewards**|Guillermo Puebla et.al.|[2203.13599v1](http://arxiv.org/abs/2203.13599v1)|**[link](https://github.com/guillermopuebla/rrl)**|
+|**2022-03-25**|**Learning Relational Rules from Rewards**|Guillermo Puebla et.al.|[2203.13599v2](http://arxiv.org/abs/2203.13599v2)|**[link](https://github.com/guillermopuebla/rrl)**|
 |**2022-03-25**|**Unsupervised Learning of Temporal Abstractions with Slot-based Transformers**|Anand Gopalakrishnan et.al.|[2203.13573v1](http://arxiv.org/abs/2203.13573v1)|null|
 |**2022-03-25**|**A Visual Navigation Perspective for Category-Level Object Pose Estimation**|Jiaxin Guo et.al.|[2203.13572v1](http://arxiv.org/abs/2203.13572v1)|null|
 |**2022-03-25**|**An Intelligent End-to-End Neural Architecture Search Framework for Electricity Forecasting Model Development**|Jin Yang et.al.|[2203.13563v1](http://arxiv.org/abs/2203.13563v1)|null|
