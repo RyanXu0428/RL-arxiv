@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-29**|**Text-Driven Video Acceleration: A Weakly-Supervised Reinforcement Learning Method**|Washington Ramos et.al.|[2203.15778v1](http://arxiv.org/abs/2203.15778v1)|null|
+|**2022-03-29**|**Demonstration-Bootstrapped Autonomous Practicing via Multi-Task Reinforcement Learning**|Abhishek Gupta et.al.|[2203.15755v1](http://arxiv.org/abs/2203.15755v1)|null|
+|**2022-03-29**|**Transformer Network-based Reinforcement Learning Method for Power Distribution Network (PDN) Optimization of High Bandwidth Memory (HBM)**|Hyunwook Park et.al.|[2203.15722v1](http://arxiv.org/abs/2203.15722v1)|null|
+|**2022-03-29**|**PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision**|Kehong Gong et.al.|[2203.15625v1](http://arxiv.org/abs/2203.15625v1)|null|
+|**2022-03-29**|**On Reinforcement Learning, Effect Handlers, and the State Monad**|Ugo Dal Lago et.al.|[2203.15426v1](http://arxiv.org/abs/2203.15426v1)|null|
+|**2022-03-29**|**Deep Reinforcement Learning for Data-Driven Adaptive Scanning in Ptychography**|Marcel Schloz et.al.|[2203.15413v1](http://arxiv.org/abs/2203.15413v1)|null|
+|**2022-03-29**|**Learning to act: a Reinforcement Learning approach to recommend the best next activities**|Stefano Branchi et.al.|[2203.15398v1](http://arxiv.org/abs/2203.15398v1)|null|
+|**2022-03-29**|**ReIL: A Framework for Reinforced Intervention-based Imitation Learning**|Rom Parnichkun et.al.|[2203.15390v1](http://arxiv.org/abs/2203.15390v1)|null|
+|**2022-03-29**|**Pareto Set Learning for Neural Multi-objective Combinatorial Optimization**|Xi Lin et.al.|[2203.15386v1](http://arxiv.org/abs/2203.15386v1)|**[link](https://github.com/xi-l/pmoco)**|
+|**2022-03-29**|**Design strategies for controlling neuron-connected robots using reinforcement learning**|Haruto Sawada et.al.|[2203.15290v1](http://arxiv.org/abs/2203.15290v1)|null|
 |**2022-03-28**|**Sketching without Worrying: Noise-Tolerant Sketch-Based Image Retrieval**|Ayan Kumar Bhunia et.al.|[2203.14817v1](http://arxiv.org/abs/2203.14817v1)|**[link](https://github.com/ayankumarbhunia/stroke_subset_selector-for-fgsbir)**|
 |**2022-03-28**|**Limited Parameter Denoising for Low-dose X-ray Computed Tomography Using Deep Reinforcement Learning**|Mayank Patwari et.al.|[2203.14794v1](http://arxiv.org/abs/2203.14794v1)|null|
 |**2022-03-28**|**5G Routing Interfered Environment**|Barak Gahtan et.al.|[2203.14790v1](http://arxiv.org/abs/2203.14790v1)|**[link](https://github.com/BarakGahtan/5GRIE)**|
@@ -1043,6 +1053,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-29**|**Revisiting Neighborhood-based Link Prediction for Collaborative Filtering**|Hao-Ming Fu et.al.|[2203.15789v1](http://arxiv.org/abs/2203.15789v1)|null|
+|**2022-03-29**|**Graph Neural Networks are Dynamic Programmers**|Andrew Dudzik et.al.|[2203.15544v1](http://arxiv.org/abs/2203.15544v1)|null|
+|**2022-03-29**|**OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks**|Wanyu Lin et.al.|[2203.15209v1](http://arxiv.org/abs/2203.15209v1)|**[link](https://github.com/wanyugroup/cvpr2022-orphicx)**|
+|**2022-03-29**|**Long-term Visual Map Sparsification with Heterogeneous GNN**|Ming-Fang Chang et.al.|[2203.15182v1](http://arxiv.org/abs/2203.15182v1)|null|
+|**2022-03-29**|**Learning to Synthesize Volumetric Meshes from Vision-based Tactile Imprints**|Xinghao Zhu et.al.|[2203.15155v1](http://arxiv.org/abs/2203.15155v1)|null|
+|**2022-03-28**|**DAMNETS: A Deep Autoregressive Model for Generating Markovian Network Time Series**|Jase Clarkson et.al.|[2203.15009v1](http://arxiv.org/abs/2203.15009v1)|**[link](https://github.com/damnets/damnets_icml_2022)**|
+|**2022-03-28**|**Offline-Online Learning of Deformation Model for Cable Manipulation with Graph Neural Networks**|Changhao Wang et.al.|[2203.15004v1](http://arxiv.org/abs/2203.15004v1)|null|
 |**2022-03-28**|**TGL: A General Framework for Temporal GNN Training on Billion-Scale Graphs**|Hongkuan Zhou et.al.|[2203.14883v1](http://arxiv.org/abs/2203.14883v1)|null|
 |**2022-03-28**|**Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches**|Ayan Kumar Bhunia et.al.|[2203.14843v1](http://arxiv.org/abs/2203.14843v1)|null|
 |**2022-03-28**|**Who is next: rising star prediction via diffusion of user interest in social networks**|Xuan Yang et.al.|[2203.14807v2](http://arxiv.org/abs/2203.14807v2)|null|
