@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.03.29
+## Updated on 2022.03.30
 
 ## SLAM
 
@@ -1049,7 +1049,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-03-28**|**TGL: A General Framework for Temporal GNN Training on Billion-Scale Graphs**|Hongkuan Zhou et.al.|[2203.14883v1](http://arxiv.org/abs/2203.14883v1)|null|
 |**2022-03-28**|**Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches**|Ayan Kumar Bhunia et.al.|[2203.14843v1](http://arxiv.org/abs/2203.14843v1)|null|
-|**2022-03-28**|**Who is next: rising star prediction via diffusion of user interest in social networks**|Xuan Yang et.al.|[2203.14807v1](http://arxiv.org/abs/2203.14807v1)|null|
+|**2022-03-28**|**Who is next: rising star prediction via diffusion of user interest in social networks**|Xuan Yang et.al.|[2203.14807v2](http://arxiv.org/abs/2203.14807v2)|null|
 |**2022-03-28**|**Decoupled Multi-task Learning with Cyclical Self-Regulation for Face Parsing**|Qingping Zheng et.al.|[2203.14448v1](http://arxiv.org/abs/2203.14448v1)|**[link](https://github.com/deepinsight/insightface)**|
 |**2022-03-27**|**Distributed Link Sparsification for Scalable Scheduling Using Graph Neural Networks**|Zhongyuan Zhao et.al.|[2203.14339v1](http://arxiv.org/abs/2203.14339v1)|**[link](https://github.com/zhongyuanzhao/gcn-sparsify)**|
 |**2022-03-27**|**Local-Adaptive Face Recognition via Graph-based Meta-Clustering and Regularized Adaptation**|Wenbin Zhu et.al.|[2203.14327v1](http://arxiv.org/abs/2203.14327v1)|null|
