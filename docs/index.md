@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.03.30
+## Updated on 2022.03.31
 
 ## SLAM
 
@@ -96,7 +96,7 @@ layout: default
 |**2022-03-29**|**Text-Driven Video Acceleration: A Weakly-Supervised Reinforcement Learning Method**|Washington Ramos et.al.|[2203.15778v1](http://arxiv.org/abs/2203.15778v1)|null|
 |**2022-03-29**|**Demonstration-Bootstrapped Autonomous Practicing via Multi-Task Reinforcement Learning**|Abhishek Gupta et.al.|[2203.15755v1](http://arxiv.org/abs/2203.15755v1)|null|
 |**2022-03-29**|**Transformer Network-based Reinforcement Learning Method for Power Distribution Network (PDN) Optimization of High Bandwidth Memory (HBM)**|Hyunwook Park et.al.|[2203.15722v1](http://arxiv.org/abs/2203.15722v1)|null|
-|**2022-03-29**|**PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision**|Kehong Gong et.al.|[2203.15625v1](http://arxiv.org/abs/2203.15625v1)|null|
+|**2022-03-29**|**PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision**|Kehong Gong et.al.|[2203.15625v1](http://arxiv.org/abs/2203.15625v1)|**[link](https://github.com/garfield-kh/posetriplet)**|
 |**2022-03-29**|**On Reinforcement Learning, Effect Handlers, and the State Monad**|Ugo Dal Lago et.al.|[2203.15426v1](http://arxiv.org/abs/2203.15426v1)|null|
 |**2022-03-29**|**Deep Reinforcement Learning for Data-Driven Adaptive Scanning in Ptychography**|Marcel Schloz et.al.|[2203.15413v1](http://arxiv.org/abs/2203.15413v1)|null|
 |**2022-03-29**|**Learning to act: a Reinforcement Learning approach to recommend the best next activities**|Stefano Branchi et.al.|[2203.15398v1](http://arxiv.org/abs/2203.15398v1)|null|
