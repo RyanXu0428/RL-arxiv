@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-31**|**DiffSkill: Skill Abstraction from Differentiable Physics for Deformable Object Manipulations with Tools**|Xingyu Lin et.al.|[2203.17275v1](http://arxiv.org/abs/2203.17275v1)|null|
+|**2022-03-31**|**Learning from many trajectories**|Stephen Tu et.al.|[2203.17193v1](http://arxiv.org/abs/2203.17193v1)|null|
+|**2022-03-31**|**Neural Q-learning for solving elliptic PDEs**|Samuel N. Cohen et.al.|[2203.17128v1](http://arxiv.org/abs/2203.17128v1)|null|
+|**2022-03-31**|**A Cooperative Optimal Control Framework for Connected and Automated Vehicles in Mixed Traffic Using Social Value Orientation**|Viet-Anh Le et.al.|[2203.17106v1](http://arxiv.org/abs/2203.17106v1)|null|
+|**2022-03-31**|**Sequential Recommendation with User Evolving Preference Decomposition**|Weiqi Shao et.al.|[2203.16942v1](http://arxiv.org/abs/2203.16942v1)|null|
+|**2022-03-31**|**End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps**|Ke Guo et.al.|[2203.16910v1](http://arxiv.org/abs/2203.16910v1)|**[link](https://github.com/kguo-cs/tdor)**|
+|**2022-03-31**|**Identifying Cost-effective Debunkers for Multi-stage Fake News Mitigation Campaigns**|Xiaofei Xu et.al.|[2203.16854v1](http://arxiv.org/abs/2203.16854v1)|null|
+|**2022-03-31**|**Robust Meta-Reinforcement Learning with Curriculum-Based Task Sampling**|Morio Matsumoto et.al.|[2203.16801v1](http://arxiv.org/abs/2203.16801v1)|null|
+|**2022-03-31**|**TrajGen: Generating Realistic and Diverse Trajectories with Reactive and Feasible Agent Behaviors for Autonomous Driving**|Qichao Zhang et.al.|[2203.16792v1](http://arxiv.org/abs/2203.16792v1)|null|
+|**2022-03-31**|**Mask Atari for Deep Reinforcement Learning as POMDP Benchmarks**|Yang Shao et.al.|[2203.16777v1](http://arxiv.org/abs/2203.16777v1)|null|
 |**2022-03-30**|**Towards Interpretable Deep Reinforcement Learning Models via Inverse Reinforcement Learning**|Yuansheng Xie et.al.|[2203.16464v1](http://arxiv.org/abs/2203.16464v1)|null|
 |**2022-03-30**|**Multi-Robot Active Mapping via Neural Bipartite Graph Matching**|Kai Ye et.al.|[2203.16319v1](http://arxiv.org/abs/2203.16319v1)|null|
 |**2022-03-30**|**One-Step Two-Critic Deep Reinforcement Learning for Inverter-based Volt-Var Control in Active Distribution Networks**|Qiong Liu et.al.|[2203.16289v1](http://arxiv.org/abs/2203.16289v1)|null|
@@ -1061,6 +1071,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-31**|**AEGNN: Asynchronous Event-based Graph Neural Networks**|Simon Schaefer et.al.|[2203.17149v1](http://arxiv.org/abs/2203.17149v1)|null|
+|**2022-03-31**|**Hypergraph Convolutional Networks via Equivalency between Hypergraphs and Undirected Graphs**|Jiying Zhang et.al.|[2203.16939v1](http://arxiv.org/abs/2203.16939v1)|null|
+|**2022-03-31**|**Mutual information estimation for graph convolutional neural networks**|Marius C. Landverk et.al.|[2203.16887v1](http://arxiv.org/abs/2203.16887v1)|null|
+|**2022-03-31**|**SpatioTemporal Focus for Skeleton-based Action Recognition**|Liyu Wu et.al.|[2203.16767v1](http://arxiv.org/abs/2203.16767v1)|null|
 |**2022-03-30**|**CMMD: Cross-Metric Multi-Dimensional Root Cause Analysis**|Shifu Yan et.al.|[2203.16280v1](http://arxiv.org/abs/2203.16280v1)|null|
 |**2022-03-30**|**Research topic trend prediction of scientific papers based on spatial enhancement and dynamic graph convolution network**|Changwei Zheng et.al.|[2203.16256v1](http://arxiv.org/abs/2203.16256v1)|null|
 |**2022-03-30**|**Neighbor Enhanced Graph Convolutional Networks for Node Classification and Recommendation**|Hao Chen et.al.|[2203.16097v1](http://arxiv.org/abs/2203.16097v1)|null|
