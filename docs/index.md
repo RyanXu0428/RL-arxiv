@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.04.02
+## Updated on 2022.04.03
 
 ## SLAM
 
@@ -1082,7 +1082,7 @@ layout: default
 |**2022-03-30**|**CMMD: Cross-Metric Multi-Dimensional Root Cause Analysis**|Shifu Yan et.al.|[2203.16280v1](http://arxiv.org/abs/2203.16280v1)|null|
 |**2022-03-30**|**Research topic trend prediction of scientific papers based on spatial enhancement and dynamic graph convolution network**|Changwei Zheng et.al.|[2203.16256v1](http://arxiv.org/abs/2203.16256v1)|null|
 |**2022-03-30**|**Neighbor Enhanced Graph Convolutional Networks for Node Classification and Recommendation**|Hao Chen et.al.|[2203.16097v1](http://arxiv.org/abs/2203.16097v1)|null|
-|**2022-03-30**|**Understanding Graph Convolutional Networks for Text Classification**|Soyeon Caren Han et.al.|[2203.16060v1](http://arxiv.org/abs/2203.16060v1)|null|
+|**2022-03-30**|**Understanding Graph Convolutional Networks for Text Classification**|Soyeon Caren Han et.al.|[2203.16060v1](http://arxiv.org/abs/2203.16060v1)|**[link](https://github.com/usydnlp/TextGCN_analysis)**|
 |**2022-03-30**|**Progressively Generating Better Initial Guesses Towards Next Stages for High-Quality Human Motion Prediction**|Tiezheng Ma et.al.|[2203.16051v1](http://arxiv.org/abs/2203.16051v1)|**[link](https://github.com/705062791/pgbig)**|
 |**2022-03-30**|**Span Classification with Structured Information for Disfluency Detection in Spoken Utterances**|Sreyan Ghosh et.al.|[2203.16028v1](http://arxiv.org/abs/2203.16028v1)|null|
 |**2022-03-29**|**A Simple Yet Effective Pretraining Strategy for Graph Few-shot Learning**|Zhen Tan et.al.|[2203.15936v1](http://arxiv.org/abs/2203.15936v1)|null|
