@@ -93,6 +93,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-01**|**What makes useful auxiliary tasks in reinforcement learning: investigating the effect of the target policy**|Banafsheh Rafiee et.al.|[2204.00565v1](http://arxiv.org/abs/2204.00565v1)|null|
+|**2022-04-01**|**Deep Page-Level Interest Network in Reinforcement Learning for Ads Allocation**|Guogang Liao et.al.|[2204.00377v1](http://arxiv.org/abs/2204.00377v1)|null|
+|**2022-04-01**|**Model-agnostic Counterfactual Synthesis Policy for Interactive Recommendation**|Siyu Wang et.al.|[2204.00308v1](http://arxiv.org/abs/2204.00308v1)|null|
+|**2022-04-01**|**Building Decision Forest via Deep Reinforcement Learning**|Guixuan Wen et.al.|[2204.00306v1](http://arxiv.org/abs/2204.00306v1)|null|
+|**2022-04-01**|**Proactively Control Privacy in Recommender Systems**|Ziqian Chen et.al.|[2204.00279v1](http://arxiv.org/abs/2204.00279v1)|null|
+|**2022-03-31**|**Visual-Tactile Multimodality for Following Deformable Linear Objects Using Reinforcement Learning**|Leszek Pecyna et.al.|[2204.00117v1](http://arxiv.org/abs/2204.00117v1)|null|
 |**2022-03-31**|**DiffSkill: Skill Abstraction from Differentiable Physics for Deformable Object Manipulations with Tools**|Xingyu Lin et.al.|[2203.17275v1](http://arxiv.org/abs/2203.17275v1)|null|
 |**2022-03-31**|**Learning from many trajectories**|Stephen Tu et.al.|[2203.17193v1](http://arxiv.org/abs/2203.17193v1)|null|
 |**2022-03-31**|**Neural Q-learning for solving elliptic PDEs**|Samuel N. Cohen et.al.|[2203.17128v1](http://arxiv.org/abs/2203.17128v1)|null|
@@ -1075,6 +1081,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-01**|**NC-DRE: Leveraging Non-entity Clue Information for Document-level Relation Extraction**|Liang Zhang et.al.|[2204.00255v1](http://arxiv.org/abs/2204.00255v1)|null|
+|**2022-04-01**|**Graph Enhanced Contrastive Learning for Radiology Findings Summarization**|Jinpeng Hu et.al.|[2204.00203v1](http://arxiv.org/abs/2204.00203v1)|**[link](https://github.com/jinpeng01/aig_cl)**|
 |**2022-03-31**|**AEGNN: Asynchronous Event-based Graph Neural Networks**|Simon Schaefer et.al.|[2203.17149v1](http://arxiv.org/abs/2203.17149v1)|null|
 |**2022-03-31**|**Hypergraph Convolutional Networks via Equivalency between Hypergraphs and Undirected Graphs**|Jiying Zhang et.al.|[2203.16939v1](http://arxiv.org/abs/2203.16939v1)|null|
 |**2022-03-31**|**Mutual information estimation for graph convolutional neural networks**|Marius C. Landverk et.al.|[2203.16887v1](http://arxiv.org/abs/2203.16887v1)|null|
