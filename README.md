@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-04**|**Optimising Energy Efficiency in UAV-Assisted Networks using Deep Reinforcement Learning**|Babatunji Omoniwa et.al.|[2204.01597v1](http://arxiv.org/abs/2204.01597v1)|null|
+|**2022-04-04**|**Value Gradient weighted Model-Based Reinforcement Learning**|Claas Voelcker et.al.|[2204.01464v1](http://arxiv.org/abs/2204.01464v1)|null|
+|**2022-04-04**|**Disentangling Abstraction from Statistical Pattern Matching in Human and Machine Learning**|Sreejan Kumar et.al.|[2204.01437v1](http://arxiv.org/abs/2204.01437v1)|**[link](https://github.com/sreejank/Abstract_Neural_Metamers)**|
+|**2022-04-04**|**Safe Controller for Output Feedback Linear Systems using Model-Based Reinforcement Learning**|S M Nahid Mahmud et.al.|[2204.01409v1](http://arxiv.org/abs/2204.01409v1)|null|
+|**2022-04-04**|**CIRS: Bursting Filter Bubbles by Counterfactual Interactive Recommender System**|Chongming Gao et.al.|[2204.01266v1](http://arxiv.org/abs/2204.01266v1)|**[link](https://github.com/chongminggao/cirs-codes)**|
+|**2022-04-03**|**Best-Response Bayesian Reinforcement Learning with Bayes-adaptive POMDPs for Centaurs**|Mustafa Mert Çelikok et.al.|[2204.01160v1](http://arxiv.org/abs/2204.01160v1)|null|
+|**2022-04-03**|**Intelligent Reflective Surface Deployment in 6G: A Comprehensive Survey**|Faisal Naeem et.al.|[2204.01152v1](http://arxiv.org/abs/2204.01152v1)|null|
+|**2022-04-03**|**A System for Interactive Examination of Learned Security Policies**|Kim Hammar et.al.|[2204.01126v1](http://arxiv.org/abs/2204.01126v1)|null|
+|**2022-04-03**|**Semi-Data-Aided Channel Estimation for MIMO Systems via Reinforcement Learning**|Tae-Kyoung Kim et.al.|[2204.01052v1](http://arxiv.org/abs/2204.01052v1)|null|
+|**2022-04-03**|**Autonomous Highway Merging in Mixed Traffic Using Reinforcement Learning and Motion Predictive Safety Controller**|Qianqian Liu et.al.|[2204.01024v1](http://arxiv.org/abs/2204.01024v1)|null|
 |**2022-04-01**|**What makes useful auxiliary tasks in reinforcement learning: investigating the effect of the target policy**|Banafsheh Rafiee et.al.|[2204.00565v1](http://arxiv.org/abs/2204.00565v1)|null|
 |**2022-04-01**|**Deep Page-Level Interest Network in Reinforcement Learning for Ads Allocation**|Guogang Liao et.al.|[2204.00377v1](http://arxiv.org/abs/2204.00377v1)|null|
 |**2022-04-01**|**Model-agnostic Counterfactual Synthesis Policy for Interactive Recommendation**|Siyu Wang et.al.|[2204.00308v1](http://arxiv.org/abs/2204.00308v1)|null|
@@ -1077,6 +1087,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-04**|**Learning to solve Minimum Cost Multicuts efficiently using Edge-Weighted Graph Convolutional Neural Networks**|Steffen Jung et.al.|[2204.01366v1](http://arxiv.org/abs/2204.01366v1)|null|
+|**2022-04-04**|**MGRR-Net: Multi-level Graph Relational Reasoning Network for Facial Action Units Detection**|Xuri Ge et.al.|[2204.01349v1](http://arxiv.org/abs/2204.01349v1)|null|
+|**2022-04-04**|**GraFN: Semi-Supervised Node Classification on Graph with Few Labels via Non-Parametric Distribution Assignment**|Junseok Lee et.al.|[2204.01303v1](http://arxiv.org/abs/2204.01303v1)|**[link](https://github.com/ljs-student/grafn)**|
+|**2022-04-04**|**Learning Dynamic Correlations in Spatiotemporal Graphs for Motion Prediction**|Jiajun Fu et.al.|[2204.01297v1](http://arxiv.org/abs/2204.01297v1)|null|
+|**2022-04-03**|**Question-Driven Graph Fusion Network For Visual Question Answering**|Yuxi Qian et.al.|[2204.00975v1](http://arxiv.org/abs/2204.00975v1)|null|
 |**2022-04-01**|**NC-DRE: Leveraging Non-entity Clue Information for Document-level Relation Extraction**|Liang Zhang et.al.|[2204.00255v1](http://arxiv.org/abs/2204.00255v1)|null|
 |**2022-04-01**|**Graph Enhanced Contrastive Learning for Radiology Findings Summarization**|Jinpeng Hu et.al.|[2204.00203v1](http://arxiv.org/abs/2204.00203v1)|**[link](https://github.com/jinpeng01/aig_cl)**|
 |**2022-03-31**|**AEGNN: Asynchronous Event-based Graph Neural Networks**|Simon Schaefer et.al.|[2203.17149v1](http://arxiv.org/abs/2203.17149v1)|null|
