@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-05**|**A Piecewise Learning Framework for Control of Unknown Nonlinear Systems with Stability Guarantees**|Milad Farsi et.al.|[2204.02395v1](http://arxiv.org/abs/2204.02395v1)|null|
+|**2022-04-05**|**Action-Conditioned Contrastive Policy Pretraining**|Qihang Zhang et.al.|[2204.02393v1](http://arxiv.org/abs/2204.02393v1)|null|
+|**2022-04-05**|**Learning Pneumatic Non-Prehensile Manipulation with a Mobile Blower**|Jimmy Wu et.al.|[2204.02390v1](http://arxiv.org/abs/2204.02390v1)|null|
+|**2022-04-05**|**Jump-Start Reinforcement Learning**|Ikechukwu Uchendu et.al.|[2204.02372v1](http://arxiv.org/abs/2204.02372v1)|null|
+|**2022-04-05**|**Learning Generalizable Dexterous Manipulation from Human Grasp Affordance**|Yueh-Hua Wu et.al.|[2204.02320v1](http://arxiv.org/abs/2204.02320v1)|null|
+|**2022-04-05**|**Learning to Bid Long-Term: Multi-Agent Reinforcement Learning with Long-Term and Sparse Reward in Repeated Auction Games**|Jing Tan et.al.|[2204.02268v1](http://arxiv.org/abs/2204.02268v1)|**[link](https://github.com/dracosource/biddinggame)**|
+|**2022-04-05**|**Multi-Agent Distributed Reinforcement Learning for Making Decentralized Offloading Decisions**|Jing Tan et.al.|[2204.02267v1](http://arxiv.org/abs/2204.02267v1)|**[link](https://github.com/dracosource/draco)**|
+|**2022-04-05**|**Model Based Meta Learning of Critics for Policy Gradients**|Sarah Bechtle et.al.|[2204.02210v1](http://arxiv.org/abs/2204.02210v1)|null|
+|**2022-04-05**|**Automating Reinforcement Learning with Example-based Resets**|Jigang Kim et.al.|[2204.02041v1](http://arxiv.org/abs/2204.02041v1)|null|
+|**2022-04-05**|**RL4ReAl: Reinforcement Learning for Register Allocation**|S. VenkataKeerthy et.al.|[2204.02013v1](http://arxiv.org/abs/2204.02013v1)|null|
 |**2022-04-04**|**Optimising Energy Efficiency in UAV-Assisted Networks using Deep Reinforcement Learning**|Babatunji Omoniwa et.al.|[2204.01597v1](http://arxiv.org/abs/2204.01597v1)|null|
 |**2022-04-04**|**Value Gradient weighted Model-Based Reinforcement Learning**|Claas Voelcker et.al.|[2204.01464v1](http://arxiv.org/abs/2204.01464v1)|null|
 |**2022-04-04**|**Disentangling Abstraction from Statistical Pattern Matching in Human and Machine Learning**|Sreejan Kumar et.al.|[2204.01437v1](http://arxiv.org/abs/2204.01437v1)|**[link](https://github.com/sreejank/Abstract_Neural_Metamers)**|
@@ -1091,6 +1101,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-05**|**MGDCF: Distance Learning via Markov Graph Diffusion for Neural Collaborative Filtering**|Jun Hu et.al.|[2204.02338v1](http://arxiv.org/abs/2204.02338v1)|**[link](https://github.com/hujunxianligong/MGDCF)**|
+|**2022-04-05**|**Transition Information Enhanced Disentangled Graph Neural Networks for Session-based Recommendation**|Ansong Li et.al.|[2204.02119v1](http://arxiv.org/abs/2204.02119v1)|null|
+|**2022-04-04**|**A Survey on Graph Representation Learning Methods**|Shima Khoshraftar et.al.|[2204.01855v1](http://arxiv.org/abs/2204.01855v1)|null|
 |**2022-04-04**|**Learning to solve Minimum Cost Multicuts efficiently using Edge-Weighted Graph Convolutional Neural Networks**|Steffen Jung et.al.|[2204.01366v1](http://arxiv.org/abs/2204.01366v1)|null|
 |**2022-04-04**|**MGRR-Net: Multi-level Graph Relational Reasoning Network for Facial Action Units Detection**|Xuri Ge et.al.|[2204.01349v1](http://arxiv.org/abs/2204.01349v1)|null|
 |**2022-04-04**|**GraFN: Semi-Supervised Node Classification on Graph with Few Labels via Non-Parametric Distribution Assignment**|Junseok Lee et.al.|[2204.01303v1](http://arxiv.org/abs/2204.01303v1)|**[link](https://github.com/ljs-student/grafn)**|
