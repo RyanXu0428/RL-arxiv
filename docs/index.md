@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.04.07
+## Updated on 2022.04.08
 
 ## SLAM
 
@@ -1116,7 +1116,7 @@ layout: default
 |**2022-04-04**|**A Survey on Graph Representation Learning Methods**|Shima Khoshraftar et.al.|[2204.01855v1](http://arxiv.org/abs/2204.01855v1)|null|
 |**2022-04-04**|**Learning to solve Minimum Cost Multicuts efficiently using Edge-Weighted Graph Convolutional Neural Networks**|Steffen Jung et.al.|[2204.01366v1](http://arxiv.org/abs/2204.01366v1)|null|
 |**2022-04-04**|**MGRR-Net: Multi-level Graph Relational Reasoning Network for Facial Action Units Detection**|Xuri Ge et.al.|[2204.01349v1](http://arxiv.org/abs/2204.01349v1)|null|
-|**2022-04-04**|**GraFN: Semi-Supervised Node Classification on Graph with Few Labels via Non-Parametric Distribution Assignment**|Junseok Lee et.al.|[2204.01303v1](http://arxiv.org/abs/2204.01303v1)|**[link](https://github.com/ljs-student/grafn)**|
+|**2022-04-04**|**GraFN: Semi-Supervised Node Classification on Graph with Few Labels via Non-Parametric Distribution Assignment**|Junseok Lee et.al.|[2204.01303v2](http://arxiv.org/abs/2204.01303v2)|**[link](https://github.com/junseok0207/grafn)**|
 |**2022-04-04**|**Learning Dynamic Correlations in Spatiotemporal Graphs for Motion Prediction**|Jiajun Fu et.al.|[2204.01297v1](http://arxiv.org/abs/2204.01297v1)|null|
 |**2022-04-03**|**Question-Driven Graph Fusion Network For Visual Question Answering**|Yuxi Qian et.al.|[2204.00975v1](http://arxiv.org/abs/2204.00975v1)|null|
 |**2022-04-01**|**NC-DRE: Leveraging Non-entity Clue Information for Document-level Relation Extraction**|Liang Zhang et.al.|[2204.00255v1](http://arxiv.org/abs/2204.00255v1)|null|
