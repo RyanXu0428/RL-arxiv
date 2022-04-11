@@ -93,6 +93,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-08**|**Modern applications of machine learning in quantum sciences**|Anna Dawid et.al.|[2204.04198v1](http://arxiv.org/abs/2204.04198v1)|null|
+|**2022-04-08**|**Custom Sine Waves Are Enough for Imitation Learning of Bipedal Gaits with Different Styles**|Qi Wu et.al.|[2204.04157v1](http://arxiv.org/abs/2204.04157v1)|null|
+|**2022-04-08**|**The Complexity of Markov Equilibrium in Stochastic Games**|Constantinos Daskalakis et.al.|[2204.03991v1](http://arxiv.org/abs/2204.03991v1)|null|
+|**2022-04-08**|**Gradient dynamics in reinforcement learning**|Riccardo Fabbricatore et.al.|[2204.03973v1](http://arxiv.org/abs/2204.03973v1)|null|
+|**2022-04-08**|**Sim-to-Real Learning of Robust Compliant Bipedal Locomotion on Torque Sensor-Less Gear-Driven Humanoid**|Shimpei Masuda et.al.|[2204.03897v1](http://arxiv.org/abs/2204.03897v1)|null|
+|**2022-04-08**|**Data-Driven Evaluation of Training Action Space for Reinforcement Learning**|Rajat Ghosh et.al.|[2204.03840v1](http://arxiv.org/abs/2204.03840v1)|null|
+|**2022-04-07**|**Q-learning with online random forests**|Joosung Min et.al.|[2204.03771v1](http://arxiv.org/abs/2204.03771v1)|null|
+|**2022-04-07**|**Learning Purely Tactile In-Hand Manipulation with a Torque-Controlled Hand**|Leon Sievers et.al.|[2204.03698v1](http://arxiv.org/abs/2204.03698v1)|null|
+|**2022-04-07**|**Automatic Parameter Optimization Using Genetic Algorithm in Deep Reinforcement Learning for Robotic Manipulation Tasks**|Adarsh Sehgal et.al.|[2204.03656v1](http://arxiv.org/abs/2204.03656v1)|null|
 |**2022-04-07**|**Imitating, Fast and Slow: Robust learning from demonstrations via decision-time planning**|Carl Qi et.al.|[2204.03597v1](http://arxiv.org/abs/2204.03597v1)|null|
 |**2022-04-07**|**Temporal Alignment for History Representation in Reinforcement Learning**|Aleksandr Ermolov et.al.|[2204.03525v1](http://arxiv.org/abs/2204.03525v1)|**[link](https://github.com/htdt/tempal)**|
 |**2022-04-07**|**Distributed Reinforcement Learning for Robot Teams: A Review**|Yutong Wang et.al.|[2204.03516v1](http://arxiv.org/abs/2204.03516v1)|null|
@@ -1119,6 +1128,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-08**|**Spatial Transformer Network on Skeleton-based Gait Recognition**|Cun Zhang et.al.|[2204.03873v1](http://arxiv.org/abs/2204.03873v1)|null|
+|**2022-04-08**|**IA-GCN: Interactive Graph Convolutional Network for Recommendation**|Yinan Zhang et.al.|[2204.03827v1](http://arxiv.org/abs/2204.03827v1)|null|
 |**2022-04-07**|**Explicit Feature Interaction-aware Graph Neural Networks**|Minkyu Kim et.al.|[2204.03225v1](http://arxiv.org/abs/2204.03225v1)|null|
 |**2022-04-06**|**BiSyn-GAT+: Bi-Syntax Aware Graph Attention Network for Aspect-based Sentiment Analysis**|Shuo Liang et.al.|[2204.03117v1](http://arxiv.org/abs/2204.03117v1)|null|
 |**2022-04-06**|**Graph Neural Networks Designed for Different Graph Types: A Survey**|Josephine M. Thomas et.al.|[2204.03080v1](http://arxiv.org/abs/2204.03080v1)|null|
