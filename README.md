@@ -89,6 +89,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-11**|**Settling the Sample Complexity of Model-Based Offline Reinforcement Learning**|Gen Li et.al.|[2204.05275v1](http://arxiv.org/abs/2204.05275v1)|null|
+|**2022-04-11**|**Maximum entropy optimal density control of discrete-time linear systems and Schrödinger bridges**|Kaito Ito et.al.|[2204.05263v1](http://arxiv.org/abs/2204.05263v1)|null|
+|**2022-04-11**|**Automatically Learning Fallback Strategies with Model-Free Reinforcement Learning in Safety-Critical Driving Scenarios**|Ugo Lecerf et.al.|[2204.05196v1](http://arxiv.org/abs/2204.05196v1)|null|
+|**2022-04-11**|**Pareto Conditioned Networks**|Mathieu Reymond et.al.|[2204.05036v1](http://arxiv.org/abs/2204.05036v1)|null|
+|**2022-04-11**|**Exploring the Pareto front of multi-objective COVID-19 mitigation policies using reinforcement learning**|Mathieu Reymond et.al.|[2204.05027v1](http://arxiv.org/abs/2204.05027v1)|null|
+|**2022-04-11**|**gTLO: A Generalized and Non-linear Multi-Objective Deep Reinforcement Learning Approach**|Johannes Dornheim et.al.|[2204.04988v1](http://arxiv.org/abs/2204.04988v1)|null|
+|**2022-04-11**|**External control of a genetic toggle switch via Reinforcement Learning**|Sara Maria Brancato et.al.|[2204.04972v1](http://arxiv.org/abs/2204.04972v1)|null|
+|**2022-04-11**|**Reinforcement Re-ranking with 2D Grid-based Recommendation Panels**|Sirui Chen et.al.|[2204.04954v1](http://arxiv.org/abs/2204.04954v1)|null|
+|**2022-04-11**|**Evaluating Vision Transformer Methods for Deep Reinforcement Learning from Pixels**|Tianxin Tao et.al.|[2204.04905v1](http://arxiv.org/abs/2204.04905v1)|null|
+|**2022-04-11**|**JORLDY: a fully customizable open source framework for reinforcement learning**|Kyushik Min et.al.|[2204.04892v1](http://arxiv.org/abs/2204.04892v1)|null|
 |**2022-04-08**|**Modern applications of machine learning in quantum sciences**|Anna Dawid et.al.|[2204.04198v1](http://arxiv.org/abs/2204.04198v1)|null|
 |**2022-04-08**|**Custom Sine Waves Are Enough for Imitation Learning of Bipedal Gaits with Different Styles**|Qi Wu et.al.|[2204.04157v1](http://arxiv.org/abs/2204.04157v1)|null|
 |**2022-04-08**|**The Complexity of Markov Equilibrium in Stochastic Games**|Constantinos Daskalakis et.al.|[2204.03991v1](http://arxiv.org/abs/2204.03991v1)|null|
@@ -1124,6 +1134,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-11**|**Multi-view graph structure learning using subspace merging on Grassmann manifold**|Razieh Ghiasi et.al.|[2204.05258v1](http://arxiv.org/abs/2204.05258v1)|null|
+|**2022-04-11**|**T- Hop: Tensor representation of paths in graph convolutional networks**|Abdulrahman Ibraheem et.al.|[2204.04983v1](http://arxiv.org/abs/2204.04983v1)|null|
+|**2022-04-11**|**Semantic Segmentation for Point Cloud Scenes via Dilated Graph Feature Aggregation and Pyramid Decoders**|Yongqiang Mao et.al.|[2204.04944v1](http://arxiv.org/abs/2204.04944v1)|null|
+|**2022-04-11**|**How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision**|Dongkwan Kim et.al.|[2204.04879v1](http://arxiv.org/abs/2204.04879v1)|**[link](https://github.com/dongkwan-kim/SuperGAT)**|
+|**2022-04-10**|**Expressiveness and Approximation Properties of Graph Neural Networks**|Floris Geerts et.al.|[2204.04661v1](http://arxiv.org/abs/2204.04661v1)|null|
+|**2022-04-10**|**ME-GCN: Multi-dimensional Edge-Embedded Graph Convolutional Networks for Semi-supervised Text Classification**|Kunze Wang et.al.|[2204.04618v1](http://arxiv.org/abs/2204.04618v1)|null|
+|**2022-04-09**|**Unbiased Directed Object Attention Graph for Object Navigation**|Ronghao Dang et.al.|[2204.04421v1](http://arxiv.org/abs/2204.04421v1)|null|
 |**2022-04-08**|**Spatial Transformer Network on Skeleton-based Gait Recognition**|Cun Zhang et.al.|[2204.03873v1](http://arxiv.org/abs/2204.03873v1)|null|
 |**2022-04-08**|**IA-GCN: Interactive Graph Convolutional Network for Recommendation**|Yinan Zhang et.al.|[2204.03827v1](http://arxiv.org/abs/2204.03827v1)|null|
 |**2022-04-07**|**Explicit Feature Interaction-aware Graph Neural Networks**|Minkyu Kim et.al.|[2204.03225v1](http://arxiv.org/abs/2204.03225v1)|null|
